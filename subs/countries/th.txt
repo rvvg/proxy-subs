@@ -1,0 +1,15 @@
+#profile-title: base64:RnJlZSBWUE4gVEg=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-10-23 17:54 UTC, 5 proxies, best first
+vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.2:443?path=%2Fws&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=v2ray.simspeedup.com&type=ws&allowInsecure=0&sni=v2ray.simspeedup.com#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20ws%2Ftls%20104.16.10.2%3A443
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?security=reality&sni=www.kaidee.com&fp=chrome&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&sid=cbd39bea0805e2&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A56415
+vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.185:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=v2ray.simspeedup.com&type=ws&allowInsecure=0&sni=v2ray.simspeedup.com#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20ws%2Ftls%20104.16.10.185%3A443
+vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.2:443?security=tls&type=ws&path=/ws&host=v2ray.simspeedup.com&packetEncoding=xudp&sni=v2ray.simspeedup.com&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20ws%2Ftls%20104.16.10.2%3A443%20%232
+vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.111.193:443?path=/ws&security=tls&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&insecure=0&host=v2ray.simspeedup.com&type=ws&allowInsecure=0&sni=v2ray.simspeedup.com#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20ws%2Ftls%20104.16.111.193%3A443

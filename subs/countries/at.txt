@@ -1,0 +1,14 @@
+#profile-title: base64:RnJlZSBWUE4gQVQ=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-10-23 17:54 UTC, 4 proxies, best first
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruckneudorf%20vless%20ws%2Ftls%20110.172.148.33%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20vless%20ws%2Ftls%20110.172.148.33%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?host=snip.edgeoneai.cc.cd&path=%2F&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20vless%20ws%2Ftls%20130.78.185.4%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20vless%20ws%2Ftls%20130.78.185.4%3A443%20%232

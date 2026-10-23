@@ -1,0 +1,13 @@
+#profile-title: base64:RnJlZSBWUE4gTFY=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-10-23 17:54 UTC, 3 proxies, best first
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv2.himoy.space:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=AoPku9i0xSD2cCzJdPcUSSft8c_RkIZbsbP888VO938&sid=287b3d62899669d7&sni=lv2.himoy.space#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lv2.himoy.space%3A443
+vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@lites.3apes.online:443?security=reality&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=lites.3apes.online#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lites.3apes.online%3A443
+vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@185.81.129.197:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=lites.3apes.online#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.81.129.197%3A443
