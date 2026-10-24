@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,15 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-23 17:54 UTC, 11 proxies, best first
+# updated 2026-10-24 05:07 UTC, 10 proxies, best first
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@85.237.207.101:443?security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Zhongli%20vless%20ws%2Ftls%2085.237.207.101%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@85.237.207.101:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Zhongli%20vless%20ws%2Ftls%2085.237.207.101%3A443%20%232
 vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20hinet1.2yly.com%3A24215
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@61.230.160.34:24215?encryption=none&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%2061.230.160.34%3A24215
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@61.230.160.34:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%2061.230.160.34%3A24215%20%232
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?fp=ios&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20hinet1.2yly.com%3A24215%20%232
 vless://06e177f7-240d-4687-bd85-235505801a5e@59.125.69.24:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2059.125.69.24%3A443
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@61.230.160.34:24215?encryption=none&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%2061.230.160.34%3A24215
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?fp=safari&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20hinet1.2yly.com%3A24215%20%233
 vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.54%3A443
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.78%3A443
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.78%3A443%20%232
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20hinet1.2yly.com%3A24215%20%232
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?fp=ios&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20hinet1.2yly.com%3A24215%20%233
-hysteria2://2cc3c129-34b6-4af7-ba33-7b8fca4363ea@tw40.344211.cc:8080/?insecure=1&sni=localhost#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20hy2%20hysteria%2Ftls%20tw40.344211.cc%3A8080

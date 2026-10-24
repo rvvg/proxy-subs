@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-23 17:54 UTC, 7 proxies, best first
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=www.apple.com&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&sni=www.apple.com&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528%20%232
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp&fp=firefox#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528%20%233
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp&fp=safari#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528%20%234
-vless://36e89875-9c53-482b-bc41-d3890e9da176@51.161.204.244:443?flow=xtls-rprx-vision&fp=chrome&pbk=gCAazs5uxNuMZIxfDdw8wPE0nwKY4QfBfBkQveKAkEk&security=reality&sid=0ad08b47f498efd2&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%2051.161.204.244%3A443
+# updated 2026-10-24 05:07 UTC, 7 proxies, best first
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@88.216.211.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=au1.accessboy.com&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%2088.216.211.130%3A443
 hysteria2://a34f3990b69f44bfa0d32385@137.23.3.91:20000?obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385&sni=rmgyvpn.rest#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20hy2%20hysteria%2Ftls%2Bsalamander%20137.23.3.91%3A20000
-hysteria2://a34f3990b69f44bfa0d32385@137.23.3.91:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385&mport=20000-30000#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20hy2%20hysteria%2Ftls%2Bsalamander%2Bhop%20137.23.3.91%3A20000
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp&fp=safari#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&headerType=none&host=www.apple.com&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp&fp=firefox#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528%20%232
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=www.apple.com&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528%20%233
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528%20%234
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp&fp=ios#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528%20%235

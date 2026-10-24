@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE0LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,13 +7,18 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-23 17:54 UTC, 9 proxies, best first
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.27%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.99%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.36%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.54%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.81%3A19999
+# updated 2026-10-24 05:07 UTC, 14 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.72%3A19999
-vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&sid=cd6065902eea7a02&packetEncoding=xudp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Freality%2082.118.16.187%3A443
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.27%3A19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.81%3A19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.99%3A19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.18%3A19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.45%3A19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.36%3A19999
+vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@109.237.98.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sni=ki6fhbo3i.cdnprime.best&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Freality%20109.237.98.52%3A443
+vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@85.137.175.214:443?flow=xtls-rprx-vision&fp=firefox&pbk=Et_qbCjAgw1NFNOw_49PLmnBuEYCxCrTwbL57wJRAF8&security=reality&sid=22be958ca3b798e2&sni=www.leaseweb.com&type=raw#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Frosinone%20vless%20raw%2Freality%2085.137.175.214%3A443
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.54%3A19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.90%3A19999
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@179.255.190.43:8443?fp=firefox&path=%2Fassets&security=tls&sni=itly.yandex-api.store&type=ws#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Erba%20vless%20ws%2Ftls%20179.255.190.43%3A8443
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@itly.yandex-api.store:8443?encryption=none&type=ws&security=tls&sni=itly.yandex-api.store&fp=firefox&alpn=http/1.1&path=/assets#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Erba%20vless%20ws%2Ftls%20itly.yandex-api.store%3A8443
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@itly.yandex-api.store:8443?encryption=none&type=ws&security=tls&sni=itly.yandex-api.store&alpn=http%2F1.1&path=%2Fassets&fp=qq#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Erba%20vless%20ws%2Ftls%20itly.yandex-api.store%3A8443%20%232

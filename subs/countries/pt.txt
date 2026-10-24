@@ -1,0 +1,13 @@
+#profile-title: base64:RnJlZSBWUE4gUFQ=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-10-24 05:07 UTC, 3 proxies, best first
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@185.231.233.139:443?flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=pt1.accessboy.com&type=raw#%F0%9F%87%B5%F0%9F%87%B9%20PT%20Lisbon%20vless%20raw%2Freality%20185.231.233.139%3A443
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@pt1.accessboy.com:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=pt1.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&fp=firefox&spx=%2F#%F0%9F%87%B5%F0%9F%87%B9%20PT%20Lisbon%20vless%20raw%2Freality%20pt1.accessboy.com%3A443
+vless://7K8ckQ9Odjv5ya@185.138.89.162:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.heise.de&fp=chrome&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&sid=8a2a4eb0&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B9%20PT%20Viana%20do%20Castelo%20vless%20raw%2Freality%20185.138.89.162%3A443

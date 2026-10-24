@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gUk8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,15 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-23 17:54 UTC, 10 proxies, best first
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.48:2096?type=xhttp&security=reality&fp=chrome&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&sid=3649e084544949f1&sni=www.apple.com&path=/apple-xh&mode=auto#%F0%9F%87%B7%F0%9F%87%B4%20RO%20vless%20xhttp%2Freality%20163.245.41.48%3A2096
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.46.31.118:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Voluntari%20vless%20ws%2Ftls%20154.46.31.118%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.46.31.118:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Voluntari%20vless%20ws%2Ftls%20154.46.31.118%3A443%20%232
+# updated 2026-10-24 05:07 UTC, 11 proxies, best first
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.49:2096?type=xhttp&security=reality&fp=chrome&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&sid=3649e084544949f1&sni=www.apple.com&path=%2Fapple-xh&mode=auto#%F0%9F%87%B7%F0%9F%87%B4%20RO%20vless%20xhttp%2Freality%20163.245.41.49%3A2096
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.49:2096?type=xhttp&security=reality&fp=firefox&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&sid=3649e084544949f1&sni=www.apple.com&path=/apple-xh#%F0%9F%87%B7%F0%9F%87%B4%20RO%20vless%20xhttp%2Freality%20163.245.41.49%3A2096%20%232
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.48:2096?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&sid=3649e084544949f1&type=xhttp&path=%2Fapple-xh&mode=auto#%F0%9F%87%B7%F0%9F%87%B4%20RO%20vless%20xhttp%2Freality%20163.245.41.48%3A2096
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@185.126.237.19:443?flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=ro1.accessboy.com&type=raw#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20raw%2Freality%20185.126.237.19%3A443
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@ro1.accessboy.com:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=ro1.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&fp=qq&spx=%2F#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20raw%2Freality%20ro1.accessboy.com%3A443
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@81.181.166.197:443?security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Voluntari%20vless%20ws%2Ftls%2081.181.166.197%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@81.181.166.197:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20ws%2Ftls%2081.181.166.197%3A443
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20hy2%20hysteria%2Ftls%20185.156.44.99%3A443
 hy2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=vk.com#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20hy2%20hysteria%2Ftls%20185.156.44.99%3A443%20%232
-hy2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20hy2%20hysteria%2Ftls%20185.156.44.99%3A443%20%233
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20ss%20194.68.44.42%3A64546
-hysteria2://gf1:gfhysteria2024@185.156.44.99:443?insecure=1&sni=whatsapp.com#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20hy2%20hysteria%2Ftls%20185.156.44.99%3A443%20%234
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.48:2096?type=xhttp&security=reality&fp=firefox&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&sid=3649e084544949f1&sni=www.apple.com&path=%2Fapple-xh#%F0%9F%87%B7%F0%9F%87%B4%20RO%20vless%20xhttp%2Freality%20163.245.41.48%3A2096%20%232
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@ro1.accessboy.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=ro1.accessboy.com&spx=/&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20raw%2Freality%20ro1.accessboy.com%3A443%20%232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWl9CRUF3c3FFdEhDRXh0SXRJck9SRk9kQXd4aWMwRw==@irnamh.g44mozgh.ir:1001#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20ss%20irnamh.g44mozgh.ir%3A1001

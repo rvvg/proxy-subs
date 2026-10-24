@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gR1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-23 17:54 UTC, 1 proxies, best first
-vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&sid=94acb54627612d43&sni=www.cloudflare.com#%F0%9F%87%AC%F0%9F%87%B7%20GR%20vless%20raw%2Freality%2085.90.197.220%3A443
+# updated 2026-10-24 05:07 UTC, 2 proxies, best first
+vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@gw1.securecdn-app.xyz:24096?encryption=none&type=xhttp&security=tls&sni=ck5.securecdn-app.xyz&alpn=h2%2Chttp%2F1.1&path=%2Fassets%2Fv1&host=ck5.securecdn-app.xyz&mode=packet-up&fp=chrome#%F0%9F%87%AC%F0%9F%87%B7%20GR%20Thessaloniki%20vless%20xhttp%2Ftls%20gw1.securecdn-app.xyz%3A24096
+vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@gw1.securecdn-app.xyz:24096?encryption=none&type=xhttp&security=tls&sni=ck5.securecdn-app.xyz&alpn=h2%2Chttp%2F1.1&path=%2Fassets%2Fv1&host=ck5.securecdn-app.xyz&mode=packet-up&fp=safari#%F0%9F%87%AC%F0%9F%87%B7%20GR%20Thessaloniki%20vless%20xhttp%2Ftls%20gw1.securecdn-app.xyz%3A24096%20%232

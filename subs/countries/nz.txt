@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTlo=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-23 17:54 UTC, 3 proxies, best first
+# updated 2026-10-24 05:07 UTC, 4 proxies, best first
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20Manukau%20vless%20ws%2Ftls%20185.71.230.237%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&fp=chrome#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20Manukau%20vless%20ws%2Ftls%20185.71.230.237%3A443%20%232
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20Manukau%20vless%20ws%2Ftls%20185.71.230.237%3A443%20%233
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20Manukau%20vless%20ws%2Ftls%20185.71.230.237%3A443%20%232
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20Auckland%20vless%20ws%2Ftls%20185.71.230.237%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&fp=chrome#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20Auckland%20vless%20ws%2Ftls%20185.71.230.237%3A443%20%232

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0g=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjMgMTc6NTQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-23 17:54 UTC, 2 proxies, best first
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.59.219.220:443?security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%202.59.219.220%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@91.245.225.69:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20vless%20ws%2Ftls%2091.245.225.69%3A443
+# updated 2026-10-24 05:07 UTC, 7 proxies, best first
+vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@94.228.175.160:443?flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sni=pl8ksnn3q2mw.edgepop.lol&type=raw#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%2094.228.175.160%3A443
+vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@109.237.98.230:443?flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sid=6ba85179e30d4fc2&sni=pb9vimts73m.edgestack.best&type=raw#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%20109.237.98.230%3A443
+vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@94.228.175.156:443?flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sni=pl8ksnn3q2mw.edgepop.lol&type=raw#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%2094.228.175.156%3A443
+vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@94.228.175.155:443?flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sid=6ba85179e30d4fc2&sni=pl8ksnn3q2mw.edgepop.lol&type=raw#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%2094.228.175.155%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.59.219.220:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%202.59.219.220%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.59.219.220:443?security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%202.59.219.220%3A443%20%232
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@91.245.225.69:443?security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%2091.245.225.69%3A443
