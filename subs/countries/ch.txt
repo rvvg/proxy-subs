@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0g=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDg6NDQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDk6NTEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-24 08:44 UTC, 4 proxies, best first
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.59.219.220:443?security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%202.59.219.220%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.59.219.220:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%202.59.219.220%3A443%20%232
-vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@151.241.217.160:443?flow=xtls-rprx-vision&security=reality&sni=lstu.ru&fp=firefox&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&type=raw#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%20151.241.217.160%3A443
+# updated 2026-10-24 09:51 UTC, 4 proxies, best first
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.59.219.220:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%202.59.219.220%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.59.219.220:443?security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%202.59.219.220%3A443%20%232
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@91.245.225.69:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%2091.245.225.69%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@91.245.225.69:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Winterthur%20vless%20ws%2Ftls%2091.245.225.69%3A443%20%232
