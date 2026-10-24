@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDg6NDQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-24 05:07 UTC, 4 proxies, best first
-vless://caf3d607-95c9-4ea0-98b5-864027056ba0@ie1.accessboy.com:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=ie1.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&fp=firefox&spx=%2F#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20raw%2Freality%20ie1.accessboy.com%3A443
+# updated 2026-10-24 08:44 UTC, 4 proxies, best first
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6ogSUUgRHVibGluIHZtZXNzIHJhdy9ub25lIDU0LjIyOS4xNTEuOTc6NTkyMzYiLCAiYWRkIjogIjU0LjIyOS4xNTEuOTciLCAicG9ydCI6IDU5MjM2LCAiaWQiOiAiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJwYXRoIjogIi8ifQ==
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.1.221.39:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20ws%2Ftls%20166.1.221.39%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.1.221.39:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20ws%2Ftls%20166.1.221.39%3A443%20%232
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.141.234.138:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20ws%2Ftls%2045.141.234.138%3A443
-vless://caf3d607-95c9-4ea0-98b5-864027056ba0@46.16.131.178:443?flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=ie1.accessboy.com&type=raw#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20raw%2Freality%2046.16.131.178%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.1.221.39:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20ws%2Ftls%20166.1.221.39%3A443

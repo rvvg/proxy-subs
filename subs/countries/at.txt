@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDU6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMDg6NDQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,16 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-24 05:07 UTC, 12 proxies, best first
-vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@45.151.101.130:443?flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sni=v52qoz6by607.contentdock.website&type=raw#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%2045.151.101.130%3A443
-vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@201.51.5.225:443?security=reality&encryption=none&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=rvsczgic.assetcache.click#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20201.51.5.225%3A443
-vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@201.51.5.225:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=rvsczgic.assetcache.click&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&fp=firefox&spx=%2F#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20201.51.5.225%3A443%20%232
-vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@45.151.101.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sid=6ba85179e30d4fc2&sni=exoo5856.contentdock.website&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%2045.151.101.130%3A443%20%232
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20vless%20ws%2Ftls%20110.172.148.33%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruckneudorf%20vless%20ws%2Ftls%20110.172.148.33%3A443
-vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@193.223.104.49:443?flow=xtls-rprx-vision&security=reality&sni=at.lstu.ru&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20193.223.104.49%3A443
-vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@193.223.104.49:443?flow=xtls-rprx-vision&security=reality&sni=at.lstu.ru&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20193.223.104.49%3A443%20%232
-vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@193.160.140.49:443?flow=xtls-rprx-vision&security=reality&sni=at.lstu.ru&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20193.160.140.49%3A443
-vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@193.160.140.49:443?flow=xtls-rprx-vision&security=reality&sni=at.lstu.ru&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&fp=edge#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20193.160.140.49%3A443%20%232
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruckneudorf%20vless%20ws%2Ftls%20130.78.185.4%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20vless%20ws%2Ftls%20130.78.185.4%3A443
+# updated 2026-10-24 08:44 UTC, 5 proxies, best first
+vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@152.53.102.127:443?flow=xtls-rprx-vision&security=reality&sni=lstu.ru&fp=firefox&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&type=raw#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20152.53.102.127%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruckneudorf%20vless%20ws%2Ftls%20110.172.148.33%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20vless%20ws%2Ftls%20110.172.148.33%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20vless%20ws%2Ftls%20130.78.185.4%3A443
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?type=ws&security=tls&path=/&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20vless%20ws%2Ftls%20130.78.185.4%3A443%20%232
