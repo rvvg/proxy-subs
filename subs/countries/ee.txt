@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMTU6NDkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMjE6NTEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-24 15:49 UTC, 7 proxies, best first
-vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@est.luxes.network:8443?encryption=none&type=ws&security=tls&sni=est.luxes.network&fp=firefox&alpn=http/1.1&path=/assets#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20est.luxes.network%3A8443
+# updated 2026-10-24 21:51 UTC, 8 proxies, best first
+vless://3a4f6204-472c-4c69-b7be-cca84de97148@194.26.229.112:27443?security=reality&sni=static.polina.mom&fp=firefox&pbk=zIF5SLjmd3gzvGPhEBKjqLv8_-7MOHMpJciVEehL0C8&type=grpc&serviceName=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20194.26.229.112%3A27443
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@ee1.mycloud1.org:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&sni=ee1.mycloud1.org#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee1.mycloud1.org%3A443
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@ee1.mycloud1.org:443?encryption=none&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=ee1.mycloud1.org&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee1.mycloud1.org%3A443%20%232
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@ee1.mycloud1.org:443?encryption=none&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=ee1.mycloud1.org&type=tcp&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee1.mycloud1.org%3A443%20%233
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@ee1.mycloud1.org:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=ee1.mycloud1.org&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee1.mycloud1.org%3A443%20%234
 vless://605dea9b-b485-45c9-af9b-cc2b0195023c@194.26.141.223:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&sni=ee1.mycloud1.org#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20194.26.141.223%3A443
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@tlokexcm.himoy.space:443?encryption=none&flow=xtls-rprx-vision&pbk=Pb37t99NiJqm-lsTi4tucPFqRXIsek-5G5dqjIqVfxE&security=reality&sid=15c87d0b99c0d132&sni=tlokexcm.himoy.space&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20tlokexcm.himoy.space%3A443
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@31.59.218.43:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Pb37t99NiJqm-lsTi4tucPFqRXIsek-5G5dqjIqVfxE&sid=15c87d0b99c0d132&sni=tlokexcm.himoy.space#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2031.59.218.43%3A443
-vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@94.183.167.93:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=play.3apes.online#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2094.183.167.93%3A443
 vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@13.143.239.119:8443?encryption=none&type=xhttp&security=reality&sni=www.transip.nl&pbk=kYbLeoF13TKNPtlYwRsAqFQR3l7v6NMe6ydARMIfEC0&sid=7230e3b3f137543c&fp=firefox&spx=/&path=/x&mode=packet-up#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%2013.143.239.119%3A8443
-vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@13.143.239.119:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.transip.nl&pbk=kYbLeoF13TKNPtlYwRsAqFQR3l7v6NMe6ydARMIfEC0&sid=7230e3b3f137543c&allowInsecure=1#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2013.143.239.119%3A443
+vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@13.143.239.119:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kYbLeoF13TKNPtlYwRsAqFQR3l7v6NMe6ydARMIfEC0&sid=7230e3b3f137543c&sni=www.transip.nl#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2013.143.239.119%3A443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMTU6NDkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE2LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMjE6NTEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,20 +7,13 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-24 15:49 UTC, 16 proxies, best first
-hy2://maintell@152.70.237.123:2053?insecure=1&sni=152.70.237.123#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
+# updated 2026-10-24 21:51 UTC, 9 proxies, best first
 hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@130.162.134.218:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%2Bsalamander%20130.162.134.218%3A20000
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=132.226.226.189#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20132.226.226.189%3A50160
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20132.226.226.189%3A50160%20%232
+hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
+hy2://maintell@152.70.237.123:2053?insecure=1&sni=152.70.237.123#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cgS1IgU2VvdWwgdm1lc3MgcmF3L25vbmUgMjE3LjE0Mi4xMzguNjE6ODAiLCAiYWRkIjogIjIxNy4xNDIuMTM4LjYxIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYWMxYjkzM2QtYWZmZi00NDg3LTkzZWYtZjU3MTMwYTU1ZGZmIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgInRscyI6ICIiLCAiYWxwbiI6ICIiLCAicGF0aCI6ICIvIn0=
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&fp=edge&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Incheon%20vless%20raw%2Freality%203.39.4.109%3A13672
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=raw#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Incheon%20vless%20raw%2Freality%203.39.4.109%3A18967
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@158.247.220.241:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20158.247.220.241%3A443
-trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20154.90.62.70%3A56127
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@158.247.210.172:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20158.247.210.172%3A443
-trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni=154.90.62.70&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20154.90.62.70%3A56127%20%232
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.164.56.22:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20141.164.56.22%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@131.186.26.94:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20131.186.26.94%3A443
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@131.186.26.94:443?security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20131.186.26.94%3A443%20%232
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.180.151.244:8443#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Incheon%20ss%2054.180.151.244%3A8443
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=qq&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Incheon%20vless%20raw%2Freality%203.39.4.109%3A18967
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20tjhg.m2k699.com%3A24999
+trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni=154.90.62.70&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20154.90.62.70%3A56127
