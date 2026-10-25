@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMDM6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMDk6NDUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-25 03:37 UTC, 5 proxies, best first
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@138.124.63.83:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=t8XaUJANWO5ig79J71WnrpMWJYJ4IuAg3lL49vmSljA&sid=ebe425d08df5cb7b&sni=lv6.himoy.space#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20138.124.63.83%3A443
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv3.himoy.space:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=FvdI1t5lHFIH_ZDtiL_Ajy0g4qNeMhQH00HXuchESAw&sid=a6b13b7e952579e5&sni=lv3.himoy.space#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lv3.himoy.space%3A443
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@138.124.63.59:443?flow=xtls-rprx-vision&fp=firefox&pbk=FvdI1t5lHFIH_ZDtiL_Ajy0g4qNeMhQH00HXuchESAw&security=reality&sid=a6b13b7e952579e5&sni=lv3.himoy.space&type=raw#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20138.124.63.59%3A443
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@138.124.63.84:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=AoPku9i0xSD2cCzJdPcUSSft8c_RkIZbsbP888VO938&sid=287b3d62899669d7&sni=lv2.himoy.space#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20138.124.63.84%3A443
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@lv.peregrine-sub.net:1443?flow=xtls-rprx-vision&type=raw&security=reality&sni=lv.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lv.peregrine-sub.net%3A1443
+# updated 2026-10-25 09:45 UTC, 2 proxies, best first
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@lv.peregrine-sub.net:1443?type=tcp&headerType=none&security=reality&encryption=none&sni=lv.peregrine-sub.net&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lv.peregrine-sub.net%3A1443
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@31.56.177.212:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&security=reality&sid=7b6803a79bba5c52&sni=lv.peregrine-sub.net&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2031.56.177.212%3A1443
