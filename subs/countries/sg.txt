@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0c=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjQgMjE6NTEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMDM6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,26 +7,16 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-24 21:51 UTC, 22 proxies, best first
+# updated 2026-10-25 03:37 UTC, 12 proxies, best first
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
 hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%233
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%234
+hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%234
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@singanew.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=Gze5BmP_4HTNuAQLz54-ecTkHkB0fElV-aGa1dPm6FQ&sni=singanew.click#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20singanew.click%3A443
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20139.180.146.200%3A8886
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20139.180.146.200%3A8886%20%232
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%208.35.211.242%3A443
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?cs=semi-python&path=%2Fvlessws&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=vpn.cintaku.qzz.io&fp=unsafe&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%208.35.211.242%3A443%20%232
 vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=raw&packetEncoding=xudp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20sg2-8sb.6121999.dpdns.org%3A19825
-vless://b054e267-e2d8-4ca2-b95e-79ca5cb7cf9a@support.zoom.us:443?security=tls&type=ws&path=%2F&host=cloud.ghostdev.lk&sni=cloud.ghostdev.lk&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20support.zoom.us%3A443
-vless://b054e267-e2d8-4ca2-b95e-79ca5cb7cf9a@support.zoom.us:443?security=tls&type=ws&path=%2F&host=cloud.ghostdev.lk&sni=cloud.ghostdev.lk&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20support.zoom.us%3A443%20%232
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjxjp.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20tjxjp.m2k699.com%3A24999
-vless://b054e267-e2d8-4ca2-b95e-79ca5cb7cf9a@support.zoom.us:443?security=tls&type=ws&path=%2F&host=cloud.ghostdev.lk&sni=cloud.ghostdev.lk&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20support.zoom.us%3A443%20%233
-vless://b054e267-e2d8-4ca2-b95e-79ca5cb7cf9a@support.zoom.us:443?security=tls&type=ws&path=%2F&host=cloud.ghostdev.lk&sni=cloud.ghostdev.lk&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20support.zoom.us%3A443%20%234
-vless://b054e267-e2d8-4ca2-b95e-79ca5cb7cf9a@support.zoom.us:443?host=cloud.ghostdev.lk&security=tls&sni=cloud.ghostdev.lk&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20support.zoom.us%3A443%20%235
-vless://b054e267-e2d8-4ca2-b95e-79ca5cb7cf9a@support.zoom.us:443?security=tls&type=ws&path=%2F&host=cloud.ghostdev.lk&sni=cloud.ghostdev.lk&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20support.zoom.us%3A443%20%236
+vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?flow=xtls-rprx-vision&fp=edge&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&security=reality&sid=7205d9079521832c&sni=www.intel.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%2054.251.9.130%3A24146
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=firefox&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&sid=28f5c1f8f98a&type=tcp&headerType=none&host=www.lamer.com.sg#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A46105
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%203.0.111.82%3A10574
-vless://b054e267-e2d8-4ca2-b95e-79ca5cb7cf9a@support.zoom.us:443?path=%2F&security=tls&alpn=h2&host=cloud.ghostdev.lk&fp=chrome&type=ws&sni=cloud.ghostdev.lk#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20support.zoom.us%3A443%20%237
-vless://b054e267-e2d8-4ca2-b95e-79ca5cb7cf9a@support.zoom.us:443?security=tls&type=ws&path=%2F&host=cloud.ghostdev.lk&sni=cloud.ghostdev.lk&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20support.zoom.us%3A443%20%238
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@singanew.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=Gze5BmP_4HTNuAQLz54-ecTkHkB0fElV-aGa1dPm6FQ&sni=singanew.click#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20singanew.click%3A443
-vless://b054e267-e2d8-4ca2-b95e-79ca5cb7cf9a@support.zoom.us:443?security=tls&type=ws&path=%2F&host=cloud.ghostdev.lk&sni=cloud.ghostdev.lk&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20support.zoom.us%3A443%20%239
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@176.97.117.18:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Gze5BmP_4HTNuAQLz54-ecTkHkB0fElV-aGa1dPm6FQ&sni=singanew.click#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20176.97.117.18%3A443
