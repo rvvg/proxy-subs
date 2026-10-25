@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMTc6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,13 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-25 17:07 UTC, 3 proxies, best first
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&mode=gun&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20ss.ll0ll.vip%3A2096
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@213.176.19.43:2096?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20213.176.19.43%3A2096
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&mode=gun&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20ss.ll0ll.vip%3A2096%20%232
+# updated 2026-10-25 21:32 UTC, 9 proxies, best first
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.19.127:8443?encryption=none&fp=firefox&host=au5.pad-sservice.lat&path=/AU5W&security=tls&sni=au5.pad-sservice.lat&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%2062.83.19.127%3A8443
+hysteria2://krdyzYNnXFQqyPtjiXw9lQ@68.210.96.82:8443?sni=www.bing.com&insecure=1#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20hy2%20hysteria%2Ftls%2068.210.96.82%3A8443
+vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&mode=gun&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20ss.ll0ll.vip%3A2096
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.41.69:8443?encryption=none&fp=firefox&host=au6.pad-sservice.lat&path=/AU6W&security=tls&sni=au6.pad-sservice.lat&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%2062.83.41.69%3A8443
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@152.53.1.40:8443?encryption=none&fp=firefox&host=au4.pad-service.com&path=/A14U&security=tls&sni=au4.pad-sservice.lat&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%20152.53.1.40%3A8443
+vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@213.176.19.58:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20213.176.19.58%3A2096
+vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@213.176.19.58:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=qq#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20213.176.19.58%3A2096%20%232
+vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?type=grpc&security=reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&serviceName=vless-grpc-reality#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20ss.ll0ll.vip%3A2096%20%232
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@89.58.20.210:8443?encryption=none&fp=firefox&host=au2.pad-service.com&path=/A11U&security=tls&sni=au2.pad-sservice.lat&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%2089.58.20.210%3A8443

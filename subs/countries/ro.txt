@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gUk8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMTc6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-25 17:07 UTC, 2 proxies, best first
+# updated 2026-10-25 21:32 UTC, 2 proxies, best first
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20hy2%20hysteria%2Ftls%20185.156.44.99%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20ss%20194.68.44.42%3A64546
