@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE1LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMTY6MDggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,19 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 09:37 UTC, 15 proxies, best first
-vless://a045fc16-df85-4714-b781-537f13c18ee3@64.188.78.88:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=est11.sonicservice.digital#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2064.188.78.88%3A443
-vless://a39ef2cc-1fda-4be0-b1b4-4271c77a242b@132.243.74.97:8443?security=reality&encryption=none&pbk=mSwyh5bA3twI-QGH4z-tyV75fKN6Zwl43kduMv5sXDc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=step.fast-brooklyn.ru&sid=ba86eee322fe3e12#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.97%3A8443
-hysteria2://2b0e5676-fb62-4bf0-9607-6e7818421e8e@179.254.126.223:7443?sni=ee2.pad-sservice.lat#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%20179.254.126.223%3A7443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@ee1.pad-sservice.lat:8443?type=ws&security=tls&sni=ee1.pad-sservice.lat&fp=firefox&alpn=http%2F1.1&path=%2FEE1W&host=ee1.pad-service.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20ee1.pad-sservice.lat%3A8443
-hysteria2://2b0e5676-fb62-4bf0-9607-6e7818421e8e@ee2.pad-sservice.lat:7443?sni=ee2.pad-sservice.lat#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%20ee2.pad-sservice.lat%3A7443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@13.143.239.69:8443?encryption=none&host=ee4.pad-sservice.lat&path=%2FEE4W&security=tls&sni=ee4.pad-sservice.lat&type=ws&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%2013.143.239.69%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@13.143.239.69:8443?encryption=none&fp=firefox&host=ee4.pad-sservice.lat&path=/EE4W&security=tls&sni=ee4.pad-sservice.lat&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%2013.143.239.69%3A8443%20%232
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@ee2.pad-sservice.lat:8443?alpn=http%2F1.1&encryption=none&host=ee2.pad-service.com&path=%2FEE2W&security=tls&sni=ee2.pad-sservice.lat&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20ee2.pad-sservice.lat%3A8443
+# updated 2026-10-26 16:08 UTC, 8 proxies, best first
+vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=&host=132.243.65.82&mode=auto&path=%2F&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20132.243.65.82%3A443
+vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?mode=auto&path=%2F%3F%40MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&type=xhttp&sni=player.vimeo.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20132.243.65.82%3A443%20%232
+vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?mode=auto&security=reality&encryption=none&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&type=xhttp&sni=player.vimeo.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20132.243.65.82%3A443%20%233
+vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@185.178.208.167:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=dropstyle.lol&path=%2Fplayer%2Fmetrics%2F97662863db53%2F&security=tls&sni=dropstyle.lol&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20185.178.208.167%3A443
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@179.254.126.150:8443?encryption=none&fp=firefox&host=ee3.pad-service.com&path=/EE3W&security=tls&sni=ee3.pad-sservice.lat&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20179.254.126.150%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@ee2.pad-sservice.lat:8443?encryption=none&type=ws&security=tls&sni=ee2.pad-sservice.lat&fp=firefox&alpn=http/1.1&path=/EE2W&host=ee2.pad-service.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20ee2.pad-sservice.lat%3A8443%20%232
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@ee3.pad-sservice.lat:8443?encryption=none&type=ws&security=tls&sni=ee3.pad-sservice.lat&fp=firefox&alpn=http/1.1&path=/EE3W&host=ee3.pad-service.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20ee3.pad-sservice.lat%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@13.143.239.69:8443?encryption=none&host=ee4.pad-sservice.lat&path=%2FEE4W&security=tls&sni=ee4.pad-sservice.lat&type=ws&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%2013.143.239.69%3A8443%20%233
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@179.254.126.223:8443?encryption=none&security=tls&sni=ee2.pad-sservice.lat&fp=firefox&type=ws&host=ee2.pad-service.com&path=%2FEE2W#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20179.254.126.223%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@212.87.190.131:8443?encryption=none&host=ee1.pad-service.com&path=%2FEE1W&security=tls&sni=ee1.pad-sservice.lat&type=ws&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20212.87.190.131%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@212.87.190.131:8443?encryption=none&fp=firefox&host=ee1.pad-service.com&path=/EE1W&security=tls&sni=ee1.pad-sservice.lat&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20212.87.190.131%3A8443%20%232
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&type=tcp&sni=www.samsung.com&sid=a73f0410d728c823&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&encryption=none&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee.h1cloud.net%3A25895
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none&host=ee.h1cloud.net&path=%2F&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee.h1cloud.net%3A25895%20%232
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none&host=ee.h1cloud.net&path=%2F&fp=edge#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee.h1cloud.net%3A25895%20%233

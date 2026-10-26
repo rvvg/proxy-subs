@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gUk8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMTY6MDggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 09:37 UTC, 4 proxies, best first
-vless://1506f2e0-ae12-4718-b5ab-c5609161300e@45.13.151.11:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&fp=firefox&type=tcp&sni=eu14.cdn77.icu&sid=1ed136481e0ede74#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bacau%20vless%20raw%2Freality%2045.13.151.11%3A443
-vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@194.180.191.249:443?security=tls&type=ws&path=%2F&host=shin-ra.ccwu.cc&packetEncoding=xudp&sni=shin-ra.ccwu.cc&fp=unsafe&encryption=none#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20ws%2Ftls%20194.180.191.249%3A443
+# updated 2026-10-26 16:08 UTC, 1 proxies, best first
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20ss%20194.68.44.42%3A64546
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20hy2%20hysteria%2Ftls%20185.156.44.99%3A443

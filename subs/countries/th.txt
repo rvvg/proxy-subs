@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVEg=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMTY6MDggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 09:37 UTC, 4 proxies, best first
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?encryption=none&security=tls&type=tcp&sni=th001.zestapp778.com&fp=chrome#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Ftls%20th001.zestapp778.com%3A22222
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.254.50:22222?type=raw&security=tls&fp=firefox&sni=th001.zestapp778.com#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Ftls%2038.60.254.50%3A22222
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.254.50:22222?security=tls&encryption=none&headerType=&type=tcp&sni=th001.zestapp778.com#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Ftls%2038.60.254.50%3A22222%20%232
-ss://YWVzLTI1Ni1nY206cHJEak5kMUlMQXVNWVJoZ1JMK3hjQldYY2ZIOWQ4OW9nWlR4YXlxb21MQT0@212.80.213.219:52351#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Mueang%20Nonthaburi%20ss%20212.80.213.219%3A52351
+# updated 2026-10-26 16:08 UTC, 7 proxies, best first
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.254.50:22222?security=tls&encryption=none&headerType=&type=tcp&sni=th001.zestapp778.com#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Ftls%2038.60.254.50%3A22222
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.254.50:22222?encryption=none&security=tls&sni=th001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Ftls%2038.60.254.50%3A22222%20%232
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?security=tls&fp=firefox&sni=th001.zestapp778.com#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Ftls%20th001.zestapp778.com%3A22222
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?encryption=none&security=tls&type=tcp&sni=th001.zestapp778.com&fp=chrome#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Ftls%20th001.zestapp778.com%3A22222%20%232
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?security=tls&sni=th001.zestapp778.com&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Ftls%20th001.zestapp778.com%3A22222%20%233
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.254.50:22222?type=raw&security=tls&fp=firefox&sni=th001.zestapp778.com#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Ftls%2038.60.254.50%3A22222%20%233
+vless://3c52e091-6714-4915-949f-2149fe69951b@188.114.98.0:443?encryption=none&security=tls&sni=v2ray.simspeedup.com&fp=chrome&alpn=http%2F1.1&type=ws&host=v2ray.simspeedup.com&path=%2Fws#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20ws%2Ftls%20188.114.98.0%3A443
