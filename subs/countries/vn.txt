@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVk4=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDY6MjIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 03:32 UTC, 2 proxies, best first
+# updated 2026-10-26 06:22 UTC, 3 proxies, best first
 vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?encryption=none&fp=chrome&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&security=reality&sid=4710d669&sni=api.receptivity.io&spx=/432a583546f2687&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20163.61.182.194%3A34646
-vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?&security=reality&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&sid=4710d669&fp=chrome&sni=api.receptivity.io&type=tcp&headerType=none&host=api.receptivity.io&path=%2F#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20163.61.182.194%3A34646%20%232
+vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?encryption=none&fp=firefox&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&security=reality&sid=4710d669&sni=api.receptivity.io&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20163.61.182.194%3A34646%20%232
+vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?&security=reality&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&sid=4710d669&fp=chrome&sni=api.receptivity.io&type=tcp&headerType=none&host=api.receptivity.io&path=%2F#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20163.61.182.194%3A34646%20%233

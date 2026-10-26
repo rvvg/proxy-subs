@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE0LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDY6MjIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,18 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 03:32 UTC, 14 proxies, best first
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@213.176.19.58:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20213.176.19.58%3A2096
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@213.176.19.58:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=ios#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20213.176.19.58%3A2096%20%232
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&mode=gun&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20ss.ll0ll.vip%3A2096
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20ss.ll0ll.vip%3A2096%20%232
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@213.176.19.58:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20213.176.19.58%3A2096%20%233
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.41.69:8443?encryption=none&fp=firefox&host=au6.pad-sservice.lat&path=/AU6W&security=tls&sni=au6.pad-sservice.lat&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%2062.83.41.69%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au5.pad-sservice.lat:8443?security=tls&type=ws&path=%2FAU5W&host=au5.pad-sservice.lat&packetEncoding=xudp&sni=au5.pad-sservice.lat&fp=chrome&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%20au5.pad-sservice.lat%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.19.127:8443?encryption=none&fp=firefox&host=au5.pad-sservice.lat&path=/AU5W&security=tls&sni=au5.pad-sservice.lat&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%2062.83.19.127%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?encryption=none&security=tls&sni=au6.pad-sservice.lat&type=ws&host=au6.pad-sservice.lat&path=/AU6W&headers=#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%20au6.pad-sservice.lat%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au5.pad-sservice.lat:8443?host=au5.pad-sservice.lat&path=%2FAU5W&security=tls&sni=au5.pad-sservice.lat&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%20au5.pad-sservice.lat%3A8443%20%232
+# updated 2026-10-26 06:22 UTC, 8 proxies, best first
+hysteria2://krdyzYNnXFQqyPtjiXw9lQ@68.210.96.82:8443?sni=www.bing.com&insecure=1#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20hy2%20hysteria%2Ftls%2068.210.96.82%3A8443
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au4.pad-sservice.lat:8443?security=tls&sni=au4.pad-sservice.lat&type=ws&host=au4.pad-service.com&path=%2FA14U&headers=#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%20au4.pad-sservice.lat%3A8443
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@152.53.1.40:8443?encryption=none&fp=firefox&host=au4.pad-service.com&path=/A14U&security=tls&sni=au4.pad-sservice.lat&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%20152.53.1.40%3A8443
 vless://d18c6897-2849-456a-8c46-d7ecece47c20@141.101.90.108:2053?type=ws&security=tls&fp=chrome&sni=wzs.echo.net.eu.org&host=wzs.echo.net.eu.org#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruckneudorf%20vless%20ws%2Ftls%20141.101.90.108%3A2053
+vless://d18c6897-2849-456a-8c46-d7ecece47c20@141.101.90.108:2053?host=wzs.echo.net.eu.org&path=%2Fvideo%2FHxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HUlxQSwUEVRwJUx8BQRoaSVhfRhoOChkDDUs%3Dfp%3Dchrome&security=tls&sni=wzs.echo.net.eu.org&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20vless%20ws%2Ftls%20141.101.90.108%3A2053
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?path=/A11U&security=tls&encryption=none&insecure=0&host=au2.pad-service.com&type=ws&allowInsecure=0&sni=au2.pad-sservice.lat#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%20au2.pad-sservice.lat%3A8443
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=au2.pad-sservice.lat&type=ws&headerType=none&host=au2.pad-service.com&path=/A11U#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%20au2.pad-sservice.lat%3A8443%20%232
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@89.58.20.210:8443?encryption=none&fp=firefox&host=au2.pad-service.com&path=/A11U&security=tls&sni=au2.pad-sservice.lat&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%2089.58.20.210%3A8443
