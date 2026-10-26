@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDY6MjIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 06:22 UTC, 7 proxies, best first
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.211.77:24215?type=tcp&security=reality&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20118.167.211.77%3A24215
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?type=raw&security=reality&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20hinet1.2yly.com%3A24215
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20hinet1.2yly.com%3A24215%20%232
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.78%3A443
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&fp=random&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org&packetEncoding=none#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20hinet1.2yly.com%3A24215%20%233
+# updated 2026-10-26 09:37 UTC, 6 proxies, best first
+vless://1506f2e0-ae12-4718-b5ab-c5609161300e@128.14.230.225:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&fp=firefox&type=tcp&sni=as1.cdn77.icu&sid=1ed136481e0ede74#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20128.14.230.225%3A443
+trojan://00a72bf349e6479b@kw119.zxmm.eu.org:20031?allowInsecure=1&sni=kw119.zxmm.eu.org&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20trojan%20raw%2Ftls%20kw119.zxmm.eu.org%3A20031
 vless://06e177f7-240d-4687-bd85-235505801a5e@59.125.69.24:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2059.125.69.24%3A443
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.78%3A443%20%232
+vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.54%3A443
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.211.77:24215?type=tcp&security=reality&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20118.167.211.77%3A24215
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.78%3A443

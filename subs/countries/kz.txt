@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDY6MjIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 06:22 UTC, 4 proxies, best first
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.73.192.248:443?security=reality&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=almata.vkusnews.com&type=tcp&headerType=none&path=%2F&fp=qq#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20109.73.192.248%3A443
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.73.192.248:443?security=reality&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=almata.vkusnews.com&type=tcp&headerType=none&path=%2F&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20109.73.192.248%3A443%20%232
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.73.192.248:443?security=reality&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=almata.vkusnews.com&type=tcp&headerType=none&path=%2F&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20109.73.192.248%3A443%20%233
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.73.192.248:443?security=reality&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=almata.vkusnews.com&type=tcp&headerType=none&host=almata.vkusnews.com&path=%2F&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20109.73.192.248%3A443%20%234
+# updated 2026-10-26 09:37 UTC, 4 proxies, best first
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.73.192.248:443?security=reality&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=almata.vkusnews.com&type=tcp&headerType=none&path=%2F&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20109.73.192.248%3A443
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.73.192.248:443?security=reality&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=almata.vkusnews.com&type=tcp&headerType=none&host=almata.vkusnews.com&path=%2F&fp=qq#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20109.73.192.248%3A443%20%232
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.73.192.248:443?security=reality&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=almata.vkusnews.com&type=tcp&headerType=none&path=%2F&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20109.73.192.248%3A443%20%233
+vless://1506f2e0-ae12-4718-b5ab-c5609161300e@94.183.195.11:20044?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&fp=firefox&type=tcp&sni=eu64.cdn77.icu&sid=1ed136481e0ede74#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%2094.183.195.11%3A20044

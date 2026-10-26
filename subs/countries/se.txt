@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0U=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDY6MjIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,12 +7,16 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 06:22 UTC, 8 proxies, best first
-vless://af51de90-852d-4eb6-a0c3-9ecca170385e@www.speedtest.net:443?fp=chrome&host=wallweb-av6.pages.dev&path=%2F&security=tls&sni=wallweb-av6.pages.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20www.speedtest.net%3A443
+# updated 2026-10-26 09:37 UTC, 12 proxies, best first
+vless://a39ef2cc-1fda-4be0-b1b4-4271c77a242b@31.22.93.23:8443?security=reality&encryption=none&pbk=buCmsdWi_xDF6E88-aMs7PAwKZX6RKdjjCFwmhoLLXw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw2.fast-brooklyn.ru&sid=ed56d4d2401f22cf#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%2031.22.93.23%3A8443
+vless://87c467e9-f0af-4b03-8fbd-65fd375d3a26@188.114.98.0:443?alpn=http%2F1.1&fp=chrome&host=pmpmppm.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pmpmppm.pages.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20188.114.98.0%3A443
+vless://ec23f217-23a1-4f62-b98d-ba56070de89c@www.speedtest.net:443?path=%2F&security=tls&host=wallweb4.pages.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F64.6.65.6&type=ws&sni=wallweb4.pages.dev#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20www.speedtest.net%3A443
+vless://af51de90-852d-4eb6-a0c3-9ecca170385e@epam.com:443?fp=chrome&host=wallweb-av6.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=wallweb-av6.pages.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20epam.com%3A443
 vless://af51de90-852d-4eb6-a0c3-9ecca170385e@help1.digikala-aparat-zula.com:443?security=tls&type=ws&path=%2F&host=wallweb-av6.pages.dev&packetEncoding=xudp&sni=wallweb-av6.pages.dev&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20help1.digikala-aparat-zula.com%3A443
-vless://ec23f217-23a1-4f62-b98d-ba56070de89c@www.speedtest.net:443?path=%2F&security=tls&host=wallweb4.pages.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F64.6.65.6&type=ws&sni=wallweb4.pages.dev#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20www.speedtest.net%3A443%20%232
-vless://87c467e9-f0af-4b03-8fbd-65fd375d3a26@104.18.34.200:443?encryption=none&security=tls&sni=pmpmppm.pages.dev&fp=randomized&type=ws&path=%2F%3Fed%3D2048&host=pmpmppm.pages.dev#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20104.18.34.200%3A443
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:443?security=tls&type=ws&path=%2Fimages&host=vp7.1145678.xyz&packetEncoding=xudp&sni=vp7.1145678.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20SE%20vless%20ws%2Ftls%20saas.sin.fan%3A443
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.18.35.86:2083?security=tls&type=ws&path=%2F&host=vlsovip.1d.mom&packetEncoding=xudp&sni=vlsovip.1d.mom&fp=unsafe#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20104.18.35.86%3A2083
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:2096?security=tls&sni=vp6.1145678.xyz&fp=chrome&type=ws&path=%2Ftest&host=vp6.1145678.xyz#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Sigtuna%20vless%20ws%2Ftls%20saas.sin.fan%3A2096
-vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@104.16.72.30:443?fp=chrome&host=xstack.mahanfixe.workers.dev&path=%2Fxiron&security=tls&sni=xstack.mahanfixe.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20104.16.72.30%3A443
+vless://1506f2e0-ae12-4718-b5ab-c5609161300e@138.124.250.22:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&fp=chrome&type=tcp&sni=eu87.cdn77.icu&sid=1ed136481e0ede74#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20138.124.250.22%3A443
+vless://af51de90-852d-4eb6-a0c3-9ecca170385e@www.speedtest.net:443?encryption=none&security=tls&type=ws&host=wallweb-av6.pages.dev&path=%2F&sni=wallweb-av6.pages.dev&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20www.speedtest.net%3A443%20%232
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@121.127.33.130:443?security=tls&type=ws&host=likejennie.pages.dev&fp=chrome&sni=likejennie.pages.dev&path=%2F&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20trojan%20ws%2Ftls%20121.127.33.130%3A443
+vless://47171e1c-ee62-4f39-99bb-b77fe876095b@185.153.55.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pEtJviwCErc3Ztwnev1p4m9ZhWgdVV9a6rpa0Hujvj0&security=reality&sid=b91fe4e1&sni=se1.refprov.online&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20185.153.55.159%3A443
+vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=ios#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20se3.h1cloud.net%3A25387
+vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20se3.h1cloud.net%3A25387%20%232
+vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=edge#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20se3.h1cloud.net%3A25387%20%233

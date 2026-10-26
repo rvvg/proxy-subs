@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVk4=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDY6MjIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 06:22 UTC, 3 proxies, best first
-vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?encryption=none&fp=chrome&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&security=reality&sid=4710d669&sni=api.receptivity.io&spx=/432a583546f2687&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20163.61.182.194%3A34646
-vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?encryption=none&fp=firefox&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&security=reality&sid=4710d669&sni=api.receptivity.io&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20163.61.182.194%3A34646%20%232
-vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?&security=reality&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&sid=4710d669&fp=chrome&sni=api.receptivity.io&type=tcp&headerType=none&host=api.receptivity.io&path=%2F#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20163.61.182.194%3A34646%20%233
+# updated 2026-10-26 09:37 UTC, 1 proxies, best first
+vless://98d48aae-9adf-4132-88f0-713ce84b9c6a@vtbinamvt.crackerbinam.org:42701?security=reality&encryption=none&pbk=Am0wLUMsRh_7cGJ4KDE_K2MQxyzAk-XPefvBuABWhgg&host=technolife.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=17f734#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Nha%20Trang%20vless%20raw%2Freality%20vtbinamvt.crackerbinam.org%3A42701

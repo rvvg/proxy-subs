@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0J7QutC10LDQvdC40Y8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDY6MjIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 06:22 UTC, 2 proxies, best first
+# updated 2026-10-26 09:37 UTC, 3 proxies, best first
 trojan://Trojan%4082164024@au.tronsg.com:443?sni=au.tronsg.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%20au.tronsg.com%3A443
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528
+trojan://Trojan@82164024@au.tronsg.com:443?type=tcp&security=tls&fp=chrome&sni=au.tronsg.com#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%20au.tronsg.com%3A443%20%232
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&security=reality&type=tcp&sni=www.apple.com&flow=xtls-rprx-vision&fp=firefox&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20funagfrdfs.alixxplay.com%3A54528

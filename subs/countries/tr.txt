@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDY6MjIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,13 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 06:22 UTC, 7 proxies, best first
+# updated 2026-10-26 09:37 UTC, 9 proxies, best first
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2062.133.63.45%3A8444
+vless://a39ef2cc-1fda-4be0-b1b4-4271c77a242b@198.105.123.187:8443?security=reality&encryption=none&pbk=fiE-KoxoQgOIuvm1EuBTeZp9TFZLq9FYbZPrcWes-GM&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slfs3.ardor-cloud.ru&sid=ba86aaa222fa2ee1#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20198.105.123.187%3A8443
+hysteria2://2b0e5676-fb62-4bf0-9607-6e7818421e8e@132.243.173.212:7443?sni=tr2.pad-sservice.lat#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20hy2%20hysteria%2Ftls%20132.243.173.212%3A7443
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@132.243.173.195:8443?encryption=none&fp=firefox&host=tr.pad-service.com&path=/TR1&security=tls&sni=tr.pad-sservice.lat&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20132.243.173.195%3A8443
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@tr.pad-sservice.lat:8443?type=ws&security=tls&sni=tr.pad-sservice.lat&fp=firefox&alpn=http%2F1.1&path=%2FTR1&host=tr.pad-service.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20tr.pad-sservice.lat%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@132.243.173.212:8443?encryption=none&security=tls&sni=tr2.pad-sservice.lat&fp=firefox&type=ws&host=tr2.pad-service.com&path=%2Ftr1-2#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20132.243.173.212%3A8443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@tr2.pad-sservice.lat:8443?type=ws&security=tls&sni=tr2.pad-sservice.lat&fp=firefox&alpn=http%2F1.1&path=%2Ftr1-2&host=tr2.pad-service.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20tr2.pad-sservice.lat%3A8443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNmNhOTJlMWFmYzg0YmI0YWU4ZDk4NDY4NDM2NGY1NQ@vip7-v2.servicedeutsch.com:2083#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20ss%20vip7-v2.servicedeutsch.com%3A2083
-vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@193.223.104.174:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20TR%20vless%20raw%2Freality%20193.223.104.174%3A443
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@132.243.173.195:8443?encryption=none&security=tls&sni=tr.pad-sservice.lat&fp=firefox&type=ws&host=tr.pad-service.com&path=%2FTR1#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20132.243.173.195%3A8443
+hysteria2://2b0e5676-fb62-4bf0-9607-6e7818421e8e@tr2.pad-sservice.lat:7443?sni=tr2.pad-sservice.lat#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20hy2%20hysteria%2Ftls%20tr2.pad-sservice.lat%3A7443
+vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=looabturkeyeoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20146.75.59.186%3A443
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@tr3.pad-sservice.lat:8443?encryption=none&type=ws&security=tls&sni=tr3.pad-sservice.lat&fp=firefox&alpn=http/1.1&path=/t1r&host=tr3.pad-service.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20tr3.pad-sservice.lat%3A8443
+vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@193.223.104.131:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20TR%20vless%20raw%2Freality%20193.223.104.131%3A443
