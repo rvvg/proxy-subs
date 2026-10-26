@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0k=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-25 21:32 UTC, 3 proxies, best first
-vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&security=reality&sid=88d9dc52ef39c8bd&sni=node-slo01.rkitman.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AE%20SI%20Maribor%20vless%20raw%2Freality%2092.42.201.102%3A443
-vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.107:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&security=reality&sid=88d9dc52ef39c8bd&sni=node-slo02.rkitman.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AE%20SI%20Maribor%20vless%20raw%2Freality%2092.42.201.107%3A443
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@176.65.134.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m1RKLrXKJKrXnyr3qXmXi43eSMF0PXz2oFzBh--OimU&security=reality&sid=a4ff4747c26a52e2&sni=lamilami.lamibeauty.site&type=tcp#%F0%9F%87%B8%F0%9F%87%AE%20SI%20Maribor%20vless%20raw%2Freality%20176.65.134.34%3A443
+# updated 2026-10-26 03:32 UTC, 1 proxies, best first
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@176.65.134.34:443?flow=xtls-rprx-vision&fp=firefox&pbk=m1RKLrXKJKrXnyr3qXmXi43eSMF0PXz2oFzBh--OimU&security=reality&sid=a4ff4747c26a52e2&sni=lamilami.lamibeauty.site&type=raw#%F0%9F%87%B8%F0%9F%87%AE%20SI%20Maribor%20vless%20raw%2Freality%20176.65.134.34%3A443

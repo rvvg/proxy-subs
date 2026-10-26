@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0U=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-25 21:32 UTC, 3 proxies, best first
-vless://5a519754-a673-4462-83f6-5eb25d2af141@136.148.212.216:25387?encryption=none&fp=firefox&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&security=reality&sid=9608a9c65d315d52&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20136.148.212.216%3A25387
-vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20se3.h1cloud.net%3A25387
-vless://d1f0c6cb-0d8b-4f13-8104-b7c8e8c57110@188.225.77.254:8443/?type=grpc&encryption=none&flow=&serviceName=ozone&sni=io.ozone.ru&fp=firefox&security=reality&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&sid=4951a2313524dd8f#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20188.225.77.254%3A8443
+# updated 2026-10-26 03:32 UTC, 7 proxies, best first
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@199.68.156.123:443?security=tls&type=ws&path=%2FTelegram-WangCai2&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20199.68.156.123%3A443
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?security=tls&type=ws&path=/Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20109.176.239.123%3A443
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@139.64.235.123:443?type=ws&security=tls&fp=chrome&sni=notls.lukongtou.eu.org#%F0%9F%87%B8%F0%9F%87%AA%20SE%20vless%20ws%2Ftls%20139.64.235.123%3A443
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@139.64.235.123:443?encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=notls.lukongtou.eu.org&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20139.64.235.123%3A443
+vless://d1f0c6cb-0d8b-4f13-8104-b7c8e8c57110@188.225.77.254:8443?encryption=none&fp=firefox&mode=gun&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&security=reality&serviceName=ozone&sid=4951a2313524dd8f&sni=io.ozone.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20188.225.77.254%3A8443
+trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse&fp=edge#%F0%9F%87%B8%F0%9F%87%AA%20SE%20trojan%20ws%2Ftls%20199.181.197.99%3A443
+trojan://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#%F0%9F%87%B8%F0%9F%87%AA%20SE%20trojan%20ws%2Ftls%20104.234.239.139%3A443

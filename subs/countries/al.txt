@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjUgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-25 21:32 UTC, 1 proxies, best first
+# updated 2026-10-26 03:32 UTC, 1 proxies, best first
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyV0lnMTZwbGdaODJWN01UTmN3MVVUZ2lZSzRvb1BVQjk1cVZoS0l3SURjPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20ss%20130.49.189.158%3A43558
