@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMTY6MDggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjcgMTE6MjMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 16:08 UTC, 4 proxies, best first
-trojan://00a72bf349e6479b@kw119.zxmm.eu.org:20031?allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20trojan%20raw%2Ftls%20kw119.zxmm.eu.org%3A20031
-vless://06e177f7-240d-4687-bd85-235505801a5e@59.125.69.24:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2059.125.69.24%3A443
-vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.54%3A443
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.78%3A443
+# updated 2026-10-27 11:23 UTC, 4 proxies, best first
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?&security=reality&flow=xtls-rprx-vision&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&sid=cff998a4&fp=chrome&sni=www.amazon.com&type=tcp&headerType=none&host=www.amazon.com&path=%2F#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20152.32.167.33%3A443
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=cff998a4&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&encryption=none#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20152.32.167.33%3A443%20%232
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.78%3A443
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1&insecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taichung%20vless%20ws%2Ftls%2060.248.219.78%3A443%20%232

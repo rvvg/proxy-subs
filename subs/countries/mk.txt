@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTUs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjYgMTY6MDggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjcgMTE6MjMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-26 16:08 UTC, 1 proxies, best first
-vless://0869a7d7-b8e8-42be-8bca-84b0ab07744a@89.185.82.151:10443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=XNfikFybWtjJjWU7-QBGrr-D9YUW0uSK_sR7mDDUmRU&sid=6ba85179&sni=stackoverflow.com&host=stackoverflow.com#%F0%9F%87%B2%F0%9F%87%B0%20MK%20Skopje%20vless%20raw%2Freality%2089.185.82.151%3A10443
+# updated 2026-10-27 11:23 UTC, 2 proxies, best first
+vless://0869a7d7-b8e8-42be-8bca-84b0ab07744a@89.185.82.151:10443?&security=reality&flow=xtls-rprx-vision&pbk=XNfikFybWtjJjWU7-QBGrr-D9YUW0uSK_sR7mDDUmRU&sid=6ba85179&fp=firefox&sni=stackoverflow.com&type=tcp&headerType=none&host=stackoverflow.com&path=%2F#%F0%9F%87%B2%F0%9F%87%B0%20MK%20Skopje%20vless%20raw%2Freality%2089.185.82.151%3A10443
+vless://0869a7d7-b8e8-42be-8bca-84b0ab07744a@89.185.82.151:10443?&security=reality&flow=xtls-rprx-vision&pbk=XNfikFybWtjJjWU7-QBGrr-D9YUW0uSK_sR7mDDUmRU&sid=6ba85179&fp=chrome&sni=stackoverflow.com&type=tcp&headerType=none&path=%2F#%F0%9F%87%B2%F0%9F%87%B0%20MK%20Skopje%20vless%20raw%2Freality%2089.185.82.151%3A10443%20%232

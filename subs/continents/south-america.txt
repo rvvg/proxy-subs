@@ -1,0 +1,14 @@
+#profile-title: base64:RnJlZSBWUE4g0K7QttC90LDRjyDQkNC80LXRgNC40LrQsA==
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjcgMTE6MjMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-10-27 11:23 UTC, 4 proxies, best first
+vmess://eyJhZGQiOiAiMTcwLjIzOS44Ni4xNzYiLCAidiI6ICIyIiwgInBzIjogIvCfh6jwn4exIENMIEN1cmljbyB2bWVzcyB3cy9ub25lIDE3MC4yMzkuODYuMTc2OjQwNzA4IiwgInBvcnQiOiA0MDcwOCwgImlkIjogIjUzMDA1YWM4LWVlZDEtNGUzMi04MTgzLTcxNTJlMDk5ODc3YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTcwLjIzOS44Ni4xNzYiLCAidiI6ICIyIiwgInBzIjogIvCfh6jwn4exIENMIEN1cmljbyB2bWVzcyB3cy9ub25lIDE3MC4yMzkuODYuMTc2OjIzNjgwIiwgInBvcnQiOiAyMzY4MCwgImlkIjogImQ5NzQ0ZWI2LTI4NzAtNDFlNS1iODY3LTBiZWJmYzY3ZjY2ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%87%A8%F0%9F%87%B1%20CL%20Santiago%20trojan%20raw%2Ftls%2064.176.7.205%3A443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?type=tcp&headerType=none&security=tls&encryption=none&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20trojan%20raw%2Ftls%20216.238.104.154%3A443
