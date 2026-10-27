@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjcgMTE6MjMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE5LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjcgMTU6NDUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,23 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-27 11:23 UTC, 19 proxies, best first
-trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@104.143.0.180:443?security=tls&type=ws&host=likejennie.pages.dev&fp=chrome&sni=likejennie.pages.dev&path=%2F&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruck%20an%20der%20Leitha%20trojan%20ws%2Ftls%20104.143.0.180%3A443
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.199:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.199%3A443
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.189:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.189%3A443
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=softice.net#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.169%3A443
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.189:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=softice.net#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.189%3A443%20%232
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?encryption=none&security=tls&sni=ekb.eg&allowInsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%2050.7.36.29%3A443
+# updated 2026-10-27 15:45 UTC, 3 proxies, best first
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ad-dedic-3.failspace.top:443?encryption=none&security=tls&sni=ekb.eg&fp=chrome&allowInsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20ad-dedic-3.failspace.top%3A443
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?sni=softice.net&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20softice.net%3A443
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.169%3A443%20%232
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.179%3A443
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.199:443?flow=xtls-rprx-vision&security=tls&sni=softice.net&type=raw&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.199%3A443%20%232
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.169%3A443%20%233
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20softice.net%3A443%20%232
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=softice.net#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20softice.net%3A443%20%233
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp&fp=ios#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.169%3A443%20%234
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.179:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp&fp=ios#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.179%3A443%20%232
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.189:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20188.137.158.189%3A443%20%233
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=softice.net#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20softice.net%3A443%20%234
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.28:443?encryption=none&security=tls&sni=at-new-ded.failspace.top&fp=chrome&allowInsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%2050.7.36.28%3A443
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?encryption=none&security=tls&sni=ekb.eg&allowInsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%2050.7.36.29%3A443

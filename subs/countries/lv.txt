@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjcgMTE6MjMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjcgMTU6NDUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-27 11:23 UTC, 1 proxies, best first
-vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:28963?type=xhttp&security=reality&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sni=music.apple.com&mode=auto#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20xhttp%2Freality%20router.hermit.pw%3A28963
+# updated 2026-10-27 15:45 UTC, 2 proxies, best first
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@31.58.46.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vxYWiWJ0B-IrAyUGMwS8agSnEzvuDX0q1BplBdaiDBs&security=reality&sid=70a92a6138856c55&sni=ee.lamibeauty.site&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2031.58.46.154%3A443
+vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?fp=chrome&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&security=reality&sid=67ece882d65d0f1a&sni=m.vk.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2045.38.143.210%3A30584
