@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjcgMTU6NDUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-27 15:45 UTC, 1 proxies, best first
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Rosh%20HaAyin%20trojan%20raw%2Ftls%2064.176.163.182%3A443
+# updated 2026-10-28 03:34 UTC, 3 proxies, best first
+vless://4b1be712-774c-4b65-8491-a3339e124a70@85.209.157.61:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=YZEEenZQ0kbow8Sj-FSK8mDmUrZfpc-S3fJfpvVX5XI&sid=336c2cff6e3787c4&sni=israel.peer-telvante.top#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20raw%2Freality%2085.209.157.61%3A443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Rosh%20HaAyin%20trojan%20raw%2Ftls%2064.176.163.182%3A443
+vless://4b1be712-774c-4b65-8491-a3339e124a70@israel.peer-telvante.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=israel.peer-telvante.top&fp=firefox&security=reality&pbk=YZEEenZQ0kbow8Sj-FSK8mDmUrZfpc-S3fJfpvVX5XI&sid=336c2cff6e3787c4#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20raw%2Freality%20israel.peer-telvante.top%3A443

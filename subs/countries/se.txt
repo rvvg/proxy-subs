@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0U=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjcgMTU6NDUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,16 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-27 15:45 UTC, 12 proxies, best first
-vless://4b1be712-774c-4b65-8491-a3339e124a70@136.148.211.243:443?encryption=none&pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&security=reality&serviceName=grpc-se-3&sid=11d37dd92940329e&sni=se1-cl3.vless-fiberstasis.top&type=grpc&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20136.148.211.243%3A443
-vless://4b1be712-774c-4b65-8491-a3339e124a70@136.148.211.243:443?encryption=none&pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&security=reality&serviceName=grpc-se-3&sid=11d37dd92940329e&sni=se1-cl3.vless-fiberstasis.top&type=grpc&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20136.148.211.243%3A443%20%232
-vless://4b1be712-774c-4b65-8491-a3339e124a70@se1-cl3.vless-fiberstasis.top:443?pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&security=reality&serviceName=grpc-se-3&sid=11d37dd92940329e&sni=se1-cl3.vless-fiberstasis.top&type=grpc&fp=edge#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20se1-cl3.vless-fiberstasis.top%3A443
-vless://4b1be712-774c-4b65-8491-a3339e124a70@se1-cl3.vless-fiberstasis.top:443?type=grpc&security=reality&pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&sid=11d37dd92940329e&sni=se1-cl3.vless-fiberstasis.top&mode=multi&serviceName=grpc-se-3&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20se1-cl3.vless-fiberstasis.top%3A443%20%232
-vless://4b1be712-774c-4b65-8491-a3339e124a70@136.148.211.243:443?type=grpc&security=reality&fp=firefox&pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&sid=11d37dd92940329e&sni=se1-cl3.vless-fiberstasis.top&serviceName=grpc-se-3#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20136.148.211.243%3A443%20%233
-vless://4b1be712-774c-4b65-8491-a3339e124a70@se1-cl3.vless-fiberstasis.top:443?type=grpc&security=reality&fp=firefox&pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&sid=11d37dd92940329e&sni=se1-cl3.vless-fiberstasis.top&serviceName=grpc-se-3#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20se1-cl3.vless-fiberstasis.top%3A443%20%233
-vless://4b1be712-774c-4b65-8491-a3339e124a70@se1-cl3.vless-fiberstasis.top:443?pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&security=reality&serviceName=grpc-se-3&sid=11d37dd92940329e&sni=se1-cl3.vless-fiberstasis.top&type=grpc&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20se1-cl3.vless-fiberstasis.top%3A443%20%234
-vless://4b1be712-774c-4b65-8491-a3339e124a70@se1-cl3.vless-fiberstasis.top:443?pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&security=reality&serviceName=grpc-se-3&sid=11d37dd92940329e&sni=se1-cl3.vless-fiberstasis.top&type=grpc&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20se1-cl3.vless-fiberstasis.top%3A443%20%235
-vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.16.205.233:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=tamoai.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=tamoai.ccwu.cc#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Sigtuna%20vless%20ws%2Ftls%20104.16.205.233%3A443
-vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.19.145.193:443?encryption=none&security=tls&sni=tamoai.ccwu.cc&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20104.19.145.193%3A443
-vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=ios#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20se3.h1cloud.net%3A25387
-vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20se3.h1cloud.net%3A25387%20%232
+# updated 2026-10-28 03:34 UTC, 4 proxies, best first
+vless://6f34a071-9a87-001e-b01a-4b5a5c95e552@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&security=reality&sid=20ed7ee26095771b&sni=s3-fi-1.rucdn777.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20144.31.129.174%3A443
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@188.42.145.123:443?type=ws&security=tls&fp=chrome&sni=notls.lukongtou.eu.org#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20188.42.145.123%3A443
+vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@104.16.72.30:443?sni=xstack.mahanfixe.workers.dev&type=ws&host=xstack.mahanfixe.workers.dev&path=/xironfp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20104.16.72.30%3A443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@msk2.rvpn.app:8388#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20ss%20msk2.rvpn.app%3A8388
