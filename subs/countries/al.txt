@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMTU6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMjE6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,12 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 15:39 UTC, 8 proxies, best first
-vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.101:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=aa51fd048bee93fe&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.101%3A443
-vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.103:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.convert-flow.net&sid=aa51fd048bee93fe#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.103%3A443
-vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.104:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.convert-flow.net&sid=aa51fd048bee93fe#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.104%3A443
-vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.103:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=aa51fd048bee93fe&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.103%3A443%20%232
-vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.104:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=aa51fd048bee93fe&sni=nl.convert-flow.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.104%3A443%20%232
-vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.105:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=aa51fd048bee93fe&sni=nl.convert-flow.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.105%3A443
-vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.102:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=aa51fd048bee93fe&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.102%3A443
-vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.101:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.convert-flow.net&sid=aa51fd048bee93fe#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.101%3A443%20%232
+# updated 2026-10-28 21:42 UTC, 1 proxies, best first
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNUprMEJoUk5LamI1d1FCQk9YeDJ3d2tXWl95V1UwTg==@dns22.m3hrzd.ir:1348#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20ss%20dns22.m3hrzd.ir%3A1348
