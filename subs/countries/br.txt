@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQlI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 03:34 UTC, 4 proxies, best first
+# updated 2026-10-28 09:37 UTC, 6 proxies, best first
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@br001.zestapp778.com:15040?host=br001.zestapp778.com&path=%2F&security=tls&sni=br.zestapp778.com&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20vless%20raw%2Ftls%20br001.zestapp778.com%3A15040
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@br001.zestapp778.com:15040?security=tls&type=tcp&sni=br.zestapp778.com&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20vless%20raw%2Ftls%20br001.zestapp778.com%3A15040%20%232
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?type=tcp&headerType=none&security=tls&encryption=none&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20trojan%20raw%2Ftls%20216.238.104.154%3A443
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@br001.zestapp778.com:15040?encryption=none&security=tls&type=tcp&sni=br.zestapp778.com&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20vless%20raw%2Ftls%20br001.zestapp778.com%3A15040
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@br001.zestapp778.com:15040?type=tcp&security=tls&encryption=none&fp=#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20vless%20raw%2Ftls%20br001.zestapp778.com%3A15040%20%233
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@216.128.173.124:15040?encryption=none&fp=firefox&security=tls&sni=br.zestapp778.com&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20vless%20raw%2Ftls%20216.128.173.124%3A15040
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20trojan%20raw%2Ftls%20216.238.104.154%3A443%20%232
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@216.128.169.78:15040?encryption=none&fp=firefox&security=tls&sni=br.zestapp778.com&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20vless%20raw%2Ftls%20216.128.169.78%3A15040

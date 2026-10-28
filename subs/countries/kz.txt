@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 03:34 UTC, 4 proxies, best first
-vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@212.116.232.153:10443?flow=xtls-rprx-vision&fp=firefox&pbk=aNu3oMtcBnoDdRyef5zveVGswCkJow71NBiJ9GrGfSQ&security=reality&sid=10&sni=tengrinews.kz&type=raw#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20212.116.232.153%3A10443
-vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@kz.bitpunch.icu:10443?security=reality&pbk=aNu3oMtcBnoDdRyef5zveVGswCkJow71NBiJ9GrGfSQ&fp=qq&type=raw&flow=xtls-rprx-vision&sni=tengrinews.kz&sid=10#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20kz.bitpunch.icu%3A10443
-vless://4b1be712-774c-4b65-8491-a3339e124a70@kazakhstan.letsconnectpoint.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kazakhstan.letsconnectpoint.com&fp=qq&security=reality&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&sid=a9c3f7e2#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20kazakhstan.letsconnectpoint.com%3A443
-vless://4b1be712-774c-4b65-8491-a3339e124a70@5.180.21.86:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&sid=a9c3f7e2&sni=kazakhstan.letsconnectpoint.com#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%205.180.21.86%3A443
+# updated 2026-10-28 09:37 UTC, 2 proxies, best first
+vless://4b1be712-774c-4b65-8491-a3339e124a70@5.180.21.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&security=reality&sid=a9c3f7e2&sni=kazakhstan.letsconnectpoint.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%205.180.21.86%3A443
+vless://4b1be712-774c-4b65-8491-a3339e124a70@kazakhstan.letsconnectpoint.com:443?type=raw&flow=xtls-rprx-vision&sni=kazakhstan.letsconnectpoint.com&fp=qq&security=reality&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&sid=a9c3f7e2#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20kazakhstan.letsconnectpoint.com%3A443

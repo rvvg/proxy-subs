@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,15 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 03:34 UTC, 2 proxies, best first
+# updated 2026-10-28 09:37 UTC, 11 proxies, best first
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@131.123.25.51:443?flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=02acb11712403c6c&sni=last.syoknew.work&type=raw#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20131.123.25.51%3A443
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@131.123.25.39:443?flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=02acb11712403c6c&sni=last.syoknew.work&type=raw#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20131.123.25.39%3A443
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@131.123.25.52:443?flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=02acb11712403c6c&sni=last.syoknew.work&type=raw#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20131.123.25.52%3A443
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@131.123.25.47:443?flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=02acb11712403c6c&sni=last.syoknew.work&type=raw#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20131.123.25.47%3A443
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.103:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=aa51fd048bee93fe&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.103%3A443
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.105:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=aa51fd048bee93fe&sni=nl.convert-flow.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.105%3A443
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.104:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=aa51fd048bee93fe&sni=nl.convert-flow.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.104%3A443
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.102:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=aa51fd048bee93fe&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.102%3A443
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@131.123.25.50:443?flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=02acb11712403c6c&sni=last.syoknew.work&type=raw#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20131.123.25.50%3A443
+vless://ce8fbdea-c3c3-0008-9658-32599d1f853f@188.208.125.101:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=aa51fd048bee93fe&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20188.208.125.101%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@alb.rvpn.app:8388#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20ss%20alb.rvpn.app%3A8388
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMekVlTGoyT1AwRFFtcFBEdFZUYXpkR0MwY0hjVDBLbg@dns22.m3hrzd.ir:1348#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20ss%20dns22.m3hrzd.ir%3A1348

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 03:34 UTC, 3 proxies, best first
-vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@uae.purchasebot.net:443?security=reality&encryption=none&pbk=_0hmzeEAGEx6boacV3d-FrFGaFBYfdvJno39FxveJwM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=e7c5f2a9#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20raw%2Freality%20uae.purchasebot.net%3A443
-vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@91.132.48.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_0hmzeEAGEx6boacV3d-FrFGaFBYfdvJno39FxveJwM&security=reality&sid=e7c5f2a9&sni=bunny.net&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20raw%2Freality%2091.132.48.136%3A443
-vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@uae.purchasebot.net:443?flow=xtls-rprx-vision&fp=firefox&pbk=_0hmzeEAGEx6boacV3d-FrFGaFBYfdvJno39FxveJwM&security=reality&sid=e7c5f2a9&sni=bunny.net&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20raw%2Freality%20uae.purchasebot.net%3A443%20%232
+# updated 2026-10-28 09:37 UTC, 2 proxies, best first
+vless://26f751bc-2edc-4338-9c3f-abeb32aba3b7@5.129.198.34:443?security=reality&encryption=none&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mmxi9k64xsh7.assetgrid.space#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Dubai%20vless%20raw%2Freality%205.129.198.34%3A443
+vless://26f751bc-2edc-4338-9c3f-abeb32aba3b7@5.129.198.34:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sni=mmxi9k64xsh7.assetgrid.space#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Dubai%20vless%20raw%2Freality%205.129.198.34%3A443%20%232

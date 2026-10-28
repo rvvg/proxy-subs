@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 03:34 UTC, 5 proxies, best first
+# updated 2026-10-28 09:37 UTC, 2 proxies, best first
 vless://35978e85-fed3-4db0-8897-ba1b229cdea6@195.123.209.240:52347?encryption=none&fp=firefox&pbk=EZXvF1sJmyDcykfPy3n-0q_yfFyX5AeCh80eslkahwI&security=reality&serviceName=UserVideo&sid=c4f2e8a16b903d75&sni=lt.golu-gulu.online&type=grpc#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20grpc%2Freality%20195.123.209.240%3A52347
-vless://35978e85-fed3-4db0-8897-ba1b229cdea6@lt.golu-gulu.online:52347?mode=gun&security=reality&pbk=EZXvF1sJmyDcykfPy3n-0q_yfFyX5AeCh80eslkahwI&fp=qq&type=grpc&serviceName=UserVideo&sni=lt.golu-gulu.online&sid=c4f2e8a16b903d75#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20grpc%2Freality%20lt.golu-gulu.online%3A52347
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@31.58.46.154:443?flow=xtls-rprx-vision&fp=firefox&pbk=vxYWiWJ0B-IrAyUGMwS8agSnEzvuDX0q1BplBdaiDBs&security=reality&sid=70a92a6138856c55&sni=ee.lamibeauty.site&type=raw#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2031.58.46.154%3A443
-vless://bbe37c75-d097-4b72-a074-445a56fe3969@test.wolf-moose.test-cdn-kkk.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=la.cdn-tech-images.com&sid=50#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20test.wolf-moose.test-cdn-kkk.com%3A443
-vless://bbe37c75-d097-4b72-a074-445a56fe3969@77.90.46.10:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=la.cdn-tech-images.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2077.90.46.10%3A443
+vless://e594c8f0-5967-49d5-9046-62b7068af871@195.123.211.135:443?security=reality&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=cdn.xhttp.dev&sid=4640a2f00a8b7e07#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20195.123.211.135%3A443
