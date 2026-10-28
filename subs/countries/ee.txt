@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMTU6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,15 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 09:37 UTC, 11 proxies, best first
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@ee.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20raw%2Freality%20ee.viralforge.ru%3A443
+# updated 2026-10-28 15:39 UTC, 3 proxies, best first
 vless://abca037b-bee5-41cc-a888-0668e4c66176@31.76.70.90:443?path=/conv4/stream/77dd2aeeb94331fbff325bb48850392b&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=597dad6b.con.fernarchive.online#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%2031.76.70.90%3A443
-vless://abca037b-bee5-41cc-a888-0668e4c66176@31.76.70.90:443?security=tls&sni=597dad6b.con.fernarchive.online&fp=firefox&type=xhttp&path=%2Fconv4%2Fstream%2F77dd2aeeb94331fbff325bb48850392b&encryption=none#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%2031.76.70.90%3A443%20%232
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@130.78.190.163:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20raw%2Freality%20130.78.190.163%3A443
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@130.78.190.163:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=ee.viralforge.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20raw%2Freality%20130.78.190.163%3A443%20%232
-vless://abca037b-bee5-41cc-a888-0668e4c66176@597dad6b.con.fernarchive.online:443?security=tls&sni=597dad6b.con.fernarchive.online&fp=firefox&type=xhttp&path=%2Fconv4%2Fstream%2F77dd2aeeb94331fbff325bb48850392b&mode=auto&encryption=none#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20597dad6b.con.fernarchive.online%3A443
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?mode=auto&path=%2F%3F%40MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&type=xhttp&sni=player.vimeo.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20132.243.65.82%3A443
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@ee.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20raw%2Freality%20ee.viralforge.ru%3A443%20%232
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?mode=auto&security=reality&encryption=none&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&type=xhttp&sni=player.vimeo.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20132.243.65.82%3A443%20%232
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=&host=132.243.65.82&mode=auto&path=%2F&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20132.243.65.82%3A443%20%233
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none&host=ee.h1cloud.net&path=%2F&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee.h1cloud.net%3A25895
+vless://abca037b-bee5-41cc-a888-0668e4c66176@597dad6b.con.fernarchive.online:443?type=xhttp&security=tls&fp=firefox&sni=597dad6b.con.fernarchive.online&path=%2Fconv4%2Fstream%2F77dd2aeeb94331fbff325bb48850392b&mode=auto#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20597dad6b.con.fernarchive.online%3A443
+vless://abca037b-bee5-41cc-a888-0668e4c66176@31.76.70.90:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=597dad6b.con.fernarchive.online&fp=firefox&path=%2Fconv4%2Fstream%2F77dd2aeeb94331fbff325bb48850392b&mode=auto#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%2031.76.70.90%3A443%20%232
