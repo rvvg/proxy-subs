@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMjE6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 21:42 UTC, 2 proxies, best first
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNUprMEJoUk5LamI1d1FCQk9YeDJ3d2tXWl95V1UwTkBkbnMyMi5tM2hyemQuaXI6MTM0Nw==#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20ss%20dns22.m3hrzd.ir%3A1347
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNUprMEJoUk5LamI1d1FCQk9YeDJ3d2tXWl95V1UwTg@78.47.187.230:1347#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20ss%2078.47.187.230%3A1347
+# updated 2026-10-29 03:34 UTC, 1 proxies, best first
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6ogSUUgRHVibGluIHZtZXNzIHJhdy9ub25lIDU0LjIyOS4xNTEuOTc6NTkyMzYiLCAiYWRkIjogIjU0LjIyOS4xNTEuOTciLCAicG9ydCI6IDU5MjM2LCAiaWQiOiAiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJwYXRoIjogIi8ifQ==

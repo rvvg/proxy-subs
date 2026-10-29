@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTVg=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMjE6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 21:42 UTC, 2 proxies, best first
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?type=tcp&security=tls&fp=chrome&sni=connectwithtopemployersandfindidealjobs.com#%F0%9F%87%B2%F0%9F%87%BD%20MX%20Santiago%20de%20Queretaro%20trojan%20raw%2Ftls%20216.238.80.100%3A443
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?sni=connectwithtopemployersandfindidealjobs.com&type=tcp#%F0%9F%87%B2%F0%9F%87%BD%20MX%20Santiago%20de%20Queretaro%20trojan%20raw%2Ftls%20216.238.80.100%3A443%20%232
+# updated 2026-10-29 03:34 UTC, 2 proxies, best first
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?sni=connectwithtopemployersandfindidealjobs.com&type=tcp#%F0%9F%87%B2%F0%9F%87%BD%20MX%20Santiago%20de%20Queretaro%20trojan%20raw%2Ftls%20216.238.80.100%3A443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?fp=chrome&sni=connectwithtopemployersandfindidealjobs.com#%F0%9F%87%B2%F0%9F%87%BD%20MX%20Santiago%20de%20Queretaro%20trojan%20raw%2Ftls%20216.238.80.100%3A443%20%232

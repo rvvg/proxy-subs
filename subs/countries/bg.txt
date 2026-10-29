@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjggMjE6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-28 21:42 UTC, 1 proxies, best first
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@randomquaint.net:8443?type=xhttp&security=tls&fp=chrome&path=/api/v1/upload&host=randomquaint.net&mode=auto#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%20randomquaint.net%3A8443
+# updated 2026-10-29 03:34 UTC, 3 proxies, best first
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.246.179:8443?encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"maxConnections":"0","maxConcurrency":"16-32","cMaxReuseTimes":"64-128","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":0}}&fp=firefox&host=randomquaint.net&path=/api/v1/upload&security=tls&sni=randomquaint.net&type=xhttp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.246.179%3A8443
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.246.179:8443?security=tls&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=randomquaint.net&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=randomquaint.net&fp=firefox&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A%220%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hMaxReusableSecs%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&encryption=none#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.246.179%3A8443%20%232
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@randomquaint.net:8443?type=xhttp&security=tls&fp=chrome&path=%2Fapi%2Fv1%2Fupload&host=randomquaint.net&mode=auto#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%20randomquaint.net%3A8443
