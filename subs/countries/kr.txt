@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMDk6NDMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMTU6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 09:43 UTC, 4 proxies, best first
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851%20%232
-vmess://eyJhZGQiOiAibmlja2d1cy5jYy5jZCIsICJhaWQiOiAiMCIsICJob3N0IjogIm5pY2tndXMuY2MuY2QiLCAiaWQiOiAiNTZlZWU3OTEtOTllOC00ZTExLTlkMjctNTM5YjQ2YzE0MzY4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9waG90b3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAi8J+HsPCfh7cgS1IgU2VvdWwgdm1lc3Mgd3MvdGxzIG5pY2tndXMuY2MuY2Q6NDQzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAibmlja2d1cy5jYy5jZCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTZlZWU3OTEtOTllOC00ZTExLTlkMjctNTM5YjQ2YzE0MzY4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9waG90b3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAi8J+HsPCfh7cgS1IgU2VvdWwgdm1lc3Mgd3MvdGxzIG5pY2tndXMuY2MuY2Q6NDQzICMyIiwgInNuaSI6ICJuaWNrZ3VzLmNjLmNkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+# updated 2026-10-29 15:39 UTC, 8 proxies, best first
+vless://cf92529d-9c4a-4d71-ab87-ae784a2da6bb@104.18.37.0:443?fp=chrome&host=gy-cffc2-node-project-lb5p6r204ts3xuoz.pages.dev&path=%2Ftag%2Fproxyip%3DProxyIP.KR.CMLiussss.net%3Fed%3D2560&security=tls&sni=gy-cffc2-node-project-lb5p6r204ts3xuoz.pages.dev&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20vless%20ws%2Ftls%20104.18.37.0%3A443
+vless://cf92529d-9c4a-4d71-ab87-ae784a2da6bb@172.64.155.111:443?&security=tls&fp=chrome&sni=gy-cffc4-node-project-lb5p6r204ts3xuoz.pages.dev&type=ws&headerType=none&host=gy-cffc4-node-project-lb5p6r204ts3xuoz.pages.dev&path=%2Fthread%2Fproxyip%3DProxyIP.KR.CMLiussss.net%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20vless%20ws%2Ftls%20172.64.155.111%3A443
+vless://cf92529d-9c4a-4d71-ab87-ae784a2da6bb@104.18.45.184:443?&security=tls&fp=chrome&sni=gy-cffc3-node-project-lb5p6r204ts3xuoz.pages.dev&type=ws&headerType=none&host=gy-cffc3-node-project-lb5p6r204ts3xuoz.pages.dev&path=%2Franking%2Fproxyip%3DProxyIP.KR.CMLiussss.net%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20vless%20ws%2Ftls%20104.18.45.184%3A443
+vless://cf92529d-9c4a-4d71-ab87-ae784a2da6bb@172.64.159.157:443?fp=chrome&host=gy-cffc3-node-project-lb5p6r204ts3xuoz.pages.dev&path=%2Fphotos%2Flist%2Ffeedback%2Fproxyip%3DProxyIP.KR.CMLiussss.net%3Fed%3D2560&security=tls&sni=gy-cffc3-node-project-lb5p6r204ts3xuoz.pages.dev&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20vless%20ws%2Ftls%20172.64.159.157%3A443
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851%20%232
+vmess://eyJhZGQiOiAibmlja2d1cy5jYy5jZCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTZlZWU3OTEtOTllOC00ZTExLTlkMjctNTM5YjQ2YzE0MzY4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9waG90b3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAi8J+HsPCfh7cgS1IgU2VvdWwgdm1lc3Mgd3MvdGxzIG5pY2tndXMuY2MuY2Q6NDQzIiwgInNuaSI6ICJuaWNrZ3VzLmNjLmNkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vmess://eyJhZGQiOiAibmlja2d1cy5jYy5jZCIsICJhaWQiOiAiMCIsICJob3N0IjogIm5pY2tndXMuY2MuY2QiLCAiaWQiOiAiNTZlZWU3OTEtOTllOC00ZTExLTlkMjctNTM5YjQ2YzE0MzY4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9waG90b3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAi8J+HsPCfh7cgS1IgU2VvdWwgdm1lc3Mgd3MvdGxzIG5pY2tndXMuY2MuY2Q6NDQzICMyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=

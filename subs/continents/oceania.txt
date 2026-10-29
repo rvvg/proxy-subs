@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0J7QutC10LDQvdC40Y8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMDk6NDMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMTU6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 09:43 UTC, 5 proxies, best first
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%2045.63.30.142%3A443
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=45.63.30.142&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%2045.63.30.142%3A443%20%232
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%2045.63.30.142%3A443%20%233
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%2045.63.30.142%3A443%20%234
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@au001.zestapp778.com:35652?type=raw&security=tls&fp=chrome&sni=au001.zestapp778.com&packetEncoding=none#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Ftls%20au001.zestapp778.com%3A35652
+# updated 2026-10-29 15:39 UTC, 3 proxies, best first
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@au001.zestapp778.com:35652?security=tls&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Ftls%20au001.zestapp778.com%3A35652
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.28.169.149:35652?encryption=none&fp=firefox&security=tls&sni=au001.zestapp778.com&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Ftls%20149.28.169.149%3A35652
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@au001.zestapp778.com:35652?encryption=none&security=tls&type=tcp&sni=au001.zestapp778.com&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Ftls%20au001.zestapp778.com%3A35652%20%232

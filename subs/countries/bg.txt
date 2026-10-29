@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMDk6NDMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMTU6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 09:43 UTC, 2 proxies, best first
-vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@37.18.14.43:8443?encryption=none&type=xhttp&security=tls&sni=flatcrest.net&fp=firefox&host=flatcrest.net&path=/api/v1/upload&mode=auto&extra=%7B%22extra%22:null,%22host%22:%22%22,%22mode%22:%22%22,%22path%22:%22%22,%22scMaxEachPostBytes%22:%221000000%22,%22scMinPostsIntervalMs%22:%2230%22,%22scStreamUpServerSecs%22:%220%22,%22sessionIDLength%22:%220%22,%22uplinkChunkSize%22:%220%22,%22xPaddingBytes%22:%22100-1000%22,%22xmux%22:%7B%22cMaxReuseTimes%22:%2264-128%22,%22hMaxRequestTimes%22:%220%22,%22hMaxReusableSecs%22:%220%22,%22maxConcurrency%22:%2216-32%22,%22maxConnections%22:%220%22%7D%7D#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2037.18.14.43%3A8443
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:8443?encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xmux":{"maxConcurrency":"16-32","maxConnections":"0","cMaxReuseTimes":"64-128"}}&fp=firefox&host=windytrout.net&path=/api/v1/upload&security=tls&sni=windytrout.net&type=xhttp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2081.94.148.232%3A8443
+# updated 2026-10-29 15:39 UTC, 2 proxies, best first
+vless://5ae138db-e66a-46a9-bb53-686e72987a0f@217.60.52.138:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bg23.static-s3.org&pbk=0McUD1X8kyk0kBae3OpFVNVwn5nVkOUdqOtmQTsfNmE&sid=baa87dde18a1e2c4&fp=firefox&spx=/#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20217.60.52.138%3A443
+vless://5ae138db-e66a-46a9-bb53-686e72987a0f@217.60.52.138:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0McUD1X8kyk0kBae3OpFVNVwn5nVkOUdqOtmQTsfNmE&security=reality&sid=baa87dde18a1e2c4&sni=bg23.static-s3.org&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20217.60.52.138%3A443%20%232

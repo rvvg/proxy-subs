@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMDk6NDMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMTU6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 09:43 UTC, 1 proxies, best first
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&security=reality&sni=rusbid.de&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20raw%2Freality%20cz-prg.dontblockmepls.com%3A2063
+# updated 2026-10-29 15:39 UTC, 1 proxies, best first
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@213.171.28.145:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=meXyIAqH1g8MzSCpMF5_m7VgjgwN0cc6WfQY9QpIpzE&security=reality&sid=6af8dffdb0aaa7a6&sni=kas3.nullo.pro&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20raw%2Freality%20213.171.28.145%3A8443
