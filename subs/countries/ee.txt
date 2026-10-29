@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMTU6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 15:39 UTC, 6 proxies, best first
-vless://5d9fb46f-c4bc-4d6e-9a26-a4d5f51abd28@ee-2e06d85dc0.shamanapp.online:34451?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22cMaxLifetimeMs%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&host=ee-2e06d85dc0.shamanapp.online&mode=stream-up&path=%2FShamanXHTTP2026&security=tls&sni=ee-2e06d85dc0.shamanapp.online&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20ee-2e06d85dc0.shamanapp.online%3A34451
-vless://5d9fb46f-c4bc-4d6e-9a26-a4d5f51abd28@ee-2e06d85dc0.shamanapp.online:34451?type=xhttp&security=tls&fp=firefox&sni=ee-2e06d85dc0.shamanapp.online&path=%2FShamanXHTTP2026&host=ee-2e06d85dc0.shamanapp.online&mode=stream-up#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20ee-2e06d85dc0.shamanapp.online%3A34451%20%232
+# updated 2026-10-29 21:34 UTC, 10 proxies, best first
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@130.78.190.20:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=a.es-2.bnc-gt.co.uk&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20grpc%2Ftls%20130.78.190.20%3A443
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@130.78.190.20:443?security=tls&sni=a.es-2.bnc-gt.co.uk&alpn=h2&fp=qq&type=grpc&serviceName=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20grpc%2Ftls%20130.78.190.20%3A443%20%232
+hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us&alpn=h3#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%2013.143.239.127%3A443
 vless://abca037b-bee5-41cc-a888-0668e4c66176@597dad6b.con.fernarchive.online:443?type=xhttp&security=tls&fp=firefox&sni=597dad6b.con.fernarchive.online&path=%2Fconv4%2Fstream%2F77dd2aeeb94331fbff325bb48850392b&mode=auto#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20597dad6b.con.fernarchive.online%3A443
 vless://abca037b-bee5-41cc-a888-0668e4c66176@31.76.70.90:443/?type=xhttp&encryption=none&flow=&path=%2Fconv4%2Fstream%2F77dd2aeeb94331fbff325bb48850392b&mode=auto&security=tls&sni=597dad6b.con.fernarchive.online&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%2031.76.70.90%3A443
+vless://5d9fb46f-c4bc-4d6e-9a26-a4d5f51abd28@ee-2e06d85dc0.shamanapp.online:34451?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22cMaxLifetimeMs%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&host=ee-2e06d85dc0.shamanapp.online&mode=stream-up&path=%2FShamanXHTTP2026&security=tls&sni=ee-2e06d85dc0.shamanapp.online&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20ee-2e06d85dc0.shamanapp.online%3A34451
+vless://5d9fb46f-c4bc-4d6e-9a26-a4d5f51abd28@ee-2e06d85dc0.shamanapp.online:34451?encryption=none&host=ee-2e06d85dc0.shamanapp.online&mode=stream-up&path=%2FShamanXHTTP2026&security=tls&sni=ee-2e06d85dc0.shamanapp.online&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20ee-2e06d85dc0.shamanapp.online%3A34451%20%232
+vless://5d9fb46f-c4bc-4d6e-9a26-a4d5f51abd28@ee-2e06d85dc0.shamanapp.online:34451?type=xhttp&security=tls&fp=chrome&sni=ee-2e06d85dc0.shamanapp.online&path=/ShamanXHTTP2026&host=ee-2e06d85dc0.shamanapp.online&mode=stream-up#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20ee-2e06d85dc0.shamanapp.online%3A34451%20%233
+vless://abca037b-bee5-41cc-a888-0668e4c66176@31.76.70.90:443?path=/conv4/stream/77dd2aeeb94331fbff325bb48850392b&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=597dad6b.con.fernarchive.online#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%2031.76.70.90%3A443%20%232
 vless://5d9fb46f-c4bc-4d6e-9a26-a4d5f51abd28@31.56.187.35:34451?security=tls&sni=ee-2e06d85dc0.shamanapp.online&fp=firefox&type=xhttp&path=%2FShamanXHTTP2026&host=ee-2e06d85dc0.shamanapp.online&mode=stream-up#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%2031.56.187.35%3A34451
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?type=tcp&security=reality&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&sni=www.samsung.com&host=ee.h1cloud.net&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee.h1cloud.net%3A25895
