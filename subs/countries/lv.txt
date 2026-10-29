@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMDk6NDMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 03:34 UTC, 2 proxies, best first
+# updated 2026-10-29 09:43 UTC, 3 proxies, best first
 vless://4d259556-57f7-4e5a-9a4a-48868787fb38@31.58.171.53:443?flow=xtls-rprx-vision&fp=chrome&pbk=iCy_Y2B58KB39rw94EycaBO-aldt2PaMmWz62arreSo&security=reality&sid=f77f3068&sni=dl.google.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2031.58.171.53%3A443
+vless://4d259556-57f7-4e5a-9a4a-48868787fb38@31.58.171.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iCy_Y2B58KB39rw94EycaBO-aldt2PaMmWz62arreSo&security=reality&sid=f77f3068&sni=dl.google.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2031.58.171.53%3A443%20%232
 vless://a1c667a3-a0d4-4269-9487-cd18ab4aec65@89.42.196.116:443?mode=auto&path=/root&security=none&encryption=mlkem768x25519plus.native.0rtt.OzvD7axNrp3x1LaKMYsHhmV5YvVWMgVVYBBupRHVJls&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=89.42.196.116&type=xhttp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20xhttp%2Fnone%2Benc%2089.42.196.116%3A443
