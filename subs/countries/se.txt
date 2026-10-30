@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0U=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMjE6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,12 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-30 15:37 UTC, 8 proxies, best first
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@162.159.130.234:443/?type=ws&encryption=none&flow=&host=vp19.1145678.xyz&path=%2Fimages%2Fclassify%2Fdh&security=tls&sni=vp19.1145678.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20162.159.130.234%3A443
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:443?security=tls&type=ws&path=%2Ftorrent%2Fdocuments%2Fphotos&host=vp12.1145678.xyz&packetEncoding=xudp&sni=vp12.1145678.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Sigtuna%20vless%20ws%2Ftls%20saas.sin.fan%3A443
+# updated 2026-10-30 21:36 UTC, 4 proxies, best first
 hy2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20hy2%20hysteria%2Ftls%20192.142.23.46%3A443
-vless://ec23f217-23a1-4f62-b98d-ba56070de89c@www.speedtest.net:443?&security=tls&fp=chrome&sni=wallweb4.pages.dev&type=ws&headerType=none&host=wallweb4.pages.dev&path=%2Ffp%3Dchrome#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20www.speedtest.net%3A443
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:443?fp=chrome&host=vp22.1145678.xyz&path=%2Fplaylist&security=tls&sni=vp22.1145678.xyz&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20saas.sin.fan%3A443
-vless://0205a7e1-970d-468a-926c-7e3b4c9a8b9d@Konglam.goodphilips.ir:443?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.Czbg9hcwQievAuL-xnehRb6R4iBpzARvfocZiezGIgo&pbk=x1K53K_cLlg8QvxQhDnfRvMkQbtWkdzKdmaeYCIo4Hc&fp=chrome&type=grpc&sni=amp-api-edge.apps.apple.com&sid=e85705ad62739603#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Sp%C3%A5nga%20vless%20grpc%2Freality%2Benc%20konglam.goodphilips.ir%3A443
-vless://0205a7e1-970d-468a-926c-7e3b4c9a8b9d@Konglam.goodphilips.ir:443?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.Czbg9hcwQievAuL-xnehRb6R4iBpzARvfocZiezGIgo&pbk=x1K53K_cLlg8QvxQhDnfRvMkQbtWkdzKdmaeYCIo4Hc&fp=chrome&type=grpc&sni=amp-api-edge.apps.apple.com&sid=e85705ad62739603&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Sp%C3%A5nga%20vless%20grpc%2Freality%2Benc%20konglam.goodphilips.ir%3A443%20%232
+vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.193:8462?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MrCVk_IX3i58KxjEk-zj6xmh1lZ_WW9SfZ-Bsc6EFnQ&security=reality&sid=4c312f2eab89201d&sni=svoboda8.bystriynet.online&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%205.181.158.193%3A8462
+vless://38184696-21c9-41ab-9a62-2a1da5e0df53@193.151.158.117:50332?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Ftls%2Benc%20193.151.158.117%3A50332
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@msk2.rvpn.app:8388#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20ss%20msk2.rvpn.app%3A8388
