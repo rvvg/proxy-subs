@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDk6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-30 03:34 UTC, 4 proxies, best first
-vmess://eyJhZGQiOiAiMTI5LjE1NC42MS4xOTYiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaWQiOiAiYTkxNWIxZDYtY2YyOC00ZGM4LWU0YjQtZTA5YzQ4YzM3ZWMwIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6ICI4MDAiLCAicHMiOiAi8J+HsPCfh7cgS1IgQ2h1bmNoZW9uIHZtZXNzIHJhdy9ub25lIDEyOS4xNTQuNjEuMTk2OjgwMCIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851%20%232
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cgS1IgU2VvdWwgdm1lc3Mgd3MvdGxzIG5pY2tndXMuY2MuY2Q6NDQzIiwgImFkZCI6ICJuaWNrZ3VzLmNjLmNkIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjU2ZWVlNzkxLTk5ZTgtNGUxMS05ZDI3LTUzOWI0NmMxNDM2OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3Bob3RvcyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+# updated 2026-10-30 09:39 UTC, 6 proxies, best first
+hy2://maintell@152.70.237.123:2053?insecure=1&sni=152.70.237.123#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
+hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?security=tls&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851%20%232
+vmess://eyJhZGQiOiAibmlja2d1cy5jYy5jZCIsICJhaWQiOiAiMCIsICJob3N0IjogIm5pY2tndXMuY2MuY2QiLCAiaWQiOiAiNTZlZWU3OTEtOTllOC00ZTExLTlkMjctNTM5YjQ2YzE0MzY4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9waG90b3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAi8J+HsPCfh7cgS1IgU2VvdWwgdm1lc3Mgd3MvdGxzIG5pY2tndXMuY2MuY2Q6NDQzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&sni=kr002.zestapp778.com&fp=firefox#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.255.150%3A48851

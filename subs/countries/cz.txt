@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDk6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-30 03:34 UTC, 2 proxies, best first
-vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@178.208.80.62:443?flow=xtls-rprx-vision&fp=firefox&pbk=giiwQrxIa46OC_KvKgK61k4e_E0DoffuYSBEzik_bmc&security=reality&sid=a38c67&sni=www.google.co.uk&type=raw#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20raw%2Freality%20178.208.80.62%3A443
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@46.8.113.64:443?security=reality&encryption=none&pbk=_SukRXeT9BnvrE3eQTrw8vwsrhu7w3hNTMTEK2xzHEw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.zabbix.com#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20raw%2Freality%2046.8.113.64%3A443
+# updated 2026-10-30 09:39 UTC, 3 proxies, best first
+vless://6a6ac9b3-b336-44f7-a1c4-a03d6c2fae9e@37.46.209.31:443?type=xhttp&security=reality&fp=qq&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&sni=chek.skysafe.online&path=/patch&mode=auto#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Brno%20vless%20xhttp%2Freality%2037.46.209.31%3A443
+vless://6a6ac9b3-b336-44f7-a1c4-a03d6c2fae9e@37.46.209.31:443?encryption=none&fp=firefox&path=/patch&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&security=reality&sid=6ba7b8109dad11d1&sni=chek.skysafe.online&type=xhttp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Brno%20vless%20xhttp%2Freality%2037.46.209.31%3A443%20%232
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@178.208.80.62:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=giiwQrxIa46OC_KvKgK61k4e_E0DoffuYSBEzik_bmc&security=reality&sid=a38c67&sni=www.google.co.uk&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20raw%2Freality%20178.208.80.62%3A443

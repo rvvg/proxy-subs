@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDk6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-30 03:34 UTC, 1 proxies, best first
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@130.49.189.54:8388#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20ss%20130.49.189.54%3A8388
+# updated 2026-10-30 09:39 UTC, 3 proxies, best first
+vless://ce64591a-fe2d-48cd-b738-e5f591eea784@157.22.240.216:443?flow=xtls-rprx-vision&security=reality&sni=alb.talon.su&fp=firefox&pbk=Dr5AYolksrs-Pq7eu9kQjyGNI3DFdw3rNCYwnH_16E4&sid=c371c639bd224be2#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20157.22.240.216%3A443
+vless://58647a59-0097-495e-9185-bc4be0390b32@147.45.141.150:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=alcf01d.sonicservice.digital&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20147.45.141.150%3A443
+vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@al.reus.lol:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=jVNJH18MECOqhciQLa-w7Y7yp3N9IdseIDpgCEu2LhU&sid=81785a5f59d66d7d&sni=al.reus.lol#%F0%9F%87%A6%F0%9F%87%B1%20AL%20vless%20raw%2Freality%20al.reus.lol%3A443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0g=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDk6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-30 03:34 UTC, 6 proxies, best first
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=resources.yourultimateprofessionalcareerhub.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20trojan%20raw%2Ftls%20208.69.78.208%3A443
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&sni=cdn.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20trojan%20raw%2Ftls%20208.69.78.60%3A443
+# updated 2026-10-30 09:39 UTC, 4 proxies, best first
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20trojan%20raw%2Ftls%20208.69.78.19%3A443
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%2045.90.59.15%3A443
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20trojan%20raw%2Ftls%20208.69.78.29%3A443
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20trojan%20raw%2Ftls%20208.69.78.19%3A443
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?flow=xtls-rprx-vision&fp=random&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%2045.90.59.15%3A443
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%2045.90.59.15%3A443%20%232
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?flow=xtls-rprx-vision&fp=random&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%2045.90.59.15%3A443%20%232

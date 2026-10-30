@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDk6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-30 03:34 UTC, 4 proxies, best first
+# updated 2026-10-30 09:39 UTC, 7 proxies, best first
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=cff998a4&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&encryption=none#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20152.32.167.33%3A443
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?flow=xtls-rprx-vision&fp=chrome&host=www.amazon.com&path=%2F&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&security=reality&sid=cff998a4&sni=www.amazon.com&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20152.32.167.33%3A443%20%232
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&security=tls&sni=n04.jinggai.online&type=ws#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20n04.jinggai.online%3A8443
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?fp=chrome&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&security=tls&sni=n04.jinggai.online&type=ws#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20n04.jinggai.online%3A8443%20%232
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&security=tls&sni=n04.jinggai.online&type=ws#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20n04.jinggai.online%3A8443%20%233
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@172.67.165.32:8443/?type=ws&encryption=none&flow=&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&security=tls&sni=n04.jinggai.online&fp=chrome#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20172.67.165.32%3A8443
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@104.21.11.38:8443?security=tls&sni=n04.jinggai.online&type=ws&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&fp=chrome#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20104.21.11.38%3A8443

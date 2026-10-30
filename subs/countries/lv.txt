@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDk6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-30 03:34 UTC, 4 proxies, best first
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.22:9443?sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20hy2%20hysteria%2Ftls%20104.165.205.22%3A9443
+# updated 2026-10-30 09:39 UTC, 2 proxies, best first
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.21:9443?insecure=1&sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20hy2%20hysteria%2Ftls%20104.165.205.21%3A9443
-vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:38963?mode=auto&path=%2F&security=reality&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&fp=qq&type=xhttp&sni=lv.neuroniko.com&sid=10a59b0a94367ac2#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20xhttp%2Freality%20router.hermit.pw%3A38963
-vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:38963?security=reality&sni=lv.neuroniko.com&fp=qq&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&type=xhttp&path=%2F&mode=auto#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20xhttp%2Freality%2089.208.210.53%3A38963
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.22:9443?sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20hy2%20hysteria%2Ftls%20104.165.205.22%3A9443
