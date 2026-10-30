@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,13 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 21:34 UTC, 9 proxies, best first
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL3RscyA4LjIxNy4xODYuNjA6NDQzIiwgImFkZCI6ICI4LjIxNy4xODYuNjAiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiZDIzN2FiMzgtMTk3NC00YjM2LTk0YTMtMDY2NWNlODU4N2I5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJldXUxeUFsZm1jcXZMSkV4LnYuM2Rucy52aXAiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiZXV1MXlBbGZtY3F2TEpFeC52LjNkbnMudmlwIn0=
+# updated 2026-10-30 03:34 UTC, 7 proxies, best first
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHJhdy9ub25lIDE1NC4zNy4yMjMuMTA1OjUyMDgwIiwgImFkZCI6ICIxNTQuMzcuMjIzLjEwNSIsICJwb3J0IjogIjUyMDgwIiwgImlkIjogIjEyNTEzMzI1LTQ0NjQtNDMzNC1iODExLTdiMDQ3ZWJmNDBlNyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiIsICJwYXRoIjogIi9RUXF1bi03Mzc4MDU0NDMiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHJhdy9ub25lIDE1NC4zNy4yMjMuMTA1OjIyOTI2IiwgImFkZCI6ICIxNTQuMzcuMjIzLjEwNSIsICJwb3J0IjogIjIyOTI2IiwgImlkIjogIjFhOGYzMmNlLTM4N2UtNDRmYy1kZGU5LWFjYjA0Zjc2MTNhNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&path=/&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&security=reality&sid=ca4aedd4&sni=www.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20165.154.63.139%3A443
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&sid=ca4aedd4#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20165.154.63.139%3A443%20%232
-vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21004?fp=random&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&security=reality&sid=2f34703f16523c80&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20526.150333.xyz%3A21004
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?flow=xtls-rprx-vision&fp=random&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&security=reality&sid=ca4aedd4&sni=www.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20165.154.63.139%3A443%20%233
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?flow=xtls-rprx-vision&fp=random&host=www.amazon.com&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&security=reality&sid=ca4aedd4&sni=www.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20165.154.63.139%3A443
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&path=/&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&security=reality&sid=ca4aedd4&sni=www.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20165.154.63.139%3A443%20%232
 hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%2031.57.248.176%3A50160
-vless://326227e2-f2d1-4f43-8715-9da854f5f4c0@px2.5ibtc.cn:443?encryption=none&security=tls&sni=px2.5ibtc.cn&fp=chrome&type=ws&path=/326227e2-f2d1-4f43-8715-9da854f5f4c0&host=px2.5ibtc.cn#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20ws%2Ftls%20px2.5ibtc.cn%3A443
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&sid=ca4aedd4#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20165.154.63.139%3A443%20%233
+vless://326227e2-f2d1-4f43-8715-9da854f5f4c0@[2a06:98c1:3101::6812:202f]:443?encryption=none&security=tls&type=ws&host=px2.5ibtc.cn&path=%2F326227e2-f2d1-4f43-8715-9da854f5f4c0&sni=px2.5ibtc.cn&alpn=http%2F1.1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20ws%2Ftls%20%5B2a06%3A98c1%3A3101%3A%3A6812%3A202f%5D%3A443

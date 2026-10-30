@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 21:34 UTC, 1 proxies, best first
+# updated 2026-10-30 03:34 UTC, 2 proxies, best first
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@109.248.198.219:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=a.kz-1.bnc-gt.co.uk&type=grpc#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Karagandy%20vless%20grpc%2Ftls%20109.248.198.219%3A443
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877&sni=kz1.waspnest.space#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Pavlodar%20vless%20raw%2Freality%2095.56.251.12%3A47443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 21:34 UTC, 6 proxies, best first
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?sni=lt-1.1984.love&type=tcp&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443%20%232
+# updated 2026-10-30 03:34 UTC, 6 proxies, best first
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?sni=lt-1.1984.love&type=tcp&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443%20%232
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443%20%233
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443%20%234
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443%20%235
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443%20%236
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443%20%234
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443%20%235
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=android#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20trojan%20raw%2Ftls%20176.114.95.242%3A443%20%236

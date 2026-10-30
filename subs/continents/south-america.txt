@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0K7QttC90LDRjyDQkNC80LXRgNC40LrQsA==
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMjkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-29 21:34 UTC, 1 proxies, best first
+# updated 2026-10-30 03:34 UTC, 2 proxies, best first
 trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20trojan%20raw%2Ftls%20br001.zestapp778.com%3A39533
+trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Osasco%20trojan%20raw%2Ftls%20br001.zestapp778.com%3A39533%20%232
