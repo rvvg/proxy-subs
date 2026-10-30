@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMDk6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzAgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-30 09:39 UTC, 2 proxies, best first
+# updated 2026-10-30 15:37 UTC, 3 proxies, best first
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?type=grpc&security=reality&fp=firefox&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&sni=bg2.univesalsrv.com&serviceName=api.v2.PushService&spx=%2FHesarWeb#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20grpc%2Freality%2045.9.156.24%3A443
 vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@bg.reus.lol:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=OWnQ9xwvYFlNw_Fnmf4ceZMtb0SVLuVUoq2WP5P8lkw&sid=5f2d02dc7ec1e539&sni=bg.reus.lol#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20bg.reus.lol%3A443
 vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@45.137.201.74:443?flow=xtls-rprx-vision&fp=firefox&pbk=OWnQ9xwvYFlNw_Fnmf4ceZMtb0SVLuVUoq2WP5P8lkw&security=reality&sid=5f2d02dc7ec1e539&sni=bg.reus.lol&type=raw#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%2045.137.201.74%3A443
