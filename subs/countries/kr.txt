@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMDM6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,16 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-31 03:34 UTC, 6 proxies, best first
-vless://9ca218c0-e97b-4a8a-a345-af005a0ae3e5@104.16.154.175:443?type=ws&security=tls&fp=chrome&sni=v.poker2025.dpdns.org&host=v.poker2025.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20vless%20ws%2Ftls%20104.16.154.175%3A443
+# updated 2026-10-31 09:37 UTC, 12 proxies, best first
+vless://9ca218c0-e97b-4a8a-a345-af005a0ae3e5@104.16.154.175:443?type=ws&security=tls&fp=chrome&sni=v.poker2025.dpdns.org&host=v.poker2025.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20104.16.154.175%3A443
+vless://9ca218c0-e97b-4a8a-a345-af005a0ae3e5@104.17.148.35:443?type=ws&path=%2F%3Fed%3D2048&host=v.poker2025.dpdns.org&security=tls&sni=v.poker2025.dpdns.org&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20vless%20ws%2Ftls%20104.17.148.35%3A443
+vless://9ca218c0-e97b-4a8a-a345-af005a0ae3e5@104.16.248.32:443?type=ws&path=%2F%3Fed%3D2048&host=v.poker2025.dpdns.org&security=tls&sni=v.poker2025.dpdns.org&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20104.16.248.32%3A443
+vless://9ca218c0-e97b-4a8a-a345-af005a0ae3e5@172.64.153.173:443?type=ws&path=%2F%3Fed%3D2048&host=v.poker2025.dpdns.org&security=tls&sni=v.poker2025.dpdns.org&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20172.64.153.173%3A443
 hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
 trojan://dc9e33c7a6df4164@168.110.119.243:20039?security=tls&sni=ikr100a.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20168.110.119.243%3A20039
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851%20%232
 trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&sni=kr002.zestapp778.com&fp=firefox#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.255.150%3A48851
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851%20%232
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20ss%20141.164.45.187%3A2376
+vmess://eyJhZGQiOiAiMTMyLjE0NS44MC4yMzAiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJrcjAyLmEwYS54eXoiLCAiaWQiOiAiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwgIm5hdGlvbiI6ICIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2NjdHYxMy5tM3U4IiwgInBvcnQiOiAiODAiLCAicHMiOiAi8J+HsPCfh7cgS1IgU2VvdWwgdm1lc3Mgd3Mvbm9uZSAxMzIuMTQ1LjgwLjIzMDo4MCIsICJzY3kiOiAiYXV0byIsICJzZXJ2ZXJQb3J0IjogMCwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=qq&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Incheon%20vless%20raw%2Freality%203.39.4.109%3A18967
