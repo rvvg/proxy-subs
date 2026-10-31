@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMjE6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-31 15:42 UTC, 7 proxies, best first
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.63%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.18%3A19999
+# updated 2026-10-31 21:38 UTC, 10 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.27%3A19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.36%3A19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.81%3A19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.45%3A19999
+vless://57197967-f14a-4b5b-8b75-a0c6d19db048@146.75.59.186:443?type=ws&insecure=1&path=%2F&security=tls&host=takidopower-point.global.ssl.fastly.net&allowInsecure=1&sni=www.firefox.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&encryption=none&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20ws%2Ftls%20146.75.59.186%3A443
+vless://57197967-f14a-4b5b-8b75-a0c6d19db048@146.75.59.186:443?path=/&security=tls&encryption=none&insecure=1&host=takidopower-point.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=www.firefox.com#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20ws%2Ftls%20146.75.59.186%3A443%20%232
+vless://57197967-f14a-4b5b-8b75-a0c6d19db048@146.75.59.186:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=takidopower-point.global.ssl.fastly.net&sni=www.firefox.com&fp=chrome&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20ws%2Ftls%20146.75.59.186%3A443%20%233
+vless://57197967-f14a-4b5b-8b75-a0c6d19db048@146.75.59.186:443?path=%2F&security=tls&encryption=none&insecure=1&host=takidopower-point.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=www.firefox.com#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20ws%2Ftls%20146.75.59.186%3A443%20%234
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.63%3A19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.54%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.36%3A19999

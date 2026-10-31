@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMjE6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-31 15:42 UTC, 4 proxies, best first
-vless://c29fa587-b10d-445d-b7e3-eaa6d1bd1330@media.aava.lalibobi.online:443/?type=ws&encryption=none&flow=&host=media.aava.lalibobi.online&path=%2Flive%2Fshowroom&security=tls&sni=media.aava.lalibobi.online&alpn=http%2F1.1&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20media.aava.lalibobi.online%3A443
-vless://00d80782-13bb-4e45-82b6-4c21747eabd6@185.91.52.60:443?encryption=none&fp=firefox&pbk=mvaKH3l8-oq7ZAS2Nf2bOaRtKIT_es06DAgTZUqO1VM&security=reality&sid=18abe35232d7d316&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20185.91.52.60%3A443
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vision&security=reality&sni=mirror-50.topp-con.xyz&fp=firefox&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443
+# updated 2026-10-31 21:38 UTC, 5 proxies, best first
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443%20%232
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443%20%233
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&sni=discoverparttimepositionsandsupplementyourincomeguide.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20trojan%20raw%2Ftls%20167.179.108.225%3A443
+vless://9737cc16-7266-45ce-94d9-6e05a45e0b9c@estonia.nnight.cfd:443?type=xhttp&security=tls&fp=firefox&sni=estonia.nnight.cfd&path=/api/v4/media/session/poll&host=estonia.nnight.cfd&mode=packet-up&extra={"scMaxBufferedPosts":64,"scMaxEachPostBytes":"1536-6144","scMinPostsIntervalMs":"10-30","seqKey":"offset","seqPlacement":"query","sessionKey":"media_sid","sessionPlacement":"path","uplinkDataKey":"X-Playback-Token","uplinkDataPlacement":"header","uplinkHTTPMethod":"GET","xPaddingBytes":"48-320","xPaddingKey":"q","xPaddingMethod":"tokenish","xPaddingObfsMode":true,"xPaddingPlacement":"query","xmux":{"cMaxReuseTimes":"128-256","hKeepAlivePeriod":30,"hMaxRequestTimes":"600-1000","hMaxReusableSecs":"1800-3600","maxConcurrency":"8-16"}}#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20estonia.nnight.cfd%3A443
