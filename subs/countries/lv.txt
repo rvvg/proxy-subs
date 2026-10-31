@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-31 09:37 UTC, 1 proxies, best first
-vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@lv1.vpngold.ru:8443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&sni=lv1.vpngold.ru&sid=385cb18df0892069&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lv1.vpngold.ru%3A8443
+# updated 2026-10-31 15:42 UTC, 1 proxies, best first
+vless://28e7f9e1-006c-4c38-822d-2d2903477444@109.248.148.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RFZXfsd3WfxOKRcdO4Q7RoElfE8JbMpR6bG3jYLV_Uc&security=reality&sni=www.apple.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20109.248.148.140%3A443

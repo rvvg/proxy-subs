@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-31 09:37 UTC, 2 proxies, best first
-vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@bg.reus.lol:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bg.reus.lol&fp=safari&security=reality&pbk=OWnQ9xwvYFlNw_Fnmf4ceZMtb0SVLuVUoq2WP5P8lkw&sid=5f2d02dc7ec1e539#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20bg.reus.lol%3A443
-vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@45.137.201.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OWnQ9xwvYFlNw_Fnmf4ceZMtb0SVLuVUoq2WP5P8lkw&security=reality&sid=5f2d02dc7ec1e539&sni=bg.reus.lol&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%2045.137.201.74%3A443
+# updated 2026-10-31 15:42 UTC, 2 proxies, best first
+vless://f234330e-f9df-46e3-8f60-b2af5173c147@131.123.42.80:1260?security=reality&sni=play.googleapis.com&type=tcp&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20131.123.42.80%3A1260
+vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&security=reality&sid=77bb0d07bddbc832&sni=gateway.icloud.com&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20195.123.226.21%3A443
