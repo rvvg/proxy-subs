@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDEgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDEgMDk6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-01 03:35 UTC, 6 proxies, best first
+# updated 2026-11-01 09:38 UTC, 6 proxies, best first
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.17.44.17:443?host=top-e4s.pages.dev&path=%2F&security=tls&sni=top-e4s.pages.dev&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%20vless%20ws%2Ftls%20104.17.44.17%3A443
 hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
-trojan://dc9e33c7a6df4164@168.110.119.243:20039?security=tls&sni=ikr100a.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20168.110.119.243%3A20039
 trojan://3637190e-4ce3-41cd-9425-f5676345b38c@3.34.91.121:12308?sni=kr02.ulifeai.com&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Incheon%20trojan%20raw%2Ftls%203.34.91.121%3A12308
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851%20%232
-trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&sni=kr002.zestapp778.com&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.255.150%3A48851
+trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&fp=firefox&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.255.150%3A48851
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&sni=kr002.zestapp778.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
+trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&sni=kr002.zestapp778.com&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.255.150%3A48851%20%232

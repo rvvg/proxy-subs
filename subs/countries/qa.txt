@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gUUE=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDEgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDEgMDk6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-01 03:35 UTC, 1 proxies, best first
-vless://1506f2e0-ae12-4718-b5ab-c5609161300e@149.104.121.174:8443?type=raw&security=reality&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=as10.cdn77.icu#%F0%9F%87%B6%F0%9F%87%A6%20QA%20Doha%20vless%20raw%2Freality%20149.104.121.174%3A8443
+# updated 2026-11-01 09:38 UTC, 4 proxies, best first
+vless://1506f2e0-ae12-4718-b5ab-c5609161300e@149.104.121.174:8443?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=as10.cdn77.icu&type=tcp&fp=safari#%F0%9F%87%B6%F0%9F%87%A6%20QA%20Doha%20vless%20raw%2Freality%20149.104.121.174%3A8443
+vless://1506f2e0-ae12-4718-b5ab-c5609161300e@149.104.121.174:8443?security=reality&sni=as10.cdn77.icu&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8#%F0%9F%87%B6%F0%9F%87%A6%20QA%20Doha%20vless%20raw%2Freality%20149.104.121.174%3A8443%20%232
+vless://1506f2e0-ae12-4718-b5ab-c5609161300e@149.104.121.174:8443?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=as10.cdn77.icu&type=tcp#%F0%9F%87%B6%F0%9F%87%A6%20QA%20Doha%20vless%20raw%2Freality%20149.104.121.174%3A8443%20%233
+vless://1506f2e0-ae12-4718-b5ab-c5609161300e@149.104.121.174:8443?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=as10.cdn77.icu&type=tcp&fp=ios#%F0%9F%87%B6%F0%9F%87%A6%20QA%20Doha%20vless%20raw%2Freality%20149.104.121.174%3A8443%20%234
