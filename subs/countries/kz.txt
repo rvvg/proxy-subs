@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTAtMzEgMjE6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDEgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-10-31 21:38 UTC, 4 proxies, best first
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?&security=reality&flow=xtls-rprx-vision&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877&fp=chrome&sni=kz1.waspnest.space&type=tcp&headerType=none&host=kz1.waspnest.space&path=%2F#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Pavlodar%20vless%20raw%2Freality%2095.56.251.12%3A47443
+# updated 2026-11-01 03:35 UTC, 6 proxies, best first
+vless://48eb49ce-38b5-4ed1-b6ab-8eaf37cde710@176.12.77.122:443?encryption=none&flow=xtls-rprx-vision&pbk=7y9S8SLZAfdPJBbYorCCTEPXBIr8ux0aLekQTFBqZhY&security=reality&sid=88f0531d113525a2&sni=kznode.easyvpn.dev&type=tcp&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20176.12.77.122%3A443
+vless://48eb49ce-38b5-4ed1-b6ab-8eaf37cde710@176.12.77.122:443?flow=xtls-rprx-vision&pbk=7y9S8SLZAfdPJBbYorCCTEPXBIr8ux0aLekQTFBqZhY&security=reality&sid=88f0531d113525a2&sni=kznode.easyvpn.dev&type=raw&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20176.12.77.122%3A443%20%232
+vless://48eb49ce-38b5-4ed1-b6ab-8eaf37cde710@176.12.77.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7y9S8SLZAfdPJBbYorCCTEPXBIr8ux0aLekQTFBqZhY&security=reality&sid=88f0531d113525a2&sni=kznode.easyvpn.dev&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20176.12.77.122%3A443%20%233
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877&sni=kz1.waspnest.space#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Pavlodar%20vless%20raw%2Freality%2095.56.251.12%3A47443
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Pavlodar%20vless%20raw%2Freality%2095.56.251.12%3A47443%20%232
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp&fp=safari#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Pavlodar%20vless%20raw%2Freality%2095.56.251.12%3A47443%20%233
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz1.waspnest.space&fp=firefox&security=reality&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Pavlodar%20vless%20raw%2Freality%2095.56.251.12%3A47443%20%234
