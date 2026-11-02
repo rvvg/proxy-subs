@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gQkU=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDIgMTU6MzkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-02 15:39 UTC, 1 proxies, best first
+vless://7e1bbe39-2a27-4750-be12-44b0683f9823@31.129.42.131:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zkoNHNES2lkc50ZSm-I-fjH92OkQomURpcSwN1DhqEo&security=reality&sid=a7d054b844ba6e6c&sni=max.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Brussels%20vless%20raw%2Freality%2031.129.42.131%3A443
