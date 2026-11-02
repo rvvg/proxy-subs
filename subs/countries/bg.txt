@@ -1,0 +1,14 @@
+#profile-title: base64:RnJlZSBWUE4gQkc=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDIgMDM6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-02 03:36 UTC, 4 proxies, best first
+vless://518079db-d88d-4035-bbf4-ddd1f9cf1e5f@217.60.52.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&security=reality&sid=486a1a9c7288b70e&sni=bg-adapt.static-s3.org&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20217.60.52.142%3A443
+vless://518079db-d88d-4035-bbf4-ddd1f9cf1e5f@217.60.52.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&security=reality&sid=486a1a9c7288b70e&sni=bg-adapt.static-s3.org&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20217.60.52.143%3A443
+vless://518079db-d88d-4035-bbf4-ddd1f9cf1e5f@217.60.52.143:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=bg-adapt.static-s3.org&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&sid=486a1a9c7288b70e&fp=firefox&spx=%2F#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20217.60.52.143%3A443%20%232
+vless://518079db-d88d-4035-bbf4-ddd1f9cf1e5f@217.60.52.142:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=bg-adapt.static-s3.org&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&sid=486a1a9c7288b70e&fp=firefox&spx=%2F#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20217.60.52.142%3A443%20%232
