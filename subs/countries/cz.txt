@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMjE6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 15:37 UTC, 2 proxies, best first
-hysteria2://9a8e6575-0564-4c3a-8b46-8f723828daf6@89.187.144.116:443?sni=cz.ahuel.net&alpn=h3#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20hy2%20hysteria%2Ftls%2089.187.144.116%3A443
-vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?security=tls&sni=cz.ahuel.net&alpn=h2&type=grpc&serviceName=catalog-sync&mode=gun&fp=ios#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20grpc%2Ftls%20176.108.243.235%3A9570
+# updated 2026-11-03 21:37 UTC, 2 proxies, best first
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@178.208.89.21:443?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=prod-eu-east-cz6.api-gateway.service-mesh.ingress-observability.speedtestinternet.link&type=raw#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20raw%2Ftls%20178.208.89.21%3A443
+vless://a44a1eab-1f2d-435e-b324-3c9e73d975bc@89.125.237.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IiBlvTjhPXcCixjqH6n6Cz3RWbeQjHepWtfIi28mly4&security=reality&sid=9f2c4a7b1d6e8035&sni=www.google.com&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20raw%2Freality%2089.125.237.245%3A443

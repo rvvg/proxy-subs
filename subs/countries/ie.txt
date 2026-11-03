@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMjE6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 15:37 UTC, 1 proxies, best first
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ie1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ie1.fox-lisa.ru&sid=027af64166562b09#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20raw%2Freality%20ie1.fox-lisa.ru%3A443
+# updated 2026-11-03 21:37 UTC, 2 proxies, best first
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ie1.fox-lisa.ru:443?security=reality&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=ie1.fox-lisa.ru&sid=027af64166562b09#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20raw%2Freality%20ie1.fox-lisa.ru%3A443
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?encryption=none&mode=gun&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&security=reality&serviceName=grpc-90&sid=cbc638acc8ac87&sni=max.ru&spx=%2F&type=grpc&fp=ios#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20grpc%2Freality%20qtir1.dnetsolutions.ru%3A443

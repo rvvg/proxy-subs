@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0JDRhNGA0LjQutCw
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMjE6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 15:37 UTC, 1 proxies, best first
-vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@45.150.189.211:443?security=reality&encryption=none&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=3c6fc84d#%F0%9F%87%B0%F0%9F%87%AA%20KE%20Nairobi%20vless%20raw%2Freality%2045.150.189.211%3A443
+# updated 2026-11-03 21:37 UTC, 1 proxies, best first
+hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3Acv_QNzenE8BtqjxU5H4mzZ7ki0M4jLW2DCs01wdD78Y@102.208.216.88:8443?sni=za2.lumacache.com&alpn=h3#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20Cape%20Town%20hy2%20hysteria%2Ftls%20102.208.216.88%3A8443
