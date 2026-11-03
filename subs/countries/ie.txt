@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 03:33 UTC, 4 proxies, best first
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&spx=%2F&type=grpc&serviceName=grpc-90&sni=max.ru&sid=cbc638acc8ac87&fp=safari#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20grpc%2Freality%20qtir1.dnetsolutions.ru%3A443
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&spx=%2F&type=grpc&serviceName=grpc-90&sni=max.ru&sid=cbc638acc8ac87&fp=random#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20grpc%2Freality%20qtir1.dnetsolutions.ru%3A443%20%232
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?type=grpc&security=reality&fp=firefox&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&sni=max.ru&mode=gun&serviceName=grpc-90&spx=/#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20grpc%2Freality%20qtir1.dnetsolutions.ru%3A443%20%233
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?security=reality&type=grpc&sni=max.ru&fp=random&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&serviceName=grpc-90#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20grpc%2Freality%20qtir1.dnetsolutions.ru%3A443%20%234
+# updated 2026-11-03 09:36 UTC, 2 proxies, best first
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?security=reality&type=grpc&sni=max.ru&fp=random&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&serviceName=grpc-90#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20grpc%2Freality%20qtir1.dnetsolutions.ru%3A443
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&spx=%2F&type=grpc&serviceName=grpc-90&sni=max.ru&sid=cbc638acc8ac87&fp=firefox#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20grpc%2Freality%20qtir1.dnetsolutions.ru%3A443%20%232

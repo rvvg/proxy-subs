@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTVk=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 03:33 UTC, 2 proxies, best first
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@xunlinknode.csdjhajkshdjkas.com:40006#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Hulu%20Langat%20ss%20xunlinknode.csdjhajkshdjkas.com%3A40006
+# updated 2026-11-03 09:36 UTC, 2 proxies, best first
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ=@58.152.58.193:40006#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Hulu%20Langat%20ss%2058.152.58.193%3A40006
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@xunlinknode.csdjhajkshdjkas.com:40006#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Hulu%20Langat%20ss%20xunlinknode.csdjhajkshdjkas.com%3A40006
