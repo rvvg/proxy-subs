@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 09:36 UTC, 1 proxies, best first
-vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=udemy.com&fp=chrome&flow=xtls-rprx-vision&sid=e90360ec7cc61b20&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20raw%2Freality%20212.102.38.25%3A443
+# updated 2026-11-03 15:37 UTC, 2 proxies, best first
+hysteria2://9a8e6575-0564-4c3a-8b46-8f723828daf6@89.187.144.116:443?sni=cz.ahuel.net&alpn=h3#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20hy2%20hysteria%2Ftls%2089.187.144.116%3A443
+vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?security=tls&sni=cz.ahuel.net&alpn=h2&type=grpc&serviceName=catalog-sync&mode=gun&fp=ios#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20grpc%2Ftls%20176.108.243.235%3A9570

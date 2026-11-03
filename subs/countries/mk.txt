@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gTUs=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-03 15:37 UTC, 1 proxies, best first
+hysteria2://1793747701:04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab:3qPXWQg2jZOTEAyDzKe6Y6crr6zTX3r1v8wTaoX21uo@195.144.24.69:8443?sni=mk2.lumacache.com#%F0%9F%87%B2%F0%9F%87%B0%20MK%20Skopje%20hy2%20hysteria%2Ftls%20195.144.24.69%3A8443

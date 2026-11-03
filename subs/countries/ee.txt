@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 09:36 UTC, 4 proxies, best first
+# updated 2026-11-03 15:37 UTC, 5 proxies, best first
+hysteria2://9a8e6575-0564-4c3a-8b46-8f723828daf6@82.47.22.70:443?sni=ee.ahuel.net#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%2082.47.22.70%3A443
+vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@cdn.izzzyvpn.space:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=v--0dXOWcnzpJvl_6qkbWTCRLg-eWdJ6WxJsYtj9WQY&sid=f7fdf037537b8c38&sni=cdn.izzzyvpn.space#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20cdn.izzzyvpn.space%3A443
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mirror-50.topp-con.xyz&fp=chrome&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443/?encryption=none&flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443%20%232
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443%20%233
-vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@150.241.74.29:443?encryption=none&flow=xtls-rprx-vision&pbk=v--0dXOWcnzpJvl_6qkbWTCRLg-eWdJ6WxJsYtj9WQY&security=reality&sid=f7fdf037537b8c38&sni=cdn.izzzyvpn.space&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20150.241.74.29%3A443
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443%20%232
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443/?encryption=none&flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443%20%233
