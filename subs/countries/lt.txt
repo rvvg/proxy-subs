@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,13 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 09:37 UTC, 9 proxies, best first
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?flow=xtls-rprx-vision&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=raw&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443%20%232
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.215.96:443?flow=xtls-rprx-vision&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=raw&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.215.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443%20%232
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443%20%233
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.215.96:443?flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443%20%233
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443%20%234
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?security=tls&sni=marshalltmp.top&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fshop%2Fcatalog&host=marshalltmp.top#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20ws%2Ftls%20185.178.208.140%3A443
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@217.16.26.34:2085?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20217.16.26.34%3A2085
+# updated 2026-11-04 15:37 UTC, 3 proxies, best first
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?flow=xtls-rprx-vision&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=raw&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443
+vless://92b79c22-f68b-4713-8b21-52f264cb92f5@85.209.231.169:2087?flow=xtls-rprx-vision&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=cdndownloadlink.song69.fun&type=raw&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%2085.209.231.169%3A2087
+vless://d16f7276-b967-440d-88b7-76945654ed55@91.185.83.226:443?encryption=none&extra=null&fp=firefox&host=www.sportshkola-olimp.com&mode=auto&path=%2F20a2e5ee79b7&pbk=HdBwyYF-VPrdSeIkn4LOB6pyAv6yD58QUIjqfW0H60w&security=reality&sid=9859c4395035e221&sni=www.sportshkola-olimp.com&type=xhttp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20xhttp%2Freality%2091.185.83.226%3A443
