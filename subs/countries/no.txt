@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTk8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 03:35 UTC, 4 proxies, best first
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@no1.fox-lisa.ru:443?security=reality&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=no1.fox-lisa.ru&sid=027af64166562b09#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Oslo%20vless%20raw%2Freality%20no1.fox-lisa.ru%3A443
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.90.61.65:443?flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=no1.fox-lisa.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Oslo%20vless%20raw%2Freality%20185.90.61.65%3A443
-vless://664d2284-e0ad-4de4-9752-a0e12a29840e@nor92.enterquality.online:2443?encryption=none&security=tls&type=tcp&sni=nor92.enterquality.online&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Oslo%20vless%20raw%2Ftls%20nor92.enterquality.online%3A2443
-vless://664d2284-e0ad-4de4-9752-a0e12a29840e@167.104.108.221:2443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nor92.enterquality.online&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Oslo%20vless%20raw%2Ftls%20167.104.108.221%3A2443
+# updated 2026-11-04 09:37 UTC, 1 proxies, best first
+vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@217.16.26.27:2086?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Sortland%20vless%20raw%2Freality%20217.16.26.27%3A2086

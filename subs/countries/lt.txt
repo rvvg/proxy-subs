@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,12 +7,13 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 03:35 UTC, 8 proxies, best first
-vless://664d2284-e0ad-4de4-9752-a0e12a29840e@lao10.enterquality.online:2443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=lao10.enterquality.online&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Ftls%20lao10.enterquality.online%3A2443
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443
-vless://664d2284-e0ad-4de4-9752-a0e12a29840e@84.32.110.58:2443?flow=xtls-rprx-vision&security=tls&sni=lao10.enterquality.online&type=raw&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Ftls%2084.32.110.58%3A2443
+# updated 2026-11-04 09:37 UTC, 9 proxies, best first
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?flow=xtls-rprx-vision&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=raw&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443%20%232
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.215.96:443?flow=xtls-rprx-vision&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=raw&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443
-vless://664d2284-e0ad-4de4-9752-a0e12a29840e@84.32.110.58:2443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lao10.enterquality.online&type=tcp&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Ftls%2084.32.110.58%3A2443%20%232
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.215.96:443?type=tcp&headerType=none&security=reality&encryption=none&sni=app26.betust.net&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443%20%232
-vless://664d2284-e0ad-4de4-9752-a0e12a29840e@84.32.110.58:2443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lao10.enterquality.online&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Ftls%2084.32.110.58%3A2443%20%233
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.215.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443%20%233
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.215.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443%20%232
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443%20%233
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.215.96:443?flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443%20%233
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443%20%234
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?security=tls&sni=marshalltmp.top&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fshop%2Fcatalog&host=marshalltmp.top#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20ws%2Ftls%20185.178.208.140%3A443
+vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@217.16.26.34:2085?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20217.16.26.34%3A2085

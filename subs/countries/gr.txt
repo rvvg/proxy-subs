@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gR1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 03:35 UTC, 1 proxies, best first
-vless://c6ac29f4-41d5-492a-a3d0-6582d620aba7@195.123.189.129:443?fp=firefox&pbk=ijDPaDKzsKkpYj9lEpBatS-FKdmYaGP3aUO2MThuLmU&security=reality&serviceName=grpc-82&sid=e56ea883b092f3&sni=max.ru&type=grpc#%F0%9F%87%AC%F0%9F%87%B7%20GR%20Thessaloniki%20vless%20grpc%2Freality%20195.123.189.129%3A443
+# updated 2026-11-04 09:37 UTC, 1 proxies, best first
+vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@217.16.26.34:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp#%F0%9F%87%AC%F0%9F%87%B7%20GR%20Athens%20vless%20raw%2Freality%20217.16.26.34%3A2083

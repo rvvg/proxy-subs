@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTUs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 03:35 UTC, 1 proxies, best first
-vless://cf715525-50b8-4128-b72f-1502422b38e2@217.60.55.63:3729?encryption=none&security=reality&type=tcp&sni=mk29.static-s3.org&fp=firefox&pbk=DrCVnln1cPm864zoSbn3_uto6CZ52CE5u-AM_2OuHhQ&sid=17716bb59e4b0191&flow=xtls-rprx-vision#%F0%9F%87%B2%F0%9F%87%B0%20MK%20Skopje%20vless%20raw%2Freality%20217.60.55.63%3A3729
+# updated 2026-11-04 09:37 UTC, 1 proxies, best first
+vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@217.16.26.34:2084?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp#%F0%9F%87%B2%F0%9F%87%B0%20MK%20Skopje%20vless%20raw%2Freality%20217.16.26.34%3A2084
