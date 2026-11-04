@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gR1I=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-04 03:35 UTC, 1 proxies, best first
+vless://c6ac29f4-41d5-492a-a3d0-6582d620aba7@195.123.189.129:443?fp=firefox&pbk=ijDPaDKzsKkpYj9lEpBatS-FKdmYaGP3aUO2MThuLmU&security=reality&serviceName=grpc-82&sid=e56ea883b092f3&sni=max.ru&type=grpc#%F0%9F%87%AC%F0%9F%87%B7%20GR%20Thessaloniki%20vless%20grpc%2Freality%20195.123.189.129%3A443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMjE6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 21:37 UTC, 3 proxies, best first
+# updated 2026-11-04 03:35 UTC, 5 proxies, best first
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.246.131.55:443?flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=bg1.fox-lisa.ru&type=raw#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20185.246.131.55%3A443
-vless://43a26f1a-99b7-4b17-98c7-b836fb466999@217.60.52.143:443?security=reality&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delays%22%3A%5B%220%22%2C%220%22%5D%2C%22length%22%3A%22256%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%222%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&fp=chrome&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=bg-adapt.static-s3.org&sid=486a1a9c7288b70e#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20217.60.52.143%3A443
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@bg1.fox-lisa.ru:443?security=reality&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=bg1.fox-lisa.ru&sid=027af64166562b09#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20bg1.fox-lisa.ru%3A443
+vless://43a26f1a-99b7-4b17-98c7-b836fb466999@217.60.52.143:443?flow=xtls-rprx-vision&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&security=reality&sid=486a1a9c7288b70e&sni=bg-adapt.static-s3.org&type=raw&fp=chrome#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20217.60.52.143%3A443
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.246.131.55:443?encryption=none&flow=xtls-rprx-vision&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=bg1.fox-lisa.ru&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20185.246.131.55%3A443%20%232
+vless://43a26f1a-99b7-4b17-98c7-b836fb466999@217.60.52.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&security=reality&sid=486a1a9c7288b70e&sni=bg-adapt.static-s3.org&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20217.60.52.143%3A443%20%232

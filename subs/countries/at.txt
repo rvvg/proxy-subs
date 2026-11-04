@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMjE6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 21:37 UTC, 2 proxies, best first
+# updated 2026-11-04 03:35 UTC, 5 proxies, best first
 vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@213.165.60.3:2096?type=grpc&security=reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&serviceName=vless-grpc-reality#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20213.165.60.3%3A2096
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20ss%20152.53.1.57%3A8388
+vless://664d2284-e0ad-4de4-9752-a0e12a29840e@45.91.94.114:2443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=aus442.enterquality.online&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%2045.91.94.114%3A2443
+vless://664d2284-e0ad-4de4-9752-a0e12a29840e@aus442.enterquality.online:2443?encryption=none&security=tls&type=tcp&sni=aus442.enterquality.online&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20aus442.enterquality.online%3A2443
+vless://610ac982-04eb-34c0-80b1-5dd3c2ca131e@201.10.90.113:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6z3VlbF2v0C3FTWQQemYDxX-MIzwaz_k8_B-xyc0Xyg&sni=undef-aut-0.undef.network#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20201.10.90.113%3A443
+vless://664d2284-e0ad-4de4-9752-a0e12a29840e@45.86.245.75:2443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=xkg82.enterquality.online&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%2045.86.245.75%3A2443

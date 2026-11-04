@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDMgMjE6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMDM6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-03 21:37 UTC, 1 proxies, best first
-vless://4460652a-ac34-454d-a119-afe8f4dde1a0@kz-3.movietop24.site:443?security=reality&encryption=none&pbk=9oXl2fClFx-m_d8r8XtI7JzsCxCymyhTEl1iS9z7gnI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz-3.movietop24.site&sid=ab36a77e04603603#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20kz-3.movietop24.site%3A443
+# updated 2026-11-04 03:35 UTC, 2 proxies, best first
+vless://6293d323-fe5e-45d6-ba06-dc30a42d1a18@95.57.50.69:443?encryption=none&security=tls&type=ws&sni=kz.stunnel.cyou&path=%2Fsmarttunnel-universal-v1&host=kz.stunnel.cyou#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20ws%2Ftls%2095.57.50.69%3A443
+vless://6293d323-fe5e-45d6-ba06-dc30a42d1a18@95.57.50.69:443?encryption=none&fp=firefox&host=kz.stunnel.cyou&path=/smarttunnel-universal-v1&security=tls&sni=kz.stunnel.cyou&type=ws#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20ws%2Ftls%2095.57.50.69%3A443%20%232
