@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 15:37 UTC, 4 proxies, best first
-vless://d16f7276-b967-440d-88b7-76945654ed55@45.9.24.199:443?encryption=none&host=agrosnab-stv.biz&path=%2Fcheckout%2Fstep%2FMWeiRsOvUZDA&security=tls&sni=agrosnab-stv.biz&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%2045.9.24.199%3A443
-vless://d16f7276-b967-440d-88b7-76945654ed55@193.58.179.199:443?encryption=none&host=avtovyshka-nn.site&path=%2Faccount%2Frefresh%2F5EzAIdnqp1d3&security=tls&sni=avtovyshka-nn.site&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%20193.58.179.199%3A443
+# updated 2026-11-04 21:35 UTC, 2 proxies, best first
 vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@213.165.60.3:2096?type=grpc&security=reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&serviceName=vless-grpc-reality#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20grpc%2Freality%20213.165.60.3%3A2096
-vless://d16f7276-b967-440d-88b7-76945654ed55@82.202.190.80:443?encryption=none&host=doneby.app&path=%2Fapp%2Flive%2F8ae9af9e995571de&security=tls&sni=doneby.app&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20ws%2Ftls%2082.202.190.80%3A443
+vless://610ac982-04eb-34c0-80b1-5dd3c2ca131e@201.10.90.113:443?security=reality&encryption=none&pbk=6z3VlbF2v0C3FTWQQemYDxX-MIzwaz_k8_B-xyc0Xyg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=undef-aut-0.undef.network#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20201.10.90.113%3A443

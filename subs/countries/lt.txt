@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 15:37 UTC, 3 proxies, best first
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?flow=xtls-rprx-vision&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=raw&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20app26.betust.net%3A443
-vless://92b79c22-f68b-4713-8b21-52f264cb92f5@85.209.231.169:2087?flow=xtls-rprx-vision&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=cdndownloadlink.song69.fun&type=raw&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%2085.209.231.169%3A2087
-vless://d16f7276-b967-440d-88b7-76945654ed55@91.185.83.226:443?encryption=none&extra=null&fp=firefox&host=www.sportshkola-olimp.com&mode=auto&path=%2F20a2e5ee79b7&pbk=HdBwyYF-VPrdSeIkn4LOB6pyAv6yD58QUIjqfW0H60w&security=reality&sid=9859c4395035e221&sni=www.sportshkola-olimp.com&type=xhttp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20xhttp%2Freality%2091.185.83.226%3A443
+# updated 2026-11-04 21:35 UTC, 1 proxies, best first
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.215.96:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443
