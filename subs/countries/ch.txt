@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0g=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-05 15:37 UTC, 10 proxies, best first
+# updated 2026-11-05 21:35 UTC, 10 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjMuMTY2Ljg4LjE4OToxOTk5OQ#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20ss%2023.166.88.189%3A19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTg2LjE5MC4yMTUuMjUxOjE5OTk5#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20ss%20186.190.215.251%3A19999
-vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?type=grpc&security=reality&fp=firefox&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&sni=g.play2go.gay&serviceName=grpc#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443
-vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?encryption=none&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&security=reality&serviceName=grpc&sni=g.play2go.gay&type=grpc&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443%20%232
-vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?encryption=none&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&security=reality&serviceName=grpc&sni=g.play2go.gay&type=grpc&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443%20%233
 hysteria2://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:20000?sni=g.play2go.gay&obfs=salamander&obfs-password=-bgbhGhG9yC-MCAQ6pJCHuycKqC7y9V5gXw_mKv8qpE#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20hy2%20hysteria%2Ftls%2Bsalamander%20193.233.89.130%3A20000
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ch1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ch1.japancase.site&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&sid=aafcd65859993991&fp=qq#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Bern%20vless%20raw%2Freality%20ch1.japancase.site%3A443
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@132.243.167.147:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&sid=aafcd65859993991&sni=ch1.japancase.site#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Bern%20vless%20raw%2Freality%20132.243.167.147%3A443
+vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=g.play2go.gay&fp=chrome&security=reality&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&sid=#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443
+vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?type=grpc&security=reality&fp=firefox&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&sni=g.play2go.gay&serviceName=grpc#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443%20%232
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@132.243.167.147:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&security=reality&sid=aafcd65859993991&sni=ch1.japancase.site&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Bern%20vless%20raw%2Freality%20132.243.167.147%3A443
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@132.243.167.147:443?encryption=none&flow=xtls-rprx-vision&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&security=reality&sid=aafcd65859993991&sni=ch1.japancase.site&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Bern%20vless%20raw%2Freality%20132.243.167.147%3A443%20%232
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20trojan%20raw%2Ftls%20208.69.78.19%3A443
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ch1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ch1.japancase.site&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&sid=aafcd65859993991&fp=qq#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Bern%20vless%20raw%2Freality%20ch1.japancase.site%3A443
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@132.243.167.147:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&sid=aafcd65859993991&sni=ch1.japancase.site#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Bern%20vless%20raw%2Freality%20132.243.167.147%3A443%20%233
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20trojan%20raw%2Ftls%20208.69.78.19%3A443

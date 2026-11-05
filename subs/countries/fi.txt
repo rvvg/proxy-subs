@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRkk=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE2LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,13 +7,20 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-05 15:37 UTC, 9 proxies, best first
-vmess://eyJhZGQiOiAiNjUuMTA4LjI0MC4yMTAiLCAiYWlkIjogIjAiLCAiaWQiOiAiNDVkYzEwYzYtMDRjOC00YzcwLWEwNmEtZDM5NjI1NGE2YzBiIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDM5MDE4LCAicHMiOiAi8J+Hq/Cfh64gRkkgSGVsc2lua2kgdm1lc3MgcmF3L25vbmUgNjUuMTA4LjI0MC4yMTA6MzkwMTgiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20hy2%20hysteria%2Ftls%20fl3.nexfile.net%3A4444
-trojan://gHQP0D7D15@104.25.239.113:2053?sni=marvdasht.phonecomparisonblog.org&type=ws&path=%2F&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.25.239.113%3A2053
-trojan://gHQP0D7D15@104.25.239.113:2053?allowInsecure=1&type=ws&sni=marvdasht.phonecomparisonblog.org&host=marvdasht.phonecomparisonblog.org#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.25.239.113%3A2053%20%232
-trojan://gHQP0D7D15@172.67.118.45:2053?type=ws&sni=marvdasht.phonecomparisonblog.org&allowInsecure=1&path=/&host=marvdasht.phonecomparisonblog.org#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20172.67.118.45%3A2053
-trojan://gHQP0D7D15@172.67.118.45:2053?sni=marvdasht.phonecomparisonblog.org&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20172.67.118.45%3A2053%20%232
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hq/Cfh64gRkkgSGVsc2lua2kgdm1lc3MgcmF3L25vbmUgNjUuMTA4LjI0MC4yMTA6MzkwMTggIzIiLCAiYWRkIjogIjY1LjEwOC4yNDAuMjEwIiwgInBvcnQiOiAiMzkwMTgiLCAiaWQiOiAiNzdmYjdhODAtNDcyNC00ZTMzLTk1NTgtNGYyMGMxNjM0YzVhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiIiwgInBjcyI6ICIiLCAidmNuIjogIiIsICJlY2giOiAiIiwgInBxdiI6ICIifQ==
+# updated 2026-11-05 21:35 UTC, 16 proxies, best first
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.87:2089?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=TGbaO5ocPEkI3J1M7y_TPvZheJa-N_rL7GSiluX-XB8&sid=37103087&serviceName=cas-fi#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20grpc%2Freality%2084.38.184.87%3A2089
+vless://ffaa2141-759b-424f-f28c-23dbeae00f10@122.8.47.4:8443?mode=gun&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.philips.com#%F0%9F%87%AB%F0%9F%87%AE%20FI%20vless%20grpc%2Freality%20122.8.47.4%3A8443
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@fi3game.japancase.site:443?flow=xtls-rprx-vision&pbk=1ONSjyJWD3lAomwIqFmmzb6lAhg077bvMJ7rGJCDk0g&security=reality&sid=38559e47f5536913&sni=fi3game.japancase.site&type=raw&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20raw%2Freality%20fi3game.japancase.site%3A443
+vless://ffaa2141-759b-424f-f28c-23dbeae00f10@122.8.47.4:8443?type=grpc&security=reality&fp=firefox&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&sni=www.philips.com&serviceName=TunService#%F0%9F%87%AB%F0%9F%87%AE%20FI%20vless%20grpc%2Freality%20122.8.47.4%3A8443%20%232
+vless://a55a4d25-76f0-4f0e-d395-3a92c0b34268@199.232.239.239:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel&security=tls&alpn=h2&encryption=none&insecure=0&host=cloudnet2026.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20xhttp%2Ftls%20199.232.239.239%3A443
+trojan://gHQP0D7D15@172.67.118.45:2053?type=ws&sni=marvdasht.phonecomparisonblog.org#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20172.67.118.45%3A2053
+trojan://gHQP0D7D15@172.67.118.45:2053?type=ws&sni=marvdasht.phonecomparisonblog.org&allowInsecure=1&path=%2F&host=marvdasht.phonecomparisonblog.org#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20172.67.118.45%3A2053%20%232
+trojan://gHQP0D7D15@104.24.0.1:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&path=%2F&Host=marvdasht.phonecomparisonblog.org&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.24.0.1%3A2053
 trojan://gHQP0D7D15@104.27.0.1:2053?type=ws&sni=marvdasht.phonecomparisonblog.org&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.27.0.1%3A2053
-vmess://eyJhZGQiOiAiNjUuMTA4LjI0MC4yMTAiLCAiYWlkIjogIjAiLCAiaWQiOiAiZmExNTY4NGEtODFlNi00YmE3LWJjNGItZjYwMWMwZDk5OGU5IiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDM5MDE4LCAicHMiOiAi8J+Hq/Cfh64gRkkgSGVsc2lua2kgdm1lc3MgcmF3L25vbmUgNjUuMTA4LjI0MC4yMTA6MzkwMTggIzMiLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://gHQP0D7D15@104.25.239.113:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&path=%2F&Host=marvdasht.phonecomparisonblog.org&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.25.239.113%3A2053
+trojan://gHQP0D7D15@104.24.0.1:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&host=marvdasht.phonecomparisonblog.org&path=%2F&alpn=http%2F1.1&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.24.0.1%3A2053%20%232
+trojan://gHQP0D7D15@104.25.239.113:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&path=%2F&Host=marvdasht.phonecomparisonblog.org&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.25.239.113%3A2053%20%232
+trojan://gHQP0D7D15@104.24.0.1:2053?host=marvdasht.phonecomparisonblog.org&path=%2F&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.24.0.1%3A2053%20%233
+trojan://gHQP0D7D15@172.67.118.45:2053?sni=marvdasht.phonecomparisonblog.org&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20172.67.118.45%3A2053%20%233
+trojan://gHQP0D7D15@104.24.0.1:2053?host=marvdasht.phonecomparisonblog.org&path=%2F&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.24.0.1%3A2053%20%234
+trojan://gHQP0D7D15@104.24.0.1:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&path=%2F&Host=marvdasht.phonecomparisonblog.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20trojan%20ws%2Ftls%20104.24.0.1%3A2053%20%235

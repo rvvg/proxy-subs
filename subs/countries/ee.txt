@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-05 15:37 UTC, 3 proxies, best first
-vless://2e69b088-6ef3-417f-8247-125cf257fafd@179.254.126.164:443/?type=grpc&encryption=none&flow=&sni=www.google.com&fp=firefox&security=reality&pbk=9-toGMQSTcKzSjjvJpjzhPG9le56hMNqRvx4_YKwIgY&sid=5dba4e0c74ce97dc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20179.254.126.164%3A443
+# updated 2026-11-05 21:35 UTC, 3 proxies, best first
 vless://92b79c22-f68b-4713-8b21-52f264cb92f5@ee.song69.fun:2087?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sni=ee.song69.fun#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee.song69.fun%3A2087
-vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.105:2087?flow=xtls-rprx-vision&security=reality&sni=ee.song69.fun&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.105%3A2087
+vless://0806e6e2-e01d-482c-b530-be3b57d486d4@132.243.74.115:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.115%3A2087
+vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.115:2087?flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.115%3A2087%20%232

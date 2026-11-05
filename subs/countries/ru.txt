@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gUlU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE1LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,19 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-05 15:37 UTC, 7 proxies, best first
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%20yoy-api.bachidze.com%3A443
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.18.45.236:2096?security=tls&type=ws&host=mohammadhoseini4532.pages.dev&fp=chrome&sni=mohammadhoseini4532.pages.dev&path=%2F&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Domodedovo%20vless%20ws%2Ftls%20104.18.45.236%3A2096
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@83.147.246.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%2083.147.246.12%3A443
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%20yoy-api.bachidze.com%3A443%20%232
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com&fp=firefox&security=reality&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&sid=#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%20yoy-api.bachidze.com%3A443%20%233
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Moscow%20ss%20185.22.153.192%3A18443
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@f2d0ba8dc394.fuhuovps.xyz:443?type=xhttp&security=tls&fp=ios&sni=f0c5bfd6s394.fuhuovps.xyz&path=f00757d3fec0e7aca102e554fb32f21e&host=f0c5bfd6s394.fuhuovps.xyz#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Moscow%20vless%20xhttp%2Ftls%20f2d0ba8dc394.fuhuovps.xyz%3A443
+# updated 2026-11-05 21:35 UTC, 15 proxies, best first
+hy2://41edb44c8e@103.88.243.142:11592?insecure=1&sni=103.88.243.142#%F0%9F%87%B7%F0%9F%87%BA%20RU%20hy2%20hysteria%2Ftls%20103.88.243.142%3A11592
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ru1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru1.japancase.site&pbk=SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc&sid=5b555442d5975d6b&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Moscow%20vless%20raw%2Freality%20ru1.japancase.site%3A443
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@185.76.241.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc&security=reality&sid=5b555442d5975d6b&sni=ru1.japancase.site&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Moscow%20vless%20raw%2Freality%20185.76.241.241%3A443
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@83.147.246.12:443?encryption=none&flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%2083.147.246.12%3A443
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@83.147.246.12:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%2083.147.246.12%3A443%20%232
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=%2Fcategories%2Fcommunity%2F&host=ltf8.jueson.de5.net#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Domodedovo%20trojan%20ws%2Ftls%20104.17.10.171%3A443
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%20yoy-api.bachidze.com%3A443
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com&fp=firefox&security=reality&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&sid=#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%20yoy-api.bachidze.com%3A443%20%232
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@213.171.12.100:443?flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%20213.171.12.100%3A443
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Saint%20Petersburg%20vless%20raw%2Freality%20yoy-api.bachidze.com%3A443%20%233
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?security=tls&sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Moscow%20vless%20grpc%2Ftls%20147.45.175.81%3A443
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?security=tls&serviceName=grpc-ru&sni=xsru1.ddnsfree.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Moscow%20vless%20grpc%2Ftls%20xsru1.ddnsfree.com%3A443
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?fp=edge&host=xsru1.ddnsfree.com&path=%2Fwsru&security=tls&sni=xsru1.ddnsfree.com&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Moscow%20vless%20ws%2Ftls%20147.45.175.81%3A443
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?fp=ios&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Moscow%20vless%20ws%2Ftls%20147.45.175.81%3A443%20%232
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?fp=random&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Moscow%20vless%20ws%2Ftls%20xsru2.freeddns.org%3A443
