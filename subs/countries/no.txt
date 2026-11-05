@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTk8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-05 09:36 UTC, 5 proxies, best first
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Sortland%20vless%20raw%2Freality%20connect2.accessgate.link%3A2086
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&sni=unpkg.com&fp=qq#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Sortland%20vless%20raw%2Freality%20connect2.accessgate.link%3A2086%20%232
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Sortland%20vless%20raw%2Freality%20connect2.accessgate.link%3A2086%20%233
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=edge#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Sortland%20vless%20raw%2Freality%20connect2.accessgate.link%3A2086%20%234
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=safari#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Sortland%20vless%20raw%2Freality%20connect2.accessgate.link%3A2086%20%235
+# updated 2026-11-05 15:37 UTC, 2 proxies, best first
+vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@13.143.184.58:2086?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&sni=unpkg.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Sortland%20vless%20raw%2Freality%2013.143.184.58%3A2086
+vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@13.143.184.58:2086?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Sortland%20vless%20raw%2Freality%2013.143.184.58%3A2086%20%232

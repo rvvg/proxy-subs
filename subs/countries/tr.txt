@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-05 09:36 UTC, 7 proxies, best first
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr3.japancase.site%3A443
+# updated 2026-11-05 15:37 UTC, 5 proxies, best first
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@81.177.215.220:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&sid=071c3bd86b0c3c73&sni=tr3.japancase.site#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2081.177.215.220%3A443
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr3.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&sid=071c3bd86b0c3c73&sni=tr3.japancase.site#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr3.japancase.site%3A443%20%232
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@198.105.123.224:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=tr1.japancase.site#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20198.105.123.224%3A443
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr1.japancase.site:443?flow=xtls-rprx-vision&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=tr1.japancase.site&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr1.japancase.site%3A443
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@198.105.123.224:443?encryption=none&flow=xtls-rprx-vision&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=tr1.japancase.site&type=tcp&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20198.105.123.224%3A443%20%232
+vless://a42e1f76-fcab-45f1-bd04-22cf0d967f43@c450b7t.tr3.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=44ODiPvzSh4x62n0lOQIlKuvQVNjHwCZh8gfvn6Evno&sid=f8fc81dee8a05dee&sni=c450b7t.tr3.h1clayd.click#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20c450b7t.tr3.h1clayd.click%3A443
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr3.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&sid=071c3bd86b0c3c73&sni=tr3.japancase.site#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr3.japancase.site%3A443
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr3.japancase.site%3A443%20%232
 vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.60:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15&spx=/&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20147.45.66.60%3A43000

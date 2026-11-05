@@ -1,0 +1,12 @@
+#profile-title: base64:RnJlZSBWUE4gTFQ=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMTU6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-05 15:37 UTC, 2 proxies, best first
+vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@162afct.lt2.h1clayd.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=y_pzv7NPwU8d4gAC3r6f6FZN5vFmaKJK9YPEGOjSYB0&sid=51e7ad7303dba560&sni=162afct.lt2.h1clayd.click&support-x25519mlkem768=true#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20162afct.lt2.h1clayd.click%3A443
+vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@5a873ag.lt2.h1clayd.click:443?type=grpc&security=reality&fp=firefox&pbk=-7jCGkgrVLVo1DgJrvOT_erdlIRf2IyVu1KGS409eBc&sid=40cdf901244028cb&sni=5a873ag.lt2.h1clayd.click&serviceName=8fcf9a0ebfb7&spx=/853ca9ab366a80d&support-x25519mlkem768=true#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20grpc%2Freality%205a873ag.lt2.h1clayd.click%3A443
