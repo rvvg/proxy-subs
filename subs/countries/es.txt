@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRVM=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 21:35 UTC, 5 proxies, best first
+# updated 2026-11-05 03:33 UTC, 10 proxies, best first
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&sni=www.discovergreatjobsandadvanceyourcareer.com&fp=firefox&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20trojan%20raw%2Ftls%2066.163.118.131%3A443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&headerType=none&type=tcp&sni=www.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20trojan%20raw%2Ftls%2066.163.118.131%3A443%20%232
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@152.114.194.147:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=es1.fox-lisa.ru&sid=027af64166562b09#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%20152.114.194.147%3A443
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@152.114.194.147:443?flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=es1.fox-lisa.ru&type=raw#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%20152.114.194.147%3A443%20%232
+vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@196.245.52.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cqzzb4oRMuWNC5Ahjq4dEEZt3MKA5EQ7No6SSNoVtiQ&security=reality&sid=5a750bb3e3806a20&sni=a013fct.es7.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20raw%2Freality%20196.245.52.168%3A443
+vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@cb8b18x.es7.h1clayd.click:443?encryption=none&type=xhttp&path=/213e9a1b05ae&mode=auto&security=reality&sni=cb8b18x.es7.h1clayd.click&fp=firefox&pbk=9sWOE2VbSpvzojv2XPNUqb3sj8nY07jHvnQhGEiDaGo&sid=032aaa29e6579343#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20xhttp%2Freality%20cb8b18x.es7.h1clayd.click%3A443
+vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@196.245.52.168:443?type=xhttp&security=reality&fp=firefox&pbk=9sWOE2VbSpvzojv2XPNUqb3sj8nY07jHvnQhGEiDaGo&sid=032aaa29e6579343&sni=cb8b18x.es7.h1clayd.click&path=/213e9a1b05ae#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20xhttp%2Freality%20196.245.52.168%3A443
+vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@a013fct.es7.h1clayd.click:443?flow=xtls-rprx-vision&pbk=cqzzb4oRMuWNC5Ahjq4dEEZt3MKA5EQ7No6SSNoVtiQ&security=reality&sid=5a750bb3e3806a20&sni=a013fct.es7.h1clayd.click&type=raw&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20raw%2Freality%20a013fct.es7.h1clayd.click%3A443
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@es1.fox-lisa.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=es1.fox-lisa.ru&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%20es1.fox-lisa.ru%3A443
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20trojan%20raw%2Ftls%2066.163.118.131%3A443
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@es1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=es1.fox-lisa.ru&sid=027af64166562b09#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%20es1.fox-lisa.ru%3A443%20%232

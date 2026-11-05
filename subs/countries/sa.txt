@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0E=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 21:35 UTC, 1 proxies, best first
+# updated 2026-11-05 03:33 UTC, 1 proxies, best first
 ss://YWVzLTEyOC1nY206ZjQ5MThmMTJjNzhkNjJmZjJhZjdkMDMzYjE2NTM5ZDc@38.54.61.146:12135#%F0%9F%87%B8%F0%9F%87%A6%20SA%20ss%2038.54.61.146%3A12135

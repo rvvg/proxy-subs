@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDQgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-04 21:35 UTC, 1 proxies, best first
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.215.96:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.215.96%3A443
+# updated 2026-11-05 03:33 UTC, 3 proxies, best first
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?alpn=http%2F1.1&host=marshalltmp.top&path=%2Fshop%2Fcatalog&security=tls&sni=marshalltmp.top&type=ws&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20ws%2Ftls%20185.178.208.140%3A443
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?alpn=http%2F1.1&host=marshalltmp.top&path=%2Fshop%2Fcatalog&security=tls&sni=marshalltmp.top&type=ws&fp=android#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20ws%2Ftls%20185.178.208.140%3A443%20%232
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?alpn=http%2F1.1&host=marshalltmp.top&path=%2Fshop%2Fcatalog&security=tls&sni=marshalltmp.top&type=ws&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20ws%2Ftls%20185.178.208.140%3A443%20%233
