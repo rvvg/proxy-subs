@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSU4=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDUgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,13 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-05 21:35 UTC, 9 proxies, best first
+# updated 2026-11-06 03:33 UTC, 10 proxies, best first
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443
+vless://8dddc313-e588-478b-9175-8702da3235bf@ind.globalhost.pro:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ind.globalhost.pro&pbk=lazTIr06YByWWAeykFN1Ijuk7fnY_sQQjuZOjWsegVU&sid=32698be1d960048a&fp=firefox#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Delhi%20vless%20raw%2Freality%20ind.globalhost.pro%3A443
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443%20%232
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?fp=random&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20in.smrtai.top%3A443
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20in.smrtai.top%3A443%20%232
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443%20%232
 vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&sid=7ff98efcced3fd5b&sni=www.cloudflare.com#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20148.113.5.22%3A443
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Indore%20vless%20ws%2Ftls%20122.176.216.52%3A443
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?encryption=none&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Indore%20vless%20ws%2Ftls%20122.176.216.52%3A443%20%232
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@in1.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lDBwW08dYwPP-7dVxYQ_clzfFwsDHLlclz9K2cEV6DM&sid=df7b054cfc29800c&sni=in1.japancase.site#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Noida%20vless%20raw%2Freality%20in1.japancase.site%3A443
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@in1.japancase.site:443?flow=xtls-rprx-vision&headerType=none&host=in1.japancase.site&path=%2F&pbk=lDBwW08dYwPP-7dVxYQ_clzfFwsDHLlclz9K2cEV6DM&security=reality&sid=df7b054cfc29800c&sni=in1.japancase.site&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Noida%20vless%20raw%2Freality%20in1.japancase.site%3A443%20%232
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?security=tls&type=ws&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&host=app-6ada5023.deploy.meerasolution.com&packetEncoding=xudp&alpn=h2&sni=app-6ada5023.deploy.meerasolution.com&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Indore%20vless%20ws%2Ftls%20122.176.216.52%3A443
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20ss%20172.105.39.124%3A7002
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?fp=android&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Indore%20vless%20ws%2Ftls%20122.176.216.52%3A443%20%233
