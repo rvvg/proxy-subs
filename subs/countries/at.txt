@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMjE6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 15:42 UTC, 1 proxies, best first
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@82.148.252.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=at1.fox-lisa.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20vless%20raw%2Freality%2082.148.252.219%3A443
+# updated 2026-11-06 21:36 UTC, 3 proxies, best first
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@at1.fox-lisa.ru:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=at1.fox-lisa.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20vless%20raw%2Freality%20at1.fox-lisa.ru%3A443
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@82.148.252.219:443?flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=at1.fox-lisa.ru&type=raw#%F0%9F%87%A6%F0%9F%87%B9%20AT%20vless%20raw%2Freality%2082.148.252.219%3A443
+vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@82.148.252.142:443?encryption=none&type=xhttp&security=reality&sni=avasa.qikbro.com&pbk=5f3YKh1kMwC_Q4BA-8BBBMmUC2hmRDCDb1pr2xz6CUs&sid=69747b8a2d26d6b4&fp=firefox&spx=/cdn/d34966/d51d&path=/assets/js/app.4954351f.js&host=avasa.qikbro.com&mode=stream-one#%F0%9F%87%A6%F0%9F%87%B9%20AT%20vless%20xhttp%2Freality%2082.148.252.142%3A443

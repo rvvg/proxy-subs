@@ -1,0 +1,13 @@
+#profile-title: base64:RnJlZSBWUE4gSUw=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMjE6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-06 21:36 UTC, 3 proxies, best first
+vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@5.42.110.196:448?encryption=none&flow=xtls-rprx-vision&pbk=Qp9s7FRjTKbGavaiqTeOPnqBC1DrJtcAbKyfXX2UGw8&security=reality&sid=b2d01ac56ee3fd5c&sni=check.worldfly.io&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20raw%2Freality%205.42.110.196%3A448
+vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@5.42.110.196:448?encryption=none&flow=xtls-rprx-vision&pbk=Qp9s7FRjTKbGavaiqTeOPnqBC1DrJtcAbKyfXX2UGw8&security=reality&sid=b2d01ac56ee3fd5c&sni=check.worldfly.io&type=tcp&fp=safari#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20raw%2Freality%205.42.110.196%3A448%20%232
+vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@5.42.110.196:448?encryption=none&flow=xtls-rprx-vision&pbk=Qp9s7FRjTKbGavaiqTeOPnqBC1DrJtcAbKyfXX2UGw8&security=reality&sid=b2d01ac56ee3fd5c&sni=check.worldfly.io&type=tcp&fp=firefox#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20raw%2Freality%205.42.110.196%3A448%20%233

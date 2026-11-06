@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRVM=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMjE6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 15:42 UTC, 1 proxies, best first
-ss://YWVzLTEyOC1nY206Y2Q3MDZhMTA0Mjg0YTcwZjljZmZlNmFjMWRmNjNjMTg=@193.148.19.214:12798#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20ss%20193.148.19.214%3A12798
+# updated 2026-11-06 21:36 UTC, 4 proxies, best first
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@02104dg.es5.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=02104dg.es5.h1clayd.click&pbk=AK4PrvaK2WV1v1NEegq2rE53gVnlXUw_jo3XwA1aIEI&sid=7d0aaf84998bfe61&fp=firefox&spx=/&serviceName=af7e99c1e3f1#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20grpc%2Freality%2002104dg.es5.h1clayd.click%3A443
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@79.182.39.122:443?encryption=none&fp=firefox&pbk=AK4PrvaK2WV1v1NEegq2rE53gVnlXUw_jo3XwA1aIEI&security=reality&serviceName=af7e99c1e3f1&sid=7d0aaf84998bfe61&sni=02104dg.es5.h1clayd.click&type=grpc#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20grpc%2Freality%2079.182.39.122%3A443
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@79.182.39.122:443?encryption=none&fp=firefox&path=/95630fba747e&pbk=DlFEcOAK1iNS7td2bzMpyQSiGkWlIxum6fOXZjEfxDg&security=reality&sid=3c399ee135b104d9&sni=e83786x.es5.h1clayd.click&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20xhttp%2Freality%2079.182.39.122%3A443
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@e83786x.es5.h1clayd.click:443?encryption=none&type=xhttp&security=reality&sni=e83786x.es5.h1clayd.click&pbk=DlFEcOAK1iNS7td2bzMpyQSiGkWlIxum6fOXZjEfxDg&sid=3c399ee135b104d9&fp=firefox&spx=/&path=/95630fba747e&mode=auto#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20xhttp%2Freality%20e83786x.es5.h1clayd.click%3A443
