@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 03:33 UTC, 7 proxies, best first
-vless://3d78373f-bdbd-428a-9b83-aea64264bf4e@45.133.73.20:2087?type=grpc&headerType=none&security=reality&encryption=none&sni=main.vpsvdsclouds.net&fp=chrome&pbk=oxdpwF7pHTpNG_R2y_Og0vOd2AAsCZ9dhCADuFH90AU&spx=%2F&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20grpc%2Freality%2045.133.73.20%3A2087
-vless://3d78373f-bdbd-428a-9b83-aea64264bf4e@45.133.73.20:2087?security=reality&sni=main.vpsvdsclouds.net&fp=firefox&pbk=oxdpwF7pHTpNG_R2y_Og0vOd2AAsCZ9dhCADuFH90AU&type=grpc&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20grpc%2Freality%2045.133.73.20%3A2087%20%232
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHJhdy9ub25lIDE1NC4zNy4yMjMuMTA1OjIyOTI2IiwgImFkZCI6ICIxNTQuMzcuMjIzLjEwNSIsICJwb3J0IjogIjIyOTI2IiwgImlkIjogIjFhOGYzMmNlLTM4N2UtNDRmYy1kZGU5LWFjYjA0Zjc2MTNhNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHJhdy9ub25lIDE1NC4zNy4yMjMuMTA1OjUyMDgwIiwgImFkZCI6ICIxNTQuMzcuMjIzLjEwNSIsICJwb3J0IjogIjUyMDgwIiwgImlkIjogIjEyNTEzMzI1LTQ0NjQtNDMzNC1iODExLTdiMDQ3ZWJmNDBlNyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiIsICJwYXRoIjogIi9RUXF1bi03Mzc4MDU0NDMiLCAidGxzIjogIiJ9
+# updated 2026-11-06 09:36 UTC, 2 proxies, best first
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL3RscyB2aXBjY2MuY2M6NDQzIiwgImFkZCI6ICJ2aXBjY2MuY2MiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNWJlYWQzMmYtYTk4Ny00ZjU3LWIxYTgtNjY5ODc3OGZhY2RhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvcmF5X3Byb3h5IiwgInRscyI6ICJ0bHMiLCAiaG9zdCI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?security=reality&encryption=none&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=ca4aedd4#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20165.154.63.139%3A443
 vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzIiwgInNuaSI6ICIxNTYuMjQ1LjIzMi4yMzkiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=

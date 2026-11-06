@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 03:33 UTC, 5 proxies, best first
+# updated 2026-11-06 09:36 UTC, 1 proxies, best first
 vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?encryption=none&fp=firefox&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&security=reality&serviceName=grpc&sni=instance-100.prismix.cc&type=grpc#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20grpc%2Freality%20193.233.89.130%3A8443
-vless://255a8044-3337-473e-af26-46a37208adcc@live.flicker.work:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=PZwky05a2NPTC1x7YolaKV7IGDuJDJD47fUEk8nVqFw&sid=1995a38bfed15b2a&sni=live.flicker.work#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20live.flicker.work%3A443
-vless://255a8044-3337-473e-af26-46a37208adcc@live.flicker.work:443?encryption=none&flow=xtls-rprx-vision&pbk=PZwky05a2NPTC1x7YolaKV7IGDuJDJD47fUEk8nVqFw&security=reality&sid=1995a38bfed15b2a&sni=live.flicker.work&spx=%2Fconnect-magic&type=tcp&fp=ios#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20live.flicker.work%3A443%20%232
-vless://255a8044-3337-473e-af26-46a37208adcc@live.flicker.work:443?security=reality&encryption=none&pbk=PZwky05a2NPTC1x7YolaKV7IGDuJDJD47fUEk8nVqFw&headerType=none&fp=chrome&spx=/connect-magic&type=tcp&flow=xtls-rprx-vision&sni=live.flicker.work&sid=1995a38bfed15b2a#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20live.flicker.work%3A443%20%233
-vless://255a8044-3337-473e-af26-46a37208adcc@193.68.67.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PZwky05a2NPTC1x7YolaKV7IGDuJDJD47fUEk8nVqFw&security=reality&sid=1995a38bfed15b2a&sni=live.flicker.work&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20193.68.67.46%3A443
