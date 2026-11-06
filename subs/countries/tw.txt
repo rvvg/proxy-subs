@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 09:36 UTC, 1 proxies, best first
+# updated 2026-11-06 15:42 UTC, 2 proxies, best first
+hysteria2://eRlY6dXnQ4QUzVOQi6YDfZWq@18.141.210.28:10000?insecure=1&alpn=h3&sni=sg-transit-3.nebulacloud.win#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Kaohsiung%20hy2%20hysteria%2Ftls%2018.141.210.28%3A10000
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?encryption=none&security=tls&sni=n04.jinggai.online&type=ws&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&fp=android#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20n04.jinggai.online%3A8443

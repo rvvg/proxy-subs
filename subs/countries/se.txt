@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0U=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 09:36 UTC, 3 proxies, best first
+# updated 2026-11-06 15:42 UTC, 10 proxies, best first
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@join.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=join.betust.net&fp=firefox&pbk=GQul8Ak0VO_z4FW_m_R-xsQbwd2e1rWZO-XfMmKmpQE&sid=351224a7&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20join.betust.net%3A443
 trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=%2Fcategories%2Fcommunity%2F&host=ltf8.jueson.de5.net#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20trojan%20ws%2Ftls%20104.17.10.171%3A443
+vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@swedenvet.vetryx.shop:443?encryption=none&flow=xtls-rprx-vision&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&security=reality&sid=b470934eb6924098&sni=china.vetryx.shop&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20swedenvet.vetryx.shop%3A443
 vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@193.233.252.155:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&security=reality&sid=b470934eb6924098&sni=china.vetryx.shop&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20193.233.252.155%3A443
-vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@swedenvet.vetryx.shop:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=china.vetryx.shop&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20swedenvet.vetryx.shop%3A443
+vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@swedenvet.vetryx.shop:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=china.vetryx.shop&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20swedenvet.vetryx.shop%3A443%20%232
+trojan://Trojan%4082164024@ru.tronsg.com:443?sni=ru.tronsg.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20trojan%20raw%2Ftls%20ru.tronsg.com%3A443
+vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:443?encryption=none&type=xhttp&security=reality&sni=360.yandex.ru&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&sid=09fd8f6666eec544&fp=firefox&path=/vless-xhttp&mode=auto#%F0%9F%87%B8%F0%9F%87%AA%20SE%20vless%20xhttp%2Freality%2083.141.67.164%3A443
+vless://55458d10-24ab-4ea6-a522-13741b546f2a@se1.h1cloud.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=3fb2b6t.se1.h1clayd.click&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&sid=1061f1b1cdaad3ad&fp=firefox&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20se1.h1cloud.net%3A443
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@gamenews.best:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=gamenews.best&fp=ios#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Ftls%20gamenews.best%3A443
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@gamenews.best:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=gamenews.best&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Ftls%20gamenews.best%3A443%20%232

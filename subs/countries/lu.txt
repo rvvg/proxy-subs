@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gTFU=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-06 15:42 UTC, 1 proxies, best first
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?security=tls&sni=k5s6n5ql4d.j.cloudfront.hls.hlsnode.net&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi&fp=ios#%F0%9F%87%B1%F0%9F%87%BA%20LU%20Bettembourg%20vless%20grpc%2Ftls%20135.106.190.126%3A443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMTU6NDIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 09:36 UTC, 4 proxies, best first
-vless://92b79c22-f68b-4713-8b21-52f264cb92f5@ee.song69.fun:2087?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sni=ee.song69.fun#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee.song69.fun%3A2087
-vless://0806e6e2-e01d-482c-b530-be3b57d486d4@132.243.74.115:2087?flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.115%3A2087
-vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.115:2087?flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.115%3A2087%20%232
-vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=dvizhok.su&spx=%2F&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Narva%20vless%20raw%2Freality%20ee.subv.ru%3A443
+# updated 2026-11-06 15:42 UTC, 5 proxies, best first
+vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@87.242.94.134:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2087.242.94.134%3A8445
+vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.86.147.191%3A8445
+vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@rapira-dof.whitenw.net:8445?security=reality&encryption=none&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20rapira-dof.whitenw.net%3A8445
+vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?security=reality&encryption=none&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.86.147.191%3A8445%20%232
+vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.86.147.191%3A8445%20%233
