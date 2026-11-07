@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMTU6NDAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 15:40 UTC, 1 proxies, best first
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.66.62:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&sid=071c3bd86b0c3c73&sni=tr3.japancase.site#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Sinop%20vless%20raw%2Freality%20147.45.66.62%3A443
+# updated 2026-11-07 21:35 UTC, 4 proxies, best first
+vless://5b7aa6c7-79ec-4047-9029-14457aff858a@91.232.103.42:8443?encryption=none&fp=firefox&host=download.amd.com&path=/api/v1/update&pbk=7BNFWKdxZYCXygEHvFH8GwKkRyhJQUN4OLWaXaODMg0&security=reality&sid=bcb91103a4cc25fd&sni=download.amd.com&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20xhttp%2Freality%2091.232.103.42%3A8443
+vless://5b7aa6c7-79ec-4047-9029-14457aff858a@tr.extremumnews.com:8443?mode=stream-up&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&extra=%7B%7D&pbk=7BNFWKdxZYCXygEHvFH8GwKkRyhJQUN4OLWaXaODMg0&host=download.amd.com&fp=firefox&type=xhttp&sni=download.amd.com&sid=bcb91103a4cc25fd#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20xhttp%2Freality%20tr.extremumnews.com%3A8443
+vless://f60879c7-ce0b-47be-b208-d889558bc7bb@94.184.35.87:2092?encryption=none&fp=firefox&host=tun4.videobazi.com&security=tls&sni=cert.pcapps.ir&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%2094.184.35.87%3A2092
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.66.62:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Sinop%20vless%20raw%2Freality%20147.45.66.62%3A443
