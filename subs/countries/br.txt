@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQlI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 03:32 UTC, 1 proxies, best first
+# updated 2026-11-07 09:37 UTC, 1 proxies, best first
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-2-y.473221.xyz:33161?encryption=none&type=tcp&security=reality&pbk=9WulHOrPZIMdOVwTo-9Z2puTD8GNlt6ctR3hpemHgxc&sid=e5086b3dc5&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&fp=edge#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Sao%20Paulo%20vless%20raw%2Freality%20dddz-2-y.473221.xyz%3A33161

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 03:32 UTC, 10 proxies, best first
-vless://3125236e-ea1b-4f88-b7a8-f7e1ee02d659@ultra-vector-y3jwzsth.expresshost.cloud:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=HFgpbxzk696TYGPx93VcFNGLnCdu01xaMG_xFxVV8hM&security=reality&sid=983b54fb2cfc68ac&sni=ultra-vector-y3jwzsth.expresshost.cloud&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ultra-vector-y3jwzsth.expresshost.cloud%3A443
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20trojan%20raw%2Ftls%20de-bots4.h1cloud.net%3A25267
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?sni=t.mefuckthewall&allowInsecure=1#%F0%9F%87%AA%F0%9F%87%AA%20EE%20trojan%20raw%2Ftls%20de-bots4.h1cloud.net%3A25267%20%232
+# updated 2026-11-07 09:37 UTC, 2 proxies, best first
 vless://92b79c22-f68b-4713-8b21-52f264cb92f5@ee.song69.fun:2087?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=ee.song69.fun&fp=chrome&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee.song69.fun%3A2087
-vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.134:2087?flow=xtls-rprx-vision&security=reality&sni=ee.song69.fun&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.134%3A2087
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@196.245.217.41:443?type=tcp&security=reality&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20raw%2Freality%20196.245.217.41%3A443
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@71b840t.de7.h1clayd.click:443?headerType=none&host=71b840t.de7.h1clayd.click&path=%2F&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&security=reality&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20raw%2Freality%2071b840t.de7.h1clayd.click%3A443
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@87.242.94.134:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2087.242.94.134%3A8445
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@rapira-dof.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20rapira-dof.whitenw.net%3A8445
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@rapira-dof.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20rapira-dof.whitenw.net%3A8445%20%232
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@31.56.187.160:61374?security=reality&sni=ee.golangwikito.cfd&fp=firefox&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&type=xhttp&host=ee.golangwikito.cfd&path=%2F&mode=packet-up&extra=%7B%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%7D#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%2031.56.187.160%3A61374

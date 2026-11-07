@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 03:32 UTC, 2 proxies, best first
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?encryption=none&security=tls&sni=n04.jinggai.online&type=ws&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&fp=android#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20n04.jinggai.online%3A8443
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?security=tls&sni=n04.jinggai.online&type=ws&headerType=none&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&fp=ios#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20n04.jinggai.online%3A8443%20%232
+# updated 2026-11-07 09:37 UTC, 2 proxies, best first
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7wgVFcgVGFpcGVpIHZtZXNzIHJhdy9ub25lIGFsMjEuYW95b25kLm1lOjIxNjU5IiwgImFkZCI6ICJhbDIxLmFveW9uZC5tZSIsICJwb3J0IjogIjIxNjU5IiwgImlkIjogIjI3OWMyYzU4LTIwMDEtNGYxYS04YzEyLWZhOWJkOTkyZjRlZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgImFsbG93SW5zZWN1cmUiOiBmYWxzZX0=
+hysteria2://96c3a413-f0d0-4bee-a718-2b4e1561193e@pq-hinet.tw1.yydjc.top:60000?insecure=1&sni=www.apple.com#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20hy2%20hysteria%2Ftls%20pq-hinet.tw1.yydjc.top%3A60000

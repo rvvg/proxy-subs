@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 03:32 UTC, 5 proxies, best first
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@82.148.252.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=at1.fox-lisa.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20vless%20raw%2Freality%2082.148.252.219%3A443
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@at1.fox-lisa.ru:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=at1.fox-lisa.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20vless%20raw%2Freality%20at1.fox-lisa.ru%3A443
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.171:443?security=reality&type=raw&sni=at1.japancase.site&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20178.22.31.171%3A443
+# updated 2026-11-07 09:37 UTC, 4 proxies, best first
+vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=banket-restoran.su&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%2066.90.106.28%3A443
+vless://90157e25-cee1-4217-921e-91f300bc1a24@fdat.titun.su:443?type=raw&security=reality&sni=banket-restoran.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&fp=firefox&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20fdat.titun.su%3A443
 vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@82.148.252.142:443?encryption=none&fp=firefox&host=avasa.qikbro.com&path=/assets/js/app.4954351f.js&pbk=5f3YKh1kMwC_Q4BA-8BBBMmUC2hmRDCDb1pr2xz6CUs&security=reality&sid=69747b8a2d26d6b4&sni=avasa.qikbro.com&type=xhttp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20vless%20xhttp%2Freality%2082.148.252.142%3A443
-vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@82.148.252.142:443?encryption=none&host=avasa.qikbro.com&mode=stream-one&path=%2Fassets%2Fjs%2Fapp.4954351f.js&pbk=5f3YKh1kMwC_Q4BA-8BBBMmUC2hmRDCDb1pr2xz6CUs&security=reality&sid=69747b8a2d26d6b4&sni=avasa.qikbro.com&spx=%2Fcdn%2Fd34966%2Fd51d&type=xhttp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20vless%20xhttp%2Freality%2082.148.252.142%3A443%20%232
+vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@82.148.252.142:443?type=xhttp&security=reality&fp=firefox&pbk=5f3YKh1kMwC_Q4BA-8BBBMmUC2hmRDCDb1pr2xz6CUs&sid=69747b8a2d26d6b4&sni=avasa.qikbro.com&path=/assets/js/app.4954351f.js&host=avasa.qikbro.com&mode=stream-one#%F0%9F%87%A6%F0%9F%87%B9%20AT%20vless%20xhttp%2Freality%2082.148.252.142%3A443%20%232

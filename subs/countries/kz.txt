@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 03:32 UTC, 1 proxies, best first
+# updated 2026-11-07 09:37 UTC, 1 proxies, best first
 ss://YWVzLTEyOC1nY206NTEyNmNjYzc4ZWVhNGM2NDNjYmVkNGU2YzIxNDY1ZTg=@38.180.38.19:15231#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20ss%2038.180.38.19%3A15231
