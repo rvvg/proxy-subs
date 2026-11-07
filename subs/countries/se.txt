@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0U=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMTU6NDAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 09:37 UTC, 4 proxies, best first
+# updated 2026-11-07 15:40 UTC, 1 proxies, best first
 trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=%2Fcategories%2Fcommunity%2F&host=ltf8.jueson.de5.net#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20trojan%20ws%2Ftls%20104.17.10.171%3A443
-vless://109852f2-4591-498c-9a96-f1d9206ce804@swdnode.barnikle1.me:1432?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.dhl.de&fp=chrome&pbk=bNpg56GtTArrVyrnonNlMA-3JyYIAFATdgsH_wn0gmc&sid=4ea6a183#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20swdnode.barnikle1.me%3A1432
-vless://205b5634-2d14-407a-b68f-34a5a66c8062@13.53.126.218:443?encryption=mlkem768x25519plus.native.0rtt.D_JlamS_t-oGLUMdP8ap06mQB9Gt5DxiismEE2R4ui0&fp=firefox&pbk=BRl1X-bBwUm96ad8YgGTn3nuoRuVLGDgEzS8TiB2WV8&security=reality&sid=1bfa&sni=www.google.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%2Benc%2013.53.126.218%3A443
-vless://205b5634-2d14-407a-b68f-34a5a66c8062@13.53.126.218:443?encryption=mlkem768x25519plus.native.0rtt.D_JlamS_t-oGLUMdP8ap06mQB9Gt5DxiismEE2R4ui0&fp=chrome&pbk=BRl1X-bBwUm96ad8YgGTn3nuoRuVLGDgEzS8TiB2WV8&security=reality&sid=1bfa&sni=www.google.com&spx=/20dcc59048fe976&support-x25519mlkem768=true&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%2Benc%2013.53.126.218%3A443%20%232

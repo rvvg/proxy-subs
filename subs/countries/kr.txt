@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDk6MzcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMTU6NDAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 09:37 UTC, 4 proxies, best first
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?security=tls&sni=oeal42h1p4.j.cloudfront.hls.vodcdn-edge.net&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Icheon-si%20vless%20grpc%2Ftls%20135.106.190.126%3A443
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?security=tls&sni=oeal42h1p4.j.cloudfront.hls.vodcdn-edge.net&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi&fp=qq#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Icheon-si%20vless%20grpc%2Ftls%20135.106.190.126%3A443%20%232
+# updated 2026-11-07 15:40 UTC, 3 proxies, best first
 hy2://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2486.wagahaha.xyz:443?sni=u695098u04af05e4s2473.xxti.top#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20s2486.wagahaha.xyz%3A443
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cgS1IgSW5jaGVvbiB2bWVzcyByYXcvbm9uZSBhbGkyLmFveW9uZC5tZToxOTY4OSIsICJhZGQiOiAiYWxpMi5hb3lvbmQubWUiLCAicG9ydCI6ICIxOTY4OSIsICJpZCI6ICIyNzljMmM1OC0yMDAxLTRmMWEtOGMxMi1mYTliZDk5MmY0ZWYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJhbGxvd0luc2VjdXJlIjogZmFsc2V9
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?security=tls&sni=oeal42h1p4.j.cloudfront.hls.vodcdn-edge.net&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi&fp=qq#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Icheon-si%20vless%20grpc%2Ftls%20135.106.190.126%3A443
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?security=tls&sni=oeal42h1p4.j.cloudfront.hls.vodcdn-edge.net&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Icheon-si%20vless%20grpc%2Ftls%20135.106.190.126%3A443%20%232
