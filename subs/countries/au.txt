@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMjE6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 21:36 UTC, 1 proxies, best first
+# updated 2026-11-07 03:32 UTC, 2 proxies, best first
 trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%20au001.zestapp778.com%3A54374
+vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-3-z.473221.xyz:33162?encryption=none&type=tcp&security=reality&pbk=Qp9_bpGExQK_h5LMXLLwVA2o1vifMQwGJ6Qh2-X26Ro&sid=3fe1e73fc9ecc8d7&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&fp=edge#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%20dddz-3-z.473221.xyz%3A33162

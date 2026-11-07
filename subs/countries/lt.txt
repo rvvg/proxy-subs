@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMjE6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 21:36 UTC, 4 proxies, best first
-vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@84.32.209.132:443?flow=xtls-rprx-vision&fp=firefox&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&security=reality&sid=7c8e3d4a9b1f26d3&sni=litauto.plus-hit.ru&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.209.132%3A443
-vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@litauto.plus-hit.ru:443?security=reality&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&fp=chrome&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=litauto.plus-hit.ru&sid=7c8e3d4a9b1f26d3#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20litauto.plus-hit.ru%3A443
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.151.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.151.159%3A443
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.151.159:443?security=reality&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.151.159%3A443%20%232
+# updated 2026-11-07 03:32 UTC, 5 proxies, best first
+vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@84.32.209.132:443?flow=xtls-rprx-vision&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&security=reality&sid=7c8e3d4a9b1f26d3&sni=litauto.plus-hit.ru&type=raw&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.209.132%3A443
+vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@litauto.plus-hit.ru:443?flow=xtls-rprx-vision&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&security=reality&sid=7c8e3d4a9b1f26d3&sni=litauto.plus-hit.ru&spx=%2F&type=raw&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20litauto.plus-hit.ru%3A443
+vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@litauto.plus-hit.ru:443?security=reality&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&fp=chrome&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=litauto.plus-hit.ru&sid=7c8e3d4a9b1f26d3#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20litauto.plus-hit.ru%3A443%20%232
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.151.159:443?security=reality&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.151.159%3A443
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.151.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.151.159%3A443%20%232

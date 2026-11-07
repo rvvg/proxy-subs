@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVo=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMjE6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 21:36 UTC, 5 proxies, best first
+# updated 2026-11-07 03:32 UTC, 1 proxies, best first
 vless://1b03671f-61bc-4aa9-86b6-92ec7ac8abe8@45.84.1.42:25565?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kookas.fi&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&sid=43dcff52289b81e6&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20Baku%20vless%20raw%2Freality%2045.84.1.42%3A25565
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?mode=multi&security=tls&serviceName=sync.v1&sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&type=grpc&fp=ios#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20Baku%20vless%20grpc%2Ftls%2095.143.188.113%3A443
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?type=grpc&security=tls&fp=safari&sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&mode=multi&serviceName=sync.v1#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20Baku%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%232
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&type=grpc#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20Baku%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%233
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?mode=multi&security=tls&serviceName=sync.v1&sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&type=grpc&fp=firefox#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20Baku%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%234

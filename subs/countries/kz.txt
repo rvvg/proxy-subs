@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDYgMjE6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,13 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-06 21:36 UTC, 9 proxies, best first
+# updated 2026-11-07 03:32 UTC, 1 proxies, best first
 ss://YWVzLTEyOC1nY206NTEyNmNjYzc4ZWVhNGM2NDNjYmVkNGU2YzIxNDY1ZTg=@38.180.38.19:15231#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20ss%2038.180.38.19%3A15231
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?alpn=h2&mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20grpc%2Ftls%2095.143.188.113%3A443
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?security=tls&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&alpn=h2&fp=safari&type=grpc&serviceName=sync.v1&mode=multi#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%232
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%233
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%234
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?alpn=h2&mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%235
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%236
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?alpn=h2&mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%237
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20grpc%2Ftls%2095.143.188.113%3A443%20%238
