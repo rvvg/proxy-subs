@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRVM=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-08 15:38 UTC, 1 proxies, best first
-vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@230b29t.es8.h1clayd.click:443?type=raw&security=reality&fp=firefox&pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&sid=91313fc9f7571857&sni=230b29t.es8.h1clayd.click#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%20230b29t.es8.h1clayd.click%3A443
+# updated 2026-11-08 21:33 UTC, 2 proxies, best first
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@230b29t.es8.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&sid=91313fc9f7571857&sni=230b29t.es8.h1clayd.click#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%20230b29t.es8.h1clayd.click%3A443
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@79.182.70.202:443?type=grpc&security=reality&fp=firefox&pbk=AK4PrvaK2WV1v1NEegq2rE53gVnlXUw_jo3XwA1aIEI&sid=7d0aaf84998bfe61&sni=02104dg.es7.h1clayd.click&serviceName=af7e99c1e3f1#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20grpc%2Freality%2079.182.70.202%3A443

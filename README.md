@@ -4,19 +4,20 @@
 Раз в 6 ч все они проверяются с сервера в России через Xray-core, и сюда попадают только рабочие,
 отсортированные от лучших к худшим: сначала по стабильности, затем по задержке.
 
-Обновлено: 2026-11-08 15:38 UTC.
+Обновлено: 2026-11-08 21:33 UTC.
 
 ## Подписки
 
 | Список | Прокси | Ссылка на подписку |
 |---|---:|---|
 | Топ 100 Европа | 100 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/top100.txt` |
-| Топ 100 Европа: автопереключение (JSON) | 88 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/top100.json` |
-| Все рабочие | 711 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/all.txt` |
-| Европа | 423 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/europe.txt` |
-| Северная Америка | 139 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/north-america.txt` |
-| Азия | 80 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/asia.txt` |
-| Океания | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/oceania.txt` |
+| Топ 100 Европа: автопереключение (JSON) | 87 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/top100.json` |
+| Все рабочие | 911 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/all.txt` |
+| Европа | 521 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/europe.txt` |
+| Северная Америка | 217 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/north-america.txt` |
+| Азия | 77 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/asia.txt` |
+| Африка | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/africa.txt` |
+| Океания | 2 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/oceania.txt` |
 | Южная Америка | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/continents/south-america.txt` |
 
 Скопируйте ссылку и добавьте её в клиент как подписку: v2rayN, v2rayNG, Happ, INCY, Hiddify, Throne,
@@ -53,40 +54,44 @@ NekoBox, Streisand. Клиент сам будет обновлять списо
 
 | Страна | Прокси | Ссылка на подписку |
 |---|---:|---|
-| DE | 146 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/de.txt` |
-| US | 129 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/us.txt` |
-| NL | 78 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/nl.txt` |
-| FR | 33 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/fr.txt` |
-| RU | 32 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ru.txt` |
-| GB | 23 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/gb.txt` |
-| SG | 23 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/sg.txt` |
-| JP | 22 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/jp.txt` |
-| FI | 21 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/fi.txt` |
-| IT | 19 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/it.txt` |
-| CH | 18 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ch.txt` |
-| PL | 12 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/pl.txt` |
-| AT | 11 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/at.txt` |
-| CA | 10 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ca.txt` |
-| IN | 10 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/in.txt` |
-| BY | 9 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/by.txt` |
-| KZ | 7 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/kz.txt` |
+| US | 205 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/us.txt` |
+| DE | 170 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/de.txt` |
+| NL | 103 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/nl.txt` |
+| FR | 56 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/fr.txt` |
+| RU | 51 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ru.txt` |
+| FI | 30 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/fi.txt` |
+| GB | 30 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/gb.txt` |
+| PL | 26 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/pl.txt` |
+| SG | 17 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/sg.txt` |
+| HK | 13 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/hk.txt` |
+| JP | 13 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/jp.txt` |
+| CH | 12 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ch.txt` |
+| CA | 12 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ca.txt` |
+| TR | 9 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/tr.txt` |
+| IN | 9 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/in.txt` |
+| IT | 8 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/it.txt` |
+| CZ | 7 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/cz.txt` |
 | SE | 5 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/se.txt` |
-| EE | 5 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ee.txt` |
-| HK | 4 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/hk.txt` |
-| NO | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/no.txt` |
-| TW | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/tw.txt` |
-| KR | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/kr.txt` |
-| AU | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/au.txt` |
+| BY | 5 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/by.txt` |
+| LV | 4 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/lv.txt` |
+| KZ | 4 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/kz.txt` |
+| EE | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ee.txt` |
+| EG | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/eg.txt` |
+| GR | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/gr.txt` |
 | AE | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ae.txt` |
-| CZ | 3 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/cz.txt` |
+| BG | 2 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/bg.txt` |
 | LT | 2 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/lt.txt` |
+| ES | 2 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/es.txt` |
 | GE | 2 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/ge.txt` |
 | AZ | 2 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/az.txt` |
-| LV | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/lv.txt` |
+| KR | 2 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/kr.txt` |
+| AU | 2 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/au.txt` |
 | HU | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/hu.txt` |
-| CN | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/cn.txt` |
+| MY | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/my.txt` |
+| TW | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/tw.txt` |
+| IL | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/il.txt` |
 | BR | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/br.txt` |
-| ES | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/es.txt` |
+| DK | 1 | `https://raw.githubusercontent.com/rvvg/proxy-subs/main/subs/countries/dk.txt` |
 
 </details>
 
@@ -95,20 +100,20 @@ NekoBox, Streisand. Клиент сам будет обновлять списо
 | | |
 |---|---:|
 | Подписок-источников | 91 (недоступно: 2) |
-| Скачано ссылок | 293,135 |
-| Неподдерживаемые протоколы (socks, http, tuic и др.) | 7,261 |
-| Дубликаты | 171,272 |
-| Уникальные прокси | 114,602 |
-| Битые ссылки | 34,100 |
-| Не работали, ждут перепроверки | 7,675 |
-| Не работают давно, больше не проверяются | 70,471 |
-| Проверено сейчас | 2,356 |
-| Не работают | 1,598 (67.8%) |
-| Работают, но медленные для своей страны | 47 |
-| **Рабочие, опубликованы** | **711** (30.2%) |
-| Стран выхода | 34 |
-| Медианная задержка опубликованных | 641 мс |
-| Работают 24 часа и дольше | 251 |
+| Скачано ссылок | 324,983 |
+| Неподдерживаемые протоколы (socks, http, tuic и др.) | 7,026 |
+| Дубликаты | 203,601 |
+| Уникальные прокси | 114,356 |
+| Битые ссылки | 34,173 |
+| Не работали, ждут перепроверки | 7,769 |
+| Не работают давно, больше не проверяются | 70,252 |
+| Проверено сейчас | 2,162 |
+| Не работают | 1,196 (55.3%) |
+| Работают, но медленные для своей страны | 55 |
+| **Рабочие, опубликованы** | **911** (42.1%) |
+| Стран выхода | 38 |
+| Медианная задержка опубликованных | 411 мс |
+| Работают 24 часа и дольше | 252 |
 
 Прокси, которые не работают, перепроверяются раз в 3 дня; если прокси не работает и через 3 дня после
 первой неудачи, он больше не проверяется. Дубликаты — один и тот же сервер, опубликованный в разных
@@ -119,28 +124,29 @@ NekoBox, Streisand. Клиент сам будет обновлять списо
 ```mermaid
 xychart-beta
     title "Рабочие прокси по проверкам"
-    x-axis ["11-01 15:17", "11-01 21:17", "11-02 03:17", "11-02 09:17", "11-02 15:17", "11-02 21:17", "11-03 03:17", "11-03 09:17", "11-03 15:17", "11-03 17:48", "11-03 21:17", "11-04 03:17", "11-04 09:17", "11-04 15:17", "11-04 21:17", "11-05 03:17", "11-05 09:17", "11-05 15:17", "11-05 21:17", "11-06 03:17", "11-06 09:17", "11-06 15:17", "11-06 21:17", "11-07 03:17", "11-07 09:17", "11-07 15:17", "11-07 21:17", "11-08 03:17", "11-08 09:17", "11-08 15:17"]
+    x-axis ["11-01 21:17", "11-02 03:17", "11-02 09:17", "11-02 15:17", "11-02 21:17", "11-03 03:17", "11-03 09:17", "11-03 15:17", "11-03 17:48", "11-03 21:17", "11-04 03:17", "11-04 09:17", "11-04 15:17", "11-04 21:17", "11-05 03:17", "11-05 09:17", "11-05 15:17", "11-05 21:17", "11-06 03:17", "11-06 09:17", "11-06 15:17", "11-06 21:17", "11-07 03:17", "11-07 09:17", "11-07 15:17", "11-07 21:17", "11-08 03:17", "11-08 09:17", "11-08 15:17", "11-08 21:17"]
     y-axis "Прокси"
-    line [1397, 1348, 1452, 1348, 1183, 1136, 1217, 1132, 1246, 22, 1316, 1520, 1043, 844, 832, 1041, 883, 631, 546, 962, 563, 523, 694, 792, 625, 611, 690, 870, 741, 711]
+    line [1348, 1452, 1348, 1183, 1136, 1217, 1132, 1246, 22, 1316, 1520, 1043, 844, 832, 1041, 883, 631, 546, 962, 563, 523, 694, 792, 625, 611, 690, 870, 741, 711, 911]
 ```
 
 ```mermaid
 xychart-beta
     title "Рабочие прокси по странам выхода (12 крупнейших)"
-    x-axis ["DE", "US", "NL", "FR", "RU", "GB", "SG", "JP", "FI", "IT", "CH", "PL"]
+    x-axis ["US", "DE", "NL", "FR", "RU", "FI", "GB", "PL", "SG", "HK", "JP", "CH"]
     y-axis "Прокси"
-    bar [146, 129, 78, 33, 32, 23, 23, 22, 21, 19, 18, 12]
+    bar [205, 170, 103, 56, 51, 30, 30, 26, 17, 13, 13, 12]
 ```
 
 ```mermaid
 pie showData
     title Рабочие прокси по протоколам
-    "VLESS Reality" : 363
-    "VLESS TLS" : 153
-    "Trojan" : 88
-    "Shadowsocks" : 46
-    "VMess" : 34
-    "Hysteria2" : 27
+    "VLESS Reality" : 472
+    "VLESS TLS" : 230
+    "Trojan" : 91
+    "VMess" : 48
+    "Shadowsocks" : 43
+    "Hysteria2" : 26
+    "VLESS plain" : 1
 ```
 
 ```mermaid
@@ -148,7 +154,7 @@ xychart-beta
     title "Средняя задержка рабочих прокси, мс"
     x-axis ["<300", "300-500", "500-800", "800-1200", "1200-2000", ">2000"]
     y-axis "Прокси"
-    bar [222, 86, 136, 90, 70, 107]
+    bar [386, 108, 198, 112, 71, 36]
 ```
 
 ## Пул для Xray

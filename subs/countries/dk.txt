@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gREs=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-08 21:33 UTC, 1 proxies, best first
+vless://6ae10376-317e-4339-9c59-6b9c1313d6cf@avcd.banfuna.ir:39356?fp=chrome&host=tl3.tavqila.ir&path=%2F&security=tls&sni=tl3.tavqila.ir&type=ws#%F0%9F%87%A9%F0%9F%87%B0%20DK%20Copenhagen%20vless%20ws%2Ftls%20avcd.banfuna.ir%3A39356

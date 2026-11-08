@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-08 15:38 UTC, 2 proxies, best first
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@aiartstudios.best:443?type=xhttp&security=reality&path=/&sni=aiartstudios.best&fp=firefox&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&sid=db724eb12631c05f#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%C5%A0iauliai%20vless%20xhttp%2Freality%20aiartstudios.best%3A443
-vless://53555197-bf0a-49e6-bea1-211fcfc1d962@germany3.banovano.space:2053?encryption=none&type=grpc&security=tls&sni=germany3.banovano.space&fp=edge&alpn=h2#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20grpc%2Ftls%20germany3.banovano.space%3A2053
+# updated 2026-11-08 21:33 UTC, 2 proxies, best first
+vless://d9cc5c37-b53c-1131-b4e1-1b9f7fbea1b1@46.243.232.71:10018?encryption=none&fp=firefox&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&security=reality&serviceName=grpc&sid=c1a7e9b4711d5f60&sni=6b9iw.guardora.pro&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20grpc%2Freality%2046.243.232.71%3A10018
+vless://d9cc5c37-b53c-1131-b4e1-1b9f7fbea1b1@6b9iw.guardora.pro:10018?type=grpc&security=reality&fp=chrome&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&sni=6b9iw.guardora.pro&serviceName=grpc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20grpc%2Freality%206b9iw.guardora.pro%3A10018
