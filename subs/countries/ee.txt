@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-08 09:36 UTC, 6 proxies, best first
-hysteria2://p5xt6oLOA3qikIaj@fi-p1.h1cloud.net:25482?insecure=1&sni=www.bing.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20hy2%20hysteria%2Ftls%20fi-p1.h1cloud.net%3A25482
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@rapira-dof.whitenw.net:8445?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&sni=passport.yandex.ru#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20rapira-dof.whitenw.net%3A8445
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.145.106:8445?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.86.145.106%3A8445
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@rapira-dof.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20rapira-dof.whitenw.net%3A8445%20%232
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.145.106:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.86.145.106%3A8445%20%232
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.145.106:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.86.145.106%3A8445%20%233
+# updated 2026-11-08 15:38 UTC, 5 proxies, best first
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@ee-serv.maxleshax.icu:8443?encryption=none&type=grpc&security=reality&sni=ee-serv.maxleshax.icu&pbk=wuPtG_2wu8RGSLjDqDOF2phvD3Lq2Az8VJUtwcnmtVQ&sid=208e4d1644e58fe2&fp=firefox&serviceName=platina#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20ee-serv.maxleshax.icu%3A8443
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mirror-50.topp-con.xyz&fp=chrome&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@ee-serv.maxleshax.icu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ee-serv.maxleshax.icu&pbk=u5cNulbKaixqQpv4llDd39FEqWeh91ZxIStuy7O0cUE&sid=ba3ff78b6b36165d&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee-serv.maxleshax.icu%3A443
+vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@7cabc1g.de-p1.h1clayd.click:443?type=grpc&security=reality&fp=chrome&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&sid=3b84fc70657725af&sni=7cabc1g.de-p1.h1clayd.click&serviceName=8cb5baa18cd7&spx=%2F#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20grpc%2Freality%207cabc1g.de-p1.h1clayd.click%3A443
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@7cabc1g.de-p1.h1clayd.click:443?pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=7cabc1g.de-p1.h1clayd.click&spx=%2F&type=grpc&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20grpc%2Freality%207cabc1g.de-p1.h1clayd.click%3A443%20%232

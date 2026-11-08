@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-08 09:36 UTC, 4 proxies, best first
-vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAid3d3LnB1Ymdtb2JpbGUuY29tIiwgImlkIjogImIxNWU0ODFkLTE3ZTQtNDFhOC04NGMyLTIzZDRmMDUxNGQ5YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ3d3cucHViZ21vYmlsZS5jb20iLCAidGVzdF9uYW1lIjogIkhLNSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogIjE1Ni4yNDUuMjMyLjIzOSIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzICMyIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-3-z.473221.xyz:13212?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=4VguZbm-S2NkLpi7gLDsQMv2eDXP2LucxsvTiEt98yY&sid=961f7127a015ba&sni=v1-dy.ixigua.com&servername=v1-dy.ixigua.com&spx=%2F&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20dddz-3-z.473221.xyz%3A13212
-vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-3-z.473221.xyz:13212?security=reality&type=tcp&sni=v1-dy.ixigua.com&flow=xtls-rprx-vision&pbk=4VguZbm-S2NkLpi7gLDsQMv2eDXP2LucxsvTiEt98yY&sid=961f7127a015ba&allowInsecure=1&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20dddz-3-z.473221.xyz%3A13212%20%232
+# updated 2026-11-08 15:38 UTC, 4 proxies, best first
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@fi87.maxleshax.icu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fi87.maxleshax.icu&pbk=i1IeWOHJjxR_JnJ0WmhSMNrAywwMV-Cq01Oaalm5n2k&sid=f1da2d72715df584&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20fi87.maxleshax.icu%3A443
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@139.28.170.43:8443?encryption=none&type=grpc&security=reality&sni=hk-ufo.maxleshax.icu&pbk=LsS2m90VT4Qcxx4gdjBbW06PLk9MFCzd01fgOH6-Tws&sid=6a9b866d547a6c02&fp=firefox&serviceName=platina#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20grpc%2Freality%20139.28.170.43%3A8443
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@hk-ufo.maxleshax.icu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=hk-ufo.maxleshax.icu&pbk=DuKUpFN1nYgFK1e1jU2CjHI4eGN0g5ilLa8uWj5UzXQ&sid=7fe95e327ac40d9d&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20hk-ufo.maxleshax.icu%3A443
+vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogIjE1Ni4yNDUuMjMyLjIzOSIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
