@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 21:35 UTC, 4 proxies, best first
-ss://YWVzLTEyOC1nY206YjYxY2E3MDYtZTJlOS00ZjZiLWJkMWUtMGYwNTM0YTJmYzQx@xd-v2.mimonode-client.com:28031#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20ss%20xd-v2.mimonode-client.com%3A28031
+# updated 2026-11-08 03:32 UTC, 4 proxies, best first
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?security=reality&encryption=none&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=cff998a4#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20152.32.167.33%3A443
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?flow=xtls-rprx-vision&fp=firefox&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&security=reality&sid=cff998a4&sni=www.amazon.com&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20152.32.167.33%3A443%20%232
-vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:13239?security=reality&type=tcp&sni=updates.cdn-apple.com&flow=xtls-rprx-vision&pbk=NJgrmuV1CFhj7PeKJoQfDQVagDcFITkfrM-a7sa_mWw&sid=8591c4d31f59a60d&allowInsecure=1&fp=chrome#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20raw%2Freality%20dddz-1-x.473221.xyz%3A13239
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?security=tls&sni=n04.jinggai.online&type=ws&headerType=none&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&fp=firefox#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20n04.jinggai.online%3A8443
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?security=tls&sni=n04.jinggai.online&type=ws&headerType=none&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&fp=edge#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Taipei%20vless%20ws%2Ftls%20n04.jinggai.online%3A8443%20%232

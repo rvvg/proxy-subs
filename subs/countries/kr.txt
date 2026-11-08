@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDcgMjE6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-07 21:35 UTC, 4 proxies, best first
-hy2://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2486.wagahaha.xyz:443?sni=u695098u04af05e4s2473.xxti.top#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20s2486.wagahaha.xyz%3A443
+# updated 2026-11-08 03:32 UTC, 4 proxies, best first
 hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?security=tls&sni=oeal42h1p4.j.cloudfront.hls.vodcdn-edge.net&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi&fp=qq#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Icheon-si%20vless%20grpc%2Ftls%20135.106.190.126%3A443
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?security=tls&sni=oeal42h1p4.j.cloudfront.hls.vodcdn-edge.net&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Icheon-si%20vless%20grpc%2Ftls%20135.106.190.126%3A443%20%232
+hy2://maintell@152.70.237.123:2053?insecure=1&sni=152.70.237.123#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232
+trojan://5t6i121em5lkmsmk@158.247.220.26:48851/?type=tcp&security=tls&sni=kr002.zestapp778.com&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.220.26%3A48851
+hy2://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2486.wagahaha.xyz:443?sni=u695098u04af05e4s2473.xxti.top#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20s2486.wagahaha.xyz%3A443

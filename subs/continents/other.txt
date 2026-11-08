@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4g0JTRgNGD0LPQuNC1
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-08 03:32 UTC, 1 proxies, best first
+vless://6eaf5e8f-e4fe-4dc7-a1cd-f24343536abe@45.86.67.114:8443/?type=grpc&encryption=none&flow=&serviceName=us-tor&sni=us1.kittieslabs.tech&fp=ios&security=reality&pbk=vzxQR7aijDhEEV2Dq6P6eFJckkgOLTq86bySpqVGsQo&sid=de9061cbed448be3#%F0%9F%8F%B3%20T1%20vless%20grpc%2Freality%2045.86.67.114%3A8443
