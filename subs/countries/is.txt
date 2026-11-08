@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gSVM=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-08 09:36 UTC, 1 proxies, best first
+vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?encryption=none&fp=firefox&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo&security=reality&sid=06&sni=google.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B8%20IS%20Reykjavik%20vless%20raw%2Freality%2093.95.226.159%3A28150
