@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-08 21:33 UTC, 3 proxies, best first
-vless://a375b5b2-5d7b-4925-849d-ae4f9d4d2010@ee-serv.maxleshax.icu:8443?encryption=none&type=grpc&security=reality&sni=ee-serv.maxleshax.icu&pbk=wuPtG_2wu8RGSLjDqDOF2phvD3Lq2Az8VJUtwcnmtVQ&sid=208e4d1644e58fe2&fp=firefox&serviceName=platina#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20ee-serv.maxleshax.icu%3A8443
-vless://a375b5b2-5d7b-4925-849d-ae4f9d4d2010@ee-serv.maxleshax.icu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ee-serv.maxleshax.icu&pbk=u5cNulbKaixqQpv4llDd39FEqWeh91ZxIStuy7O0cUE&sid=ba3ff78b6b36165d&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ee-serv.maxleshax.icu%3A443
-vless://3ffb5b28-2ae2-4d56-8ac9-37007008f991@estonia2.banovano.space:17417?encryption=none&type=xhttp&security=reality&sni=yandex-cdn-mirror.ru&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&sid=728f3f459ddf&fp=edge&spx=/yGKROYpW7YoNBsh&path=/&mode=auto#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20estonia2.banovano.space%3A17417
+# updated 2026-11-09 03:32 UTC, 2 proxies, best first
+vless://3ffb5b28-2ae2-4d56-8ac9-37007008f991@estonia2.banovano.space:17417?encryption=none&type=xhttp&security=reality&sni=yandex-cdn-mirror.ru&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&sid=728f3f459ddf&fp=edge&spx=/yGKROYpW7YoNBsh&path=/&host=yandex-cdn-mirror.ru&mode=auto#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20estonia2.banovano.space%3A17417
+vless://3ffb5b28-2ae2-4d56-8ac9-37007008f991@179.253.81.74:17417?encryption=none&fp=firefox&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&security=reality&sid=728f3f459ddf&sni=yandex-cdn-mirror.ru&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20179.253.81.74%3A17417

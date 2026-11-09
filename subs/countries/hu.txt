@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSFU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDggMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-08 21:33 UTC, 1 proxies, best first
+# updated 2026-11-09 03:32 UTC, 2 proxies, best first
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:11443?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=qynv3Jxi5JNb9o9o9vK7utBV7j89UMRX7LHaiNXcb0I&sid=5b37e2b6&serviceName=cas-hu#%F0%9F%87%AD%F0%9F%87%BA%20HU%20Budapest%20vless%20grpc%2Freality%2084.38.184.126%3A11443
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.87:11443?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=4HG_QcSHTdYtSbcTQczOW4JAHQfjc37UCLKHSps_t3w&sid=39cdc017&serviceName=cas-hu#%F0%9F%87%AD%F0%9F%87%BA%20HU%20Budapest%20vless%20grpc%2Freality%2084.38.184.87%3A11443
