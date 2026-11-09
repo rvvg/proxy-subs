@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 09:36 UTC, 2 proxies, best first
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@158.247.220.26:37095?security=tls&sni=kr002.zestapp778.com&type=tcp&fp=chrome&allowInsecure=0#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20raw%2Ftls%20158.247.220.26%3A37095
+# updated 2026-11-09 15:38 UTC, 4 proxies, best first
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@158.247.220.26:37095/?type=tcp&encryption=none&flow=&security=tls&sni=kr002.zestapp778.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20raw%2Ftls%20158.247.220.26%3A37095
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&fp=chrome&security=tls&sni=kr002.zestapp778.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cgS1IgU2VvdWwgdm1lc3Mgd3MvdGxzIGpwNC45OTg5OTguYmVzdDo0NDMiLCAiYWRkIjogImpwNC45OTg5OTguYmVzdCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI5Yzg1MTYwNi05NzIyLTQyZmMtYTFjMS0xNzVjM2M4MmE3YWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAid3MiLCAiaG9zdCI6ICJuYXQxMi45OTY2MzM4Lnh5eiIsICJwYXRoIjogIi92dnZ2dnZ2dnYiLCAidGxzIjogInRscyIsICJzbmkiOiAibmF0MTIuOTk2NjMzOC54eXoiLCAiZWNoIjogIm5hdDEyLjk5NjYzMzgueHl6K2h0dHBzOi8vZG9oLnB1Yi9kbnMtcXVlcnkifQ==
 trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.255.150%3A48851

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 09:36 UTC, 5 proxies, best first
-vless://3ffb5b28-2ae2-4d56-8ac9-37007008f991@179.253.81.74:17417?encryption=none&fp=firefox&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&security=reality&sid=728f3f459ddf&sni=yandex-cdn-mirror.ru&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20179.253.81.74%3A17417
-vless://3ffb5b28-2ae2-4d56-8ac9-37007008f991@179.253.81.74:17417?encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&security=reality&sid=728f3f459ddf&sni=yandex-cdn-mirror.ru&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20179.253.81.74%3A17417%20%232
-vless://3ffb5b28-2ae2-4d56-8ac9-37007008f991@179.253.81.74:17417?encryption=none&fp=firefox&host=yandex-cdn-mirror.ru&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&security=reality&sid=728f3f459ddf&sni=yandex-cdn-mirror.ru&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20179.253.81.74%3A17417%20%233
-vless://07182f67-0f26-4918-88b5-28f52ba1a35b@132.243.74.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ijTx5mPaTx_FxtVhpoY6RVvzRfJL3c1ky39RfttQXzI&security=reality&sid=8148c96a&sni=espubl.spoofik.fun&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.118%3A443
-vless://07182f67-0f26-4918-88b5-28f52ba1a35b@132.243.74.118:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ijTx5mPaTx_FxtVhpoY6RVvzRfJL3c1ky39RfttQXzI&fp=qq&type=tcp&sni=espubl.spoofik.fun&sid=8148c96a#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.118%3A443%20%232
+# updated 2026-11-09 15:38 UTC, 3 proxies, best first
+vless://07182f67-0f26-4918-88b5-28f52ba1a35b@132.243.74.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=espubl.spoofik.fun&fp=qq&pbk=ijTx5mPaTx_FxtVhpoY6RVvzRfJL3c1ky39RfttQXzI&sid=8148c96a&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.118%3A443
+vless://07182f67-0f26-4918-88b5-28f52ba1a35b@132.243.74.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ijTx5mPaTx_FxtVhpoY6RVvzRfJL3c1ky39RfttQXzI&security=reality&sid=8148c96a&sni=espubl.spoofik.fun&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.74.118%3A443%20%232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA@dns27.m3hrzd.ir:1355#%F0%9F%87%AA%F0%9F%87%AA%20EE%20ss%20dns27.m3hrzd.ir%3A1355

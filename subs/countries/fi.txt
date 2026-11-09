@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRkk=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,16 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 09:36 UTC, 6 proxies, best first
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.87:2089?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=TGbaO5ocPEkI3J1M7y_TPvZheJa-N_rL7GSiluX-XB8&sid=37103087&serviceName=cas-fi#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20grpc%2Freality%2084.38.184.87%3A2089
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&sid=c1db0a1b&serviceName=cas-fi&encryption=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20grpc%2Freality%2084.38.184.126%3A2089
-vless://8986720a-80bb-4c7e-a3af-ff5374e198a9@179.253.82.24:443?encryption=none&fp=firefox&security=tls&sni=finland2.banovano.space&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20grpc%2Ftls%20179.253.82.24%3A443
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?type=grpc&security=reality&sni=s3.storage.selcloud.ru&fp=chrome&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&sid=c1db0a1b&serviceName=cas-fi&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20grpc%2Freality%2084.38.184.126%3A2089%20%232
-vless://44285ef8-77e0-4d48-a1fc-e5cf58898f87@157.180.81.207:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=tcptlsdigikala.savfasf.ir.#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20raw%2Ftls%20157.180.81.207%3A443
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@104.171.133.213:443?flow=xtls-rprx-vision&security=tls&sni=mirror-75.topp-con.xyz&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20raw%2Ftls%20104.171.133.213%3A443
+# updated 2026-11-09 15:38 UTC, 12 proxies, best first
+vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@45.129.124.16:2066?flow=xtls-rprx-vision&fp=chrome&pbk=cJI_cc-h4mGAzDf46UX_eYstthcmXFUVIO3mT3M9zG0&security=reality&sid=d18f4e&sni=node-44c495a4.g-magnum.icu&spx=%2F&type=raw#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20raw%2Freality%2045.129.124.16%3A2066
+vless://87c35d3a-36f1-fade-90b7-af60506efbb8@176.108.245.237:443?alpn=h2%2Chttp%2F1.1&security=tls&sni=tfusq-ru-40sb.fade.mom#%F0%9F%87%AB%F0%9F%87%AE%20FI%20vless%20raw%2Ftls%20176.108.245.237%3A443
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443/?type=ws&encryption=none&flow=&host=mbr.rkn-pediki.site&path=%2Fsession&security=tls&sni=mbr.rkn-pediki.site#%F0%9F%87%AB%F0%9F%87%AE%20FI%20vless%20ws%2Ftls%20mbr.rkn-pediki.site%3A443
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@185.178.208.167:443?security=tls&sni=mbr.rkn-pediki.site&alpn=http%2F1.1&fp=ios&type=ws&host=mbr.rkn-pediki.site&path=%2Fsession#%F0%9F%87%AB%F0%9F%87%AE%20FI%20vless%20ws%2Ftls%20185.178.208.167%3A443
+vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@83.141.75.138:2066?flow=xtls-rprx-vision&fp=chrome&pbk=y0r0Li8Pf9Nmr7u8zoT5_oeZL31jpZEmt9R2A-JwXns&security=reality&sid=d18f4e&sni=node-f9e67aae.g-magnum.icu&spx=%2F&type=raw#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20raw%2Freality%2083.141.75.138%3A2066
+vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@83.141.75.138:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y0r0Li8Pf9Nmr7u8zoT5_oeZL31jpZEmt9R2A-JwXns&security=reality&sid=d18f4e&sni=node-f9e67aae.g-magnum.icu&spx=%2F&type=raw#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20raw%2Freality%2083.141.75.138%3A2066%20%232
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@185.178.208.167:443?alpn=http%2F1.1&host=mbr.rkn-pediki.site&path=%2Fsession&security=tls&sni=mbr.rkn-pediki.site&type=ws&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20FI%20vless%20ws%2Ftls%20185.178.208.167%3A443%20%232
+vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@83.141.75.138:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y0r0Li8Pf9Nmr7u8zoT5_oeZL31jpZEmt9R2A-JwXns&security=reality&sid=d18f4e&sni=node-f9e67aae.g-magnum.icu&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20raw%2Freality%2083.141.75.138%3A2066%20%233
+vless://ff15fcbe-4213-4c7d-ad0d-a0ad9b62f9b9@91.192.157.159:443?encryption=none&fp=firefox&host=fintl.qiksme.com&path=/assets/js/app.02a17a60.js&pbk=GxworJcCmPev82bpbJLAsbVtCo29Kq2z7vzV-bi1RmY&security=reality&sid=b9828cf6d9e95772&sni=fintl.qiksme.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20xhttp%2Freality%2091.192.157.159%3A443
+vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@78.40.193.180:443?mode=auto&path=/assets/28ca4df9&security=reality&encryption=none&pbk=FLewL4WGvCzo0NM2pGabhZVPlw0WKpNHIC9nksuoL30&host=78.40.193.180&fp=chrome&type=xhttp&sni=packages.gitlab.com&sid=6969b2e2be858cb3#%F0%9F%87%AB%F0%9F%87%AE%20FI%20vless%20xhttp%2Freality%2078.40.193.180%3A443
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?type=grpc&security=reality&sni=s3.storage.selcloud.ru&fp=chrome&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&sid=c1db0a1b&serviceName=cas-fi&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20Helsinki%20vless%20grpc%2Freality%2084.38.184.126%3A2089
+vless://87c35d3a-36f1-fade-90b7-af60506efbb8@176.108.245.237:443?security=tls&sni=tfusq-ru-40sb.fade.mom&alpn=h2%2Chttp%2F1.1&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20FI%20vless%20raw%2Ftls%20176.108.245.237%3A443%20%232
