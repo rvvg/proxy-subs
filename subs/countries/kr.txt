@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 03:32 UTC, 1 proxies, best first
-trojan://5t6i121em5lkmsmk@158.247.220.26:48851/?type=tcp&security=tls&sni=kr002.zestapp778.com&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.220.26%3A48851
+# updated 2026-11-09 09:36 UTC, 2 proxies, best first
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@158.247.220.26:37095?security=tls&sni=kr002.zestapp778.com&type=tcp&fp=chrome&allowInsecure=0#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20raw%2Ftls%20158.247.220.26%3A37095
+trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.255.150%3A48851

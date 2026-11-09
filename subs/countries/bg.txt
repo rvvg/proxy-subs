@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 03:32 UTC, 6 proxies, best first
-vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.71:444?pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&security=reality&serviceName=grpc&sni=passport.yandex.ru&type=grpc&fp=safari#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20grpc%2Freality%2046.243.232.71%3A444
-vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.71:444?pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&security=reality&serviceName=grpc&sni=passport.yandex.ru&type=grpc&fp=edge#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20grpc%2Freality%2046.243.232.71%3A444%20%232
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@bg-1.bexumconnect.ltd:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=qq&sni=bg-1.bexumconnect.ltd#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Ftls%20bg-1.bexumconnect.ltd%3A443
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@45.137.201.174:443?security=tls&flow=xtls-rprx-vision&fp=qq&sni=bg-1.bexumconnect.ltd#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Ftls%2045.137.201.174%3A443
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@bg-1.bexumconnect.ltd:443?alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=bg-1.bexumconnect.ltd&type=tcp&fp=edge#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Ftls%20bg-1.bexumconnect.ltd%3A443%20%232
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@bg-1.bexumconnect.ltd:443?flow=xtls-rprx-vision&type=raw&security=tls&sni=bg-1.bexumconnect.ltd&fp=qq&alpn=http%2F1.1%2Ch2#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Ftls%20bg-1.bexumconnect.ltd%3A443%20%233
+# updated 2026-11-09 09:36 UTC, 1 proxies, best first
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.71:444?type=grpc&security=reality&encryption=none&sni=passport.yandex.ru&fp=safari&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&headerType=none&serviceName=grpc&mode=gun#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20grpc%2Freality%2046.243.232.71%3A444

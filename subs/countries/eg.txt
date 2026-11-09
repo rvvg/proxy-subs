@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 03:32 UTC, 5 proxies, best first
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@130.94.49.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=tcp#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20130.94.49.242%3A443
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@130.94.49.242:443?encryption=none&flow=xtls-rprx-vision&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20130.94.49.242%3A443%20%232
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@g50ur7wpf.apruxdomain.online:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=eg1.hat.onl&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&sid=91570bdd8b38b7d9&fp=qq#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20g50ur7wpf.apruxdomain.online%3A443
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@130.94.49.242:443?flow=xtls-rprx-vision&fp=firefox&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=raw#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20130.94.49.242%3A443%20%233
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@130.94.49.242:443?flow=xtls-rprx-vision&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=raw&fp=edge#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20130.94.49.242%3A443%20%234
+# updated 2026-11-09 09:36 UTC, 4 proxies, best first
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@130.94.49.242:443?flow=xtls-rprx-vision&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=raw&fp=ios#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20130.94.49.242%3A443
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@g50ur7wpf.apruxdomain.online:443?flow=xtls-rprx-vision&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=raw&fp=edge#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20g50ur7wpf.apruxdomain.online%3A443
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@130.94.49.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=tcp#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20130.94.49.242%3A443%20%232
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@g50ur7wpf.apruxdomain.online:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=eg1.hat.onl&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&sid=91570bdd8b38b7d9&fp=qq#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20g50ur7wpf.apruxdomain.online%3A443%20%232

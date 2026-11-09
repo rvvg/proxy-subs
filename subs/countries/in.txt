@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSU4=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,15 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 03:32 UTC, 10 proxies, best first
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?fp=random&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&security=reality&sid=9980e0609b0d3891&sni=www.apple.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20194.61.31.126%3A2053
+# updated 2026-11-09 09:36 UTC, 11 proxies, best first
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?fp=chrome&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&security=reality&sid=9980e0609b0d3891&sni=www.apple.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20194.61.31.126%3A2053
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9980e0609b0d3891&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20194.61.31.126%3A2053%20%232
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?fp=random&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&security=reality&sid=9980e0609b0d3891&sni=www.apple.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20194.61.31.126%3A2053%20%233
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443%20%232
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?fp=random&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20in.smrtai.top%3A443
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9980e0609b0d3891&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20194.61.31.126%3A2053%20%232
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20in.smrtai.top%3A443%20%232
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?fp=chrome&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&security=reality&sid=9980e0609b0d3891&sni=www.apple.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20194.61.31.126%3A2053%20%233
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Delhi%20vless%20raw%2Freality%205.253.42.164%3A40443
 vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&security=reality&sid=7ff98efcced3fd5b&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20148.113.5.22%3A443
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20in.smrtai.top%3A443%20%232
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@103.172.116.191:10303?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=mjWmmSvs0D3V3130FT7MVbRs94pPuWXR7ffaQ_3A4kU&sid=f96b3b17a0f5b1fe&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20103.172.116.191%3A10303
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@103.172.116.191:10303?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mjWmmSvs0D3V3130FT7MVbRs94pPuWXR7ffaQ_3A4kU&security=reality&sid=f96b3b17a0f5b1fe&sni=www.apple.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20103.172.116.191%3A10303%20%232
 vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?encryption=none&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Indore%20vless%20ws%2Ftls%20122.176.216.52%3A443

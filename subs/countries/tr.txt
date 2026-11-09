@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 03:32 UTC, 10 proxies, best first
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20185.147.27.23%3A8443
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@tr.gacvpn.site:443?flow=xtls-rprx-vision&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&security=reality&sid=ab7cbe5f&sni=tr-edge.gacvpn.site&type=tcp&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr.gacvpn.site%3A443
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@tr.gacvpn.site:443?security=reality&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=tr-edge.gacvpn.site&sid=ab7cbe5f#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr.gacvpn.site%3A443%20%232
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@132.243.173.113:443?encryption=none&flow=xtls-rprx-vision&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&security=reality&sid=ab7cbe5f&sni=tr-edge.gacvpn.site&type=tcp&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20132.243.173.113%3A443
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@tr.gacvpn.site:443?security=reality&encryption=none&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr-edge.gacvpn.site&sid=ab7cbe5f#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr.gacvpn.site%3A443%20%233
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@132.243.173.113:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&sid=ab7cbe5f&sni=tr-edge.gacvpn.site#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20132.243.173.113%3A443%20%232
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@91.232.103.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2091.232.103.51%3A443
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@185.147.27.23:8443?flow=xtls-rprx-vision&security=reality&sni=tr1.hat.onl&fp=edge&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20185.147.27.23%3A8443%20%232
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@185.147.27.23:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20185.147.27.23%3A8443%20%233
+# updated 2026-11-09 09:36 UTC, 5 proxies, best first
 vless://7592ca5c-b352-4562-8856-a9c936a3331b@ybr6cy3xmwu.apruxdomain.online:443?encryption=none&type=grpc&security=tls&sni=s2wxzsqb.hat.onl&fp=qq&serviceName=hls-vod.n5dihxdwzg6.segment-20-v1-a1.ts#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Ftls%20ybr6cy3xmwu.apruxdomain.online%3A443
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@132.243.173.113:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&sid=ab7cbe5f&sni=tr-edge.gacvpn.site#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20132.243.173.113%3A443
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@tr.gacvpn.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&sid=ab7cbe5f&sni=tr-edge.gacvpn.site#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr.gacvpn.site%3A443
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@tr.gacvpn.site:443?security=reality&encryption=none&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr-edge.gacvpn.site&sid=ab7cbe5f#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20tr.gacvpn.site%3A443%20%232
+vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@91.232.103.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2091.232.103.51%3A443

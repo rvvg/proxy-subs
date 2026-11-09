@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0J7QutC10LDQvdC40Y8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 03:32 UTC, 4 proxies, best first
+# updated 2026-11-09 09:36 UTC, 4 proxies, best first
+trojan://Trojan@82164024@45.32.241.180:443?security=tls&sni=au.tronsg.com#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%2045.32.241.180%3A443
 trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&security=tls&type=tcp&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%20au001.zestapp778.com%3A54374
-vless://3c778768-d511-4221-8be3-3eba45640e9e@51.161.204.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l0I4SmPtUDyjp1PAeSxBJ5qr9vubCOl9w3b-eDI4x24&security=reality&sid=d432fe14bbdc17f6&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%2051.161.204.242%3A443
 trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?type=tcp&security=tls&fp=chrome&sni=au001.zestapp778.com#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%20au001.zestapp778.com%3A54374%20%232
-trojan://Trojan%4082164024@45.32.241.180:443?allowInsecure=1&sni=au.tronsg.com#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20trojan%20raw%2Ftls%2045.32.241.180%3A443
+vless://3c778768-d511-4221-8be3-3eba45640e9e@51.161.204.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l0I4SmPtUDyjp1PAeSxBJ5qr9vubCOl9w3b-eDI4x24&security=reality&sid=d432fe14bbdc17f6&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20vless%20raw%2Freality%2051.161.204.242%3A443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0c=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE3LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMDk6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE2LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,21 +7,20 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 03:32 UTC, 17 proxies, best first
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%233
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%234
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTUuMjM1LjE2NC4xMzM6MTk5OTk#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20ss%2015.235.164.133%3A19999
+# updated 2026-11-09 09:36 UTC, 16 proxies, best first
+hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
+hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%233
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%234
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1ANTEuNzkuMjI4LjEzMToxOTk5OQ#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20ss%2051.79.228.131%3A19999
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6wgU0cgU2luZ2Fwb3JlIHZtZXNzIHJhdy9ub25lIDE5NS4xMzMuMTM1LjIzODoxMDA4NiIsICJhZGQiOiAiMTk1LjEzMy4xMzUuMjM4IiwgInBvcnQiOiAiMTAwODYiLCAiaWQiOiAiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfh7jwn4esIFNHIFNpbmdhcG9yZSB2bWVzcyByYXcvdGxzIDE1LjIzNS4xNDQuOTI6MTI3MCIsICJhZGQiOiAiMTUuMjM1LjE0NC45MiIsICJwb3J0IjogMTI3MCwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6IG51bGwsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ4bWZobHB5LmNvbSIsICJmcCI6IG51bGwsICJuYW1lIjogIvCfh7jwn4esIFNHIDEifQ==
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTUuMjM1LjE2NC4xMzM6MTk5OTk#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20ss%2015.235.164.133%3A19999
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20139.180.146.200%3A8886
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20149.28.130.108%3A443
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20139.180.146.200%3A8886%20%232
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.76.155.179:443?&security=tls&fp=chrome&sni=sg003.zestapp778.com&type=tcp&headerType=none&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%2045.76.155.179%3A443
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?allowInsecure=1&sni=searchcreativejobsandshowcaseyourartistictalents.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20149.28.130.108%3A443%20%232
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20139.180.146.200%3A8886
+vmess://eyJhZGQiOiAiMTUuMjM1LjE0NC45MiIsICJhaWQiOiAiMCIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAibmV0IjogInRjcCIsICJwb3J0IjogIjEyNzAiLCAicHMiOiAi8J+HuPCfh6wgU0cgU2luZ2Fwb3JlIHZtZXNzIHJhdy90bHMgMTUuMjM1LjE0NC45MjoxMjcwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ4bWZobHB5LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?flow=xtls-rprx-vision&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&security=reality&sid=2e96bf6afa823abb&sni=sg-sin.probe.geomyip.com&type=tcp&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20134.255.211.36%3A443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20149.28.130.108%3A443%20%232
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&host=pcloud.z-tas.com&fp=chrome&type=ws&sni=pcloud.z-tas.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.46.6%3A2096
 vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.45.6%3A2096
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&type=ws&path=%2F&host=pcloud.z-tas.com&sni=pcloud.z-tas.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.46.6%3A2096
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=firefox&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.46.6%3A2096%20%232
 vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?type=ws&security=tls&fp=firefox&sni=pcloud.z-tas.com&host=pcloud.z-tas.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.45.6%3A2096%20%232
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6wgU0cgU2luZ2Fwb3JlIHZtZXNzIHJhdy9ub25lIDExNi44OC4yMjQuMjE3OjgwODAiLCAiYWRkIjogIjExNi44OC4yMjQuMjE3IiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICI2ZjRmMGViNS1mZTg2LTQxY2EtZWNjYi1hNmNhNjhmODhkOWIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
