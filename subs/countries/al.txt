@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 15:38 UTC, 1 proxies, best first
+# updated 2026-11-09 21:34 UTC, 3 proxies, best first
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA@dns22.m3hrzd.ir:1348#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20ss%20dns22.m3hrzd.ir%3A1348
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20002?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20eu90.cdn77.icu%3A20002
+vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:2087?encryption=none&type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=YhkmKAgHTooOB7pfAPXt63-4WY6X1f4kVe1USOjYd2M&sid=045cb3a9&fp=chrome&serviceName=cas-al#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20grpc%2Freality%20212.41.9.190%3A2087

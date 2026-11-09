@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE0LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,18 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 15:38 UTC, 14 proxies, best first
-hysteria2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@6dd24f6b-tm96o0-tnggms-6gn6.hk3.hyhuawei.com:443?insecure=1&sni=6dd24f6b-tm96o0-tnggms-6gn6.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%206dd24f6b-tm96o0-tnggms-6gn6.hk3.hyhuawei.com%3A443
-hysteria2://fcd39788-ca23-11ed-86e2-f23c913c8d2b@203.218.217.94:443?sni=eadd8612-tmm5c0-u2e9xs-2b2n.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%20203.218.217.94%3A443
-hysteria2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@203.218.217.94:443?sni=bd8d18d7-tmm5c0-tny186-4lg6.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%20203.218.217.94%3A443%20%232
-hysteria2://8f99107c-f091-11ee-9935-f23c9164ca5d@4e3e8635-tmm5c0-tvh2gy-1qzi1.hk3.hyhuawei.com:443?insecure=1&sni=4e3e8635-tmm5c0-tvh2gy-1qzi1.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%204e3e8635-tmm5c0-tvh2gy-1qzi1.hk3.hyhuawei.com%3A443
-hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@203.218.217.94:443?sni=fc6ffc71-tmm5c0-ts3rye-mrtr.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%20203.218.217.94%3A443%20%233
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@5e293df6-tmm5c0-tujecz-1qkeg.hk3.hyhuawei.com:443?insecure=1&sni=5e293df6-tmm5c0-tujecz-1qkeg.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%205e293df6-tmm5c0-tujecz-1qkeg.hk3.hyhuawei.com%3A443
+# updated 2026-11-09 21:34 UTC, 6 proxies, best first
 hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%2Bsalamander%2023.156.153.18%3A38080
-hysteria2://5dc6fa05-a601-aba6-7761-ecde22d2b0fc@653c15ac-tmm5c0-tonrmx-8n27.hk3.hyhuawei.com:443?insecure=1&sni=653c15ac-tmm5c0-tonrmx-8n27.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%20653c15ac-tmm5c0-tonrmx-8n27.hk3.hyhuawei.com%3A443
-hysteria2://f7d95364-607b-11ee-93af-f23c91369f2d@203.218.217.94:443?sni=e49952e3-tmm5c0-tv7zgh-1ijh5.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%20203.218.217.94%3A443%20%234
-hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@203.218.217.94:443?sni=78bc7982-tmm5c0-u0aht1-1rz5s.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%20203.218.217.94%3A443%20%235
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20032?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20eu90.cdn77.icu%3A20032
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@66hk.mateflora.com:4430?encryption=none&security=reality&sni=psstatic.cdn.bcebos.com&fp=ios&type=tcp&pbk=4q1HJBNvNh5wQiOz_GYOZFxVXQ_m-iZIvGVJ0u2q4HY&sid=bb3de0faf1a7fb&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20HK%20vless%20raw%2Freality%2066hk.mateflora.com%3A4430
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTYyLjE5LjE5Mi44OToxNjYzMiIsICJhZGQiOiAiMTYyLjE5LjE5Mi44OSIsICJwb3J0IjogIjE2NjMyIiwgImlkIjogIjk5MmIxYmM2LTZlMWUtNDU1ZC05NDBiLWU5OWJkMzlmNzBhMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiMDYwNmYyNWJiYjY0NmRlM2ZlYWRiOGQyM2MxYzYyMTcubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@185.147.27.23:2096?flow=xtls-rprx-vision&security=reality&sni=hk1.hat.onl&fp=qq&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&sid=b7a8897a00f0ea77#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20185.147.27.23%3A2096
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@185.147.27.23:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20185.147.27.23%3A2096%20%232
-vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogIjE1Ni4yNDUuMjMyLjIzOSIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@dg1hk.mateflora.com:443?encryption=none&security=reality&sni=psstatic.cdn.bcebos.com&fp=ios&type=tcp&pbk=eqplCderOGIAU5oAI4rh401o0eYtuFnlpzGuFGfj_Rk&sid=c2cc7aa86d59&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20dg1hk.mateflora.com%3A443
+vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAid3d3LnB1Ymdtb2JpbGUuY29tIiwgImlkIjogImIxNWU0ODFkLTE3ZTQtNDFhOC04NGMyLTIzZDRmMDUxNGQ5YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ3d3cucHViZ21vYmlsZS5jb20iLCAidGVzdF9uYW1lIjogIkhLNSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9

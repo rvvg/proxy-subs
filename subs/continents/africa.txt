@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0JDRhNGA0LjQutCw
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 15:38 UTC, 2 proxies, best first
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@g50ur7wpf.apruxdomain.online:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=eg1.hat.onl&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&sid=91570bdd8b38b7d9&fp=qq#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20g50ur7wpf.apruxdomain.online%3A443
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@g50ur7wpf.apruxdomain.online:443?encryption=none&flow=xtls-rprx-vision&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=tcp&fp=edge#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20g50ur7wpf.apruxdomain.online%3A443%20%232
+# updated 2026-11-09 21:34 UTC, 5 proxies, best first
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20082?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20eu90.cdn77.icu%3A20082
+vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:8443?encryption=none&type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=_h_4Tmkb2bq5yNs_TkzHm4g_dJTZLeKiNGAN9tuP22Y&sid=c42a4d4d&fp=chrome&serviceName=cas-za#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20Johannesburg%20vless%20grpc%2Freality%20212.41.9.190%3A8443
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20052?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20vless%20raw%2Freality%20eu90.cdn77.icu%3A20052
+vless://6d1f9513-4ffe-436e-86f5-ad01e31f9ee3@194.87.169.157:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ph0f55823dee4a7.atlassian.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=abe4a59b9f2407e3&fp=chrome#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20vless%20raw%2Freality%20194.87.169.157%3A443
+vless://17923e69-98e0-4952-a599-9c848c1b8ffe@185.147.27.23:30111?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eg1.hat.onl&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&sid=91570bdd8b38b7d9&fp=qq#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%20185.147.27.23%3A30111

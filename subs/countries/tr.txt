@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMTU6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 15:38 UTC, 4 proxies, best first
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@ybr6cy3xmwu.apruxdomain.online:443?encryption=none&type=grpc&security=tls&sni=s2wxzsqb.hat.onl&fp=qq&serviceName=hls-vod.n5dihxdwzg6.segment-20-v1-a1.ts#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Ftls%20ybr6cy3xmwu.apruxdomain.online%3A443
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@91.232.103.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2091.232.103.51%3A443
+# updated 2026-11-09 21:34 UTC, 3 proxies, best first
+vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@ybr6cy3xmwu.apruxdomain.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tr1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20ybr6cy3xmwu.apruxdomain.online%3A443
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zftr.zalolink.com:22152?encryption=none&security=reality&sni=iosapps.itunes.apple.com&fp=ios&type=tcp&pbk=dDf2TcDNn3Kk8pAp4EnNC4ZUAmGkzAapRFGFe-41IEk&sid=86f6705960e3e3&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20zftr.zalolink.com%3A22152
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20185.246.155.91%3A10103
-vless://ca39b355-b488-9297-918f-9d011d075ba2@171.22.27.161:2083?mode=auto&security=reality&encryption=none&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&fp=chrome&spx=%2F&type=xhttp&sni=www.aparat.com&sid=2f567c6d#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20xhttp%2Freality%20171.22.27.161%3A2083
