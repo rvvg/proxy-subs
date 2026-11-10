@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDk6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-10 09:35 UTC, 6 proxies, best first
-vless://4401b8f7-4209-431b-8871-3763301987ae@kz1.sky-vault.top:443?flow=xtls-rprx-vision&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=kz1.sky-vault.top&type=raw&fp=safari#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%20kz1.sky-vault.top%3A443
-vless://4401b8f7-4209-431b-8871-3763301987ae@kz1.sky-vault.top:443?flow=xtls-rprx-vision&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=kz1.sky-vault.top&type=raw&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%20kz1.sky-vault.top%3A443%20%232
-vless://4401b8f7-4209-431b-8871-3763301987ae@95.57.50.157:443?flow=xtls-rprx-vision&fp=firefox&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=kz1.sky-vault.top&type=raw#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%2095.57.50.157%3A443
-vless://4401b8f7-4209-431b-8871-3763301987ae@kz1.sky-vault.top:443?encryption=none&flow=xtls-rprx-vision&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=kz1.sky-vault.top&type=tcp&fp=edge#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%20kz1.sky-vault.top%3A443%20%233
-vless://4401b8f7-4209-431b-8871-3763301987ae@kz1.sky-vault.top:443?flow=xtls-rprx-vision&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=kz1.sky-vault.top&type=raw&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%20kz1.sky-vault.top%3A443%20%234
-vless://83cc8226-1087-49ae-aac3-1f157ddc57b4@176.120.21.23:443?security=reality&type=raw&sni=yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=OAU9917HKYqvTO59c9SvAL9BBh8v85tfJhw5PMg-2iU&sid=c4d4cf50489d51#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%20176.120.21.23%3A443
+# updated 2026-11-10 15:36 UTC, 2 proxies, best first
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20185.246.155.91%3A10403
+vless://83cc8226-1087-49ae-aac3-1f157ddc57b4@176.120.21.23:443?security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=OAU9917HKYqvTO59c9SvAL9BBh8v85tfJhw5PMg-2iU&sid=c4d4cf50489d51#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%20176.120.21.23%3A443

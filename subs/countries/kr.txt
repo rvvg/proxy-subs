@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDk6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-10 09:35 UTC, 4 proxies, best first
-hysteria2://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2563.ccgfw.online:443?sni=u695098u53aeed47s2556.xxti.top#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20s2563.ccgfw.online%3A443
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@141.164.40.4:443?type=xhttp&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20141.164.40.4%3A443
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2449.gogocs.xyz:443?type=xhttp&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20s2449.gogocs.xyz%3A443
+# updated 2026-11-10 15:36 UTC, 7 proxies, best first
 hy2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@141.164.40.4:443?type=xhttp&security=tls&fp=firefox&sni=u695098u66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&host=66e05ed8s2448.xxti.top#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20141.164.40.4%3A443
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2450.wagahaha.xyz:443?type=xhttp&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20s2450.wagahaha.xyz%3A443
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@141.164.40.4:443?type=xhttp&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20141.164.40.4%3A443%20%232
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2449.gogocs.xyz:443?type=xhttp&security=tls&fp=firefox&sni=u695098u66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&host=66e05ed8s2448.xxti.top#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20s2449.gogocs.xyz%3A443
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2449.gogocs.xyz:443?type=xhttp&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20s2449.gogocs.xyz%3A443%20%232
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20vless%20ws%2Ftls%2064.110.79.66%3A8443
