@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gRUc=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-10 21:34 UTC, 1 proxies, best first
+vless://a5b2e7c2-3b91-4fc7-a9b7-58c2c065b99a@5.59.204.221:30111?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eg1.hat.onl&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&sid=91570bdd8b38b7d9&fp=qq#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%205.59.204.221%3A30111

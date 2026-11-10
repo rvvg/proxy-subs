@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-10 15:36 UTC, 1 proxies, best first
+# updated 2026-11-10 21:34 UTC, 2 proxies, best first
 ss://YWVzLTEyOC1nY206ODgxY2YzOWFmZmM1Mjg2Nzk5YTU4NWYxYWNkMjRkMTE=@146.70.90.198:17456#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20ss%20146.70.90.198%3A17456
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLb0pycjE0QktBaUJVSEVvV0hGc0FWck56Yk5WempLTg@18.202.232.173:8388#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20ss%2018.202.232.173%3A8388
