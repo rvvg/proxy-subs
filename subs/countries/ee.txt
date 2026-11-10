@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDk6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-10 03:33 UTC, 2 proxies, best first
-vless://59cb1f5b-51d6-4a03-aca8-3ac34bb848d9@5.253.177.41:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=JPFGvwqbUaVMgakxgnG6DSibIlVclpXmj1kC3kJJKVA&sid=6116985f1613ff84&sni=es-01.file-rkat.online#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.253.177.41%3A443
+# updated 2026-11-10 09:35 UTC, 3 proxies, best first
+vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@13.143.182.117:443?flow=xtls-rprx-vision&security=tls&sni=ee.point.cookie-line.cc&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2013.143.182.117%3A443
+vmess://eyJhZGQiOiAiZXUzLjk5ODk5OC5iZXN0IiwgImFpZCI6ICIwIiwgImVjaCI6ICJzZXJ2ZXI0MC45OTY2MzM4Lnh5eitodHRwczovL2RvaC5wdWIvZG5zLXF1ZXJ5IiwgImhvc3QiOiAic2VydmVyNDAuOTk2NjMzOC54eXoiLCAiaWQiOiAiOWM4NTE2MDYtOTcyMi00MmZjLWExYzEtMTc1YzNjODJhN2FlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9haWFpYWkiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAi8J+HqvCfh6ogRUUgVGFsbGlubiB2bWVzcyB3cy90bHMgZXUzLjk5ODk5OC5iZXN0OjQ0MyIsICJzbmkiOiAic2VydmVyNDAuOTk2NjMzOC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIndzIiwgInYiOiAiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA@dns27.m3hrzd.ir:1355#%F0%9F%87%AA%F0%9F%87%AA%20EE%20ss%20dns27.m3hrzd.ir%3A1355

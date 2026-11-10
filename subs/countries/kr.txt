@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDk6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-10 03:33 UTC, 7 proxies, best first
-hy2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
-trojan://5t6i121em5lkmsmk@158.247.255.150:48851?sni=kr002.zestapp778.com&amp;type=tcp&amp;fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.255.150%3A48851
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&fp=chrome&security=tls&sni=kr002.zestapp778.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20kr002.zestapp778.com%3A48851
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@158.247.220.26:37095/?type=tcp&encryption=none&flow=&security=tls&sni=kr002.zestapp778.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20raw%2Ftls%20158.247.220.26%3A37095
+# updated 2026-11-10 09:35 UTC, 4 proxies, best first
+hysteria2://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2563.ccgfw.online:443?sni=u695098u53aeed47s2556.xxti.top#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20s2563.ccgfw.online%3A443
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@141.164.40.4:443?type=xhttp&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20141.164.40.4%3A443
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2449.gogocs.xyz:443?type=xhttp&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20s2449.gogocs.xyz%3A443
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20raw%2Freality%20185.246.155.91%3A10103
+hy2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053

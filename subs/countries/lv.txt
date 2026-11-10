@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDk6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-10 03:33 UTC, 4 proxies, best first
-vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@wj9xcq0lp4.apruxdomain.online:443?encryption=none&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=lv1.hat.onl&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20wj9xcq0lp4.apruxdomain.online%3A443
-vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@195.123.209.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=lv1.hat.onl&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20195.123.209.32%3A443
-vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@wj9xcq0lp4.apruxdomain.online:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=lv1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&fp=qq#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20wj9xcq0lp4.apruxdomain.online%3A443%20%232
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20047?encryption=none&type=tcp&security=reality&sni=eu32.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20eu90.cdn77.icu%3A20047
+# updated 2026-11-10 09:35 UTC, 5 proxies, best first
+vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@195.123.209.32:443?flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=lv1.hat.onl&type=raw#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20195.123.209.32%3A443
+vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@wj9xcq0lp4.apruxdomain.online:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=lv1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&fp=qq#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20wj9xcq0lp4.apruxdomain.online%3A443
+vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@wj9xcq0lp4.apruxdomain.online:443?encryption=none&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=lv1.hat.onl&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20wj9xcq0lp4.apruxdomain.online%3A443%20%232
+vless://c1208c5a-2350-4506-affd-fc41b4319286@138.124.63.65:443?security=tls&sni=freshoutlet.cleanfoodshop.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20ws%2Ftls%20138.124.63.65%3A443
+vless://c1208c5a-2350-4506-affd-fc41b4319286@138.124.63.65:443?encryption=none&fp=firefox&host=freshoutlet.cleanfoodshop.org&path=/media/ws/&security=tls&sni=freshoutlet.cleanfoodshop.org&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20ws%2Ftls%20138.124.63.65%3A443%20%232
