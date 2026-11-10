@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 21:34 UTC, 3 proxies, best first
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20trojan%20raw%2Ftls%20sclass-00.catcat321.com%3A20123
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?sni=hk.catxstar.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20trojan%20raw%2Ftls%20sclass-c1.catcat321.com%3A20086
+# updated 2026-11-10 03:33 UTC, 3 proxies, best first
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@157.254.38.210:20086?security=tls&sni=hk.catxstar.com&type=tcp&fp=chrome&allowInsecure=0#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20trojan%20raw%2Ftls%20157.254.38.210%3A20086
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20trojan%20raw%2Ftls%20sclass-c1.catcat321.com%3A20086
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20trojan%20raw%2Ftls%20sclass-00.catcat321.com%3A20123

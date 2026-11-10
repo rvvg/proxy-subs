@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 21:34 UTC, 1 proxies, best first
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@216.106.191.201:10403?&security=reality&flow=xtls-rprx-vision&pbk=suK-MYTtZhJ9IJgsxPLTHLQadNotDqYslQcd5BNV_EQ&sid=6aa50b0cc8d23464&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%F0%9F%87%A7%F0%9F%87%AC%20BG%20vless%20raw%2Freality%20216.106.191.201%3A10403
+# updated 2026-11-10 03:33 UTC, 1 proxies, best first
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@216.106.191.201:10403?security=reality&sni=www.apple.com&type=tcp&fp=chrome&pbk=suK-MYTtZhJ9IJgsxPLTHLQadNotDqYslQcd5BNV_EQ&sid=6aa50b0cc8d23464&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AC%20BG%20vless%20raw%2Freality%20216.106.191.201%3A10403

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 21:34 UTC, 3 proxies, best first
-vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@ybr6cy3xmwu.apruxdomain.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tr1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20ybr6cy3xmwu.apruxdomain.online%3A443
+# updated 2026-11-10 03:33 UTC, 4 proxies, best first
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?alpn=http%2F1.1&encryption=none&fp=edge&path=%2Fws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%2081.177.215.81%3A443
+vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:10443?encryption=none&type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=8_nRAlcICkHpdasp0BvKiikAwJ0NSdboULleT2iiuEM&sid=f4316f4e&fp=chrome&serviceName=cas-tr#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%20212.41.9.190%3A10443
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zftr.zalolink.com:22152?encryption=none&security=reality&sni=iosapps.itunes.apple.com&fp=ios&type=tcp&pbk=dDf2TcDNn3Kk8pAp4EnNC4ZUAmGkzAapRFGFe-41IEk&sid=86f6705960e3e3&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20zftr.zalolink.com%3A22152
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20185.246.155.91%3A10103
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7cgVFIgSXN0YW5idWwgdm1lc3Mgd3MvdGxzIGpwNC45OTg5OTguYmVzdDo0NDMiLCAiYWRkIjogImpwNC45OTg5OTguYmVzdCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI5Yzg1MTYwNi05NzIyLTQyZmMtYTFjMS0xNzVjM2M4MmE3YWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAid3MiLCAiaG9zdCI6ICJuYXQxMi45OTY2MzM4Lnh5eiIsICJwYXRoIjogIi92dnZ2dnZ2dnYiLCAidGxzIjogInRscyIsICJzbmkiOiAibmF0MTIuOTk2NjMzOC54eXoiLCAiZWNoIjogIm5hdDEyLjk5NjYzMzgueHl6K2h0dHBzOi8vZG9oLnB1Yi9kbnMtcXVlcnkifQ==

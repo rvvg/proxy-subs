@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRVM=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,16 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 21:34 UTC, 6 proxies, best first
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es1.h1clayd.click:443?encryption=none&security=reality&sni=b3cd32g.es1.h1clayd.click&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&spx=%2F&type=grpc&mode=gun&authority=&serviceName=#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20grpc%2Freality%20b3cd32g.es1.h1clayd.click%3A443
+# updated 2026-11-10 03:33 UTC, 12 proxies, best first
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20026?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20raw%2Freality%20eu90.cdn77.icu%3A20026
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@66.163.118.113:443?&security=reality&flow=xtls-rprx-vision&pbk=PwN5VWqwWKVfrqqrbLE4kzVu9vIXSENAUiAPjMWIrVY&sid=32209e627ee109c7&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%2066.163.118.113%3A443
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@79.182.70.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&security=reality&sid=42426c882c5fcd41&sni=7aa271t.es1.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20raw%2Freality%2079.182.70.212%3A443
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20026?type=tcp&security=reality&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=eu64.cdn77.icu#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20raw%2Freality%20eu90.cdn77.icu%3A20026%20%232
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&sni=blog.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20trojan%20raw%2Ftls%2066.163.118.203%3A443
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@83.171.241.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&security=reality&sid=42426c882c5fcd41&sni=7aa271t.es1.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20raw%2Freality%2083.171.241.142%3A443
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es1.h1clayd.click:443?encryption=none&security=reality&sni=b3cd32g.es1.h1clayd.click&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&spx=%2F&type=grpc&mode=gun&authority=&serviceName=#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20grpc%2Freality%20b3cd32g.es1.h1clayd.click%3A443
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@83.171.241.142:443?type=tcp&security=reality&sni=7aa271t.es1.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20raw%2Freality%2083.171.241.142%3A443
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@83.171.241.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&security=reality&sid=42426c882c5fcd41&sni=7aa271t.es1.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20raw%2Freality%2083.171.241.142%3A443%20%232
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@79.182.70.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&security=reality&sid=42426c882c5fcd41&sni=7aa271t.es1.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20raw%2Freality%2079.182.70.212%3A443
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@83.171.241.142:443?encryption=none&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&security=reality&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20xhttp%2Freality%2083.171.241.142%3A443
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@179.236.130.66:20026?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20raw%2Freality%20179.236.130.66%3A20026
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@83.171.241.142:443?type=tcp&security=reality&sni=7aa271t.es1.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20raw%2Freality%2083.171.241.142%3A443%20%233
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.121:443?encryption=none&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&security=reality&sid=e7cffac9f8cfb434&sni=b3cd32g.es1.h1clayd.click&type=grpc#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20grpc%2Freality%20195.206.235.121%3A443
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@66.163.118.113:443?&security=reality&flow=xtls-rprx-vision&pbk=PwN5VWqwWKVfrqqrbLE4kzVu9vIXSENAUiAPjMWIrVY&sid=32209e627ee109c7&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%2066.163.118.113%3A443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 21:34 UTC, 4 proxies, best first
-vless://9a4c3e4a-c79e-4f4f-8421-18287c62f23b@ems341.qorvexedges.com:443?encryption=none&type=ws&security=tls&sni=ems341.qorvexedges.com&fp=chrome&path=/media/ws/&host=ems341.qorvexedges.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20ems341.qorvexedges.com%3A443
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@ae2.api-metrics-sync.xyz:11113?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=passport.yandex.ru&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&fp=chrome&spx=/#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20ae2.api-metrics-sync.xyz%3A11113
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=passport.yandex.ru&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&fp=chrome&spx=/#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20dwedfs.whitenw.net%3A8445
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@185.229.9.156:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=passport.yandex.ru&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&fp=chrome&spx=/#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.229.9.156%3A8445
+# updated 2026-11-10 03:33 UTC, 2 proxies, best first
+vless://59cb1f5b-51d6-4a03-aca8-3ac34bb848d9@5.253.177.41:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=JPFGvwqbUaVMgakxgnG6DSibIlVclpXmj1kC3kJJKVA&sid=6116985f1613ff84&sni=es-01.file-rkat.online#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.253.177.41%3A443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA@dns27.m3hrzd.ir:1355#%F0%9F%87%AA%F0%9F%87%AA%20EE%20ss%20dns27.m3hrzd.ir%3A1355

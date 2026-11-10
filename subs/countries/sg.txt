@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0c=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMDkgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMDM6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,26 +7,24 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-09 21:34 UTC, 22 proxies, best first
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%233
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%234
+# updated 2026-11-10 03:33 UTC, 20 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTUuMjM1LjE2NC4xMzM6MTk5OTk#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20ss%2015.235.164.133%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@51.79.228.131:19999#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20ss%2051.79.228.131%3A19999
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfh7jwn4esIFNHIFNpbmdhcG9yZSB2bWVzcyByYXcvdGxzIDE1LjIzNS4xNDQuOTI6MTI3MCIsICJhZGQiOiAiMTUuMjM1LjE0NC45MiIsICJwb3J0IjogMTI3MCwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6IG51bGwsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ4bWZobHB5LmNvbSIsICJmcCI6IG51bGwsICJuYW1lIjogIvCfh7jwn4esIFNHIDEifQ==
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20139.180.146.200%3A8886
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20149.28.130.108%3A443
-vless://6d1f9513-4ffe-436e-86f5-ad01e31f9ee3@194.87.169.59:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=g6038b5335a625b.mysql.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=2efb808bd59f0366&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.87.169.59%3A443
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1ANTEuNzkuMjI4LjEzMToxOTk5OQ#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20ss%2051.79.228.131%3A19999
+hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
+hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%233
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.76.155.179:443?&security=tls&fp=chrome&sni=sg003.zestapp778.com&type=tcp&headerType=none&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%2045.76.155.179%3A443
-vless://ec88e991-7f74-4615-a488-c3a91cc6f362@188.166.182.158:8443?flow=xtls-rprx-vision&fp=firefox&pbk=PQ8fVzaFrD3ANIzDmgE67H6FhCkQUbNymBkqe35fPjw&security=reality&sid=6f903d8e630fc0aa&sni=www.bing.com&type=raw#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20188.166.182.158%3A8443
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20139.180.146.200%3A8886
 vless://1ab92b9c-9a46-4a06-9a12-1c118fd138f6@188.166.182.158:443?flow=xtls-rprx-vision&fp=firefox&pbk=8aRRz5a2rhOHIRjE3o3qckxmQNWh-IVGTv16Snyze2M&security=reality&sid=c44f5e04e67b2c74&sni=www.bing.com&type=raw#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20188.166.182.158%3A443
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20149.28.130.108%3A443%20%232
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@2.26.201.194:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%202.26.201.194%3A443
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@2.26.201.194:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%202.26.201.194%3A443%20%232
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@157.230.248.19:443?security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20157.230.248.19%3A443
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=firefox&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.46.6%3A2096
+vless://ec88e991-7f74-4615-a488-c3a91cc6f362@188.166.182.158:8443?flow=xtls-rprx-vision&fp=firefox&pbk=PQ8fVzaFrD3ANIzDmgE67H6FhCkQUbNymBkqe35fPjw&security=reality&sid=6f903d8e630fc0aa&sni=www.bing.com&type=raw#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20188.166.182.158%3A8443
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@157.230.248.19:443?host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20157.230.248.19%3A443
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@157.230.248.19:443?security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20157.230.248.19%3A443%20%232
 vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.45.6%3A2096
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=video.yandex.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20178.94.25.73%3A10444
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.46.6%3A2096
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&type=ws&path=%2F&host=pcloud.z-tas.com&sni=pcloud.z-tas.com&fp=firefox&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.45.6%3A2096%20%232
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?encryption=none&security=tls&sni=pcloud.z-tas.com&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.45.6%3A2096%20%233
 vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?encryption=none&security=tls&sni=pcloud.z-tas.com&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.46.6%3A2096%20%232
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?encryption=none&security=tls&sni=pcloud.z-tas.com&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.45.6%3A2096%20%232
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=firefox&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20ws%2Ftls%20170.114.46.6%3A2096%20%233
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%234
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20051?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20raw%2Freality%20eu120.cdn77.icu%3A20051
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=video.yandex.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20178.94.25.73%3A10444
