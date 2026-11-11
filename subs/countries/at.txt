@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-11 03:32 UTC, 2 proxies, best first
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=misha2.plus-hit.ru&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=7c8e3d4a9b1f26d3&fp=chrome&spx=/#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%2081.177.215.81%3A443
+# updated 2026-11-11 09:34 UTC, 6 proxies, best first
+vless://cf1b08a7-55b7-4241-b80a-c59116272b43@50.7.115.242:443?flow=xtls-rprx-vision&security=reality&sni=tarn.hazelmoor.top&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&sid=7d1c7473#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%2050.7.115.242%3A443
+vless://cf1b08a7-55b7-4241-b80a-c59116272b43@50.7.115.245:443?security=reality&encryption=none&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&fp=firefox&type=xhttp&sni=beck.mossgill.top&sid=c4f0253a&path=%2F&mode=auto#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20xhttp%2Freality%2050.7.115.245%3A443
+vless://cf1b08a7-55b7-4241-b80a-c59116272b43@tarn.hazelmoor.top:443?security=reality&encryption=none&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tarn.hazelmoor.top&sid=7d1c7473#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20tarn.hazelmoor.top%3A443
+vless://cf1b08a7-55b7-4241-b80a-c59116272b43@beck.mossgill.top:443?mode=auto&path=/&security=reality&encryption=none&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&fp=firefox&type=xhttp&sni=beck.mossgill.top&sid=c4f0253a#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20xhttp%2Freality%20beck.mossgill.top%3A443
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=7c8e3d4a9b1f26d3&sni=misha2.plus-hit.ru#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%2081.177.215.81%3A443
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&security=reality&sid=7c8e3d4a9b1f26d3&sni=misha2.plus-hit.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%2081.177.215.81%3A443%20%232

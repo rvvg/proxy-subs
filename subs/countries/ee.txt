@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,12 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-11 03:32 UTC, 8 proxies, best first
-vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@38.244.155.67:443?security=reality&encryption=none&pbk=NLXltMEkWIxv9bL2J4XkPGb4oVwGbCkITCTXF-jVxAE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-eu-1.nztpro.com&sid=2976f793571fb671#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2038.244.155.67%3A443
-vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@38.244.155.67:443?security=reality&encryption=none&pbk=NLXltMEkWIxv9bL2J4XkPGb4oVwGbCkITCTXF-jVxAE&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node-eu-1.nztpro.com&sid=2976f793571fb671#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2038.244.155.67%3A443%20%232
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?encryption=none&flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2078.159.245.40%3A8445
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2078.159.245.40%3A8445%20%232
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20dwedfs.whitenw.net%3A8445
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&type=tcp&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20dwedfs.whitenw.net%3A8445%20%232
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20dwedfs.whitenw.net%3A8445%20%233
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2078.159.245.40%3A8445%20%233
+# updated 2026-11-11 09:34 UTC, 3 proxies, best first
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2078.159.245.40%3A8445
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&fp=chrome&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2078.159.245.40%3A8445%20%232
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2078.159.245.40%3A8445%20%233
