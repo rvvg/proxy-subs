@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-11 15:36 UTC, 2 proxies, best first
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&security=reality&sni=zealous-vortex.cdn.cachefleet.com&type=tcp#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Brussels%20vless%20raw%2Freality%20109.69.218.172%3A443
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@167.17.64.67:10303?security=reality&sni=www.apple.com&type=tcp&fp=chrome&pbk=RCm8x1FrSdaJ2NY9k5deQQZilwbubeK-4bcH_6E31wk&sid=14f18ef16e7c32cc&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Antwerp%20vless%20raw%2Freality%20167.17.64.67%3A10303
+# updated 2026-11-11 21:33 UTC, 3 proxies, best first
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Brussels%20vless%20raw%2Freality%20109.69.218.172%3A443
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?flow=xtls-rprx-vision&security=reality&sni=zealous-vortex.cdn.cachefleet.com&fp=firefox&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Brussels%20vless%20raw%2Freality%20109.69.218.172%3A443%20%232
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@167.17.64.67:10303?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=14f18ef16e7c32cc&pbk=RCm8x1FrSdaJ2NY9k5deQQZilwbubeK-4bcH_6E31wk#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Antwerp%20vless%20raw%2Freality%20167.17.64.67%3A10303

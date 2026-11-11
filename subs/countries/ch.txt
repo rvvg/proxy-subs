@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0g=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,15 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-11 15:36 UTC, 11 proxies, best first
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTg2LjE5MC4yMTUuMjUxOjE5OTk5#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20ss%20186.190.215.251%3A19999
-vless://172d15c6-f308-5473-aa40-d661b1b8c30b@201.8.81.117:443?type=xhttp&security=reality&fp=firefox&pbk=k7RqsI1Kip_ORgCMLeDHjyleJFoN0AJqxOXXCQnGjG4&sid=6266751745c4f0df&sni=ethz.ch&path=%2Fapi%2Fv1%2Fstream&host=www.ethz.ch&mode=packet-up#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Muri%20vless%20xhttp%2Freality%20201.8.81.117%3A443
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.60:2058?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%20157.22.185.60%3A2058
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@188.120.242.196:2058?security=reality&encryption=none&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=937255313d6ce673#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%20188.120.242.196%3A2058
-vless://TG-FuckTheWall@201.8.81.117:443?encryption=none&extra={"mode":"packet-up","uplinkHTTPMethod":"GET","xPaddingBytes":"100-1000"}&fp=chrome&host=www.ethz.ch&mode=packet-up&path=/api/v1/stream&pbk=k7RqsI1Kip_ORgCMLeDHjyleJFoN0AJqxOXXCQnGjG4&security=reality&sid=6266751745c4f0df&sni=ethz.ch&spx=/f2e942ae3003092&support-x25519mlkem768=true&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Muri%20vless%20xhttp%2Freality%20201.8.81.117%3A443%20%232
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.203:2058?flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%20141.133.180.203%3A2058
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@155.212.162.197:2058?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%20155.212.162.197%3A2058
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@188.120.242.196:2058?security=reality&encryption=none&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=937255313d6ce673#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%20188.120.242.196%3A2058%20%232
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.206:2058?flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%20141.133.180.206%3A2058
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@109.172.114.57:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%20109.172.114.57%3A2058
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@188.120.247.155:2058?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20raw%2Freality%20188.120.247.155%3A2058
+# updated 2026-11-11 21:33 UTC, 3 proxies, best first
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20ss%20186.190.215.251%3A19999
+vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=perevodchiki.su&fp=chrome&security=reality&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2031.7.60.250%3A443
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.191.135:2096?type=xhttp&security=reality&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&sid=5b2e7a14c0d9f832&sni=ch.135.zzuq.fun&mode=auto#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Elgg%20vless%20xhttp%2Freality%20179.255.191.135%3A2096

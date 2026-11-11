@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0E=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-11 15:36 UTC, 2 proxies, best first
+# updated 2026-11-11 21:33 UTC, 4 proxies, best first
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.184.95:8443?fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&serviceName=grpc&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Ajax%20vless%20grpc%2Freality%20179.255.184.95%3A8443
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.184.95:443?flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=raw#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Ajax%20vless%20raw%2Freality%20179.255.184.95%3A443
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Beauharnois-Salaberry%20ss%2051.222.136.236%3A8882
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh6YgQ0EgVG9yb250byB2bWVzcyByYXcvdGxzIDEzNC4xOTUuMTk2LjE1NDoxMjcwIiwgImFkZCI6ICIxMzQuMTk1LjE5Ni4xNTQiLCAicG9ydCI6ICIxMjcwIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAieG1maGxweS5jb20ifQ==
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMTU0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTI3MCIsICJwcyI6ICLwn4eo8J+HpiBDQSBUb3JvbnRvIHZtZXNzIHJhdy90bHMgMTM0LjE5NS4xOTYuMTU0OjEyNzAiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9

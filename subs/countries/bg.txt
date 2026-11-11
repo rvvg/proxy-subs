@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-11 15:36 UTC, 1 proxies, best first
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@216.106.191.201:10403?&security=reality&flow=xtls-rprx-vision&pbk=suK-MYTtZhJ9IJgsxPLTHLQadNotDqYslQcd5BNV_EQ&sid=6aa50b0cc8d23464&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%F0%9F%87%A7%F0%9F%87%AC%20BG%20vless%20raw%2Freality%20216.106.191.201%3A10403
+# updated 2026-11-11 21:33 UTC, 7 proxies, best first
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@170.168.43.65:8443?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&serviceName=grpc&sid=5b2e7a14c0d9f832&sni=bg.65.vrrrm.fun&type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Gorublyane%20vless%20grpc%2Freality%20170.168.43.65%3A8443
+vless://37af0181-5598-4aad-a040-d926bcb65757@earlytrain.net:8443?type=xhttp&security=tls&fp=firefox&sni=earlytrain.net&path=/api/v1/upload&host=earlytrain.net&mode=auto&extra={"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"xmux":{"cMaxReuseTimes":"64-128","maxConcurrency":"16-32","maxConnections":0},"xPaddingBytes":"100-1000"}#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%20earlytrain.net%3A8443
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@170.168.43.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=bg.65.vrrrm.fun&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Gorublyane%20vless%20raw%2Freality%20170.168.43.65%3A443
+vless://ade238d6-637e-4f6c-b1fc-268579b262f5@p1real5.greewebservices.ir:1270?security=reality&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&fp=ios&type=raw&sni=play.googleapis.com&sid=9b60d3#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20p1real5.greewebservices.ir%3A1270
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@170.168.43.65:2096?type=xhttp&security=reality&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&sid=5b2e7a14c0d9f832&sni=bg.65.vrrrm.fun&mode=auto#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Gorublyane%20vless%20xhttp%2Freality%20170.168.43.65%3A2096
+vless://ade238d6-637e-4f6c-b1fc-268579b262f5@p1real4.greewebservices.ir:1260?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20p1real4.greewebservices.ir%3A1260
+vless://ade238d6-637e-4f6c-b1fc-268579b262f5@p1real5.greewebservices.ir:1270?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9b60d3#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20p1real5.greewebservices.ir%3A1270%20%232
