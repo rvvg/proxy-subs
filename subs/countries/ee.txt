@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-11 09:34 UTC, 3 proxies, best first
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2078.159.245.40%3A8445
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&fp=chrome&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2078.159.245.40%3A8445%20%232
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2078.159.245.40%3A8445%20%233
+# updated 2026-11-11 15:36 UTC, 2 proxies, best first
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@165.231.157.124:8443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=api-6af3f40b.adhil.uk#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.124%3A8443
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20dwedfs.whitenw.net%3A8445

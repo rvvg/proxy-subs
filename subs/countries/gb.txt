@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gR0I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEzLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,17 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-11 09:34 UTC, 13 proxies, best first
+# updated 2026-11-11 15:36 UTC, 6 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMzguMTE0LjEyMC4yMjE6MTk5OTk#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20ss%2038.114.120.221%3A19999
-vless://d6a6ba0c-9e30-4636-b5ea-b78154e3203e@5.104.74.162:8443?flow=xtls-rprx-vision&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=raw&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%205.104.74.162%3A8443
-vless://d6a6ba0c-9e30-4636-b5ea-b78154e3203e@5.104.74.162:8443?flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=raw#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%205.104.74.162%3A8443%20%232
-vless://1ad0852d-958b-4a50-863d-8ef3844619ca@5.104.74.162:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%205.104.74.162%3A8443%20%233
-vless://1ad0852d-958b-4a50-863d-8ef3844619ca@5.104.74.162:8443?encryption=none&flow=xtls-rprx-vision&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=tcp&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%205.104.74.162%3A8443%20%234
-vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?security=tls&type=ws&path=%2Fcdn-cgi%2Fws&packetEncoding=xudp&sni=uk1.connectsuite.org&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20uk1.connectsuite.org%3A443
-vless://d6a6ba0c-9e30-4636-b5ea-b78154e3203e@212.69.135.145:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20212.69.135.145%3A8443
-vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?host=uk1.connectsuite.org&path=%2Fcdn-cgi%2Fws&security=tls&sni=uk1.connectsuite.org&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%2051.38.71.147%3A443
-vless://d6a6ba0c-9e30-4636-b5ea-b78154e3203e@212.69.135.145:8443?encryption=none&flow=xtls-rprx-vision&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20212.69.135.145%3A8443%20%232
-vless://1ad0852d-958b-4a50-863d-8ef3844619ca@212.69.135.145:8443?flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=raw#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20212.69.135.145%3A8443%20%233
-vless://1ad0852d-958b-4a50-863d-8ef3844619ca@212.69.135.145:8443?flow=xtls-rprx-vision&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=raw&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20212.69.135.145%3A8443%20%234
-vless://8b29396e-5c85-4a96-96d4-7a5cc5eb6dd1@212.69.135.145:8443?flow=xtls-rprx-vision&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=raw&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20212.69.135.145%3A8443%20%235
-vless://d6a6ba0c-9e30-4636-b5ea-b78154e3203e@212.69.135.145:8443?flow=xtls-rprx-vision&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=raw&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20212.69.135.145%3A8443%20%236
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20uk1.connectsuite.org%3A443
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?security=tls&type=ws&path=%2Fcdn-cgi%2Fws&packetEncoding=xudp&sni=uk1.connectsuite.org&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20uk1.connectsuite.org%3A443%20%232
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&security=tls&encryption=none&insecure=0&host=ukoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20146.75.59.186%3A443
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=ukoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20146.75.59.186%3A443%20%232
+vless://90157e25-cee1-4217-921e-91f300bc1a24@50.7.227.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=bizorg.su&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%2050.7.227.78%3A443
