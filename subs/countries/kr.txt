@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-10 21:34 UTC, 6 proxies, best first
+# updated 2026-11-11 03:32 UTC, 2 proxies, best first
 hy2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2449.gogocs.xyz:443?type=xhttp&security=tls&fp=firefox&sni=u695098u66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&host=66e05ed8s2448.xxti.top#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20s2449.gogocs.xyz%3A443
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2450.wagahaha.xyz:443?type=xhttp&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20s2450.wagahaha.xyz%3A443
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2449.gogocs.xyz:443?security=tls&type=xhttp&path=%2Fbfaa4bbe8cd76b7477b05453d8d48ecc&host=66e05ed8s2448.xxti.top&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=u695098u66e05ed8s2448.xxti.top&fp=firefox#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20s2449.gogocs.xyz%3A443%20%232
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@141.164.40.4:443?type=xhttp&security=tls&fp=firefox&sni=u695098u66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&host=66e05ed8s2448.xxti.top#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20141.164.40.4%3A443
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@141.164.40.4:443?security=tls&type=xhttp&path=%2Fbfaa4bbe8cd76b7477b05453d8d48ecc&host=66e05ed8s2448.xxti.top&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=u695098u66e05ed8s2448.xxti.top&fp=firefox&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20xhttp%2Ftls%20141.164.40.4%3A443%20%232
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&fp=chrome&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20trojan%20raw%2Ftls%20158.247.253.243%3A443

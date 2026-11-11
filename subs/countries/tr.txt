@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTAgMjE6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-10 21:34 UTC, 10 proxies, best first
-vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2062.133.63.45%3A8444
-vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2062.133.63.45%3A8444%20%232
-hysteria2://UvzId43qrergTEKb@38.60.255.241:56001?sni=tk4.czzhkractqqakfzdmrgd.cc&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20hy2%20hysteria%2Ftls%2038.60.255.241%3A56001
-vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:10443?encryption=none&type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=8_nRAlcICkHpdasp0BvKiikAwJ0NSdboULleT2iiuEM&sid=f4316f4e&fp=chrome&serviceName=cas-tr#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%20212.41.9.190%3A10443
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?encryption=none&flow=xtls-rprx-vision&fp=&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&security=reality&sid=6859f5b59e55aa30&sni=www.apple.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20185.246.155.91%3A10103
+# updated 2026-11-11 03:32 UTC, 7 proxies, best first
+ss://2022-blake3-aes-256-gcm:hEzBZw+S3SFV5kRjyKhvnfu7NASZXlfkzCosaqj+ios=:CIGAOWB9WI6ThC+rRufkyyEld6B5Z0AUICHiXPXfYHg=@206.1.103.120:24374?type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20ss%20206.1.103.120%3A24374
+vless://f807208f-27ed-0002-8736-b63732ea88c6@81.90.24.141:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cf7j5G-01AQB0n1WWdVnviRnG32BCLdCMdEe9-s3BA0&security=reality&sid=b0d8f264b7ac8ac0&sni=lesson-freedom-agent-inhabitant.v4.swiftlet.online&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2081.90.24.141%3A443
+vless://f807208f-27ed-465a-8736-b63732ea88c6@81.90.24.141:2053?encryption=none&fp=firefox&path=/v1/complete&pbk=cf7j5G-01AQB0n1WWdVnviRnG32BCLdCMdEe9-s3BA0&security=reality&sid=966eadda42000d7c&sni=lesson-freedom-agent-inhabitant.v4.swiftlet.online&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20xhttp%2Freality%2081.90.24.141%3A2053
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?alpn=http%2F1.1&encryption=none&fp=edge&path=%2Fws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%2081.177.215.81%3A443
-vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&sni=ty.galactichub.online#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2045.92.219.47%3A443
-vless://a5b2e7c2-3b91-4fc7-a9b7-58c2c065b99a@5.59.204.221:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tr1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%205.59.204.221%3A8443
+vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&security=reality&sni=ty.galactichub.online&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2045.92.219.47%3A443
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.40.51.62:22152?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dDf2TcDNn3Kk8pAp4EnNC4ZUAmGkzAapRFGFe-41IEk&security=reality&sid=86f6705960e3e3&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20154.40.51.62%3A22152
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zftr.zalolink.com:22152?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=dDf2TcDNn3Kk8pAp4EnNC4ZUAmGkzAapRFGFe-41IEk&sid=86f6705960e3e3&sni=iosapps.itunes.apple.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20zftr.zalolink.com%3A22152
