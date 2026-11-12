@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gUk8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMTU6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-12 15:35 UTC, 2 proxies, best first
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpieVg0LURWMEM0MlBMRlRXUWhNVEFRNjNtWjhxckRSQg@82.152.132.211:8044#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20ss%2082.152.132.211%3A8044
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@86.107.179.250:443?flow=xtls-rprx-vision&fp=firefox&pbk=8ekBZQk5UXxYvELwhchzklwJ5H9-W3rkZ1eAVVF1xlI&security=reality&sid=b39ae58a4dcff57d&sni=edge-5c4a0a8e13a6.eu-cdn391.com&type=raw#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20raw%2Freality%2086.107.179.250%3A443
+# updated 2026-11-12 21:32 UTC, 2 proxies, best first
+vless://50414e45-4c5f-5a45-5553-d71e6888003c@[2606:4700:d0:0:7378:a722:5e45:a838]:443?sni=kqz1goe9uqgs.tak100gagssa.workers.dev&type=ws&host=kqz1goe9uqgs.tak100gagssa.workers.dev&path=/stream/PANEL_ZEUS/d71e6888003c/loc-0fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Timisoara%20vless%20ws%2Ftls%20%5B2606%3A4700%3Ad0%3A0%3A7378%3Aa722%3A5e45%3Aa838%5D%3A443
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@86.107.179.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ekBZQk5UXxYvELwhchzklwJ5H9-W3rkZ1eAVVF1xlI&security=reality&sid=b39ae58a4dcff57d&sni=edge-5c4a0a8e13a6.eu-cdn391.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20raw%2Freality%2086.107.179.250%3A443

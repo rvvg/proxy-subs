@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMTU6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-12 15:35 UTC, 1 proxies, best first
+# updated 2026-11-12 21:32 UTC, 1 proxies, best first
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6kgSUQgRGVwb2sgdm1lc3Mgd3MvdGxzIDEzLjI0OS4yMzEuODU6NDQzIiwgImFkZCI6ICIxMy4yNDkuMjMxLjg1IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImE4NGMxMzJhLTMxNTEtNDBmZS05NDdiLTRkZDlhN2QyMTIyYyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJ2bWVzcyIsICJob3N0IjogImQ3cHU1bXpyOWM0YjAuY2xvdWRmcm9udC5uZXQiLCAicGF0aCI6ICIvdm1lc3MiLCAidGxzIjogInRscyJ9
