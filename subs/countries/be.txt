@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-12 03:31 UTC, 3 proxies, best first
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?flow=xtls-rprx-vision&security=reality&sni=zealous-vortex.cdn.cachefleet.com&fp=firefox&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Brussels%20vless%20raw%2Freality%20109.69.218.172%3A443
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?security=reality&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Brussels%20vless%20raw%2Freality%20109.69.218.172%3A443%20%232
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@167.17.64.67:10303?security=reality&sni=www.apple.com&type=tcp&fp=chrome&pbk=RCm8x1FrSdaJ2NY9k5deQQZilwbubeK-4bcH_6E31wk&sid=14f18ef16e7c32cc&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Antwerp%20vless%20raw%2Freality%20167.17.64.67%3A10303
+# updated 2026-11-12 09:34 UTC, 3 proxies, best first
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Brussels%20vless%20raw%2Freality%20109.69.218.172%3A443
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?security=reality&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Brussels%20vless%20raw%2Freality%20109.69.218.172%3A443%20%232
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@167.17.64.67:10303?&security=reality&flow=xtls-rprx-vision&pbk=RCm8x1FrSdaJ2NY9k5deQQZilwbubeK-4bcH_6E31wk&sid=14f18ef16e7c32cc&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#%F0%9F%87%A7%F0%9F%87%AA%20BE%20Antwerp%20vless%20raw%2Freality%20167.17.64.67%3A10303

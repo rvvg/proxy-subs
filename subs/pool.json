@@ -33,7 +33,7 @@
         },
         "realitySettings": {
           "serverName": "dl.google.com",
-          "fingerprint": "ios",
+          "fingerprint": "edge",
           "publicKey": "B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4",
           "shortId": "bc306875",
           "spiderX": "/"
@@ -54,91 +54,6 @@
         ]
       },
       "tag": "Авто-01 🇩🇪 DE Frankfurt am Main vless grpc/reality 95.140.152.173:2083"
-    },
-    {
-      "protocol": "vless",
-      "streamSettings": {
-        "network": "grpc",
-        "security": "tls",
-        "grpcSettings": {
-          "serviceName": "hub.v1.ObjectService",
-          "multiMode": false,
-          "authority": ""
-        },
-        "tlsSettings": {
-          "serverName": "hub.mediacorphub.org"
-        }
-      },
-      "settings": {
-        "vnext": [
-          {
-            "address": "hub.mediacorphub.org",
-            "port": 443,
-            "users": [
-              {
-                "id": "1653818d-532e-46be-b825-384107fb7c3a",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "tag": "Авто-02 🇳🇱 NL Enschede vless grpc/tls hub.mediacorphub.org:443"
-    },
-    {
-      "protocol": "hysteria",
-      "streamSettings": {
-        "network": "hysteria",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "shorts.blog-forme.ru",
-          "alpn": [
-            "h3"
-          ]
-        },
-        "hysteriaSettings": {
-          "version": 2,
-          "auth": "549766c3-fa5f-471e-8031-ffc1f8d5064f"
-        }
-      },
-      "settings": {
-        "version": 2,
-        "address": "212.34.137.105",
-        "port": 443
-      },
-      "tag": "Авто-03 🇳🇱 NL Amsterdam hy2 hysteria/tls 212.34.137.105:443"
-    },
-    {
-      "protocol": "vless",
-      "streamSettings": {
-        "network": "grpc",
-        "security": "reality",
-        "grpcSettings": {
-          "serviceName": "ebl",
-          "multiMode": true,
-          "authority": ""
-        },
-        "realitySettings": {
-          "serverName": "optim.tildacdn.pub",
-          "fingerprint": "firefox",
-          "publicKey": "unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE"
-        }
-      },
-      "settings": {
-        "vnext": [
-          {
-            "address": "94.183.164.176",
-            "port": 7443,
-            "users": [
-              {
-                "id": "4eebdec5-08eb-4772-a0e6-35fec4c91cb0",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "tag": "Авто-04 🇳🇱 NL Amsterdam vless grpc/reality 94.183.164.176:7443"
     },
     {
       "protocol": "vless",
@@ -171,7 +86,7 @@
           }
         ]
       },
-      "tag": "Авто-05 🇫🇮 FI Helsinki vless grpc/reality 84.38.184.126:2089"
+      "tag": "Авто-02 🇫🇮 FI Helsinki vless grpc/reality 84.38.184.126:2089"
     },
     {
       "protocol": "vless",
@@ -179,172 +94,45 @@
         "network": "grpc",
         "security": "reality",
         "grpcSettings": {
-          "serviceName": "",
-          "multiMode": true,
-          "authority": ""
-        },
-        "realitySettings": {
-          "serverName": "www.nvidia.com",
-          "fingerprint": "chrome",
-          "publicKey": "g7mEWaEAPOk58rNDlsMoEQsP4pUKGtdKuVpJeV7FXB0",
-          "shortId": "54ee94ce",
-          "spiderX": "/c5QnErIy1u7ljPD"
-        }
-      },
-      "settings": {
-        "vnext": [
-          {
-            "address": "168.100.9.41",
-            "port": 53171,
-            "users": [
-              {
-                "id": "2c0e6f91-6547-497a-9086-43899ce4f5c8",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "tag": "Авто-06 🇳🇱 NL Amsterdam vless grpc/reality 168.100.9.41:53171"
-    },
-    {
-      "protocol": "vless",
-      "streamSettings": {
-        "network": "grpc",
-        "security": "tls",
-        "grpcSettings": {
-          "serviceName": "connect-fr",
-          "multiMode": false,
-          "authority": ""
-        },
-        "tlsSettings": {
-          "serverName": "fr2.gacvpn.site",
-          "fingerprint": "chrome"
-        }
-      },
-      "settings": {
-        "vnext": [
-          {
-            "address": "50.7.178.197",
-            "port": 8443,
-            "users": [
-              {
-                "id": "3f5e89d5-591f-4ac9-b071-b05680b573c3",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "tag": "Авто-07 🇳🇱 NL Amsterdam vless grpc/tls 50.7.178.197:8443"
-    },
-    {
-      "protocol": "vless",
-      "streamSettings": {
-        "network": "xhttp",
-        "security": "tls",
-        "xhttpSettings": {
-          "path": "/kavir",
-          "host": "dey.lnmarketplace.net",
-          "mode": "stream-one",
-          "extra": {
-            "noGRPCHeader": true,
-            "xmux": {
-              "maxConcurrency": "6",
-              "hKeepAlivePeriod": 12
-            }
-          }
-        },
-        "tlsSettings": {
-          "serverName": "dey.lnmarketplace.net",
-          "fingerprint": "chrome",
-          "alpn": [
-            "h2"
-          ]
-        }
-      },
-      "settings": {
-        "vnext": [
-          {
-            "address": "2a14:3f87:f001:46::a",
-            "port": 443,
-            "users": [
-              {
-                "id": "3536e1fa-0850-44d1-b123-925ce12476cf",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "tag": "Авто-08 🇳🇱 NL Diemen vless xhttp/tls [2a14:3f87:f001:46::a]:443"
-    },
-    {
-      "protocol": "vless",
-      "streamSettings": {
-        "network": "grpc",
-        "security": "reality",
-        "grpcSettings": {
-          "serviceName": "grpc",
+          "serviceName": "ebl",
           "multiMode": false,
           "authority": ""
         },
         "realitySettings": {
-          "serverName": "ch.135.zzuq.fun",
+          "serverName": "optim.tildacdn.pub",
           "fingerprint": "firefox",
-          "publicKey": "NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE",
-          "shortId": "5b2e7a14c0d9f832"
+          "publicKey": "unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE"
         }
       },
       "settings": {
         "vnext": [
           {
-            "address": "179.255.191.135",
-            "port": 8443,
+            "address": "94.183.164.176",
+            "port": 7443,
             "users": [
               {
-                "id": "8bbde034-a0de-4e8c-8be3-b16a99689380",
+                "id": "25ce9135-58c0-46fb-97ad-a39eeff459e9",
                 "encryption": "none"
               }
             ]
           }
         ]
       },
-      "tag": "Авто-09 🇨🇭 CH Elgg vless grpc/reality 179.255.191.135:8443"
+      "tag": "Авто-03 🇳🇱 NL Amsterdam vless grpc/reality 94.183.164.176:7443"
     },
     {
-      "protocol": "vless",
-      "streamSettings": {
-        "network": "grpc",
-        "security": "reality",
-        "grpcSettings": {
-          "serviceName": "",
-          "multiMode": false,
-          "authority": ""
-        },
-        "realitySettings": {
-          "serverName": "it.nvidia.com",
-          "fingerprint": "chrome",
-          "publicKey": "Tyoq9C5aTMV9h3g4AAcpci4PsDOIUrrnQipagPkwL1s",
-          "shortId": "39da",
-          "spiderX": "/c4ca1e572e7fad0"
-        }
-      },
+      "protocol": "shadowsocks",
       "settings": {
-        "vnext": [
+        "servers": [
           {
-            "address": "83.141.88.155",
-            "port": 17640,
-            "users": [
-              {
-                "id": "aacf5dd1-fd4a-4239-9263-87259925c384",
-                "encryption": "none"
-              }
-            ]
+            "address": "193.108.119.3",
+            "port": 19999,
+            "method": "aes-256-gcm",
+            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
           }
         ]
       },
-      "tag": "Авто-10 🇩🇪 DE vless grpc/reality 83.141.88.155:17640"
+      "tag": "Авто-04 🇩🇪 DE Frankfurt am Main ss 193.108.119.3:19999"
     },
     {
       "protocol": "hysteria",
@@ -367,85 +155,21 @@
         "address": "9.247.54.188",
         "port": 443
       },
-      "tag": "Авто-11 🇳🇱 NL Amsterdam hy2 hysteria/tls 9.247.54.188:443"
+      "tag": "Авто-05 🇳🇱 NL Amsterdam hy2 hysteria/tls 9.247.54.188:443"
     },
     {
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
           {
-            "address": "193.108.119.3",
-            "port": 19999,
-            "method": "aes-256-gcm",
-            "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+            "address": "153.56.229.84",
+            "port": 545,
+            "method": "chacha20-ietf-poly1305",
+            "password": "xMfen2bSpUYyP3GjXHP_kqLA19L9r1cj"
           }
         ]
       },
-      "tag": "Авто-12 🇩🇪 DE Frankfurt am Main ss 193.108.119.3:19999"
-    },
-    {
-      "protocol": "vless",
-      "streamSettings": {
-        "network": "grpc",
-        "security": "tls",
-        "grpcSettings": {
-          "serviceName": "grpc",
-          "multiMode": false,
-          "authority": ""
-        },
-        "tlsSettings": {
-          "serverName": "de.oncloudvpn.com",
-          "fingerprint": "edge"
-        }
-      },
-      "settings": {
-        "vnext": [
-          {
-            "address": "212.113.116.181",
-            "port": 443,
-            "users": [
-              {
-                "id": "1d46250c-f015-439d-a7fd-c4d9e2a4c63d",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "tag": "Авто-13 🇩🇪 DE Frankfurt am Main vless grpc/tls 212.113.116.181:443"
-    },
-    {
-      "protocol": "vless",
-      "streamSettings": {
-        "network": "grpc",
-        "security": "reality",
-        "grpcSettings": {
-          "serviceName": "grpc",
-          "multiMode": false,
-          "authority": ""
-        },
-        "realitySettings": {
-          "serverName": "polas.vrrrm.fun",
-          "fingerprint": "chrome",
-          "publicKey": "NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE",
-          "shortId": "5b2e7a14c0d9f832"
-        }
-      },
-      "settings": {
-        "vnext": [
-          {
-            "address": "147.45.126.95",
-            "port": 8443,
-            "users": [
-              {
-                "id": "8bbde034-a0de-4e8c-8be3-b16a99689380",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "tag": "Авто-14 🇵🇱 PL Warsaw vless grpc/reality 147.45.126.95:8443"
+      "tag": "Авто-06 🇩🇪 DE Frankfurt am Main ss 153.56.229.84:545"
     },
     {
       "protocol": "vless",
@@ -457,13 +181,8 @@
             "type": "http",
             "request": {
               "path": [
-                "/@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---"
-              ],
-              "headers": {
-                "Host": [
-                  "tgju.org"
-                ]
-              }
+                "/"
+              ]
             }
           }
         }
@@ -471,19 +190,298 @@
       "settings": {
         "vnext": [
           {
-            "address": "167.233.182.104",
-            "port": 2091,
+            "address": "45.134.38.176",
+            "port": 55863,
             "users": [
               {
-                "id": "3a667b02-3e6e-439e-9fdb-720ab7a5d306",
-                "encryption": "mlkem768x25519plus.native.0rtt.idIqJLbBRhVvjLcCi75qK-I68clo9tz132HIDrp6JVA",
+                "id": "5f6129fc-5e60-4ef6-b02c-d8ba1d2c5443",
+                "encryption": "mlkem768x25519plus.native.0rtt.cfJHHVpdgs9PAwyLidezn1gBruqTSwVddIZ-sc57zDw"
+              }
+            ]
+          }
+        ]
+      },
+      "tag": "Авто-07 🇩🇪 DE Frankfurt am Main vless raw/none+enc 45.134.38.176:55863"
+    },
+    {
+      "protocol": "vless",
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "xhttpSettings": {
+          "path": "/kavir",
+          "host": "dey.lnmarketplace.net",
+          "mode": "stream-one",
+          "extra": {
+            "noGRPCHeader": true,
+            "xmux": {
+              "maxConcurrency": "6",
+              "hKeepAlivePeriod": 12
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"
+            }
+          }
+        },
+        "tlsSettings": {
+          "serverName": "dey.lnmarketplace.net",
+          "fingerprint": "firefox",
+          "alpn": [
+            "h2"
+          ]
+        }
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "dey.lnmarketplace.net",
+            "port": 443,
+            "users": [
+              {
+                "id": "3536e1fa-0850-44d1-b123-925ce12476cf",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "tag": "Авто-08 🇳🇱 NL Amsterdam vless xhttp/tls dey.lnmarketplace.net:443"
+    },
+    {
+      "protocol": "vless",
+      "streamSettings": {
+        "network": "grpc",
+        "security": "reality",
+        "grpcSettings": {
+          "serviceName": "",
+          "multiMode": false,
+          "authority": ""
+        },
+        "realitySettings": {
+          "serverName": "www.nvidia.com",
+          "fingerprint": "firefox",
+          "publicKey": "g7mEWaEAPOk58rNDlsMoEQsP4pUKGtdKuVpJeV7FXB0",
+          "shortId": "54ee94ce"
+        }
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "168.100.9.41",
+            "port": 53171,
+            "users": [
+              {
+                "id": "2c0e6f91-6547-497a-9086-43899ce4f5c8",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "tag": "Авто-09 🇳🇱 NL Amsterdam vless grpc/reality 168.100.9.41:53171"
+    },
+    {
+      "protocol": "vless",
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "xhttpSettings": {
+          "path": "/api/orders/track/",
+          "host": "shop07.gruzit.my",
+          "mode": "packet-up",
+          "extra": {
+            "path": "/api/orders/track/",
+            "scMaxEachPostBytes": "16000-24000",
+            "uplinkDataKey": "ref",
+            "uplinkDataPlacement": "header",
+            "uplinkHTTPMethod": "HEAD",
+            "xPaddingBytes": "8-32",
+            "xPaddingHeader": "X-Signature",
+            "xPaddingKey": "_token",
+            "xPaddingMethod": "tokenish",
+            "xPaddingObfsMode": true,
+            "xPaddingPlacement": "queryInHeader",
+            "xmux": {
+              "cMaxLifetimeMs": 0,
+              "cMaxReuseTimes": 0,
+              "maxConcurrency": "16-32",
+              "maxConnections": 0
+            }
+          }
+        },
+        "tlsSettings": {
+          "serverName": "shop07.gruzit.my",
+          "fingerprint": "firefox",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ]
+        }
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "188.72.112.1",
+            "port": 443,
+            "users": [
+              {
+                "id": "d8d9d99e-6622-4620-92dc-23ac2b6d30f6",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "tag": "Авто-10 🇫🇮 FI Helsinki vless xhttp/tls 188.72.112.1:443"
+    },
+    {
+      "protocol": "vless",
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "xhttpSettings": {
+          "path": "/assets/nlrelay01/",
+          "host": "",
+          "mode": "auto"
+        },
+        "tlsSettings": {
+          "serverName": "",
+          "fingerprint": "chrome"
+        }
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "201.34.142.108",
+            "port": 443,
+            "users": [
+              {
+                "id": "4777d90d-265b-4927-a0d1-63f36ed1421c",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "tag": "Авто-11 🇳🇱 NL Amsterdam vless xhttp/tls 201.34.142.108:443"
+    },
+    {
+      "protocol": "vless",
+      "streamSettings": {
+        "network": "raw",
+        "security": "tls",
+        "rawSettings": {},
+        "tlsSettings": {
+          "serverName": "tfusq-ru-40sb.fade.mom",
+          "fingerprint": "firefox"
+        }
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "176.108.245.237",
+            "port": 443,
+            "users": [
+              {
+                "id": "87c35d3a-36f1-fade-90b7-af60506efbb8",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "tag": "Авто-12 🇵🇱 PL vless raw/tls 176.108.245.237:443"
+    },
+    {
+      "protocol": "vless",
+      "streamSettings": {
+        "network": "raw",
+        "security": "reality",
+        "rawSettings": {},
+        "realitySettings": {
+          "serverName": "durov.sky-vault.top",
+          "fingerprint": "firefox",
+          "publicKey": "fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI",
+          "shortId": "3cbc3d737fb9c4af"
+        }
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "179.254.169.116",
+            "port": 8443,
+            "users": [
+              {
+                "id": "c53ea5e9-ed8b-4990-805d-7f1d6451426c",
+                "encryption": "none",
                 "flow": "xtls-rprx-vision"
               }
             ]
           }
         ]
       },
-      "tag": "Авто-15 🇩🇪 DE Nuremberg vless raw/none+enc 167.233.182.104:2091"
+      "tag": "Авто-13 🇫🇮 FI vless raw/reality 179.254.169.116:8443"
+    },
+    {
+      "protocol": "vless",
+      "streamSettings": {
+        "network": "raw",
+        "security": "reality",
+        "rawSettings": {},
+        "realitySettings": {
+          "serverName": "93.152.215.254",
+          "fingerprint": "firefox",
+          "publicKey": "_bGFsLP1Vw7sK0g6oervHFV00C5O3q7X3x_aOo-zhWI",
+          "shortId": "672cac"
+        }
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "93.152.215.254",
+            "port": 443,
+            "users": [
+              {
+                "id": "6db6b948-655f-4f68-a9e7-865050e05b31",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "tag": "Авто-14 🇳🇱 NL Amsterdam vless raw/reality 93.152.215.254:443"
+    },
+    {
+      "protocol": "vless",
+      "streamSettings": {
+        "network": "raw",
+        "security": "reality",
+        "rawSettings": {},
+        "realitySettings": {
+          "serverName": "user.betust.net",
+          "fingerprint": "ios",
+          "publicKey": "TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg",
+          "shortId": "c1064ddb",
+          "spiderX": "/"
+        }
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "user.betust.net",
+            "port": 443,
+            "users": [
+              {
+                "id": "33f3c1ee-f026-4f3f-bed3-8c7c01de8a96",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "tag": "Авто-15 🇳🇱 NL Amsterdam vless raw/reality user.betust.net:443"
     },
     {
       "tag": "direct",
