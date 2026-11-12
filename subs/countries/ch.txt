@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0g=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMTU6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-12 09:34 UTC, 10 proxies, best first
+# updated 2026-11-12 15:35 UTC, 8 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20ss%20186.190.215.251%3A19999
-vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443?encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2031.7.60.250%3A443
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&spx=%2F&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%20prvtch.titun.su%3A443
-vless://90157e25-cee1-4217-921e-91f300bc1a24@81.17.18.106:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=perevodchiki.su&sid=428ef87fd47a3a32#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2081.17.18.106%3A443
-vless://90157e25-cee1-4217-921e-91f300bc1a24@81.17.18.106:443?encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=81.17.18.106&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2081.17.18.106%3A443%20%232
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&spx=%2F&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%20prvtch.titun.su%3A443%20%232
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&spx=%2F&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%20prvtch.titun.su%3A443%20%233
-vless://90157e25-cee1-4217-921e-91f300bc1a24@81.17.18.106:443?encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=81.17.18.106&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2081.17.18.106%3A443%20%233
-vless://90157e25-cee1-4217-921e-91f300bc1a24@81.17.18.106:443?flow=xtls-rprx-vision&security=reality&sni=perevodchiki.su&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2081.17.18.106%3A443%20%234
-vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=31.7.60.250#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2031.7.60.250%3A443%20%232
+vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%20prvtch.titun.su%3A443
+vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443?encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2031.7.60.250%3A443
+vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=31.7.60.250&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2031.7.60.250%3A443%20%232
+vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2031.7.60.250%3A443%20%233
+vless://90157e25-cee1-4217-921e-91f300bc1a24@81.17.18.106:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=81.17.18.106&fp=chrome&security=reality&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2081.17.18.106%3A443
+vless://90157e25-cee1-4217-921e-91f300bc1a24@81.17.18.106:443?encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=81.17.18.106&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%2081.17.18.106%3A443%20%232
+vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%20prvtch.titun.su%3A443%20%232
