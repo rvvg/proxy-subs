@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVVo=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTEgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-11 21:33 UTC, 2 proxies, best first
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@46.8.114.205:443?security=reality&flow=xtls-rprx-vision&fp=edge&pbk=QsUgVxHyjCKdtYBnBGoEM74F3k9uc2kimLPbf_qAAAM&sid=bf8b003cb32c968b&sni=plov.plus-hit.ru#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20Tashkent%20vless%20raw%2Freality%2046.8.114.205%3A443
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@46.8.114.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QsUgVxHyjCKdtYBnBGoEM74F3k9uc2kimLPbf_qAAAM&security=reality&sid=bf8b003cb32c968b&sni=plov.plus-hit.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20Tashkent%20vless%20raw%2Freality%2046.8.114.205%3A443%20%232
+# updated 2026-11-12 03:31 UTC, 3 proxies, best first
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@46.8.114.205:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=plov.plus-hit.ru&fp=chrome&pbk=QsUgVxHyjCKdtYBnBGoEM74F3k9uc2kimLPbf_qAAAM&sid=bf8b003cb32c968b#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20Tashkent%20vless%20raw%2Freality%2046.8.114.205%3A443
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@46.8.114.205:443?flow=xtls-rprx-vision&security=reality&sni=plov.plus-hit.ru&fp=edge&pbk=QsUgVxHyjCKdtYBnBGoEM74F3k9uc2kimLPbf_qAAAM&sid=bf8b003cb32c968b#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20Tashkent%20vless%20raw%2Freality%2046.8.114.205%3A443%20%232
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@46.8.114.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QsUgVxHyjCKdtYBnBGoEM74F3k9uc2kimLPbf_qAAAM&security=reality&sid=bf8b003cb32c968b&sni=plov.plus-hit.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20Tashkent%20vless%20raw%2Freality%2046.8.114.205%3A443%20%233
