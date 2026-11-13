@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0E=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTMgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTMgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-13 03:30 UTC, 5 proxies, best first
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Beauharnois-Salaberry%20ss%2051.222.136.236%3A8882
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh6YgQ0EgVG9yb250byB2bWVzcyByYXcvdGxzIDEzNC4xOTUuMTk2LjE1NDoxMjcwIiwgImFkZCI6ICIxMzQuMTk1LjE5Ni4xNTQiLCAicG9ydCI6ICIxMjcwIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAieG1maGxweS5jb20ifQ==
-vless://abd56c8f-21df-4727-8280-751749b9a27b@hostca2.shop-goldserver.shop:443?alpn=h2,http/1.1&sni=shop-goldserver.shop&allowInsecure=0&path=/wp-content/assetsca2/&host=shop-goldserver.shop&security=tls&fp=chrome&mode=packet-up&insecure=0&type=xhttp&extra={  "mode" : "packet-up",  "xPaddingBytes" : "50-200"}&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20xhttp%2Ftls%20hostca2.shop-goldserver.shop%3A443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20ss%2015.235.57.6%3A8080
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?headerType=none&insecure=0&security=tls&sni=blog.connectingpeoplewithgreatjobs.com&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Toronto%20trojan%20raw%2Ftls%20216.152.147.79%3A443
+# updated 2026-11-13 09:32 UTC, 3 proxies, best first
+vless://f8cb3c89-32af-4255-bebc-d90aad175069@79.141.166.66:443?security=reality&sni=caa.kosmosapp.net&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&type=grpc&serviceName=neurex&mode=gun&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Toronto%20vless%20grpc%2Freality%2079.141.166.66%3A443
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMTU0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTI3MCIsICJwcyI6ICLwn4eo8J+HpiBDQSBUb3JvbnRvIHZtZXNzIHJhdy90bHMgMTM0LjE5NS4xOTYuMTU0OjEyNzAiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh6YgQ0EgTW9udHJlYWwgdm1lc3Mgd3Mvbm9uZSAxNjIuMTkuMTkyLjg5OjE2NjQxIiwgImFkZCI6ICIxNjIuMTkuMTkyLjg5IiwgInBvcnQiOiAiMTY2NDEiLCAiaWQiOiAiOWQ1YzE1YTMtMTY2Yy00ZDY1LThhMGItZDdhN2E3Yzg4NjNhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICI3ZDU2NDgyZGM1MjUxZTJlZmFjYTYyM2RjYmM2NGUzZC5tb2Jnc2xiLnRiY2FjaGUuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=

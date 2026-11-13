@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0g=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTMgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTMgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-13 03:30 UTC, 4 proxies, best first
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20ss%20186.190.215.251%3A19999
+# updated 2026-11-13 09:32 UTC, 2 proxies, best first
 vless://de404269-a97c-4f49-9efb-43509c2afa09@193.228.128.230:443?security=reality&sni=ch.primarymaster.online&fp=firefox&pbk=rS6r3PZQHZp31tnOmJAuCme4xJgsak_JsZ5hTPwpuiY&sid=8b8dd8a1c0c468d3&type=grpc&mode=gun&encryption=none#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20grpc%2Freality%20193.228.128.230%3A443
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?security=reality&type=tcp&sni=perevodchiki.su&host=perevodchiki.su&flow=xtls-rprx-vision&fp=random&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%20prvtch.titun.su%3A443
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&spx=%2F&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20vless%20raw%2Freality%20prvtch.titun.su%3A443%20%232
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Zurich%20ss%20186.190.215.251%3A19999
