@@ -1,0 +1,17 @@
+#profile-title: base64:RnJlZSBWUE4gTFQ=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTMgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-13 03:30 UTC, 7 proxies, best first
+hysteria2://7d4a5c8f-0cdb-41b9-8898-807a1b7335e4@147.45.217.136:443?sni=lt-1-lietuva.fantoff.online#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20hy2%20hysteria%2Ftls%20147.45.217.136%3A443
+hysteria2://7d4a5c8f-0cdb-41b9-8898-807a1b7335e4@84.32.248.163:443?sni=lt-2-lietuva.fantoff.online#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20hy2%20hysteria%2Ftls%2084.32.248.163%3A443
+vless://fa081e9f-7574-4e18-8928-31aa5ac923c7@84.32.151.166:443?security=reality&sni=lt3.lazeroe.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.151.166%3A443
+vless://a94d8907-6bbb-4570-80d3-dfdc314c1e7a@84.32.51.250:443?flow=xtls-rprx-vision&security=reality&sni=lt.t1n2.com&fp=firefox&pbk=awc2TGvraH8xMqfsAnNQ7JMQ_uUF8gW5auvU2gQfjR0&sid=b31de5bead2ebf3c#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.51.250%3A443
+vless://fa081e9f-7574-4e18-8928-31aa5ac923c7@84.32.51.233:443?security=reality&sni=lt4.lazeroe.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%2084.32.51.233%3A443
+vless://a94d8907-6bbb-4570-80d3-dfdc314c1e7a@lt.t1n2.com:443?flow=xtls-rprx-vision&pbk=awc2TGvraH8xMqfsAnNQ7JMQ_uUF8gW5auvU2gQfjR0&security=reality&sid=b31de5bead2ebf3c&sni=lt.t1n2.com&type=raw&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20lt.t1n2.com%3A443
+vless://a94d8907-6bbb-4570-80d3-dfdc314c1e7a@lt.t1n2.com:443?security=reality&encryption=none&pbk=awc2TGvraH8xMqfsAnNQ7JMQ_uUF8gW5auvU2gQfjR0&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lt.t1n2.com&sid=b31de5bead2ebf3c#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20lt.t1n2.com%3A443%20%232

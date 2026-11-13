@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTMgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE2LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,20 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-12 21:32 UTC, 7 proxies, best first
+# updated 2026-11-13 03:30 UTC, 16 proxies, best first
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:8443?mode=gun&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&security=reality&serviceName=grpc-it&sid=ec1126df90f69ecd&sni=video.ds-cdn.online&type=grpc&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20grpc%2Freality%20103.241.66.51%3A8443
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.18%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.90%3A19999
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:8443?security=reality&sni=video.ds-cdn.online&fp=firefox&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&sid=ec1126df90f69ecd&type=grpc&serviceName=grpc-it&mode=gun#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20grpc%2Freality%20103.241.66.51%3A8443%20%232
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:2053?encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%7D&mode=auto&path=%2Finternal%2Ftunnel&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&security=reality&sid=ec1126df90f69ecd&sni=video.ds-cdn.online&type=xhttp&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20xhttp%2Freality%20103.241.66.51%3A2053
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.27%3A19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.81%3A19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.90%3A19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.54%3A19999
 ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.72%3A19999
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:8443?encryption=none&mode=gun&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&security=reality&serviceName=grpc-it&sid=ec1126df90f69ecd&sni=video.ds-cdn.online&type=grpc&fp=ios#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20grpc%2Freality%20103.241.66.51%3A8443%20%233
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpieVg0LURWMEM0MlBMRlRXUWhNVEFRNjNtWjhxckRSQg@dns24.m3hrzd.ir:1349#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20dns24.m3hrzd.ir%3A1349
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%2057.131.4.13%3A8080
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.81%3A19999
+vless://fa081e9f-7574-0002-8928-31aa5ac923c7@203.23.179.123:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=de1-b.sbcweb.net#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Arezzo%20vless%20raw%2Freality%20203.23.179.123%3A443
+vless://fa081e9f-7574-0001-8928-31aa5ac923c7@203.23.179.123:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=de1-b.sbcweb.net#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Ponte%20San%20Pietro%20vless%20raw%2Freality%20203.23.179.123%3A443
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:2053?mode=auto&path=%2Finternal%2Ftunnel&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&security=reality&sid=ec1126df90f69ecd&sni=video.ds-cdn.online&type=xhttp&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20xhttp%2Freality%20103.241.66.51%3A2053%20%232
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.99%3A19999

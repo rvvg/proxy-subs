@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTIgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTMgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-12 21:32 UTC, 1 proxies, best first
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6kgSUQgRGVwb2sgdm1lc3Mgd3MvdGxzIDEzLjI0OS4yMzEuODU6NDQzIiwgImFkZCI6ICIxMy4yNDkuMjMxLjg1IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImE4NGMxMzJhLTMxNTEtNDBmZS05NDdiLTRkZDlhN2QyMTIyYyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJ2bWVzcyIsICJob3N0IjogImQ3cHU1bXpyOWM0YjAuY2xvdWRmcm9udC5uZXQiLCAicGF0aCI6ICIvdm1lc3MiLCAidGxzIjogInRscyJ9
+# updated 2026-11-13 03:30 UTC, 2 proxies, best first
+vless://7d4a5c8f-0cdb-41b9-8898-807a1b7335e4@ge-beer-1.fantoff.online:443?security=reality&encryption=none&pbk=c8IEc_c_QBmI5YAwILoVH0xw2xC4AJgJDKEYKcmKogo&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ge-beer-1.fantoff.online&sid=7f2e9c4b1a8d6e55#%F0%9F%87%AE%F0%9F%87%A9%20ID%20Bekasi%20vless%20raw%2Freality%20ge-beer-1.fantoff.online%3A443
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6kgSUQgRGVwb2sgdm1lc3Mgd3MvdGxzIDEzLjI0OS4yMzEuODU6NDQzIiwgImFkZCI6ICIxMy4yNDkuMjMxLjg1IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImE4NGMxMzJhLTMxNTEtNDBmZS05NDdiLTRkZDlhN2QyMTIyYyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJ2bWVzcyIsICJob3N0IjogImQ3cHU1bXpyOWM0YjAuY2xvdWRmcm9udC5uZXQiLCAicGF0aCI6ICIvdm1lc3MiLCAidGxzIjogInRscyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9

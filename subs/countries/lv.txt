@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gTFY=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTMgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-13 03:30 UTC, 1 proxies, best first
+vless://431c5d13-2eb5-4ddd-be2d-b798797e0b4b@185.220.223.62:8443?security=tls&alpn=h2&encryption=none&insecure=0&fp=qq&type=tcp&allowInsecure=0#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20185.220.223.62%3A8443
