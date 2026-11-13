@@ -1,0 +1,14 @@
+#profile-title: base64:RnJlZSBWUE4gRUU=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTMgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-13 21:33 UTC, 4 proxies, best first
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@api.parnu.lalibobi.online:443?type=grpc&headerType=none&security=reality&encryption=none&sni=api.parnu.lalibobi.online&fp=firefox&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&sid=0099b700c0152888&serviceName=shop.v1.Catalog&mode=gun#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20api.parnu.lalibobi.online%3A443
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@aava.lalibobi.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=aava.lalibobi.online&fp=firefox&pbk=zBkBjgJwJc5jTXF-ChCv5wgIRK5vigPkw2H_O_tuxEc&sid=1435dbe94a6bbc0f&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20aava.lalibobi.online%3A443
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@parnu.lalibobi.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=parnu.lalibobi.online&fp=firefox&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&sid=0099b700c0152888&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20parnu.lalibobi.online%3A443
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&fp=firefox&type=tcp&sni=parnu.lalibobi.online&sid=0099b700c0152888#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2064.188.78.32%3A443
