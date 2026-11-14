@@ -1,0 +1,14 @@
+#profile-title: base64:RnJlZSBWUE4gU0s=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-14 15:36 UTC, 4 proxies, best first
+vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&security=reality&sid=836c3060&sni=www.amd.com&type=tcp&fp=safari#%F0%9F%87%B8%F0%9F%87%B0%20SK%20Bratislava%20vless%20raw%2Freality%2045.151.70.116%3A443
+vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&security=reality&sid=836c3060&sni=www.amd.com&type=tcp&fp=edge#%F0%9F%87%B8%F0%9F%87%B0%20SK%20Bratislava%20vless%20raw%2Freality%2045.151.70.116%3A443%20%232
+vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&security=reality&sid=836c3060&sni=www.amd.com&type=tcp&fp=ios#%F0%9F%87%B8%F0%9F%87%B0%20SK%20Bratislava%20vless%20raw%2Freality%2045.151.70.116%3A443%20%233
+vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?encryption=none&fp=firefox&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&security=reality&sid=836c3060&sni=www.amd.com&type=tcp#%F0%9F%87%B8%F0%9F%87%B0%20SK%20Bratislava%20vless%20raw%2Freality%2045.151.70.116%3A443%20%234

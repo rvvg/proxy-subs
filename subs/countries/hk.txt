@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-14 09:34 UTC, 4 proxies, best first
-vless://d34c4e7c-3eac-4a26-adb9-9004b6981ad8@45.192.194.104:35600?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zHmC_LkSMSrRHcetzsRJZvu6irqviiG3vf9VuXRL6FE&sni=www.iij.ad.jp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2045.192.194.104%3A35600
-vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInd3dy5wdWJnbW9iaWxlLmNvbSIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzNTA0MyIsICJwcyI6ICLwn4et8J+HsCBISyBIb25nIEtvbmcgdm1lc3Mgd3Mvbm9uZSAxNTYuMjQ1LjIzMi4yMzk6MzUwNDMiLCAic2N5IjogImF1dG8iLCAic25pIjogInd3dy5wdWJnbW9iaWxlLmNvbSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
-vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogIjE1Ni4yNDUuMjMyLjIzOSIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzICMyIiwgInNuaSI6ICIxNTYuMjQ1LjIzMi4yMzkiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://5d967efa-702c-4cde-9e79-29386c8012e5@hk1t.wawojk.dpdns.org:443?security=tls&type=ws&path=%2Fhk1-ws-1f8915c8964a&host=hk1t.wawojk.dpdns.org&sni=hk1t.wawojk.dpdns.org&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20ws%2Ftls%20hk1t.wawojk.dpdns.org%3A443
+# updated 2026-11-14 15:36 UTC, 7 proxies, best first
+vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@hkg1.angelsleep9.com:443?security=reality&encryption=none&pbk=A91HOwdYKriuetB8xMyjhK2m6ntHaAA4KNDZaAJVRTQ&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hkg1.angelsleep9.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20hkg1.angelsleep9.com%3A443
+vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogInd3dy5wdWJnbW9iaWxlLmNvbSIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMzUwNDMsICJwcyI6ICLwn4et8J+HsCBISyBIb25nIEtvbmcgdm1lc3Mgd3Mvbm9uZSAxNTYuMjQ1LjIzMi4yMzk6MzUwNDMgIzIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vless://3117bb2a-7c4b-4b04-85d7-f8946e1782d7@141.98.234.5:2096?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=linen-shop.justext.space&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Ftls%20141.98.234.5%3A2096
+vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogIjE1Ni4yNDUuMjMyLjIzOSIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzICMzIiwgInNuaSI6ICIxNTYuMjQ1LjIzMi4yMzkiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@217.60.38.196:443?flow=xtls-rprx-vision&security=reality&sni=hkg1.angelsleep9.com&fp=firefox&pbk=A91HOwdYKriuetB8xMyjhK2m6ntHaAA4KNDZaAJVRTQ#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20217.60.38.196%3A443
+vless://dd3322a3-8672-4f9b-bb58-04efa378bd43@141.98.234.5:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=linen-shop.justext.space&pbk=2kIZnJhcwmSnHlJ6I6kz5srz0R-9uUMJAAMAuS_U2xE&sid=1a60e2b1ca53aa6d&fp=firefox&spx=%2F#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20141.98.234.5%3A8443
