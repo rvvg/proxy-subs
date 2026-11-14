@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-14 15:36 UTC, 6 proxies, best first
-vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@5.180.20.133:443?flow=xtls-rprx-vision&security=reality&sni=kaz1.angelsleep9.com&fp=firefox&pbk=0RvqC4mdt_dzWm5hzpbn2tOjCmw0lmTFn40kpayZAQ8#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%205.180.20.133%3A443
-vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@kaz1.angelsleep9.com:443?security=reality&encryption=none&pbk=0RvqC4mdt_dzWm5hzpbn2tOjCmw0lmTFn40kpayZAQ8&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=kaz1.angelsleep9.com#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20kaz1.angelsleep9.com%3A443
-vless://bbb918c0-a510-45f9-ac94-4d449aef6498@194.58.60.217:443?encryption=none&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=7e47d44f1b532321&sni=node43.lmdscdn.ru&type=grpc&fp=edge#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Karagandy%20vless%20grpc%2Freality%20194.58.60.217%3A443
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20185.246.155.91%3A10403
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20185.246.155.91%3A10403%20%232
+# updated 2026-11-14 21:32 UTC, 4 proxies, best first
+vless://bbb918c0-a510-45f9-ac94-4d449aef6498@194.58.60.217:443?encryption=none&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=7e47d44f1b532321&sni=node43.lmdscdn.ru&type=grpc#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Karagandy%20vless%20grpc%2Freality%20194.58.60.217%3A443
 vless://bbb918c0-a510-45f9-ac94-4d449aef6498@194.58.60.217:443?mode=multi&security=reality&encryption=none&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&fp=firefox&type=grpc&serviceName=livestreamcontent&sni=node43.lmdscdn.ru&sid=7e47d44f1b532321&allowInsecure=0#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Karagandy%20vless%20grpc%2Freality%20194.58.60.217%3A443%20%232
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20185.246.155.91%3A10403
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&sni=www.apple.com&host=www.apple.com#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20185.246.155.91%3A10403%20%232

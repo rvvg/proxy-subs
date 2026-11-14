@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gR0I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,13 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-14 15:36 UTC, 9 proxies, best first
+# updated 2026-11-14 21:32 UTC, 5 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.114.120.221:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20ss%2038.114.120.221%3A19999
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.104:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OQAbaaN0abHDcEOtiu5rpU_A4Op_gDbOzuAVlHplP3s&security=reality&sid=aa5294f481769382&sni=misty-harbor.cdn.cachefleet.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20200.102.183.104%3A443
-vless://4a923161-156f-4914-8cac-762fb2433bfb@116.206.95.231:43000?security=reality&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&fp=chrome&sni=116.206.95.231&flow=xtls-rprx-vision&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20116.206.95.231%3A43000
-vless://4a923161-156f-4914-8cac-762fb2433bfb@116.206.95.231:43000?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20116.206.95.231%3A43000%20%232
-vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=ukoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20146.75.59.186%3A443
-vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&security=tls&encryption=none&insecure=0&host=ukoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20146.75.59.186%3A443%20%232
-vless://4a923161-156f-4914-8cac-762fb2433bfb@212.115.55.158:43000?flow=xtls-rprx-vision&security=reality&sni=212.115.55.158&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20212.115.55.158%3A43000
-vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&encryption=none&insecure=0&host=ukoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20146.75.59.186%3A443%20%233
-vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?encryption=none&security=tls&sni=cdn.akamai.steamstatic.com&insecure=1&allowInsecure=1&type=ws&host=ukoijji.global.ssl.fastly.net&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20146.75.59.186%3A443%20%234
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?security=tls&type=ws&path=%2Fcdn-cgi%2Fws&packetEncoding=xudp&sni=uk1.connectsuite.org&fp=chrome&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%2051.38.71.147%3A443
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&insecure=0&host=ukoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20146.75.59.186%3A443
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?security=tls&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&sni=cdn.akamai.steamstatic.com&insecure=0&host=ukoijji.global.ssl.fastly.net&path=/?Telegram—@pirozi_ArGaP—@pirozi_ArGaP—@pirozi_ArGaP—@pirozi_ArGaP&allowInsecure=0&type=ws&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20146.75.59.186%3A443%20%232
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?encryption=none&security=tls&sni=cdn.akamai.steamstatic.com&insecure=1&allowInsecure=1&type=ws&host=ukoijji.global.ssl.fastly.net&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20146.75.59.186%3A443%20%233

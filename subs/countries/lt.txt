@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-14 15:36 UTC, 1 proxies, best first
+# updated 2026-11-14 21:32 UTC, 3 proxies, best first
 hysteria2://b36a14f8-fc3f-4142-968f-48031cf5f330@196.240.181.9:25318?sni=775c8bt.lt4.h1clayd.click&pinSHA256=c160863aa7f46bdc2bd6a925fbebce3a515244a614828e8d949bba858b19effc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20hy2%20hysteria%2Ftls%20196.240.181.9%3A25318
+vless://b36a14f8-fc3f-4142-968f-48031cf5f330@775c8bt.lt4.h1clayd.click:443?security=reality&encryption=none&pbk=o0TCHhT9d9JkoTP_N28ko34ep3QbZKbpSJADQjcdm3Y&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=775c8bt.lt4.h1clayd.click&sid=c4514fa08d672284#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20775c8bt.lt4.h1clayd.click%3A443
+vless://b36a14f8-fc3f-4142-968f-48031cf5f330@185.75.135.72:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=o0TCHhT9d9JkoTP_N28ko34ep3QbZKbpSJADQjcdm3Y&security=reality&sid=c4514fa08d672284&sni=775c8bt.lt4.h1clayd.click&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20185.75.135.72%3A443

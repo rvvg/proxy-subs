@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMTU6MzYgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,12 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-14 15:36 UTC, 8 proxies, best first
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@5.59.204.26:55443?alpn=h2%2Chttp%2F1.1&security=tls&sni=lv.nebulaguard.org&fp=edge#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20trojan%20raw%2Ftls%205.59.204.26%3A55443
-vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&spx=%2F&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443
-vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=tcp&fp=edge#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443%20%232
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@5.59.204.26:51443?security=tls&sni=lv.nebulaguard.org&alpn=h2,h3,http/1.1&fp=chrome&type=ws&host=lv.nebulaguard.org&path=/trojan/#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20trojan%20ws%2Ftls%205.59.204.26%3A51443
-vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443%20%233
-vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=tcp&fp=ios#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443%20%234
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@5.59.204.26:51443?alpn=h2,h3,http/1.1&host=lv.nebulaguard.org&path=/trojan/&security=tls&sni=lv.nebulaguard.org&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20trojan%20ws%2Ftls%205.59.204.26%3A51443%20%232
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@5.59.204.26:55443?alpn=h2%2Chttp%2F1.1&security=tls&sni=lv.nebulaguard.org#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20trojan%20raw%2Ftls%205.59.204.26%3A55443%20%232
+# updated 2026-11-14 21:32 UTC, 7 proxies, best first
+vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?flow=xtls-rprx-vision&fp=firefox&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=raw#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443
+vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?flow=xtls-rprx-vision&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=raw&fp=edge#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443%20%232
+vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&spx=%2F&type=tcp&fp=safari#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443%20%233
+vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&spx=%2F&type=tcp&fp=edge#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443%20%234
+vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&spx=%2F&type=tcp&fp=ios#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443%20%235
+vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=tcp&fp=ios#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443%20%236
+vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&spx=%2F&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2083.141.68.185%3A443%20%237
