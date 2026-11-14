@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-14 03:31 UTC, 10 proxies, best first
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@api.parnu.lalibobi.online:443?type=grpc&headerType=none&security=reality&encryption=none&sni=api.parnu.lalibobi.online&fp=firefox&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&sid=0099b700c0152888&serviceName=shop.v1.Catalog&mode=gun#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20api.parnu.lalibobi.online%3A443
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?encryption=none&fp=firefox&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&security=reality&serviceName=shop.v1.Catalog&sid=0099b700c0152888&sni=api.parnu.lalibobi.online&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%2064.188.78.32%3A443
+# updated 2026-11-14 09:34 UTC, 4 proxies, best first
 hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?sni=static.parnu.lalibobi.online#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%2064.188.78.32%3A443
 hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@201.58.139.134:443?sni=static.birch.lalibobi.online#%F0%9F%87%AA%F0%9F%87%AA%20EE%20hy2%20hysteria%2Ftls%20201.58.139.134%3A443
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@parnu.lalibobi.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=parnu.lalibobi.online&fp=firefox&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&sid=0099b700c0152888&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20parnu.lalibobi.online%3A443
 vless://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&security=reality&sid=0099b700c0152888&sni=parnu.lalibobi.online&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2064.188.78.32%3A443
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&flow=xtls-rprx-vision&pbk=zBkBjgJwJc5jTXF-ChCv5wgIRK5vigPkw2H_O_tuxEc&security=reality&sid=1435dbe94a6bbc0f&sni=aava.lalibobi.online&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.67.197%3A443
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zBkBjgJwJc5jTXF-ChCv5wgIRK5vigPkw2H_O_tuxEc&security=reality&sid=1435dbe94a6bbc0f&sni=aava.lalibobi.online&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20132.243.67.197%3A443%20%232
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@aava.lalibobi.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=aava.lalibobi.online&fp=firefox&pbk=zBkBjgJwJc5jTXF-ChCv5wgIRK5vigPkw2H_O_tuxEc&sid=1435dbe94a6bbc0f&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20aava.lalibobi.online%3A443
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&fp=firefox&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20ws%2Ftls%20132.243.67.197%3A443
+vless://e460e79d-5dd9-451d-8d1a-a84c8b70c9a7@31.129.101.153:443?flow=xtls-rprx-vision&security=reality&sni=ru-gr1.fluxnode777.ru&fp=firefox&pbk=37ZFWtNTZ_slVsJp0_5siKSeqz-sZSuLdYurC_cBrxw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20vless%20raw%2Freality%2031.129.101.153%3A443

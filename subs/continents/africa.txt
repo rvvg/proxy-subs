@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0JDRhNGA0LjQutCw
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTQgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-14 03:31 UTC, 4 proxies, best first
+# updated 2026-11-14 09:34 UTC, 6 proxies, best first
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@157.254.38.210:20103?sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20157.254.38.210%3A20103
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20103?sni=hk.catxstar.com&type=tcp#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20sclass-00.catcat321.com%3A20103
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-00.catcat321.com:20103?sni=hk.catxstar.com&type=tcp#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20sclass-00.catcat321.com%3A20103%20%232
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-00.catcat321.com:20103?sni=hk.catxstar.com&type=tcp#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20sclass-00.catcat321.com%3A20103
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20103?sni=hk.catxstar.com&type=tcp#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20sclass-00.catcat321.com%3A20103%20%232
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20051?sni=hk.catxstar.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20sclass-b1.catcat321.com%3A20051
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@157.254.38.210:20051?security=tls&sni=hk.catxstar.com&path=/#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20157.254.38.210%3A20051
+vless://a5b2e7c2-3b91-4fc7-a9b7-58c2c065b99a@5.59.204.221:30111?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=tcp#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%205.59.204.221%3A30111
