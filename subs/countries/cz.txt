@@ -1,0 +1,14 @@
+#profile-title: base64:RnJlZSBWUE4gQ1o=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTUgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-15 21:33 UTC, 4 proxies, best first
+vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&security=reality&sid=7a7d19880a9ee786&sni=sladovna.russianpiwo.fun&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Brno%20vless%20raw%2Freality%2083.141.92.168%3A443
+vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?encryption=none&type=xhttp&security=reality&sni=czechia.richforever.ru&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&fp=firefox&path=%2F49b9f446&host=czechia.richforever.ru&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20xhttp%2Freality%20103.118.211.38%3A443
+vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?encryption=none&extra={"scMaxBufferedPosts":100,"scMinPostsIntervalMs":"5-10","xPaddingBytes":"100-300"}&fp=firefox&path=/49b9f446&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&security=reality&sid=8a9442353eebbe0f&sni=czechia.richforever.ru&type=xhttp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20xhttp%2Freality%20103.118.211.38%3A443%20%232
+vless://3dbd9377-43cc-46c3-b32c-2605908024eb@czechia.richforever.ru:443?encryption=none&type=xhttp&security=reality&sni=czechia.richforever.ru&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&fp=firefox&path=%2F49b9f446&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20xhttp%2Freality%20czechia.richforever.ru%3A443

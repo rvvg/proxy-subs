@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTUgMTU6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTUgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-15 15:35 UTC, 1 proxies, best first
+# updated 2026-11-15 21:33 UTC, 3 proxies, best first
+vless://2e69b088-6ef3-417f-8247-125cf257fafd@3.174.189.0:443?security=tls&sni=d3bufpfi7s84bl.cloudfront.net&type=xhttp&host=d3bufpfi7s84bl.cloudfront.net&path=/cf&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20xhttp%2Ftls%203.174.189.0%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpobjhiMXNsOXk5M3Fudmpq@[2001:41d0:2005:100::f53]:8080?type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20%5B2001%3A41d0%3A2005%3A100%3A%3Af53%5D%3A8080
+vless://29f178f7-f96f-46ba-8fc0-bbcd690ba788@82.118.16.189:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zmo2VkZkfjh2kWjaRghXUs39ImQo87LmPhjvzbX3yB4&security=reality&sid=1e9a49dd374c1191&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Freality%2082.118.16.189%3A443
