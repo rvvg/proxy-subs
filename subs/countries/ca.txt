@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0E=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTUgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTUgMTU6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-15 09:33 UTC, 2 proxies, best first
+# updated 2026-11-15 15:35 UTC, 3 proxies, best first
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZmQ0cWNrb2N3c2kxaWly@[2607:5300:229:bd1::1]:8080?type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20ss%20%5B2607%3A5300%3A229%3Abd1%3A%3A1%5D%3A8080
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh6YgQ0EgVG9yb250byB2bWVzcyByYXcvdGxzIDEzNC4xOTUuMTk2LjE1NDoxMjcwIiwgImFkZCI6ICIxMzQuMTk1LjE5Ni4xNTQiLCAicG9ydCI6ICIxMjcwIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAieG1maGxweS5jb20ifQ==
-vmess://eyJhZGQiOiAiMTYyLjE5LjE5Mi44OSIsICJhaWQiOiAiMCIsICJob3N0IjogIjdkNTY0ODJkYzUyNTFlMmVmYWNhNjIzZGNiYzY0ZTNkLm1vYmdzbGIudGJjYWNoZS5jb20iLCAiaWQiOiAiOWQ1YzE1YTMtMTY2Yy00ZDY1LThhMGItZDdhN2E3Yzg4NjNhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxNjY0MSIsICJwcyI6ICLwn4eo8J+HpiBDQSBNb250cmVhbCB2bWVzcyB3cy9ub25lIDE2Mi4xOS4xOTIuODk6MTY2NDEiLCAic2N5IjogImF1dG8iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@185.71.216.94:2093?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=raw#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Toronto%20vless%20raw%2Freality%20185.71.216.94%3A2093
