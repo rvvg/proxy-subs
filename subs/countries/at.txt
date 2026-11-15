@@ -1,0 +1,12 @@
+#profile-title: base64:RnJlZSBWUE4gQVQ=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTUgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-15 09:33 UTC, 2 proxies, best first
+vless://399049fd-9cd6-4425-8114-6ea2f5040fe4@velvet-ridge.justext.space:2096?encryption=none&type=tcp&security=tls&sni=velvet-ridge.justext.space&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20velvet-ridge.justext.space%3A2096
+vless://399049fd-9cd6-4425-8114-6ea2f5040fe4@195.133.88.165:2096?encryption=none&type=tcp&security=tls&sni=velvet-ridge.justext.space&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Ftls%20195.133.88.165%3A2096
