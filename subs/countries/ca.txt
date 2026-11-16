@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0E=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTUgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-15 21:33 UTC, 6 proxies, best first
+# updated 2026-11-16 03:31 UTC, 5 proxies, best first
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZmQ0cWNrb2N3c2kxaWly@[2607:5300:229:bd1::1]:8080?type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20ss%20%5B2607%3A5300%3A229%3Abd1%3A%3A1%5D%3A8080
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh6YgQ0EgVG9yb250byB2bWVzcyByYXcvdGxzIDEzNC4xOTUuMTk2LjE1NDoxMjcwIiwgImFkZCI6ICIxMzQuMTk1LjE5Ni4xNTQiLCAicG9ydCI6ICIxMjcwIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAieG1maGxweS5jb20ifQ==
-vless://ba9ac05e-422e-421e-a46b-a4c111a29946@31.59.156.16:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=broe.primetap.cards&pbk=M102pOyYWWXO23uugneRjqRqc30SGQN1jIwCYg9STRE&sid=8acb6e79c1b29c4b&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Ottawa%20vless%20raw%2Freality%2031.59.156.16%3A443
-vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@37.221.76.117:2093?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Toronto%20vless%20raw%2Freality%2037.221.76.117%3A2093
-vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@37.221.76.116:2093?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=raw#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Toronto%20vless%20raw%2Freality%2037.221.76.116%3A2093
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Beauharnois%20ss%2015.235.121.109%3A8080
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@104.152.211.47:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ca1.gofizz.in&pbk=ohlUVAqq5MT6I7ozknXy0Mi5zW_uH94DV-lC7Ip2Ygk&sid=37f069d7ad&fp=firefox&spx=/b4fcc6d25bda84e#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%20104.152.211.47%3A443
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@104.152.211.47:443?&security=reality&flow=xtls-rprx-vision&pbk=ohlUVAqq5MT6I7ozknXy0Mi5zW_uH94DV-lC7Ip2Ygk&sid=37f069d7ad&fp=firefox&sni=ca1.gofizz.in&type=tcp&headerType=none&host=ca1.gofizz.in&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%20104.152.211.47%3A443%20%232
+vless://ba9ac05e-422e-421e-a46b-a4c111a29946@31.59.156.16:443?flow=xtls-rprx-vision&fp=firefox&pbk=M102pOyYWWXO23uugneRjqRqc30SGQN1jIwCYg9STRE&security=reality&sid=8acb6e79c1b29c4b&sni=broe.primetap.cards&type=raw#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Ottawa%20vless%20raw%2Freality%2031.59.156.16%3A443

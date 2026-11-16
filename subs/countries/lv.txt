@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTUgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-15 21:33 UTC, 1 proxies, best first
+# updated 2026-11-16 03:31 UTC, 8 proxies, best first
+vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@168.113.187.116:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=files.vpvi.store&fp=chrome&alpn=http/1.1#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20168.113.187.116%3A443
+vless://ba9ac05e-422e-421e-a46b-a4c111a29946@185.81.129.197:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lites.3apes.online&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.81.129.197%3A443
+vless://ba9ac05e-422e-421e-a46b-a4c111a29946@185.81.129.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lt.3apes.online&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.81.129.21%3A443
+vless://ba9ac05e-422e-421e-a46b-a4c111a29946@lites.3apes.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lites.3apes.online&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lites.3apes.online%3A443
+vless://ba9ac05e-422e-421e-a46b-a4c111a29946@lt.3apes.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lt.3apes.online&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lt.3apes.online%3A443
+vless://ba9ac05e-422e-421e-a46b-a4c111a29946@lite.3apes.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lite.3apes.online&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lite.3apes.online%3A443
 vless://bfadfcda-99eb-424a-af53-cabb4fbcb820@zynerio.com:3443?security=reality&encryption=none&pbk=ZbtRq4SeR_WvLXiWXDael5FUqYG7uAkAGsFSIEyrQEw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=zynerio.com&sid=8a907b3d6a7a4ed4#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20zynerio.com%3A3443
+vless://ba9ac05e-422e-421e-a46b-a4c111a29946@185.81.129.20:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lite.3apes.online&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.81.129.20%3A443
