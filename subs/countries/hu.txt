@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSFU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMDk6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMTU6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-16 09:35 UTC, 4 proxies, best first
+# updated 2026-11-16 15:35 UTC, 4 proxies, best first
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:11443?encryption=none&type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=LR_FEXsJiKJUtXcmO1UR4Oi2IMmRcaS04D05oooqn28&sid=9edc24fc&fp=firefox&serviceName=cas-hu#%F0%9F%87%AD%F0%9F%87%BA%20HU%20Budapest%20vless%20grpc%2Freality%20212.41.8.76%3A11443
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:11443?encryption=none&fp=ios&mode=gun&pbk=LR_FEXsJiKJUtXcmO1UR4Oi2IMmRcaS04D05oooqn28&security=reality&serviceName=cas-hu&sid=9edc24fc&sni=s3.storage.selcloud.ru&type=grpc#%F0%9F%87%AD%F0%9F%87%BA%20HU%20Budapest%20vless%20grpc%2Freality%20212.41.8.76%3A11443%20%232
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:11443?encryption=none&pbk=LR_FEXsJiKJUtXcmO1UR4Oi2IMmRcaS04D05oooqn28&security=reality&serviceName=cas-hu&sid=9edc24fc&sni=s3.storage.selcloud.ru&type=grpc&fp=safari#%F0%9F%87%AD%F0%9F%87%BA%20HU%20Budapest%20vless%20grpc%2Freality%20212.41.8.76%3A11443%20%232
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:11443?encryption=none&pbk=LR_FEXsJiKJUtXcmO1UR4Oi2IMmRcaS04D05oooqn28&security=reality&serviceName=cas-hu&sid=9edc24fc&sni=s3.storage.selcloud.ru&type=grpc&fp=random#%F0%9F%87%AD%F0%9F%87%BA%20HU%20Budapest%20vless%20grpc%2Freality%20212.41.8.76%3A11443%20%233
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:11443?encryption=none&pbk=LR_FEXsJiKJUtXcmO1UR4Oi2IMmRcaS04D05oooqn28&security=reality&serviceName=cas-hu&sid=9edc24fc&sni=s3.storage.selcloud.ru&type=grpc&fp=safari#%F0%9F%87%AD%F0%9F%87%BA%20HU%20Budapest%20vless%20grpc%2Freality%20212.41.8.76%3A11443%20%234
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:11443?encryption=none&fp=ios&mode=gun&pbk=LR_FEXsJiKJUtXcmO1UR4Oi2IMmRcaS04D05oooqn28&security=reality&serviceName=cas-hu&sid=9edc24fc&sni=s3.storage.selcloud.ru&type=grpc#%F0%9F%87%AD%F0%9F%87%BA%20HU%20Budapest%20vless%20grpc%2Freality%20212.41.8.76%3A11443%20%234
