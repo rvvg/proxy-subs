@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMDk6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-16 03:31 UTC, 5 proxies, best first
-vless://b36a14f8-fc3f-4142-968f-48031cf5f330@185.75.135.72:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=o0TCHhT9d9JkoTP_N28ko34ep3QbZKbpSJADQjcdm3Y&security=reality&sid=c4514fa08d672284&sni=775c8bt.lt4.h1clayd.click&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20185.75.135.72%3A443
-vless://b36a14f8-fc3f-4142-968f-48031cf5f330@185.75.135.72:443?security=reality&encryption=none&pbk=o0TCHhT9d9JkoTP_N28ko34ep3QbZKbpSJADQjcdm3Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=775c8bt.lt4.h1clayd.click&sid=c4514fa08d672284#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20185.75.135.72%3A443%20%232
-vless://b36a14f8-fc3f-4142-968f-48031cf5f330@775c8bt.lt4.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=775c8bt.lt4.h1clayd.click&pbk=o0TCHhT9d9JkoTP_N28ko34ep3QbZKbpSJADQjcdm3Y&sid=c4514fa08d672284&fp=chrome&spx=/#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20775c8bt.lt4.h1clayd.click%3A443
-vless://b36a14f8-fc3f-4142-968f-48031cf5f330@132.243.66.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=o0TCHhT9d9JkoTP_N28ko34ep3QbZKbpSJADQjcdm3Y&security=reality&sid=c4514fa08d672284&sni=775c8bt.lt4.h1clayd.click&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20132.243.66.239%3A443
-vless://b36a14f8-fc3f-4142-968f-48031cf5f330@775c8bt.lt4.h1clayd.click:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=775c8bt.lt4.h1clayd.click&pbk=o0TCHhT9d9JkoTP_N28ko34ep3QbZKbpSJADQjcdm3Y&sid=c4514fa08d672284&fp=firefox&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20775c8bt.lt4.h1clayd.click%3A443%20%232
+# updated 2026-11-16 09:35 UTC, 4 proxies, best first
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@84.32.149.221:443?encryption=none&fp=firefox&pbk=oR4uufqddEio7ngLS-tBsgqlFC9ndB94gUwIrY2xoWQ&security=reality&serviceName=grpc&sid=2c25ffa1927ebf0f&sni=rill.willowfen.top&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20grpc%2Freality%2084.32.149.221%3A443
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@84.32.149.211:443?encryption=none&fp=firefox&pbk=M-cE7q2hNgBeNv7COM8DS2QC3GGi6Pu7pD1lvUfG0mo&security=reality&serviceName=grpc&sid=e4fc6803b3212ad4&sni=acorn.willowfen.top&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20grpc%2Freality%2084.32.149.211%3A443
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@84.32.149.223:443?security=reality&sni=loom.willowfen.top&fp=firefox&pbk=4fCcmGeQF-kDDuFl92IrZFKYVdP0_4spvnvHIlBd3zI&sid=fc7866c012374441&type=grpc&serviceName=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20grpc%2Freality%2084.32.149.223%3A443
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@84.32.149.222:443?encryption=none&fp=firefox&pbk=kZZd7-Pzutoww6ZOnQQwvanbxDbixSAVH5FvEfAXBls&security=reality&serviceName=grpc&sid=2c25ffa1927ebf0f&sni=folio.willowfen.top&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20grpc%2Freality%2084.32.149.222%3A443

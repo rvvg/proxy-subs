@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMDk6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-16 03:31 UTC, 4 proxies, best first
+# updated 2026-11-16 09:35 UTC, 1 proxies, best first
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpobjhiMXNsOXk5M3Fudmpq@[2001:41d0:2005:100::f53]:8080?type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20%5B2001%3A41d0%3A2005%3A100%3A%3Af53%5D%3A8080
-vless://12d32e9b-d41f-4677-aa51-83e21d2837f2@ct.877774.xyz:443?security=tls&type=ws&path=%2Fannouncement%3Fed%3D2048&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&fp=random&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20ws%2Ftls%20ct.877774.xyz%3A443
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@152.89.168.55:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=it1.gofizzin.com&pbk=KawjxoeWPWzD1GPZhwdiTje1gZIUiLzHUS7uqCiEtHE&sid=22750eb5ffb0&fp=edge&spx=/b4fcc6d25bda84e#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Rome%20vless%20raw%2Freality%20152.89.168.55%3A443
-vless://2e69b088-6ef3-417f-8247-125cf257fafd@3.174.189.0:443?security=tls&sni=d3bufpfi7s84bl.cloudfront.net&type=xhttp&host=d3bufpfi7s84bl.cloudfront.net&path=/cf&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20xhttp%2Ftls%203.174.189.0%3A443

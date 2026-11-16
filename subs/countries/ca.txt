@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0E=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMDk6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-16 03:31 UTC, 5 proxies, best first
+# updated 2026-11-16 09:35 UTC, 10 proxies, best first
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@23.237.104.244:443?encryption=none&fp=firefox&pbk=_jpI7oO6m15TW28mm2oAVfs2ftOYSaqFCYVrJ8pzKn8&security=reality&serviceName=grpc&sid=639ac704&sni=spit.harborpine.top&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Toronto%20vless%20grpc%2Freality%2023.237.104.244%3A443
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Beauharnois-Salaberry%20ss%2051.222.136.236%3A8882
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZmQ0cWNrb2N3c2kxaWly@[2607:5300:229:bd1::1]:8080?type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20ss%20%5B2607%3A5300%3A229%3Abd1%3A%3A1%5D%3A8080
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@23.237.104.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_jpI7oO6m15TW28mm2oAVfs2ftOYSaqFCYVrJ8pzKn8&security=reality&sid=409220db&sni=ford.copperfen.top&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Toronto%20vless%20raw%2Freality%2023.237.104.242%3A443
+vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@23.155.44.105:443?flow=xtls-rprx-vision&security=reality&sni=app.flyprotect.ca&fp=firefox&pbk=HE1CGzI0QBqhMRUsHqq_9v4Mj3M5dkluFmfyMBH_7kM&sid=70f75668dc5914b3&encryption=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%2023.155.44.105%3A443
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh6YgQ0EgVG9yb250byB2bWVzcyByYXcvdGxzIDEzNC4xOTUuMTk2LjE1NDoxMjcwIiwgImFkZCI6ICIxMzQuMTk1LjE5Ni4xNTQiLCAicG9ydCI6ICIxMjcwIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAieG1maGxweS5jb20ifQ==
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@104.152.211.47:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ca1.gofizz.in&pbk=ohlUVAqq5MT6I7ozknXy0Mi5zW_uH94DV-lC7Ip2Ygk&sid=37f069d7ad&fp=firefox&spx=/b4fcc6d25bda84e#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%20104.152.211.47%3A443
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@104.152.211.47:443?&security=reality&flow=xtls-rprx-vision&pbk=ohlUVAqq5MT6I7ozknXy0Mi5zW_uH94DV-lC7Ip2Ygk&sid=37f069d7ad&fp=firefox&sni=ca1.gofizz.in&type=tcp&headerType=none&host=ca1.gofizz.in&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%20104.152.211.47%3A443%20%232
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@104.152.211.47:443?flow=xtls-rprx-vision&headerType=none&host=ca1.gofizz.in&path=%2F&pbk=ohlUVAqq5MT6I7ozknXy0Mi5zW_uH94DV-lC7Ip2Ygk&security=reality&sid=37f069d7ad&sni=ca1.gofizz.in&type=tcp&fp=ios&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%20104.152.211.47%3A443
 vless://ba9ac05e-422e-421e-a46b-a4c111a29946@31.59.156.16:443?flow=xtls-rprx-vision&fp=firefox&pbk=M102pOyYWWXO23uugneRjqRqc30SGQN1jIwCYg9STRE&security=reality&sid=8acb6e79c1b29c4b&sni=broe.primetap.cards&type=raw#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Ottawa%20vless%20raw%2Freality%2031.59.156.16%3A443
+vless://ba9ac05e-422e-421e-a46b-a4c111a29946@31.59.156.16:443?encryption=none&flow=xtls-rprx-vision&pbk=M102pOyYWWXO23uugneRjqRqc30SGQN1jIwCYg9STRE&security=reality&sid=8acb6e79c1b29c4b&sni=broe.primetap.cards&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Ottawa%20vless%20raw%2Freality%2031.59.156.16%3A443%20%232
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@104.152.211.47:443?&security=reality&flow=xtls-rprx-vision&pbk=ohlUVAqq5MT6I7ozknXy0Mi5zW_uH94DV-lC7Ip2Ygk&sid=37f069d7ad&fp=chrome&sni=ca1.gofizz.in&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%20104.152.211.47%3A443%20%232
