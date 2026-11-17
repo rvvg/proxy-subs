@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0E=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-17 09:34 UTC, 3 proxies, best first
+# updated 2026-11-17 15:34 UTC, 2 proxies, best first
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh6YgQ0EgVG9yb250byB2bWVzcyByYXcvdGxzIDEzNC4xOTUuMTk2LjE1NDoxMjcwIiwgImFkZCI6ICIxMzQuMTk1LjE5Ni4xNTQiLCAicG9ydCI6ICIxMjcwIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAieG1maGxweS5jb20ifQ==
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Beauharnois-Salaberry%20ss%2051.222.136.236%3A8882
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@104.152.211.47:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=ohlUVAqq5MT6I7ozknXy0Mi5zW_uH94DV-lC7Ip2Ygk&sid=37f069d7ad&sni=ca1.gofizz.in&host=ca1.gofizz.in&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%20104.152.211.47%3A443
