@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gUk8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-17 03:30 UTC, 4 proxies, best first
-vless://05c5d8e4-1cf2-0004-97cb-5f1f079ab282@185.11.246.176:443?type=raw&security=reality&sni=www.sravni.ru&fp=firefox&flow=xtls-rprx-vision&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&sid=a182319d#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20raw%2Freality%20185.11.246.176%3A443
-vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?type=xhttp&security=tls&sni=kfx7q.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&host=kfx7q.bakarova-top.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20xhttp%2Ftls%20185.178.208.140%3A443
-vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?type=xhttp&security=tls&sni=kfx7q.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&fp=ios#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20xhttp%2Ftls%20185.178.208.140%3A443%20%232
-vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?type=xhttp&security=tls&sni=kfx7q.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&host=kfx7q.bakarova-top.ru&fp=safari#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20xhttp%2Ftls%20185.178.208.140%3A443%20%233
+# updated 2026-11-17 09:34 UTC, 2 proxies, best first
+vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?alpn=h2&host=kfx7q.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp&fp=safari#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20xhttp%2Ftls%20185.178.208.140%3A443
+vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?type=xhttp&security=tls&sni=kfx7q.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&fp=edge#%F0%9F%87%B7%F0%9F%87%B4%20RO%20Bucharest%20vless%20xhttp%2Ftls%20185.178.208.140%3A443%20%232

@@ -1,0 +1,12 @@
+#profile-title: base64:RnJlZSBWUE4gTFY=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-17 09:34 UTC, 2 proxies, best first
+vless://8b62df68-a753-423c-b10a-b1ec4bc2d6de@31.56.196.203:2083?encryption=mlkem768x25519plus.native.0rtt.K6K8iRSLM8ATkFyFW4BV1uOCmq2Eyja3O1FKqdLAlhU&amp;security=none&amp;type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Fnone%2Benc%2031.56.196.203%3A2083
+vless://c1208c5a-2350-4506-affd-fc41b4319286@138.124.63.65:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=freshoutlet.cleanfoodshop.org&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20ws%2Ftls%20138.124.63.65%3A443

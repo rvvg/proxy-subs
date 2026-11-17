@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTVg=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-17 03:30 UTC, 1 proxies, best first
-vless://f1506bf6-7d4c-427f-b053-05e0f1b43a04@40.233.23.236:63245?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&sid=1f2519bb96e5589c&sni=www.cloudflare.com&encryption=none#%F0%9F%87%B2%F0%9F%87%BD%20MX%20Ciudad%20Apodaca%20vless%20raw%2Freality%2040.233.23.236%3A63245
+# updated 2026-11-17 09:34 UTC, 2 proxies, best first
+vless://f1506bf6-7d4c-427f-b053-05e0f1b43a04@40.233.23.236:63245?security=reality&type=tcp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=1f2519bb96e5589c&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU#%F0%9F%87%B2%F0%9F%87%BD%20MX%20Ciudad%20Apodaca%20vless%20raw%2Freality%2040.233.23.236%3A63245
+vless://f1506bf6-7d4c-427f-b053-05e0f1b43a04@40.233.23.236:63245?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&sid=1f2519bb96e5589c#%F0%9F%87%B2%F0%9F%87%BD%20MX%20Ciudad%20Apodaca%20vless%20raw%2Freality%2040.233.23.236%3A63245%20%232
