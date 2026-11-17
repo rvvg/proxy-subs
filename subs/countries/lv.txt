@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-17 15:34 UTC, 1 proxies, best first
-vless://93ffca4d-8049-4829-befd-0d836b874169@31.57.105.41:28941?security=reality&encryption=mlkem768x25519plus.native.0rtt.QmGLWk38nIXyw9JJ4c7RtQhF-8hyY_vPDdgUxB7y_VE&pbk=zKqLG9Axd0EtdmheNV4tZf3NaalxyCEDetYvFBy_eBM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.filimo.com&sid=a19f72c4e83b605d#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2Benc%2031.57.105.41%3A28941
+# updated 2026-11-17 21:31 UTC, 1 proxies, best first
+vless://df97ce68-477f-4484-94c7-79eccab7319d@46.183.219.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TRhWL_Q_urd77W0ErV_XcbE8AUrSCyumYIBC0JRor2c&security=reality&sni=liv5.angelsleep9.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2046.183.219.239%3A443

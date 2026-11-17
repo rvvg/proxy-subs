@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0g=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEzLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,15 +7,17 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-17 15:34 UTC, 11 proxies, best first
-vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443/?encryption=none&flow=&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&security=reality&serviceName=grpc&sid=&sni=g.play2go.gay&type=grpc&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443
+# updated 2026-11-17 21:31 UTC, 13 proxies, best first
+vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?mode=gun&security=reality&encryption=none&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&fp=chrome&type=grpc&serviceName=grpc&sni=g.play2go.gay#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443
 vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443/?encryption=none&flow=&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&security=reality&serviceName=grpc&sid=&sni=g.play2go.gay&type=grpc&fp=safari#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443%20%232
-vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?mode=gun&security=reality&encryption=none&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&fp=chrome&type=grpc&serviceName=grpc&sni=g.play2go.gay#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443%20%233
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?alpn=http&headerType=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?alpn=http&encryption=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=safari#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%232
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?alpn=http&encryption=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%233
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%234
+vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443/?encryption=none&flow=&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&security=reality&serviceName=grpc&sid=&sni=g.play2go.gay&type=grpc&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20grpc%2Freality%20193.233.89.130%3A8443%20%233
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?type=ws&security=tls&path=/api/vless&sni=daily-author.ru&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%232
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=safari#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%233
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=safari#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%234
 vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?&security=tls&fp=chrome&alpn=http&sni=daily-author.ru&type=ws&headerType=none&host=vpn-rating.space&path=%2Fapi%2Fvless#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%235
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%236
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?type=ws&security=tls&path=/api/vless&sni=daily-author.ru&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%237
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=safari#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%238
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%236
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?alpn=http&encryption=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%237
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?security=tls&sni=daily-author.ru&fp=firefox&type=ws&host=vpn-rating.space&path=%2Fapi%2Fvless#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%238
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=random#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%239
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20CH%20Geneva%20vless%20ws%2Ftls%20193.233.219.98%3A443%20%2310

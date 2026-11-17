@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0U=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,12 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-17 15:34 UTC, 8 proxies, best first
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.16.243.122:2053?security=tls&type=ws&host=j4mr-d9oj1at9i-8kuayba9kocwx7uzn.pages.dev&fp=chrome&sni=j4mr-d9oj1at9i-8kuayba9kocwx7uzn.pages.dev&path=%2F&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Sigtuna%20vless%20ws%2Ftls%20104.16.243.122%3A2053
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.132.173:2083?security=tls&type=ws&host=mohammad38526.pages.dev&fp=chrome&sni=mohammad38526.pages.dev&path=%2F&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20104.17.132.173%3A2083
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.169.7:2096?security=tls&type=ws&host=alphefedo7865.pages.dev&fp=chrome&sni=alphefedo7865.pages.dev&path=%2F&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20104.17.169.7%3A2096
-vless://628347a0-6582-4202-9aa8-2eaa8140dc25@perplexity.com:443?path=/t.me-SubGift&security=tls&alpn=http/1.1&encryption=mlkem768x25519plus.native.0rtt.vRXNL_XhxPdlqRnLXcf5tKBaB5t33oqSXWOtaK1mAAY&insecure=0&host=new.exploring.cyou&fp=unsafe&type=ws&allowInsecure=0&flow=xtls-rprx-vision&sni=new.exploring.cyou#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%2Benc%20perplexity.com%3A443
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?security=reality&encryption=none&sni=ns-api-gw.galioncc.com&fp=ios&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7c92e4b10d6f835&type=tcp&headerType=none&path=/#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%2088.216.60.73%3A443
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7c92e4b10d6f835&sni=ns-api-gw.galioncc.com&type=tcp&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%2088.216.60.73%3A443%20%232
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7c92e4b10d6f835&fp=firefox&sni=ns-api-gw.galioncc.com&type=tcp&headerType=none&host=ns-api-gw.galioncc.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%2088.216.60.73%3A443%20%233
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=ns-api-gw.galioncc.com&sid=a7c92e4b10d6f835#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%2088.216.60.73%3A443%20%234
+# updated 2026-11-17 21:31 UTC, 10 proxies, best first
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Ftls%2084.32.154.74%3A443
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru10.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=app.streamru10.net#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Ftls%20app.streamru10.net%3A443
+vless://3ede439b-410f-4eae-b449-4e15064c0706@195.206.235.122:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20195.206.235.122%3A443
+vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=se1.v2less.site&path=%2Fvless&security=tls&sni=se1.v2less.site&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%208.6.112.0%3A443
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@0ef47cx.se4.h1clayd.click:443?type=xhttp&security=reality&fp=firefox&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&path=%2F444de120fb2d&mode=auto#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20xhttp%2Freality%200ef47cx.se4.h1clayd.click%3A443
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?security=tls&sni=subgift.gcorecdn.com&alpn=http%2F1.1&type=ws&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%2092.223.84.254%3A443
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@9ed8a8t.se4.h1clayd.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%209ed8a8t.se4.h1clayd.click%3A443
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@136.148.213.129:443?type=xhttp&security=reality&fp=firefox&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&path=%2F444de120fb2d&mode=auto#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20xhttp%2Freality%20136.148.213.129%3A443
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?fp=firefox&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%2092.223.84.254%3A443%20%232
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@136.148.213.129:443?flow=xtls-rprx-vision&security=reality&sni=9ed8a8t.se4.h1clayd.click&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20136.148.213.129%3A443
