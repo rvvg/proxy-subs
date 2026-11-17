@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-16 21:33 UTC, 4 proxies, best first
-vless://878ac990-650e-402f-910b-7859c35c1f50@172.232.193.55:443?encryption=none&fp=firefox&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&security=reality&serviceName=grpc&sni=dl.google.com&type=grpc#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20grpc%2Freality%20172.232.193.55%3A443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpobjhiMXNsOXk5M3Fudmpq@[2001:41d0:2005:100::f53]:8080?type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20%5B2001%3A41d0%3A2005%3A100%3A%3Af53%5D%3A8080
+# updated 2026-11-17 03:30 UTC, 4 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.99%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.45%3A19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.45%3A19999
+vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@48.103.120.21:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=net-svc-io.galioncc.com#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Ponte%20San%20Pietro%20vless%20raw%2Freality%2048.103.120.21%3A443
+vless://a30903dc-1bf0-0002-8b1b-603a3a56211c@48.103.120.21:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=net-svc-io.galioncc.com#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Arezzo%20vless%20raw%2Freality%2048.103.120.21%3A443

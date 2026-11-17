@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0JDRhNGA0LjQutCw
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-16 21:33 UTC, 4 proxies, best first
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?security=reality&type=tcp&sni=eg1.gofizz.in&fp=firefox&flow=xtls-rprx-vision&sid=f68db13f&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&encryption=none#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%2041.196.0.128%3A443
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20051?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20sclass-c1.catcat321.com%3A20051
+# updated 2026-11-17 03:30 UTC, 6 proxies, best first
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?&security=reality&flow=xtls-rprx-vision&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&sid=f68db13f&fp=chrome&sni=eg1.gofizz.in&type=tcp&headerType=none&path=%2F#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%2041.196.0.128%3A443
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?security=reality&type=tcp&sni=eg1.gofizz.in&fp=firefox&flow=xtls-rprx-vision&sid=f68db13f&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&encryption=none#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%2041.196.0.128%3A443%20%232
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-00.catcat321.com:20103?sni=hk.catxstar.com&type=tcp#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20sclass-00.catcat321.com%3A20103
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20103?sni=hk.catxstar.com&type=tcp#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20sclass-00.catcat321.com%3A20103%20%232
+vless://a30903dc-1bf0-0003-8b1b-603a3a56211c@48.103.120.21:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=net-svc-io.galioncc.com#%F0%9F%87%AA%F0%9F%87%AC%20EG%20Cairo%20vless%20raw%2Freality%2048.103.120.21%3A443
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20051?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20trojan%20raw%2Ftls%20sclass-c1.catcat321.com%3A20051

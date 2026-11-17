@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-16 21:33 UTC, 6 proxies, best first
-vless://878ac990-650e-402f-910b-7859c35c1f50@141.98.165.146:443?encryption=none&fp=firefox&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&security=reality&serviceName=grpc&sni=dl.google.com&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20141.98.165.146%3A443
-vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.71:443?flow=xtls-rprx-vision&security=tls&sni=ee.point.cookie-line.cc&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2048.102.209.71%3A443
+# updated 2026-11-17 03:30 UTC, 8 proxies, best first
+vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.71:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ee.point.cookie-line.cc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2048.102.209.71%3A443
 vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@ee.point.cookie-line.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=ee.point.cookie-line.cc&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20ee.point.cookie-line.cc%3A443
+vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@ee.point.cookie-line.cc:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ee.point.cookie-line.cc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20ee.point.cookie-line.cc%3A443%20%232
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.22:443?type=grpc&security=tls&fp=firefox&sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&serviceName=67h2o3erm0t9imsj#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Ftls%2087.232.116.22%3A443
 vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.12:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.155.55.12%3A8443
 vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@13.143.239.249:443?flow=xtls-rprx-vision&security=reality&sni=ee1.benzinvpn.com&fp=firefox&pbk=2XeZjDQGJSF9FWs1uAD1zkP_6jwLT3N1T107fRz3bzs&sid=b176736ddbda2105#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2013.143.239.249%3A443
+vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@84.23.52.104:9009?authority=n1.93-89-220-9.sslip.io&encryption=none&fp=hellochrome_120&mode=gun&pbk=JASBooze12B0nAaLU2QMWkeAqXwh4GmhfPD_O9YteT0&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=n1.93-89-220-9.sslip.io&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%2084.23.52.104%3A9009
 vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.71:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ee.point.cookie-line.cc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2048.102.209.71%3A443%20%232

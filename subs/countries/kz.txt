@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-16 21:33 UTC, 2 proxies, best first
+# updated 2026-11-17 03:30 UTC, 4 proxies, best first
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.60:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=api-rt-cfg.galioncc.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%2091.217.10.60%3A443
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@200.102.183.189:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&sni=maple-cove.cdn.cachefleet.com&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20200.102.183.189%3A443
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20185.246.155.91%3A10403
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&sni=www.apple.com&host=www.apple.com#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20185.246.155.91%3A10403%20%232

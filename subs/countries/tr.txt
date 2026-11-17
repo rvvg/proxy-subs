@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTYgMjE6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-16 21:33 UTC, 6 proxies, best first
+# updated 2026-11-17 03:30 UTC, 8 proxies, best first
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2062.133.63.45%3A8444
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@77.83.245.232:443?type=grpc&security=reality&fp=firefox&pbk=NLYZX3_IyPp1Qi7uF1OQMfd29L0ecThy8XKtarm4IDg&sid=5a5deeba08ebe615&sni=quay.elderbrook.top&serviceName=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2077.83.245.232%3A443
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Qno4VWZwSWcxbWZxMU5LeldKSENxTUpLbmlyK1huRmxtZzY2dWhRd2FkZz06RGdUQkl0RXMvaGd0M1AvbFVPdHd5aVAwR3M3LzQvOUxqUTVNMVN3eUdFQT0@206.1.103.22:44364#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20ss%20206.1.103.22%3A44364
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@45.141.148.46:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=tr1b.galioncc.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2045.141.148.46%3A443
-vmess://eyJhZGQiOiAidmlwLmdpbnFpdmEuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiLz9UZWxlZ3JhbS0tLUBpcmFucGluZzI0LS0tQGlyYW5waW5nMjQtLS1AaXJhbnBpbmcyNC0tLUBpcmFucGluZzI0LS0tQGlyYW5waW5nMjQtLS1AaXJhbnBpbmcyNC0tLUBpcmFucGluZzI0LyIsICJpZCI6ICI2NjQ5Mzg1Yy1iOTA1LTQ5NzItYjFjYy0yYjZjMWY1ODVjOTciLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MDAwIiwgInBzIjogIvCfh7nwn4e3IFRSIElzdGFuYnVsIHZtZXNzIHJhdy9ub25lIHZpcC5naW5xaXZhLmlyOjUwMDAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20185.246.155.91%3A10103
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@45.141.148.46:443?encryption=none&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=tr1b.galioncc.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2045.141.148.46%3A443
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@45.141.148.46:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=tr1b.galioncc.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2045.141.148.46%3A443%20%232
+vless://6487a480-ab9c-4043-8dec-368dbe90b1e5@laptop.samesung.tr:27930?security=reality&encryption=none&pbk=oVO1VcaklylCMOG1EBLl1NT5WBYzLBzGWoV2G1ZakgM&headerType=none&fp=chrome&type=tcp&sni=www.zavqeron.ir&sid=552c7735917f2888#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20laptop.samesung.tr%3A27930
+vless://6487a480-ab9c-4043-8dec-368dbe90b1e5@laptop.samesung.tr:27930?security=reality&sni=www.zavqeron.ir&fp=qq&pbk=oVO1VcaklylCMOG1EBLl1NT5WBYzLBzGWoV2G1ZakgM&sid=552c7735917f2888&type=raw#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20laptop.samesung.tr%3A27930%20%232
+vless://6487a480-ab9c-4043-8dec-368dbe90b1e5@206.1.103.162:27930?encryption=none&fp=firefox&pbk=oVO1VcaklylCMOG1EBLl1NT5WBYzLBzGWoV2G1ZakgM&security=reality&sid=552c7735917f2888&sni=www.zavqeron.ir&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20206.1.103.162%3A27930
+vless://6487a480-ab9c-4043-8dec-368dbe90b1e5@206.1.103.162:8452?encryption=none&fp=firefox&pbk=oVO1VcaklylCMOG1EBLl1NT5WBYzLBzGWoV2G1ZakgM&security=reality&sid=552c7735917f2888&sni=www.zavqeron.ir&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20206.1.103.162%3A8452
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20185.246.155.91%3A10103
