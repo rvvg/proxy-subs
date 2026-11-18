@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 15:34 UTC, 2 proxies, best first
+# updated 2026-11-18 21:32 UTC, 5 proxies, best first
 hysteria2://VR7zICGZd3cB34G0FxSYQra3@82.152.161.146:10086?security=tls&insecure=0&pinSHA256=384dfd7165377a28b00c8feefed52b59abd376248b99d06495349c2ab24586bc&sni=pic.bstarstatic.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%2082.152.161.146%3A10086
+vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?flow=xtls-rprx-vision&security=reality&sni=mensura.cdn-apple.com&fp=chrome&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&sid=39793bc4708abbbb&encryption=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%202.26.204.46%3A31001
+vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?flow=xtls-rprx-vision&security=reality&sni=mensura.cdn-apple.com&fp=firefox&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&sid=39793bc4708abbbb&encryption=none&type=tcp&allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%202.26.204.46%3A31001%20%232
+vless://9195e0f1-f466-4e69-838f-a95519b5d45e@43.162.217.104:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=dl.google.com&fp=chrome&pbk=qzoG-cG8dG_C1T2tsWnWgooE9eekntARY0fVGIyg4Fg&sid=c11a9913&udp=1&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2043.162.217.104%3A443
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzIiwgImFkZCI6ICIxNTYuMjQ1LjIzMi4yMzkiLCAicG9ydCI6ICIzNTA0MyIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiLS0tIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiY3MiOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIn0=

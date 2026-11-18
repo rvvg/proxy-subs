@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0U=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,15 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 15:34 UTC, 11 proxies, best first
-hysteria2://dbdabd55c8c24198b9b1c67b43a3d0e4@56.228.84.149:5012?sni=hy-se.mechanicfkkhk.shop&obfs=salamander&obfs-password=e4cf2fe595ce18717645661c&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20hy2%20hysteria%2Ftls%2Bsalamander%2056.228.84.149%3A5012
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru10.net&fp=chrome&type=tcp&headerType=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Ftls%2084.32.154.74%3A443
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru10.net:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=app.streamru10.net#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Ftls%20app.streamru10.net%3A443
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@88.216.189.192:443?flow=xtls-rprx-vision&security=reality&sni=modx.wey-land.net&fp=chrome&pbk=1VhM5R3IlHPjzxEeTuik1lcUad-HI6C57MzXxppyXg4#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%2088.216.189.192%3A443
+# updated 2026-11-18 21:32 UTC, 10 proxies, best first
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@37.9.4.62:443?mode=gun&security=reality&encryption=none&pbk=vP4XeQ-z8LYtkSz1SCAxRMAEPreaHspoXm2nt0okQVw&fp=chrome&type=grpc&sni=360.yandex.ru&sid=c7674e#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%2037.9.4.62%3A443
+vless://0001f119-4d6d-42ae-b2f0-d07ed4694381@144.31.179.156:2053?security=reality&encryption=none&pbk=f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=cc981b746a300649#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20144.31.179.156%3A2053
+vless://a8740edd-848a-44e0-b2aa-618d07169fff@shop.raadshop.bond:2053?security=reality&sni=digikala.com&fp=chrome&pbk=YTkTPsdfj1hNYd5s32IJ267ayxKP-GY6FcQpVF9aJns&sid=fec43796960fe0&spx=%2F6718180af5ff25b&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%20shop.raadshop.bond%3A2053
 vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=se1.v2less.site&path=%2Fvless&security=tls&sni=se1.v2less.site&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%208.6.112.0%3A443
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&type=ws&path=%2Ft.me-SubGift&host=subgift.gcorecdn.com&alpn=http%2F1.1&sni=subgift.gcorecdn.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&sni=subgift.gcorecdn.com&alpn=http%2F1.1&type=ws&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443%20%232
-vless://68a19895-7b8e-6ae0-8055-6aeab39515b2@62.217.181.109:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20vless%20raw%2Freality%2062.217.181.109%3A8443
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&type=ws&sni=subgift.gcorecdn.com&path=%2Ft.me-SubGift&host=subgift.gcorecdn.com#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443%20%233
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Ftls%2084.32.154.74%3A443%20%232
+vless://68a19895-7b8e-6ae0-8055-6aeab39515b2@129.101.107.31:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20vless%20raw%2Freality%20129.101.107.31%3A8443
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&type=ws&sni=subgift.gcorecdn.com&path=%2Ft.me-SubGift&host=subgift.gcorecdn.com#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&type=ws&path=%2Ft.me-SubGift&host=subgift.gcorecdn.com&alpn=http%2F1.1&sni=subgift.gcorecdn.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443%20%232
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&sni=subgift.gcorecdn.com&alpn=http%2F1.1&type=ws&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443%20%233
+vless://68a19895-7b8e-6ae0-8055-6aeab39515b2@62.217.181.109:8443?encryption=none&flow=xtls-rprx-vision&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&type=tcp&fp=random#%F0%9F%87%B8%F0%9F%87%AA%20SE%20vless%20raw%2Freality%2062.217.181.109%3A8443
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?type=ws&security=tls&path=/t.me-SubGift&sni=subgift.gcorecdn.com#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443%20%234

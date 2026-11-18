@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 15:34 UTC, 3 proxies, best first
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@185.155.55.12:8443?flow=xtls-rprx-vision&security=reality&sni=ee-nf.reddotcorp.org&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&sid=661766b2bcef440a#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.155.55.12%3A8443
+# updated 2026-11-18 21:32 UTC, 1 proxies, best first
 vless://68a19895-7b8e-2880-8055-6aeab39515b2@62.217.181.109:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2062.217.181.109%3A8443
-vless://00018846-513b-6e3b-5301-9c9ff2d375a3@eecdn.fius.dev:443?type=xhttp&security=tls&fp=firefox&sni=eecdn.fius.dev&path=/api-test&host=eecdn.fius.dev&mode=packet-up&extra={"xPaddingObfsMode":true,"xPaddingKey":"dc","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","xPaddingPlacement":"queryInHeader","xPaddingBytes":"100-1000","scMaxEachPostBytes":16384,"scMinPostsIntervalMs":10,"uplinkDataPlacement":"header","uplinkChunkSize":4096,"uplinkHTTPMethod":"OPTIONS"}#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20eecdn.fius.dev%3A443

@@ -1,0 +1,12 @@
+#profile-title: base64:RnJlZSBWUE4gVFI=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-18 21:32 UTC, 2 proxies, best first
+vless://bb449cdc-2322-428c-b1f2-947fe990f685@143.246.136.144:8443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=se2.fereshtehagonahnemikonnad.ir#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Ftls%20143.246.136.144%3A8443
+vless://bb449cdc-2322-428c-b1f2-947fe990f685@143.246.136.144:8443?flow=xtls-rprx-vision&security=tls&sni=se2.fereshtehagonahnemikonnad.ir&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Ftls%20143.246.136.144%3A8443%20%232

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0K7QttC90LDRjyDQkNC80LXRgNC40LrQsA==
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 15:34 UTC, 1 proxies, best first
-vmess://eyJhZGQiOiAibGV2aWtvLWJyMDE1My5zaG9waW5nZ2dnLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTI3MCIsICJwcyI6ICLwn4en8J+HtyBCUiBTYW8gUGF1bG8gdm1lc3MgcmF3L3RscyBsZXZpa28tYnIwMTUzLnNob3BpbmdnZ2cuaXI6MTI3MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAieG1maGxweS5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+# updated 2026-11-18 21:32 UTC, 1 proxies, best first
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&mport=20000-30000#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Sao%20Paulo%20hy2%20hysteria%2Ftls%2Bsalamander%2Bhop%20150.230.229.100%3A20000
