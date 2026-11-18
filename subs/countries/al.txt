@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-17 21:31 UTC, 1 proxies, best first
+# updated 2026-11-18 03:31 UTC, 2 proxies, best first
 vless://df97ce68-477f-4484-94c7-79eccab7319d@48.103.205.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tXhsg663V1Ia_YWMtQMWQRaZouyONXknQ16OLMAdFXs&security=reality&sid=28ffd89d510a739b&sni=alb1.angelsleep9.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%2048.103.205.57%3A443
+vless://df97ce68-477f-4484-94c7-79eccab7319d@alb1.angelsleep9.com:443?security=reality&pbk=tXhsg663V1Ia_YWMtQMWQRaZouyONXknQ16OLMAdFXs&fp=firefox&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=alb1.angelsleep9.com&sid=28ffd89d510a739b#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20alb1.angelsleep9.com%3A443

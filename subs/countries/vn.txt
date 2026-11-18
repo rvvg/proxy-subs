@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVk4=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTcgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-17 21:31 UTC, 3 proxies, best first
-vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?security=reality&fp=firefox&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20103.163.24.22%3A56026
+# updated 2026-11-18 03:31 UTC, 3 proxies, best first
 vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?type=tcp&security=reality&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20kir3.crackerbinam.org%3A56026
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?security=reality&fp=firefox&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20103.163.24.22%3A56026
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&sni=www.cloudflare.com&fp=firefox&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&sid=f3a10622fe&headerType=http&path=%2F&encryption=none&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20103.162.14.250%3A25272
