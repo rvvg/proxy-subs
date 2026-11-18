@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 03:31 UTC, 5 proxies, best first
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.63%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.45%3A19999
+# updated 2026-11-18 09:33 UTC, 6 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.99%3A19999
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.27.21:8388#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%2057.131.27.21%3A8388
-vless://efddc8d3-74d2-4b90-a755-1426943bb803@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=italyboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20ws%2Ftls%20ipfast.kingmna.com%3A443
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.63%3A19999
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.27.21:8388#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%2057.131.27.21%3A8388
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.45%3A19999
+vless://e347aeea-6bfc-4d39-8536-ead65b93ddde@freev2.cloudflare.182682.xyz:443?security=tls&type=ws&path=%2Fannouncement%3Fed%3D2048&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20ws%2Ftls%20freev2.cloudflare.182682.xyz%3A443
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.81%3A19999

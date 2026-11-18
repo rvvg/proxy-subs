@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 03:31 UTC, 1 proxies, best first
+# updated 2026-11-18 09:33 UTC, 1 proxies, best first
 vless://df97ce68-477f-4484-94c7-79eccab7319d@46.183.219.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TRhWL_Q_urd77W0ErV_XcbE8AUrSCyumYIBC0JRor2c&security=reality&sni=liv5.angelsleep9.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2046.183.219.239%3A443

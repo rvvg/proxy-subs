@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 03:31 UTC, 3 proxies, best first
-ss://2022-blake3-aes-256-gcm:Bz8UfpIg1mfq1NKzWJHCqMJKnir+XnFlmg66uhQwadg=:JUq5CmRM+NCKAIwhqfiVvKX/UJnYaGelTBzBQsQFrAY=@206.1.103.22:44364?type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20ss%20206.1.103.22%3A44364
-vless://4f9f03f9-39e9-4879-8f10-0eccf859aafd@gold.jafarghasemiturkk.ir:8080?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.EITKrLrLFdNlWVc2lGL0531SnyJBnQ7NwAOFsSxdY0w&type=ws&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Fnone%2Benc%20gold.jafarghasemiturkk.ir%3A8080
-vless://efddc8d3-74d2-4b90-a755-1426943bb803@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=looabturkeyeoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20ipfast.kingmna.com%3A443
+# updated 2026-11-18 09:33 UTC, 1 proxies, best first
+vless://4f9f03f9-39e9-4879-8f10-0eccf859aafd@gold.jafarghasemiturkk.ir:8080?encryption=mlkem768x25519plus.native.0rtt.EITKrLrLFdNlWVc2lGL0531SnyJBnQ7NwAOFsSxdY0w&flow=xtls-rprx-vision&host=&path=/&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Fnone%2Benc%20gold.jafarghasemiturkk.ir%3A8080

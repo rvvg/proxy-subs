@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 03:31 UTC, 1 proxies, best first
-vless://73f3534e-cd6b-417a-97cf-e2d14b7a33db@cdn.stream-media-cdn.ru:443?type=xhttp&security=tls&fp=firefox&sni=cdn.stream-media-cdn.ru&path=/media/live/stream/&host=cdn.stream-media-cdn.ru&mode=packet-up&extra={"xmux":{"hMaxRequests":"600-900","cMaxReuseTimes":0,"maxConnections":6,"hMaxReusableSec":"1800-3000","hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriodSec":0},"noSSEHeader":true,"xPaddingKey":"x_padding","noGRPCHeader":false,"seqPlacement":"path","xPaddingBytes":"100-300","xPaddingHeader":"X-Padding","xPaddingMethod":"tokenish","sessionPlacement":"path","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","scMaxBufferedPosts":30,"scMaxEachPostBytes":"10000-12000","sessionIDPlacement":"path","uplinkDataPlacement":"header","scMinPostsIntervalMs":"20-50","scStreamUpServerSecs":"20-80"}#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20cdn.stream-media-cdn.ru%3A443
+# updated 2026-11-18 09:33 UTC, 2 proxies, best first
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@eecdn.fius.dev:443?type=xhttp&security=tls&fp=firefox&sni=eecdn.fius.dev&path=/api-test&host=eecdn.fius.dev&mode=packet-up&extra={"xPaddingObfsMode":true,"xPaddingKey":"dc","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","xPaddingPlacement":"queryInHeader","xPaddingBytes":"100-1000","scMaxEachPostBytes":16384,"scMinPostsIntervalMs":10,"uplinkDataPlacement":"header","uplinkChunkSize":4096,"uplinkHTTPMethod":"OPTIONS"}#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20eecdn.fius.dev%3A443
+vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@185.155.55.12:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20185.155.55.12%3A8443
