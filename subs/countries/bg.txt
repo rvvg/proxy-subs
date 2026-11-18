@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,15 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 09:33 UTC, 11 proxies, best first
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=plaindune.com&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?encryption=none&extra=null&fp=firefox&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%232
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?type=xhttp&security=tls&fp=firefox&sni=plaindune.com&path=%2Fapi%2Fv1%2Fupload&host=plaindune.com&mode=auto#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%233
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp&fp=firefox#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%234
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?security=tls&sni=plaindune.com&type=xhttp&host=plaindune.com&path=%2Fapi%2Fv1%2Fupload&mode=auto#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%235
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp&fp=random#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%236
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp&fp=ios#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%237
+# updated 2026-11-18 15:34 UTC, 4 proxies, best first
+vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?alpn=h2%2Chttp%2F1.1&encryption=none&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp&fp=random#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443
 vless://37af0181-5598-4aad-a040-d926bcb65757@plaindune.com:8443?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&host=plaindune.com&fp=firefox&type=xhttp&sni=plaindune.com#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%20plaindune.com%3A8443
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp&fp=safari#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%238
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=chrome&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%239
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?alpn=h2%2Chttp%2F1.1&encryption=none&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp&fp=random#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%2310
+vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?encryption=none&extra=null&fp=firefox&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%232
+vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=chrome&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2078.159.250.155%3A8443%20%233
