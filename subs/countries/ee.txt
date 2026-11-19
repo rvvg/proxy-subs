@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 21:32 UTC, 1 proxies, best first
+# updated 2026-11-19 03:29 UTC, 2 proxies, best first
+vless://31e407b3-6e1e-425f-98ea-fcf8f494c6a0@80.79.121.155:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2080.79.121.155%3A443
 vless://68a19895-7b8e-2880-8055-6aeab39515b2@62.217.181.109:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2062.217.181.109%3A8443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQlk=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTggMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-18 21:32 UTC, 4 proxies, best first
-vless://68a19895-7b8e-12c0-8055-6aeab39515b2@129.101.107.31:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20129.101.107.31%3A8443
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.228%3A10444
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=edge#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.228%3A10444%20%232
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.228%3A10444%20%233
+# updated 2026-11-19 03:29 UTC, 4 proxies, best first
+vless://68a19895-7b8e-12c0-8055-6aeab39515b2@129.101.107.31:8443?encryption=none&flow=xtls-rprx-vision&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&type=tcp&fp=safari#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20129.101.107.31%3A8443
+vless://68a19895-7b8e-12c0-8055-6aeab39515b2@129.101.107.31:8443?flow=xtls-rprx-vision&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&type=raw&fp=firefox#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20129.101.107.31%3A8443%20%232
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=edge#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.228%3A10444
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.228%3A10444%20%232
