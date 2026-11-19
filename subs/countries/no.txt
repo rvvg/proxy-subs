@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTk8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-19 15:34 UTC, 1 proxies, best first
-vless://3709d72f-6c35-0001-9763-ca5d6d8bf2fe@81.163.22.109:443?encryption=none&type=tcp&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Oslo%20vless%20raw%2Ftls%2081.163.22.109%3A443
+# updated 2026-11-19 21:31 UTC, 3 proxies, best first
+vless://b78bf1a8-df7d-0001-8881-0243321ec28f@168.113.254.247:443?security=tls&sni=vcerx-ru-67sb.my-fade.cloud&fp=ios#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Oslo%20vless%20raw%2Ftls%20168.113.254.247%3A443
+hysteria2://b006650f-8771-0001-b7fa-e18fc6e80ef1@168.113.254.247:443?sni=vcerx-ru-67sb.my-fade.cloud&alpn=h3&pinSHA256=c95e0c5630fadff7db0b6954ca210b104a9ea5a913e960a3ccb6d821664968e6#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Oslo%20hy2%20hysteria%2Ftls%20168.113.254.247%3A443
+vless://b78bf1a8-df7d-0001-8881-0243321ec28f@168.113.254.247:443?security=tls&sni=vcerx-ru-67sb.my-fade.cloud&fp=edge#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Oslo%20vless%20raw%2Ftls%20168.113.254.247%3A443%20%232

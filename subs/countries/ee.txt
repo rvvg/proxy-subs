@@ -1,0 +1,29 @@
+#profile-title: base64:RnJlZSBWUE4gRUU=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE5LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-19 21:31 UTC, 19 proxies, best first
+vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?encryption=none&fp=firefox&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&security=reality&sid=426165a0badade80&sni=212.192.156.15&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2095.85.243.72%3A443
+hysteria2://b280a29b-a3d9-0001-8a81-198855a17d57@84.38.189.122:443?sni=shyrc-ru-75sel.my-fade.cloud&alpn=h3&pinSHA256=054951b598c2cf32f735103ede0a03e64fb05cbe1cf5cdc6d4a3a0ac9f42142c#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%2084.38.189.122%3A443
+vless://6c870724-643c-0001-b7ea-04aabeedfb4e@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=android#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20176.108.244.162%3A443
+hysteria2://be986553-5976-0001-9209-3050366e40d1@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%20185.151.243.186%3A443
+vless://6c870724-643c-0001-b7ea-04aabeedfb4e@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%232
+vless://544982fe-6a90-0001-bf97-44054d1c01d4@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20188.68.216.27%3A443
+vless://6c870724-643c-0001-b7ea-04aabeedfb4e@176.108.244.162:443?encryption=none&type=tcp&security=tls&sni=ohyjf-ru-65sb.my-fade.cloud#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%233
+vless://6c870724-643c-0001-b7ea-04aabeedfb4e@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%234
+vless://6c870724-643c-0001-b7ea-04aabeedfb4e@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%235
+vless://544982fe-6a90-0001-bf97-44054d1c01d4@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20188.68.216.27%3A443%20%232
+vless://544982fe-6a90-0001-bf97-44054d1c01d4@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=android#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20188.68.216.27%3A443%20%233
+vless://544982fe-6a90-0001-bf97-44054d1c01d4@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20188.68.216.27%3A443%20%234
+vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&packetEncoding=xudp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443
+vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&packetEncoding=xudp&fp=android#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443%20%232
+vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&type=tcp&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443%20%233
+vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&packetEncoding=xudp&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443%20%234
+hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%20136.148.83.69%3A443
+hysteria2://b280a29b-a3d9-0001-8a81-198855a17d57@84.38.189.122:443?sni=shyrc-ru-75sel.my-fade.cloud&alpn=h3#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%2084.38.189.122%3A443%20%232
+vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&packetEncoding=xudp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443%20%235

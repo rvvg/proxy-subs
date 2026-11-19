@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,13 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-19 15:34 UTC, 3 proxies, best first
-vless://1fdf4166-499a-0001-af1d-5bb01e5805fb@168.113.254.183:443?encryption=none&type=tcp&security=tls&sni=xykmh-ru-70sb.my-fade.cloud#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Ftls%20168.113.254.183%3A443
-vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?encryption=none&type=tcp&security=tls&sni=vcerx-ru-67sb.my-fade.cloud#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Ftls%20168.113.254.247%3A443
-vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=admin.mistral.ai&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&sid=4d3affb557796d1c&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20138.124.9.201%3A8443
+# updated 2026-11-19 21:31 UTC, 9 proxies, best first
+vless://aae24578-9f15-0001-a5b1-4f46630e5ef8@81.163.22.109:443/?type=tcp&encryption=none&flow=&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Ftls%2081.163.22.109%3A443
+vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?security=tls&fp=chrome&sni=vcerx-ru-67sb.my-fade.cloud#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Ftls%20168.113.254.247%3A443
+vless://aae24578-9f15-0001-a5b1-4f46630e5ef8@81.163.22.109:443?type=tcp&security=tls&fp=qq&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Ftls%2081.163.22.109%3A443%20%232
+vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443/?type=tcp&encryption=none&flow=&security=tls&sni=vcerx-ru-67sb.my-fade.cloud#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Ftls%20168.113.254.247%3A443%20%232
+vless://aae24578-9f15-0001-a5b1-4f46630e5ef8@81.163.22.109:443?encryption=none&fp=chrome&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Ftls%2081.163.22.109%3A443%20%233
+vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?encryption=none&type=tcp&security=tls&sni=vcerx-ru-67sb.my-fade.cloud&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Ftls%20168.113.254.247%3A443%20%233
+vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?encryption=none&type=tcp&security=tls&sni=vcerx-ru-67sb.my-fade.cloud&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Ftls%20168.113.254.247%3A443%20%234
+hysteria2://00717a40-f058-0001-bd8b-946b3d578273@168.113.254.247:443?sni=vcerx-ru-67sb.my-fade.cloud&alpn=h3&pinSHA256=c95e0c5630fadff7db0b6954ca210b104a9ea5a913e960a3ccb6d821664968e6#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20hy2%20hysteria%2Ftls%20168.113.254.247%3A443
+vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?flow=xtls-rprx-vision&fp=firefox&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&security=reality&sid=4d3affb557796d1c&sni=admin.mistral.ai&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20138.124.9.201%3A8443

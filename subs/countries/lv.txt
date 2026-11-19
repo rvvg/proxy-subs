@@ -1,0 +1,21 @@
+#profile-title: base64:RnJlZSBWUE4gTFY=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-19 21:31 UTC, 11 proxies, best first
+vless://4e72f434-852e-0001-9ab9-046a4bec4dbd@188.68.216.27:443?encryption=none&type=tcp&security=tls&sni=qtuod-ru-56sel.fade.mom#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20188.68.216.27%3A443
+vless://4e72f434-852e-0001-9ab9-046a4bec4dbd@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20188.68.216.27%3A443%20%232
+vless://4e72f434-852e-0001-9ab9-046a4bec4dbd@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=edge#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20188.68.216.27%3A443%20%233
+vless://4e72f434-852e-0001-9ab9-046a4bec4dbd@188.68.216.27:443?encryption=none&type=tcp&security=tls&sni=qtuod-ru-56sel.fade.mom&fp=qq#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20188.68.216.27%3A443%20%234
+vless://4e72f434-852e-0001-9ab9-046a4bec4dbd@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20188.68.216.27%3A443%20%235
+vless://ffb93067-302d-0001-82c5-d89037205de7@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=ios#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20176.108.244.162%3A443
+hysteria2://6acdc33a-a25b-0001-8095-c9a252d72fd0@176.108.244.162:443?sni=ohyjf-ru-65sb.my-fade.cloud&alpn=h3&pinSHA256=b59ce628fb2824c0da7cbfa43e9f93aca2632068ebc29e2367eebe832a1402bf#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20hy2%20hysteria%2Ftls%20176.108.244.162%3A443
+vless://ffb93067-302d-0001-82c5-d89037205de7@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%232
+vless://ffb93067-302d-0001-82c5-d89037205de7@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=qq#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%233
+vless://4e72f434-852e-0001-9ab9-046a4bec4dbd@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=android#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20188.68.216.27%3A443%20%236
+vless://ffb93067-302d-0001-82c5-d89037205de7@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%234
