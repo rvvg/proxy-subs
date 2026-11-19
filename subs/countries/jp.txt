@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSlA=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-19 03:29 UTC, 6 proxies, best first
-vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?security=tls&sni=sync.2ml.bid&type=grpc&serviceName=v3-direct#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20grpc%2Ftls%20sync.2ml.bid%3A443
+# updated 2026-11-19 09:33 UTC, 10 proxies, best first
 ss://YWVzLTI1Ni1nY206WUt3RHozbUZwVDl2R2NMOG5CczVkSHJBMnN4TQ@64.176.57.251:8388#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Osaka%20ss%2064.176.57.251%3A8388
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hr/Cfh7UgSlAgT3Nha2Egdm1lc3MgcmF3L25vbmUgNjQuMTc2LjM0LjEwMjo0NjEzMCIsICJhZGQiOiAiNjQuMTc2LjM0LjEwMiIsICJwb3J0IjogIjQ2MTMwIiwgImlkIjogIjQ3NzM1MGIyLTc1MzYtNGYzOC1lZTIxLTAyMGVmZGRlMmQxZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hr/Cfh7UgSlAgVG9reW8gdm1lc3Mgd3Mvbm9uZSA0NS43Ni4xMDAuMjM4OjEwMDg2IiwgImFkZCI6ICI0NS43Ni4xMDAuMjM4IiwgInBvcnQiOiAiMTAwODYiLCAiaWQiOiAiZWUyOTI3ZjYtYjc2YS00MDExLTk1N2MtZmU3YzQ4NjViMzZjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgInBhdGgiOiAiL3dzIn0=
 vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@fuji.etherhub.cc:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&sid=bd6f67b6b2152b45&sni=fuji.etherhub.cc#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20raw%2Freality%20fuji.etherhub.cc%3A443
-hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?sni=bing.com&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Minoh%20hy2%20hysteria%2Ftls%20129.225.181.46%3A8443
+vless://282733b7-3cd4-4fa3-b6bd-beff60052f31@185.220.68.226:20205?encryption=none&security=tls&sni=7nnoiou0z.3xn99hzq2sh7iekktpkeq7rofs3qc8iohrqs4pb9p.workers.dev&fp=chrome&type=ws&path=%2F%40Marisa_kristi&host=7nnoiou0z.3xn99hzq2sh7iekktpkeq7rofs3qc8iohrqs4pb9p.workers.dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20185.220.68.226%3A20205
+vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&serviceName=v3-direct#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20grpc%2Ftls%20sync.2ml.bid%3A443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.98.0:443?alpn=http%2F1.1&fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20188.114.98.0%3A443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.17.50.227%3A443
+trojan://F3NzMNuYnG7akU2mSlBY@193.123.160.109:8443?sni=www.microsoft.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Inzai%20trojan%20raw%2Ftls%20193.123.160.109%3A8443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=android#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.16.111.102%3A443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.48.107:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.19.48.107%3A443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.19.12.94%3A443

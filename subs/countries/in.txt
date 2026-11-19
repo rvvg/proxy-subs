@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSU4=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-19 03:29 UTC, 5 proxies, best first
+# updated 2026-11-19 09:33 UTC, 6 proxies, best first
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?fp=random&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20in.smrtai.top%3A443
 vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?security=reality&encryption=none&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7ff98efcced3fd5b#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20148.113.5.22%3A443
 vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&security=reality&sid=7ff98efcced3fd5b&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20148.113.5.22%3A443%20%232
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20in.smrtai.top%3A443%20%232
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443%20%232

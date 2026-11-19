@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTk8=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-19 03:29 UTC, 1 proxies, best first
+# updated 2026-11-19 09:33 UTC, 1 proxies, best first
 vless://68a19895-7b8e-8400-8055-6aeab39515b2@62.217.181.109:8443?flow=xtls-rprx-vision&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&fp=safari#%F0%9F%87%B3%F0%9F%87%B4%20NO%20Sandefjord%20vless%20raw%2Freality%2062.217.181.109%3A8443
