@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0U=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-19 09:33 UTC, 6 proxies, best first
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:443?security=tls&type=ws&path=%2Fstar%2Ftopics%2Fblogs&host=v1n4.11676767.xyz&packetEncoding=xudp&sni=v1n4.11676767.xyz&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20saas.sin.fan%3A443
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:443?host=vp12.1145678.xyz&path=%2Ftorrent%2Fdocuments%2Fphotos&security=tls&sni=vp12.1145678.xyz&type=ws&fp=edge#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20saas.sin.fan%3A443%20%232
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@162.159.135.234:443?security=tls&sni=vp12.1145678.xyz&type=ws&host=vp12.1145678.xyz&path=%2Ftorrent%2Fdocuments%2Fphotos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Steninge%20vless%20ws%2Ftls%20162.159.135.234%3A443
+# updated 2026-11-19 15:34 UTC, 7 proxies, best first
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@37.9.4.62:443?mode=gun&security=reality&encryption=none&pbk=vP4XeQ-z8LYtkSz1SCAxRMAEPreaHspoXm2nt0okQVw&fp=chrome&type=grpc&sni=360.yandex.ru&sid=c7674e#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%2037.9.4.62%3A443
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@37.9.4.62:443?encryption=none&mode=gun&pbk=vP4XeQ-z8LYtkSz1SCAxRMAEPreaHspoXm2nt0okQVw&security=reality&sid=c7674e&sni=360.yandex.ru&type=grpc&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%2037.9.4.62%3A443%20%232
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.225.57.185:443?encryption=none&fp=random&mode=gun&pbk=4JggwEKhrkrIjQjO8kRX6iGvHQJixIFkiDOnE7zd3xE&security=reality&sni=flintstack.dev&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20grpc%2Freality%20188.225.57.185%3A443
 vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=se1.v2less.site&path=%2Fvless&security=tls&sni=se1.v2less.site&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%208.6.112.0%3A443
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?type=ws&security=tls&path=/t.me-SubGift&sni=subgift.gcorecdn.com#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&type=ws&sni=subgift.gcorecdn.com&path=%2Ft.me-SubGift&host=subgift.gcorecdn.com#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443%20%232
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&type=ws&sni=subgift.gcorecdn.com&path=%2Ft.me-SubGift&host=subgift.gcorecdn.com#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443
+vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@89.169.2.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cn6JqI1RByDql_wSwDjMQP7B3vXcnM1Q52yGPhvLwh0&security=reality&sid=e4272d5b51ac255e&sni=node-se-1.nztpro.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20raw%2Freality%2089.169.2.136%3A443
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&type=ws&path=%2Ft.me-SubGift&host=subgift.gcorecdn.com&alpn=http%2F1.1&sni=subgift.gcorecdn.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20Stockholm%20vless%20ws%2Ftls%20subgift.gcorecdn.com%3A443%20%232
