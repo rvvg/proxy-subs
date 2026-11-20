@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-20 15:33 UTC, 1 proxies, best first
-vless://70f1696c-8b82-4614-9c1e-8ec21201684d@185.220.223.78:443?security=reality&encryption=none&pbk=wEJIqlLqor9Z_LMHvcsXh5FSoKMz3NbbcORwPDBgbhw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv.meltun.org&sid=5a8e1a04f3d92b67#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.220.223.78%3A443
+# updated 2026-11-20 21:32 UTC, 3 proxies, best first
+vless://70f1696c-8b82-4614-9c1e-8ec21201684d@185.220.223.78:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=wEJIqlLqor9Z_LMHvcsXh5FSoKMz3NbbcORwPDBgbhw&sid=5a8e1a04f3d92b67&sni=lv.meltun.org#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.220.223.78%3A443
+vless://70f1696c-8b82-4614-9c1e-8ec21201684d@185.220.223.78:443?encryption=none&flow=xtls-rprx-vision&pbk=wEJIqlLqor9Z_LMHvcsXh5FSoKMz3NbbcORwPDBgbhw&security=reality&sid=5a8e1a04f3d92b67&sni=lv.meltun.org&type=tcp&fp=safari#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.220.223.78%3A443%20%232
+vless://3f48cee8-2e5d-4ea4-9297-0777a79a9f06@send.idkinc.net:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HxgKgQBR0Xs-lqb0snVMzcSH2xhb90Zia8KeT1tdaVs&sid=b3c03b6dac5f1e7f&sni=latv-1.idkvpn.ru#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20send.idkinc.net%3A443

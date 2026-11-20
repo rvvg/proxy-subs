@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gRVM=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-20 21:32 UTC, 1 proxies, best first
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@136.234.36.146:443?security=reality&sni=b3cd32g.es1.h1clayd.click&fp=random&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&type=grpc&serviceName=&mode=gun#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20grpc%2Freality%20136.234.36.146%3A443

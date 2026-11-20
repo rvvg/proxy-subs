@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-20 15:33 UTC, 3 proxies, best first
-vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@152.234.239.170:9467?security=reality&encryption=none&pbk=Qr3DaIQGAtUDR-v4FI0Nltdw43LeXgaXXGGZZk6sP2E&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mosdownloand.song69.fun#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20152.234.239.170%3A9467
-vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&security=reality&sid=4d3affb557796d1c&sni=admin.mistral.ai&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20138.124.9.201%3A8443
-vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?security=reality&encryption=none&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=admin.mistral.ai&sid=4d3affb557796d1c#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20138.124.9.201%3A8443%20%232
+# updated 2026-11-20 21:32 UTC, 3 proxies, best first
+vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@152.234.239.170:9467?security=reality&pbk=Qr3DaIQGAtUDR-v4FI0Nltdw43LeXgaXXGGZZk6sP2E&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=mosdownloand.song69.fun#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20152.234.239.170%3A9467
+vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?security=reality&encryption=none&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=admin.mistral.ai&sid=4d3affb557796d1c&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20138.124.9.201%3A8443
+vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&security=reality&sid=4d3affb557796d1c&sni=admin.mistral.ai&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Siauliai%20vless%20raw%2Freality%20138.124.9.201%3A8443%20%232

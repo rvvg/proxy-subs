@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-20 15:33 UTC, 1 proxies, best first
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMy05RWc3OXVtaDRDYVk4c1dDN2Iz@31.210.78.66:1080#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20ss%2031.210.78.66%3A1080
+# updated 2026-11-20 21:32 UTC, 1 proxies, best first
+vless://c842b6dd-b6ee-4127-bc41-c03a573c0295@dl1-tr.penguin-easyconnet.ir:443?security=tls&type=ws&path=%2Fgames%2Ffortnite-tr&host=dl1-tr.penguin-easyconnet.ir&sni=dl1-tr.penguin-easyconnet.ir&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20dl1-tr.penguin-easyconnet.ir%3A443
