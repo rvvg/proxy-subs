@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMTkgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-19 21:31 UTC, 1 proxies, best first
+# updated 2026-11-20 03:31 UTC, 3 proxies, best first
+hysteria2://C0DD7bgChaltqnh/T2az6ijM@193.122.106.29:20000?sni=hy2-kr.whuiy.xyz&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM&mport=20000-30000#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%2Bsalamander%2Bhop%20193.122.106.29%3A20000
+hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@193.122.106.29:20000?headerType=none&encryption=none&sni=hy2-kr.whuiy.xyz&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%2Bsalamander%20193.122.106.29%3A20000
 hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
