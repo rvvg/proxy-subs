@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSlA=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMDM6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE1LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,19 +7,15 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-20 03:31 UTC, 15 proxies, best first
-vless://f3481e31-2fe2-4545-89b6-e7b566699ba4@37.120.222.70:8082?security=tls&type=ws&path=%2F%40Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&packetEncoding=xudp&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Ibaraki%20vless%20ws%2Ftls%2037.120.222.70%3A8082
-vless://298f220e-4cb6-4c13-8f20-c3b338bd923a@178.105.133.160:4443?security=tls&type=ws&path=%2F%40Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20178.105.133.160%3A4443
-vless://97eb918d-fc81-4660-92c9-edb1322561db@178.105.133.160:4443?security=tls&type=ws&path=%2F%40Marisa_kristi&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&packetEncoding=xudp&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Inzai%20vless%20ws%2Ftls%20178.105.133.160%3A4443
+# updated 2026-11-20 09:31 UTC, 11 proxies, best first
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20172.64.154.113%3A8443
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rf-Thys7hJwt_ZgndODmH-aAiXbnqH7nOJlRLVRUEl4&security=reality&sid=bf69305d&sni=psstatic.cdn.bcebos.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20raw%2Freality%20151.241.128.46%3A443
 vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?type=grpc&security=tls&fp=chrome&sni=sync.2ml.bid&serviceName=v3-direct#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20grpc%2Ftls%20sync.2ml.bid%3A443
-vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20grpc%2Ftls%20sync.2ml.bid%3A443%20%232
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Inzai%20ss%20168.138.205.100%3A53758
-vless://e0349148-dff8-47ef-a359-1453bca33b5b@142.91.101.39:627?security=tls&type=ws&path=%2F%40Marisa_kristi&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&packetEncoding=xudp&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Minoh%20vless%20ws%2Ftls%20142.91.101.39%3A627
-vless://6dcb1301-7446-4393-ac95-be93812d952a@185.220.68.226:20205?encryption=none&security=tls&type=ws&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&path=%2F%40Marisa_kristi&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Minoh%20vless%20ws%2Ftls%20185.220.68.226%3A20205
-vless://f520bd45-8e26-4a23-a227-2f91acb67928@ct.877774.xyz:443?encryption=none&security=tls&sni=jp-osa.862400.xyz&fp=random&type=ws&host=jp-osa.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Osaka%20vless%20ws%2Ftls%20ct.877774.xyz%3A443
-vless://f33817e0-d0ee-4280-aff3-1200204cc21e@142.91.101.39:627?security=tls&type=ws&path=%2F%40Marisa_kristi&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&packetEncoding=xudp&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Ibaraki%20vless%20ws%2Ftls%20142.91.101.39%3A627
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.56:443?encryption=none&security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&sni=jp3.yohototo.top&fp=unsafe#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.16.10.56%3A443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.56:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.16.10.56%3A443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.190.13:443?cs=semi-python&path=%2Ftyxyws&security=tls&encryption=none&fm=tlshello-0-len&skip-cert-verify=0&host=jp3.yohototo.top&type=ws&skip-cert-verify=0&sni=jp3.yohototo.top&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20172.64.190.13%3A443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.19.12.94%3A443
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.22:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.16.10.22%3A443
-vless://609b0d70-e2d0-4a48-95b1-02754e9b249a@57.129.130.57:52014?security=tls&type=ws&path=%2F%40Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20JP%20vless%20ws%2Ftls%2057.129.130.57%3A52014
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.84:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.16.10.84%3A443
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.18.37.127%3A443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.56:443?encryption=none&security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&sni=jp3.yohototo.top&fp=unsafe#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.16.10.56%3A443%20%232
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.9:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.16.10.9%3A443
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.210.74:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20vless%20ws%2Ftls%20104.17.210.74%3A443
