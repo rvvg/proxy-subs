@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-20 09:31 UTC, 5 proxies, best first
-vless://ffb93067-302d-0001-82c5-d89037205de7@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20176.108.244.162%3A443
-vless://ffb93067-302d-0001-82c5-d89037205de7@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%232
-vless://ffb93067-302d-0001-82c5-d89037205de7@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=qq#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%233
-vless://ffb93067-302d-0001-82c5-d89037205de7@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=ios#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Ftls%20176.108.244.162%3A443%20%234
-hysteria2://6acdc33a-a25b-0001-8095-c9a252d72fd0@176.108.244.162:443?sni=ohyjf-ru-65sb.my-fade.cloud&alpn=h3&pinSHA256=b59ce628fb2824c0da7cbfa43e9f93aca2632068ebc29e2367eebe832a1402bf#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20hy2%20hysteria%2Ftls%20176.108.244.162%3A443
+# updated 2026-11-20 15:33 UTC, 1 proxies, best first
+vless://70f1696c-8b82-4614-9c1e-8ec21201684d@185.220.223.78:443?security=reality&encryption=none&pbk=wEJIqlLqor9Z_LMHvcsXh5FSoKMz3NbbcORwPDBgbhw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv.meltun.org&sid=5a8e1a04f3d92b67#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.220.223.78%3A443
