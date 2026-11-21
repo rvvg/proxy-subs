@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,12 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-21 03:32 UTC, 8 proxies, best first
-vless://5a260c84-54b6-4738-a8e4-55a0ea8b1b8c@37.151.89.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NI2B0PORMr-o0Bl5-ZI-iWu9gvym0un_qOJXYA1RGww&security=reality&sid=b2a6e3d42f05c3d1&sni=kaz.nelketer.app&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%2037.151.89.25%3A443
-vless://4a2da4bf-df34-4094-9cd3-e39a3ddff484@194.31.159.90:443?encryption=none&flow=xtls-rprx-vision&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&security=reality&sid=abcd1234&sni=k1zv.voxicheck.com&type=tcp&fp=edge#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%20194.31.159.90%3A443
-vless://4a2da4bf-df34-4094-9cd3-e39a3ddff484@194.31.159.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&security=reality&sid=abcd1234&sni=k1zv.voxicheck.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%20194.31.159.90%3A443%20%232
+# updated 2026-11-21 09:32 UTC, 5 proxies, best first
 vless://65964600-d3c8-4fda-b730-7930adcbfc9e@213.155.22.40:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=56nN-5FBQA2i4Js-DWmrl8-xl6rShYNy-gylk-R8vyw&security=reality&sid=ae6a64211b9d75d2&sni=theopenbrief.ru&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20213.155.22.40%3A443
-vless://18eccd5e-cd27-4d7f-9f64-58843c3a4797@87.199.131.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=kurtaffe.kid0k.online&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%2087.199.131.94%3A443
 vless://fa906181-5d9b-4ff6-8a81-e6148ce4ece7@5.180.27.134:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qljbddkyGqBkkOnPdvgw4s6HX_iyEUB2qesNM1qiFg0&fp=firefox&type=tcp&sni=kz.koteika3528.dev&sid=36f3c7#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%205.180.27.134%3A443
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@5.42.126.33:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cOnDGs0VQDa-LnjQNWLb1w2jyso0EqZ0epfDCTrNrA8&security=reality&sid=274aec426d8627f2&sni=node-kz-1.nztpro.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%205.42.126.33%3A443
-vless://cac10246-5b76-4809-9fd0-417c58a3ca90@144.31.90.235:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=32eua16pKE179lLHv-VNZGrX287qQFMXA3n0VgEzNTQ&security=reality&sid=b3a633bc754b648d&sni=portal.gifmems.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20144.31.90.235%3A8445
+vless://cac10246-5b76-4809-9fd0-417c58a3ca90@144.31.90.235:8445?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=32eua16pKE179lLHv-VNZGrX287qQFMXA3n0VgEzNTQ&sid=b3a633bc754b648d&sni=portal.gifmems.com#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20144.31.90.235%3A8445
+vless://cac10246-5b76-4809-9fd0-417c58a3ca90@144.31.90.235:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=32eua16pKE179lLHv-VNZGrX287qQFMXA3n0VgEzNTQ&security=reality&sid=b3a633bc754b648d&sni=portal.gifmems.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20raw%2Freality%20144.31.90.235%3A8445%20%232
+vless://d3fa965e-74d2-4908-ae9b-f6e1fbc95845@170.168.100.54:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kz.volgasystems.tech#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Ftls%20170.168.100.54%3A443

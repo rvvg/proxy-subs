@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ08=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-21 03:32 UTC, 1 proxies, best first
-vless://6df66cb9-34e6-4287-9660-5dda0f79239b@103.252.91.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pqm3uwi4igGi8XbqSnlbOMb6JUgmCaF-e_YcKWvrMUM&security=reality&sid=be9ad6e06ec8e762&sni=vsaxas.puffixhosting.com&type=tcp#%F0%9F%87%A8%F0%9F%87%B4%20CO%20Bogota%20vless%20raw%2Freality%20103.252.91.140%3A443
+# updated 2026-11-21 09:32 UTC, 1 proxies, best first
+vless://6df66cb9-34e6-4287-9660-5dda0f79239b@103.252.91.140:443?flow=xtls-rprx-vision&security=reality&sni=vsaxas.puffixhosting.com&fp=firefox&pbk=pqm3uwi4igGi8XbqSnlbOMb6JUgmCaF-e_YcKWvrMUM&sid=be9ad6e06ec8e762&type=raw#%F0%9F%87%A8%F0%9F%87%B4%20CO%20Bogota%20vless%20raw%2Freality%20103.252.91.140%3A443

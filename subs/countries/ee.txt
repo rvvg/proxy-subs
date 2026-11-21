@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE1LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,19 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-21 03:32 UTC, 15 proxies, best first
-hysteria2://917f4b0a-8b3b-404c-aa60-b47e83a33e8f@150.241.74.160:30443?sni=tll.nikomy.uk#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%20150.241.74.160%3A30443
-vless://6ab79fec-ca02-447b-b7be-5945f6e6ea8f@80.79.121.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&security=reality&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2080.79.121.156%3A443
-vless://6ab79fec-ca02-447b-b7be-5945f6e6ea8f@80.79.121.156:443?flow=xtls-rprx-vision&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&security=reality&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac&type=raw&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2080.79.121.156%3A443%20%232
-vless://eb79af5e-1627-4e20-9ac1-3757883590f0@168.113.131.162:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2i0Ts_clPXJWv_gtpgo4Wsqrn10V7Y3xI1YGssvVD1w&security=reality&sid=8d31ee9fb75b3061&sni=ee.cloude.one&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20168.113.131.162%3A14443
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.129.202.80%3A443
+# updated 2026-11-21 09:32 UTC, 2 proxies, best first
 vless://d81db550-4787-467e-b98a-579ee9d41999@84.23.52.104:9009?encryption=none&fp=firefox&pbk=JASBooze12B0nAaLU2QMWkeAqXwh4GmhfPD_O9YteT0&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=n1.93-89-220-9.sslip.io&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%2084.23.52.104%3A9009
-hysteria2://b280a29b-a3d9-0001-8a81-198855a17d57@84.38.189.122:443?alpn=h3&sni=shyrc-ru-75sel.my-fade.cloud#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%2084.38.189.122%3A443
-hysteria2://b280a29b-a3d9-0001-8a81-198855a17d57@84.38.189.122:443?pinSHA256=054951b598c2cf32f735103ede0a03e64fb05cbe1cf5cdc6d4a3a0ac9f42142c&sni=shyrc-ru-75sel.my-fade.cloud#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%2084.38.189.122%3A443%20%232
-vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&packetEncoding=xudp&fp=android#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443
-vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&type=tcp&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443%20%232
-vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443%20%233
-vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?security=tls&sni=shyrc-ru-75sel.my-fade.cloud&fp=random#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443%20%234
-vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&packetEncoding=xudp&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443%20%235
-vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&packetEncoding=xudp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%2084.38.189.122%3A443%20%236
 vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@5.42.100.196:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9OjZG8DY1gWtPOPWbLehYbzF3yLmziR4iHCbZ-n8oFo&security=reality&sid=992779dfff8ad395&sni=node-eu-2.nztpro.com&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%205.42.100.196%3A443
