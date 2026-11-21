@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-21 09:32 UTC, 3 proxies, best first
-vless://bfadfcda-99eb-424a-af53-cabb4fbcb820@zynerio.com:3443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZbtRq4SeR_WvLXiWXDael5FUqYG7uAkAGsFSIEyrQEw&security=reality&sid=8a907b3d6a7a4ed4&sni=zynerio.com&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20zynerio.com%3A3443
-vless://bfadfcda-99eb-424a-af53-cabb4fbcb820@zynerio.com:3443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZbtRq4SeR_WvLXiWXDael5FUqYG7uAkAGsFSIEyrQEw&security=reality&sid=8a907b3d6a7a4ed4&sni=zynerio.com&type=tcp&fp=safari#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20zynerio.com%3A3443%20%232
-vless://488f41fb-b1e6-4b21-9206-837d016167cb@193.233.220.158:443?encryption=none&flow=xtls-rprx-vision&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&security=reality&sid=52ccb3687fe0b7ec&sni=api8.eaglors.com&type=tcp&fp=random#%F0%9F%87%B1%F0%9F%87%BB%20LV%20vless%20raw%2Freality%20193.233.220.158%3A443
+# updated 2026-11-21 15:34 UTC, 5 proxies, best first
+vless://bfadfcda-99eb-424a-af53-cabb4fbcb820@zynerio.com:3443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZbtRq4SeR_WvLXiWXDael5FUqYG7uAkAGsFSIEyrQEw&security=reality&sid=8a907b3d6a7a4ed4&sni=zynerio.com&type=tcp&fp=safari#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20zynerio.com%3A3443
+vless://bfadfcda-99eb-424a-af53-cabb4fbcb820@zynerio.com:3443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZbtRq4SeR_WvLXiWXDael5FUqYG7uAkAGsFSIEyrQEw&security=reality&sid=8a907b3d6a7a4ed4&sni=zynerio.com&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20zynerio.com%3A3443%20%232
+vless://488f41fb-b1e6-4b21-9206-837d016167cb@193.233.220.158:443?encryption=none&flow=xtls-rprx-vision&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&security=reality&sid=52ccb3687fe0b7ec&sni=api8.eaglors.com&type=tcp&fp=ios#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20193.233.220.158%3A443
+vless://488f41fb-b1e6-4b21-9206-837d016167cb@193.233.220.158:443?encryption=none&flow=xtls-rprx-vision&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&security=reality&sid=52ccb3687fe0b7ec&sni=api8.eaglors.com&type=tcp&fp=random#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20193.233.220.158%3A443%20%232
+vless://bfadfcda-99eb-424a-af53-cabb4fbcb820@185.190.53.214:3443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZbtRq4SeR_WvLXiWXDael5FUqYG7uAkAGsFSIEyrQEw&security=reality&sid=8a907b3d6a7a4ed4&sni=zynerio.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.190.53.214%3A3443

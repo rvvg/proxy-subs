@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gR0I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-21 09:32 UTC, 7 proxies, best first
-vless://72522396-5408-4767-b134-70ca09cdfe36@64.188.90.248:443?type=xhttp&security=reality&fp=safari&pbk=f20b2EABHC76o4CnIBsc8PTnnyPeLKK-y6xnRkrorAc&sid=97419a452e2a7201&sni=ronaldo.foxprox.uk&path=%2Fv1%2Fapi%2Fdownload&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%7D&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20vless%20xhttp%2Freality%2064.188.90.248%3A443
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20hy2%20hysteria%2Ftls%20195.63.138.212%3A16443
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Dunfermline%20ss%20185.176.206.9%3A19999
+# updated 2026-11-21 15:34 UTC, 10 proxies, best first
+vless://72522396-5408-4767-b134-70ca09cdfe36@64.188.90.248:443?type=xhttp&security=reality&fp=safari&pbk=f20b2EABHC76o4CnIBsc8PTnnyPeLKK-y6xnRkrorAc&sid=97419a452e2a7201&sni=ronaldo.foxprox.uk&path=/v1/api/download&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"16-32","maxConnections":0}}#%F0%9F%87%AC%F0%9F%87%A7%20GB%20vless%20xhttp%2Freality%2064.188.90.248%3A443
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444?sni=cloudehouse24.ru#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20hy2%20hysteria%2Ftls%20195.63.138.212%3A10444
-vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@216.24.57.1:2083?security=tls&type=xhttp&host=Enorgg.maniyadg7shard.ir&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=enorgg.maniyadg7shard.ir&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Ftls%20216.24.57.1%3A2083
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.114.120.221:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20City%20of%20London%20ss%2038.114.120.221%3A19999
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20hy2%20hysteria%2Ftls%20195.63.138.212%3A16443
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Dunfermline%20ss%20185.176.206.9%3A19999
 vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@englandssihcwpocj.whooisthebest.ir:10000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=cd0a1986719e44c8#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20englandssihcwpocj.whooisthebest.ir%3A10000
+vless://5980f1e1-970c-43b9-b3e8-a8ddd70ceadc@158.220.95.242:443?security=reality&pbk=PCm0k-SvNd00cgNuqqnbCzmwVZd5vkgX2ZLk2_qngRs&fp=chrome&spx=%2F97e87bd21631e30&type=raw&flow=xtls-rprx-vision&sni=www.samsung.com&sid=b60a93#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Portsmouth%20vless%20raw%2Freality%20158.220.95.242%3A443
+vless://5980f1e1-970c-43b9-b3e8-a8ddd70ceadc@158.220.95.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PCm0k-SvNd00cgNuqqnbCzmwVZd5vkgX2ZLk2_qngRs&security=reality&sid=b60a93&sni=www.samsung.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Portsmouth%20vless%20raw%2Freality%20158.220.95.242%3A443%20%232
+vless://4a923161-156f-4914-8cac-762fb2433bfb@212.115.55.158:43000?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&sni=212.115.55.158#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20212.115.55.158%3A43000
 vless://4a923161-156f-4914-8cac-762fb2433bfb@144.48.11.146:43000?type=tcp&security=reality&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20144.48.11.146%3A43000
