@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gRUU=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMjE6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-21 21:38 UTC, 1 proxies, best first
+vless://273a36a8-8885-44cd-b7b0-77735b68facd@188.72.112.1:443?encryption=none&type=xhttp&security=tls&sni=cdn.stream-media-cdn.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fmedia%2Flive%2Fstream%2F&host=cdn.stream-media-cdn.ru&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22hMaxRequests%22%3A%22600-900%22%2C%22cMaxReuseTimes%22%3A0%2C%22maxConnections%22%3A6%2C%22hMaxReusableSec%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriodSec%22%3A0%7D%2C%22noSSEHeader%22%3Atrue%2C%22xPaddingKey%22%3A%22x_padding%22%2C%22noGRPCHeader%22%3Afalse%2C%22seqPlacement%22%3A%22path%22%2C%22xPaddingBytes%22%3A%22100-300%22%2C%22xPaddingHeader%22%3A%22X-Padding%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionPlacement%22%3A%22path%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%2210000-12000%22%2C%22sessionIDPlacement%22%3A%22path%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22scMinPostsIntervalMs%22%3A%2220-50%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20188.72.112.1%3A443

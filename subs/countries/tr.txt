@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMjE6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-21 15:34 UTC, 2 proxies, best first
-vless://f63206a4-c04a-47a8-bb8e-d218515d7982@5.175.136.4:443?encryption=none&fp=firefox&path=%2Fmedia%2Fws%2F&security=tls&sni=bundlecharge.ratethatrestaurant.org&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%205.175.136.4%3A443
-vless://e34e3a48-bdde-4fd0-ac17-c60c00d7000b@213.156.152.19:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&security=reality&sid=377d&sni=delivery.mp.microsoft.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20213.156.152.19%3A443
+# updated 2026-11-21 21:38 UTC, 1 proxies, best first
+vless://e16c3f43-8ece-4ce2-b62a-92df4c351d35@172.64.155.209:8443?mode=auto&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sinavm3.soft10.ir#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20xhttp%2Ftls%20172.64.155.209%3A8443
