@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjAgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMDM6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-20 21:32 UTC, 3 proxies, best first
-vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&security=reality&sid=7a7d19880a9ee786&sni=sladovna.russianpiwo.fun&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Brno%20vless%20raw%2Freality%2083.141.92.168%3A443
-vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?security=reality&encryption=none&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=sladovna.russianpiwo.fun&sid=7a7d19880a9ee786#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Brno%20vless%20raw%2Freality%2083.141.92.168%3A443%20%232
-vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&security=reality&sid=7a7d19880a9ee786&sni=sladovna.russianpiwo.fun&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Brno%20vless%20raw%2Freality%2083.141.92.168%3A443%20%233
+# updated 2026-11-21 03:32 UTC, 4 proxies, best first
+vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&security=reality&sid=7a7d19880a9ee786&sni=sladovna.russianpiwo.fun&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Brno%20vless%20raw%2Freality%2083.141.92.168%3A443
+vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&security=reality&sid=7a7d19880a9ee786&sni=sladovna.russianpiwo.fun&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Brno%20vless%20raw%2Freality%2083.141.92.168%3A443%20%232
+vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?security=reality&encryption=none&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=sladovna.russianpiwo.fun&sid=7a7d19880a9ee786#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Brno%20vless%20raw%2Freality%2083.141.92.168%3A443%20%233
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@5.42.102.162:443?mode=gun&security=tls&serviceName=glush.de1.v1&sni=morningfen.merlano.monster&type=grpc&fp=ios#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20grpc%2Ftls%205.42.102.162%3A443
