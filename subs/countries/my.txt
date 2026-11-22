@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gTVk=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-22 09:33 UTC, 1 proxies, best first
+vless://7a09c6e0-ad6e-4f96-980e-e0b198bb722f@47.250.146.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SJyvyV7tQNPeJR-dnV11hve50q-En-mhh2eDXMX16C4&security=reality&sid=2fbe9d45d0754b78&sni=www.ebay.com&type=tcp#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Kuala%20Lumpur%20vless%20raw%2Freality%2047.250.146.252%3A443

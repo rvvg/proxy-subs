@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-22 03:30 UTC, 2 proxies, best first
-vless://e16c3f43-8ece-4ce2-b62a-92df4c351d35@172.64.155.209:8443?mode=auto&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sinavm3.soft10.ir#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20xhttp%2Ftls%20172.64.155.209%3A8443
+# updated 2026-11-22 09:33 UTC, 3 proxies, best first
+vless://b8b85757-b721-4f54-820f-545190cfa807@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=looabturkeyeoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20ipfast.kingmna.com%3A443
 vless://b87e0fe3-2eaa-4714-b717-ae3204fc1846@iran.crackerbinam.org:54005?headerType=http&security=reality&sni=www.cloudflare.com&type=tcp&sid=ed69a523b5ab3e&spx=/&pbk=k62XkGNgUzt6z6NjQrM-zjpuUei3G62_AAIzlgxHaEA&host=technolife.com&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Bursa%20vless%20raw%2Freality%20iran.crackerbinam.org%3A54005
+vless://e16c3f43-8ece-4ce2-b62a-92df4c351d35@172.64.155.209:8443?mode=auto&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sinavm3.soft10.ir#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20xhttp%2Ftls%20172.64.155.209%3A8443

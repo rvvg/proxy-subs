@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-22 03:30 UTC, 3 proxies, best first
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRmxFalJfMTBvc294eVIyQ25OSWhVTXBBeTRDemZYcg@dns22.m3hrzd.ir:1348#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20ss%20dns22.m3hrzd.ir%3A1348
-vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@91.207.183.48:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=al09.tunnely.space&fp=chrome&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%2091.207.183.48%3A443
-vless://9a597d68-6688-4046-bf24-a5a541e115e0@31.171.152.222:8443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&fp=chrome&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&sid=f8d0271b4b5f9efc#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%2031.171.152.222%3A8443
+# updated 2026-11-22 09:33 UTC, 1 proxies, best first
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@31.171.152.222:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&security=reality&sid=f8d0271b4b5f9efc&sni=www.apple.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%2031.171.152.222%3A8443

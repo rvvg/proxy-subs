@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVEg=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-22 03:30 UTC, 1 proxies, best first
-vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443?security=reality&type=tcp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=4446248c38c846e6&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&encryption=none#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Freality%2047.81.32.116%3A443
+# updated 2026-11-22 09:33 UTC, 2 proxies, best first
+vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&sid=4446248c38c846e6&packetEncoding=xudp#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Freality%2047.81.32.116%3A443
+vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&sid=4446248c38c846e6&sni=www.amazon.com#%F0%9F%87%B9%F0%9F%87%AD%20TH%20Bangkok%20vless%20raw%2Freality%2047.81.32.116%3A443%20%232
