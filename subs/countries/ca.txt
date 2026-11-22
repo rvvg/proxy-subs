@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0E=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjEgMjE6MzggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,15 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-21 21:38 UTC, 11 proxies, best first
+# updated 2026-11-22 03:30 UTC, 4 proxies, best first
+vless://293733e5-a8ac-4132-ba79-7dcbd0d642b7@66.81.247.6:2096?encryption=none&fp=chrome&path=%2F%3Fed%3D2560&security=tls&sni=rAyaN19-Nb4nzBlz-v2.raYAn-19.workERs.deV&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20CA%20vless%20ws%2Ftls%2066.81.247.6%3A2096
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@184.107.106.78:8388#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20ss%20184.107.106.78%3A8388
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMTU0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAxMjcwLCAicHMiOiAi8J+HqPCfh6YgQ0EgVG9yb250byB2bWVzcyByYXcvdGxzIDEzNC4xOTUuMTk2LjE1NDoxMjcwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ4bWZobHB5LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIvCfj7Nbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLSJ9
 vless://e45b8261-88c9-4181-aab4-72093dfae6b9@184.107.179.150:8443?security=reality&sni=www.kpn.com&type=tcp&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1&pbk=FZvOenkKu_0DspnZA7Nc7xgWhR0_Z0MvqhntPqPchV4&sid=40a4615253b8f75d#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%20184.107.179.150%3A8443
-vless://e45b8261-88c9-4181-aab4-72093dfae6b9@184.107.179.150:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.kpn.com&fp=firefox&flow=xtls-rprx-vision&sid=40a4615253b8f75d&pbk=FZvOenkKu_0DspnZA7Nc7xgWhR0_Z0MvqhntPqPchV4#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%20184.107.179.150%3A8443%20%232
-vless://6870845e-7242-4b49-90e9-d878ed6a91e8@185.206.170.42:30248?encryption=mlkem768x25519plus.native.0rtt.avYr-IyNoAv4n151dPgdy8wYn_It-zW6MJSSYEFSr3E&fp=firefox&pbk=W0tyRjzc5rVny0q1Aj7ds0qNMWJxx0EO1V6sR400hFE&security=reality&sid=dc7951877b18e4f8&sni=www.linkedin.com&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20xhttp%2Freality%2Benc%20185.206.170.42%3A30248
-vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMTU0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTI3MCIsICJwcyI6ICLwn4eo8J+HpiBDQSBUb3JvbnRvIHZtZXNzIHJhdy90bHMgMTM0LjE5NS4xOTYuMTU0OjEyNzAiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://d6d40100-9442-0001-b5b9-6d259318c421@168.113.253.178:443?security=tls&sni=uzndiuvzvqqljdyhzs.fcloudservices.site&fp=android#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Ftls%20168.113.253.178%3A443
-vless://eab04ed9-5d69-0001-aa59-b87762abb809@81.163.22.238:443?encryption=none&fp=firefox&security=tls&sni=oilokvcyfczlioxhxq.fcloudservices.lat&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Ftls%2081.163.22.238%3A443
-vless://d6d40100-9442-0001-b5b9-6d259318c421@168.113.253.178:443?security=tls&sni=uzndiuvzvqqljdyhzs.fcloudservices.site&fp=ios#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Ftls%20168.113.253.178%3A443%20%232
-vless://d6d40100-9442-0001-b5b9-6d259318c421@168.113.253.178:443?encryption=none&fp=firefox&security=tls&sni=uzndiuvzvqqljdyhzs.fcloudservices.site&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Ftls%20168.113.253.178%3A443%20%233
-vless://d6d40100-9442-0001-b5b9-6d259318c421@168.113.253.178:443?security=tls&fp=chrome&sni=uzndiuvzvqqljdyhzs.fcloudservices.site#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Ftls%20168.113.253.178%3A443%20%234
-vless://d6d40100-9442-0001-b5b9-6d259318c421@168.113.253.178:443?security=tls&sni=uzndiuvzvqqljdyhzs.fcloudservices.site#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Ftls%20168.113.253.178%3A443%20%235
