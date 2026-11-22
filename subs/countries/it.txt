@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-22 15:34 UTC, 10 proxies, best first
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@leviko-it2527.shopingggg.ir:8388#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20leviko-it2527.shopingggg.ir%3A8388
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.99%3A19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.63%3A19999
-vless://918b1fa3-3e63-4c8d-87a4-8f635ffb7cd3@147.45.98.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.gosuslugi.ru&pbk=C8jwxMahtF-BpgtauR6I6dVXCc0X8VM9nbFxDQ3LzF0&sid=b4&fp=firefox&spx=%2FmqvL48A1cTxG0Dv#%F0%9F%87%AE%F0%9F%87%B9%20IT%20vless%20raw%2Freality%20147.45.98.78%3A443
+# updated 2026-11-22 21:32 UTC, 6 proxies, best first
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRmxFalJfMTBvc294eVIyQ25OSWhVTXBBeTRDemZYcg@45.154.96.18:1349#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%2045.154.96.18%3A1349
-vless://62bcf711-1ea8-4012-b889-54c3e0d26e9e@185bd37129.salzivo.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&flow=xtls-rprx-vision&sni=static.65.198.233.167.clients.your-server.de#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Ftls%20185bd37129.salzivo.ir%3A443
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.45%3A19999
-vless://62bcf711-1ea8-4012-b889-54c3e0d26e9e@91.98.108.117:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=static.65.198.233.167.clients.your-server.de&encryption=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Ftls%2091.98.108.117%3A443
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@leviko-it9085.shopingggg.ir:8388#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20leviko-it9085.shopingggg.ir%3A8388
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.54%3A19999
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.27.21:8388#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%2057.131.27.21%3A8388
+vless://cde5d3ef-7d14-08fc-a74d-ac98e39bf9ec@82.148.14.100:52006?flow=xtls-rprx-vision&security=tls&sni=mvp.dont-block-please.dad&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Ftls%2082.148.14.100%3A52006
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.99%3A19999
+vless://cde5d3ef-7d14-08fc-a74d-ac98e39bf9ec@82.148.14.100:52006?flow=xtls-rprx-vision&security=tls&sni=mvp.dont-block-please.dad&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Ftls%2082.148.14.100%3A52006%20%232
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.63%3A19999
