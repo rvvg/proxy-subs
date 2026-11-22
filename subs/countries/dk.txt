@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gREs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-22 09:33 UTC, 2 proxies, best first
-vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#%F0%9F%87%A9%F0%9F%87%B0%20DK%20Ballerup%20vless%20raw%2Freality%20135.136.33.134%3A8443
-vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#%F0%9F%87%A9%F0%9F%87%B0%20DK%20Ballerup%20vless%20raw%2Freality%20135.136.33.134%3A8443%20%232
+# updated 2026-11-22 15:34 UTC, 2 proxies, best first
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?headerType=none&security=reality&fp=chrome&encryption=none&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&sid=f8d0271b4b5f9efc&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU#%F0%9F%87%A9%F0%9F%87%B0%20DK%20Ballerup%20vless%20raw%2Freality%20135.136.33.134%3A8443
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#%F0%9F%87%A9%F0%9F%87%B0%20DK%20Ballerup%20vless%20raw%2Freality%20135.136.33.134%3A8443%20%232

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0c=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMTU6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-22 09:33 UTC, 5 proxies, best first
+# updated 2026-11-22 15:34 UTC, 8 proxies, best first
 hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%2013.212.78.215%3A443
-vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?type=tcp&security=reality&fp=firefox&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28&sni=www.apple.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&fp=firefox&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28&sni=www.apple.com&encryption=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&insecure=1&security=tls&sni=bgsg1.hikigo.com&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20raw%2Ftls%20bgsg1.hikigo.com%3A443
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20195.63.138.212%3A9444
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0203.gggrelay.org:64006?encryption=none&security=reality&sni=www.lamer.com.sg&fp=chrome&type=tcp&pbk=aHbpNgKYJssDDzN0faQYKh9CzzrEnsCRpB4qpMiv5Ug&sid=49170ca81691d962&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20win2loxfde0203.gggrelay.org%3A64006
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20free.fugui.lol%3A51283
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@51.79.228.131:19999#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20ss%2051.79.228.131%3A19999
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20free.fugui.lol%3A51283%20%232
