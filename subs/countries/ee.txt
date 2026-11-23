@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMTU6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-23 15:35 UTC, 4 proxies, best first
-vless://9c69546a-e435-4037-bc63-f9e5829a8be3@194.26.229.197:27443?mode=gun&security=reality&encryption=none&pbk=bmANZFeLzXK0izEu3fveuPKOLS_1pZ_17PVRxyNpxCo&fp=firefox&type=grpc&serviceName=grpc&sni=static.polina.mom#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20194.26.229.197%3A27443
-vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@314fbcg.ee5.h1clayd.shop:443?type=grpc&headerType=none&security=reality&encryption=none&sni=314fbcg.ee5.h1clayd.shop&fp=firefox&pbk=wQ0i9JDLOmAnh1Xfo-n_QqSu1hyuqHtTcy--DGgqtzA&sid=55c396924697994f&spx=%2F&serviceName=9e16c22000f6&mode=gun#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20314fbcg.ee5.h1clayd.shop%3A443
-vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@079b6et.ee5.h1clayd.shop:443?type=tcp&headerType=none&security=reality&encryption=none&sni=079b6et.ee5.h1clayd.shop&fp=firefox&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&sid=35a329a23bb50d2b&spx=%2F#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20079b6et.ee5.h1clayd.shop%3A443
-vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@e54b10x.ee5.h1clayd.shop:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=e54b10x.ee5.h1clayd.shop&fp=firefox&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&sid=25e886ad1ab98159&spx=%2F&path=%2Fea1ae61a3ced&mode=auto#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%20e54b10x.ee5.h1clayd.shop%3A443
+# updated 2026-11-23 21:31 UTC, 6 proxies, best first
+vless://9c69546a-e435-4037-bc63-f9e5829a8be3@194.26.229.197:27443?encryption=none&mode=gun&pbk=bmANZFeLzXK0izEu3fveuPKOLS_1pZ_17PVRxyNpxCo&security=reality&serviceName=grpc&sni=static.polina.mom&type=grpc&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20194.26.229.197%3A27443
+vless://9c69546a-e435-4037-bc63-f9e5829a8be3@194.26.229.163:27443?mode=gun&pbk=bmANZFeLzXK0izEu3fveuPKOLS_1pZ_17PVRxyNpxCo&security=reality&serviceName=grpc&sni=static.polina.mom&type=grpc&fp=random#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20194.26.229.163%3A27443
+vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.125:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6b04608f.adhil.uk&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.125%3A8443
+vless://7d31a423-4bb6-4c16-91b8-c08901a37780@13.143.239.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lI2vfdzBaAKrDxAdkAW8IHp9pkpQV6INmJrYriC_lyE&security=reality&sid=9ef8ebef9638b9c7&sni=e0ddd1x.ee2.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2013.143.239.90%3A443
+vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@13.141.36.163:443?encryption=none&fp=firefox&pbk=wQ0i9JDLOmAnh1Xfo-n_QqSu1hyuqHtTcy--DGgqtzA&security=reality&serviceName=9e16c22000f6&sid=55c396924697994f&sni=314fbcg.ee5.h1clayd.shop&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%2013.141.36.163%3A443
+vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@13.141.36.163:443?encryption=none&fp=firefox&path=/ea1ae61a3ced&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&security=reality&sid=25e886ad1ab98159&sni=e54b10x.ee5.h1clayd.shop&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%2013.141.36.163%3A443

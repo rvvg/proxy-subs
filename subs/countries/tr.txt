@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMTU6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-23 15:35 UTC, 4 proxies, best first
-vless://bedc6d52-79be-405c-b466-e1d90ce093cf@game1.rayan-gaming.ir:44091?encryption=mlkem768x25519plus.native.0rtt.ZbDWw-pk6yhBwZy5w8-sMK3Hne5AKvKjarSlx9-SplM&flow=xtls-rprx-vision&security=reality&sni=www.hcaptcha.com&fp=firefox&pbk=-A1JCq_jsIM5PUIszm-tiCkhvSFjwo0AzJjBBo5VdVs&sid=961d51c938166832&type=tcp&headerType=none&host=www.goo.gl#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2Benc%20game1.rayan-gaming.ir%3A44091
-vless://bedc6d52-79be-405c-b466-e1d90ce093cf@game1.rayan-gaming.ir:50294?encryption=mlkem768x25519plus.native.0rtt.Gp1y773yW_W-45r8vOkSgMKaIHQZdfI8nIrVAZSAKUs&flow=xtls-rprx-vision&security=reality&sni=www.datadoghq.com&fp=firefox&pbk=ticqwA605tyliQh5GSzpUT5b45R8kr9q5ZBta-uPvXI&sid=1c458fbab491d849&type=tcp&headerType=none&host=www.goo.gl#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2Benc%20game1.rayan-gaming.ir%3A50294
-vless://bedc6d52-79be-405c-b466-e1d90ce093cf@game1.rayan-gaming.ir:20609?encryption=mlkem768x25519plus.native.0rtt.xRmOkBgYYTstzzxYQ9iK8NWGou12KdX2UVlhYQ80ung&flow=xtls-rprx-vision&security=reality&sni=status.play.google.com&fp=firefox&pbk=e2aoeC-43c9kjeYTFYi4mx_exjXhECZgIA4WcGUkiAE&sid=ac67dcf69b652c78&type=tcp&headerType=http&host=www.goo.gl&path=%2F#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%2Benc%20game1.rayan-gaming.ir%3A20609
-vless://bedc6d52-79be-405c-b466-e1d90ce093cf@mobin.rayan-gaming.ir:2157?encryption=mlkem768x25519plus.native.0rtt.7LIGxDTnt1LLE5Dns3I_66xJMW4SyUeHmeNcKG_9dgA&flow=xtls-rprx-vision&security=none&type=ws&host=www.aparat.com&path=%2Flanding-music#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Fnone%2Benc%20mobin.rayan-gaming.ir%3A2157
+# updated 2026-11-23 21:31 UTC, 3 proxies, best first
+vless://c5d5174a-1983-434c-9666-dd13328dd97d@7ab1b.selvarieno.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=7ab1b.selvarieno.cc&pbk=rmzt4nEpcRRyTmuIpwlY6V-Bv_PH8GBbcywTtdsbr2M&sid=6f8857d6&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%207ab1b.selvarieno.cc%3A443
+vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?encryption=none&type=ws&host=sinavm3.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&sni=sinavm3.soft10.ir&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20vless%20ws%2Ftls%20172.64.155.209%3A443
+vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:8443?encryption=none&type=xhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&fp=chrome&sni=sinavm3.soft10.ir&alpn=http%2F1.1%2Ch2%2Ch3#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20xhttp%2Ftls%20172.64.155.209%3A8443
