@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjIgMjE6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-22 21:32 UTC, 6 proxies, best first
+# updated 2026-11-23 03:30 UTC, 4 proxies, best first
 hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.comsocks5%3A%2F%2F152.70.237.238%3A3128#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232
-vless://cde5d3ef-7d14-01f4-a74d-ac98e39bf9ec@82.148.14.100:52006?flow=xtls-rprx-vision&security=tls&sni=mvp.dont-block-please.dad&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Incheon%20vless%20raw%2Ftls%2082.148.14.100%3A52006
-vless://cde5d3ef-7d14-01f4-a74d-ac98e39bf9ec@82.148.14.100:52006?flow=xtls-rprx-vision&security=tls&sni=mvp.dont-block-please.dad&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Incheon%20vless%20raw%2Ftls%2082.148.14.100%3A52006%20%232
 trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20168.107.51.32%3A20045
 trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?encryption=chacha20#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20ikr200.zxom.eu.org%3A20045
+hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.comsocks5%3A%2F%2F152.70.237.238%3A3128#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232
