@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-23 03:30 UTC, 2 proxies, best first
-vless://43b2f457-35fe-0001-b072-bd45a66d105d@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=android#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20raw%2Ftls%20168.113.254.3%3A443
+# updated 2026-11-23 09:34 UTC, 1 proxies, best first
 vless://8596813c-6a35-0001-819d-2de72201a856@188.68.216.33:443?security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#%F0%9F%87%AE%F0%9F%87%AA%20IE%20Dublin%20vless%20raw%2Ftls%20188.68.216.33%3A443

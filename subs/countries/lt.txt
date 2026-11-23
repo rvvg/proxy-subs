@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMDM6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-23 03:30 UTC, 6 proxies, best first
-vless://9c462694-93fe-4b43-a3a1-bc458d65de82@136.234.9.24:443?pbk=QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls&security=reality&sid=d50682df18259eac&sni=a96401t.lt3.h1clayd.click&fp=random#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20136.234.9.24%3A443
-vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@152.234.239.170:9467?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=mosdownloand.song69.fun&fp=chrome&pbk=Qr3DaIQGAtUDR-v4FI0Nltdw43LeXgaXXGGZZk6sP2E#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20152.234.239.170%3A9467
+# updated 2026-11-23 09:34 UTC, 8 proxies, best first
+hysteria2://454a209e-2f93-46b8-9dd9-dd56a08651cf@88.119.176.48:443?sni=litra.rekonkista.icu#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20hy2%20hysteria%2Ftls%2088.119.176.48%3A443
+hysteria2://454a209e-2f93-46b8-9dd9-dd56a08651cf@litra.rekonkista.icu:443?headerType=none&encryption=none&sni=litra.rekonkista.icu#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20hy2%20hysteria%2Ftls%20litra.rekonkista.icu%3A443
+vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@152.234.239.170:9467?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Qr3DaIQGAtUDR-v4FI0Nltdw43LeXgaXXGGZZk6sP2E&security=reality&sni=mosdownloand.song69.fun&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20152.234.239.170%3A9467
+vless://9c462694-93fe-4b43-a3a1-bc458d65de82@136.234.9.24:443?pbk=QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls&security=reality&sid=d50682df18259eac&sni=a96401t.lt3.h1clayd.click&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20136.234.9.24%3A443
 vless://9c462694-93fe-4b43-a3a1-bc458d65de82@136.234.9.24:443?pbk=QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls&security=reality&sid=d50682df18259eac&sni=a96401t.lt3.h1clayd.click&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20136.234.9.24%3A443%20%232
-vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@152.234.239.170:9467?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Qr3DaIQGAtUDR-v4FI0Nltdw43LeXgaXXGGZZk6sP2E&security=reality&sni=mosdownloand.song69.fun&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20152.234.239.170%3A9467%20%232
-vless://9c462694-93fe-4b43-a3a1-bc458d65de82@136.234.9.24:443?pbk=QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls&security=reality&sid=d50682df18259eac&sni=a96401t.lt3.h1clayd.click&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20136.234.9.24%3A443%20%233
-vless://9c462694-93fe-4b43-a3a1-bc458d65de82@136.234.9.24:443?pbk=QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls&security=reality&sid=d50682df18259eac&sni=a96401t.lt3.h1clayd.click&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20136.234.9.24%3A443%20%234
+vless://9c462694-93fe-4b43-a3a1-bc458d65de82@136.234.9.24:443?pbk=QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls&security=reality&sid=d50682df18259eac&sni=a96401t.lt3.h1clayd.click&fp=random#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20136.234.9.24%3A443%20%233
+vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@152.234.239.170:9467?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=mosdownloand.song69.fun&fp=chrome&pbk=Qr3DaIQGAtUDR-v4FI0Nltdw43LeXgaXXGGZZk6sP2E#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20152.234.239.170%3A9467%20%232
+vless://9c462694-93fe-4b43-a3a1-bc458d65de82@136.234.9.24:443?pbk=QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls&security=reality&sid=d50682df18259eac&sni=a96401t.lt3.h1clayd.click&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%20136.234.9.24%3A443%20%234
