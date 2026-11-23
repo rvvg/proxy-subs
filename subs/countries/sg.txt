@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0c=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMDk6MzQgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE1LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMTU6MzUgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,19 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-23 09:34 UTC, 15 proxies, best first
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.197:443?sni=bgsg2.hikigo.com&obfs=salamander&obfs-password=sj1awrdwnn5lbuno#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%2Bsalamander%2077.93.89.197%3A443
+# updated 2026-11-23 15:35 UTC, 10 proxies, best first
 hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
-hysteria2://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:8443?insecure=1&sni=43.156.36.253#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%2043.156.36.253%3A8443
-vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&fp=firefox&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28&sni=www.apple.com&encryption=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%2013.212.78.215%3A443
-vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?type=tcp&security=reality&fp=firefox&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28&sni=www.apple.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053%20%232
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20195.63.138.212%3A9444
-vless://9d249510-b47e-4b3e-a2d7-b188065a259f@79.174.12.251:8407?type=xhttp&security=reality&fp=firefox&pbk=PKq6DUuCFHau4FteyGUU9jPEi1xJaAh5PmfqOaXWwQ8&sid=0123456789abcdef&sni=gartner.com&host=79.174.12.251&mode=auto#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20xhttp%2Freality%2079.174.12.251%3A8407
-vless://9d249510-b47e-4b3e-a2d7-b188065a259f@79.174.12.251:8407?type=xhttp&security=reality&fp=firefox&pbk=PKq6DUuCFHau4FteyGUU9jPEi1xJaAh5PmfqOaXWwQ8&sid=0123456789abcdef&sni=gartner.com&mode=auto#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20xhttp%2Freality%2079.174.12.251%3A8407%20%232
-vless://59413788-5d3f-4860-8fbb-d411b82cb4eb@onhit.shalanax.com:443?sni=m.youtube.com&fp=chrome&allowInsecure=1&type=tcp&encryption=none&alpn=h2,http/1.1&insecure=1&security=tls&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20onhit.shalanax.com%3A443
-vless://e084837e-c738-4ce5-b691-cf4637356cd6@onhit.shalanax.com:119?fp=chrome&insecure=1&security=tls&type=tcp&sni=whatsapp.net&alpn=h2,http/1.1&allowInsecure=1&headerType=none&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20onhit.shalanax.com%3A119
-vless://59413788-5d3f-4860-8fbb-d411b82cb4eb@onhit.shalanax.com:443?sni=t.me&fp=chrome&type=tcp&encryption=none&headerType=none&insecure=1&allowInsecure=1&alpn=h2,http/1.1&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20onhit.shalanax.com%3A443%20%232
-vless://59413788-5d3f-4860-8fbb-d411b82cb4eb@onhit.shalanax.com:443?allowInsecure=1&alpn=h2,http/1.1&headerType=none&fp=chrome&security=tls&sni=zoom.us&insecure=1&type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20vless%20raw%2Ftls%20onhit.shalanax.com%3A443
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053%20%232
+hysteria2://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:8443?insecure=1&sni=43.156.36.253#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%2043.156.36.253%3A8443
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.197:443?sni=bgsg2.hikigo.com&obfs=salamander&obfs-password=sj1awrdwnn5lbuno#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%2Bsalamander%2077.93.89.197%3A443
 vless://51d16b84-aa13-4150-9763-b2f517b4d776@onhit.shalanax.com:17490?type=tcp&fp=chrome&allowInsecure=1&alpn=h2,http/1.1&encryption=none&headerType=none&security=tls&sni=www.microsoft.com&insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20onhit.shalanax.com%3A17490
-vless://59413788-5d3f-4860-8fbb-d411b82cb4eb@onhit.shalanax.com:443?allowInsecure=1&insecure=1&type=tcp&alpn=h2,http/1.1&encryption=none&sni=m.zoom.us&headerType=none&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20onhit.shalanax.com%3A443%20%233
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20195.63.138.212%3A9444
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=chrome&alpn=h2&vcn=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20141.193.213.21%3A8443
+vless://51d16b84-aa13-4150-9763-b2f517b4d776@onhit.shalanax.com:17490?security=tls&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20onhit.shalanax.com%3A17490%20%232
