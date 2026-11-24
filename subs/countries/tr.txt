@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMDQ6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-23 21:31 UTC, 3 proxies, best first
-vless://c5d5174a-1983-434c-9666-dd13328dd97d@7ab1b.selvarieno.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=7ab1b.selvarieno.cc&pbk=rmzt4nEpcRRyTmuIpwlY6V-Bv_PH8GBbcywTtdsbr2M&sid=6f8857d6&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%207ab1b.selvarieno.cc%3A443
-vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?encryption=none&type=ws&host=sinavm3.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&sni=sinavm3.soft10.ir&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20vless%20ws%2Ftls%20172.64.155.209%3A443
+# updated 2026-11-24 04:07 UTC, 5 proxies, best first
+vless://391a32c6-084c-4d61-8e8d-472678021dac@91.232.103.42:6443?encryption=none&fp=firefox&pbk=BrBQVb1nC7aHUPm3pSYHYQ4N60y2XrhwXznWys87Vyc&security=reality&serviceName=%2Fapi%2Fv1%2Fupdate&sid=b96ac15d1f46e05a&sni=download.amd.com&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2091.232.103.42%3A6443
+vless://9132106b-d6ce-45c7-9007-67f9981d413b@5.175.236.86:443?security=tls&sni=top8hs.online&alpn=h2&fp=firefox&type=xhttp&path=%2Fapi%2Fm1pzgb%2Fsync&mode=auto&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Ankara%20vless%20xhttp%2Ftls%205.175.236.86%3A443
+vless://9132106b-d6ce-45c7-9007-67f9981d413b@5.175.236.86:443?type=xhttp&security=tls&fp=firefox&sni=top8hs.online&path=/api/m1pzgb/sync&mode=auto#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Ankara%20vless%20xhttp%2Ftls%205.175.236.86%3A443%20%232
 vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:8443?encryption=none&type=xhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&fp=chrome&sni=sinavm3.soft10.ir&alpn=http%2F1.1%2Ch2%2Ch3#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20xhttp%2Ftls%20172.64.155.209%3A8443
+vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?encryption=none&type=ws&host=sinavm3.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&fp=chrome&sni=sinavm3.soft10.ir&alpn=http%2F1.1#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20ws%2Ftls%20172.64.155.209%3A443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMDQ6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,15 +7,15 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-23 21:31 UTC, 11 proxies, best first
-vless://8d5b4bc5-2355-4a43-a386-ea8d20f6c3b8@38.180.95.176:20086?flow=xtls-rprx-vision&security=reality&sni=www.ebay.com&fp=firefox&pbk=TpDfpHz7Lj4-Itv0ShybMhUrPChNXoexCGaOHtRjoD8#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.180.95.176%3A20086
-vless://31020df0-6aed-40a6-a84f-25296c07f80a@38.180.149.71:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=7RIUTTFMeW_Jag3aT-XmbJipce7w3COFC0CQ1qiIZmk#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.180.149.71%3A20086
-vless://01b87800-396e-4d79-8eaf-c023deeccf7c@85.189.67.107:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=N60X1fq3w78e_eDHwgyrbgdplTgq1oyTnICTAKy7RjY&encryption=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2085.189.67.107%3A20086
-vless://ffc912cc-45da-4ece-86d2-fe340c9ed1fc@38.180.95.2:20086?flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=firefox&pbk=MyWImK76KPf3T75mEf5vIA8eNQR_7mKEK_mOP0HlclI&type=raw#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.180.95.2%3A20086
-vless://f261bc8c-d2f2-43da-83e7-06ef41ef8aa5@38.244.198.105:20086?flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=firefox&pbk=-cQ8O3f7-PUJ_RGl_QM106ivhH_ClMUMxZtnVczV0Vs#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.244.198.105%3A20086
-vless://71d89729-0d1f-4133-80f8-ff7c5a6ca6d1@38.180.150.151:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=2hwx5m-M7_gZcJgWzpH8Dbae9xQ-IQWdCcs2HREkfko#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.180.150.151%3A20086
+# updated 2026-11-24 04:07 UTC, 11 proxies, best first
 hy2://1a3c2bebe6398d3734f923e45447430c@[2400:c620:2e:8a3f::1]:28444?insecure=0&sni=n65.voygo.uk#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%20%5B2400%3Ac620%3A2e%3A8a3f%3A%3A1%5D%3A28444
+vless://01b87800-396e-4d79-8eaf-c023deeccf7c@85.189.67.107:20086?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=N60X1fq3w78e_eDHwgyrbgdplTgq1oyTnICTAKy7RjY&sni=www.paypal.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2085.189.67.107%3A20086
+vless://f261bc8c-d2f2-43da-83e7-06ef41ef8aa5@38.244.198.105:20086?security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=-cQ8O3f7-PUJ_RGl_QM106ivhH_ClMUMxZtnVczV0Vs#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.244.198.105%3A20086
 ss://2022-blake3-aes-256-gcm:j4DddfVh3zON1s3Wfbmdn2WWhLCWAaOJyKqdeKvxh4A%3D@27.124.5.86:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%2027.124.5.86%3A8388
+vless://af18b465-6f56-4a35-8932-fe9ce8c079b7@38.180.95.96:20086?flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=firefox&pbk=gMbm2Kom7Njm5Vh1Eycw7s9hH0x84csLzC21eYEI9QY&type=raw#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.180.95.96%3A20086
+vless://af18b465-6f56-4a35-8932-fe9ce8c079b7@38.180.95.96:20086?security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=gMbm2Kom7Njm5Vh1Eycw7s9hH0x84csLzC21eYEI9QY#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.180.95.96%3A20086%20%232
 vless://3d409814-b663-411e-8f54-a112ecba7ddd@62.60.232.226:2096?encryption=none&security=tls&flow=xtls-rprx-vision&type=tcp&sni=nova-house.justext.space&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Ftls%2062.60.232.226%3A2096
 vless://ba8ae5e6-835d-44f0-95fd-5d1291b2f599@38.180.95.95:20086?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=18kWhBUWGBC9R9_535uTkJWXyC79QrA4fqJgKa4tBQ0#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.180.95.95%3A20086
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzIiwgImFkZCI6ICIxNTYuMjQ1LjIzMi4yMzkiLCAicG9ydCI6ICIzNTA0MyIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInd3dy5wdWJnbW9iaWxlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJhbGxvd0luc2VjdXJlIjogMSwgImluc2VjdXJlIjogMX0=
+ss://YWVzLTI1Ni1nY206dU1ISVpEZ0VjQ3VxeXZGQg@91.149.236.116:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%2091.149.236.116%3A8388
+vless://ba8ae5e6-835d-44f0-95fd-5d1291b2f599@38.180.95.95:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=18kWhBUWGBC9R9_535uTkJWXyC79QrA4fqJgKa4tBQ0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2038.180.95.95%3A20086%20%232
+vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImlkIjogImIxNWU0ODFkLTE3ZTQtNDFhOC04NGMyLTIzZDRmMDUxNGQ5YSIsICJwb3J0IjogIjM1MDQzIiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ3d3cucHViZ21vYmlsZS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJub25lIiwgInBzIjogIvCfh63wn4ewIEhLIEhvbmcgS29uZyB2bWVzcyB3cy9ub25lIDE1Ni4yNDUuMjMyLjIzOTozNTA0MyJ9

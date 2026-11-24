@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjMgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMDQ6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-23 21:31 UTC, 5 proxies, best first
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=152.70.237.123#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.comsocks5%3A%2F%2F152.70.237.238%3A3128#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232
-hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%233
+# updated 2026-11-24 04:07 UTC, 5 proxies, best first
+hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
+trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20168.107.51.32%3A20045
 trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?sni=ikr200.zxom.eu.org&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20ikr200.zxom.eu.org%3A20045
 trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?encryption=chacha20#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20ikr200.zxom.eu.org%3A20045%20%232
+hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.comsocks5%3A%2F%2F152.70.237.238%3A3128#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232

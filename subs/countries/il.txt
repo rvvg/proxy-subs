@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gSUw=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMDQ6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-24 04:07 UTC, 1 proxies, best first
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@160.5.217.235:18571?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MuM-561LS982i10yHWrEFgsKZiackG-saxV_6VKYRgA&security=reality&sid=4623bc9c878dcd5b&sni=il.chick-chirik.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Petah%20Tikva%20vless%20raw%2Freality%20160.5.217.235%3A18571
