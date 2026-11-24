@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQ0E=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 09:33 UTC, 4 proxies, best first
+# updated 2026-11-24 15:33 UTC, 6 proxies, best first
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@184.107.106.78:8388#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20ss%20184.107.106.78%3A8388
-vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&sni=q88k7v7gi0pg.img-assets.world#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%2092.246.138.161%3A443
-vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?security=reality&flow=xtls-rprx-vision&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&sni=q88k7v7gi0pg.img-assets.world&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%2092.246.138.161%3A443%20%232
-vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?security=reality&flow=xtls-rprx-vision&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&sni=q88k7v7gi0pg.img-assets.world&fp=edge#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%2092.246.138.161%3A443%20%233
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?security=reality&flow=xtls-rprx-vision&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&sni=q88k7v7gi0pg.img-assets.world&fp=edge#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%2092.246.138.161%3A443
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?encryption=none&flow=xtls-rprx-vision&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&security=reality&sni=q88k7v7gi0pg.img-assets.world&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%2092.246.138.161%3A443%20%232
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?encryption=none&flow=xtls-rprx-vision&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&security=reality&sni=q88k7v7gi0pg.img-assets.world&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%2092.246.138.161%3A443%20%233
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?security=reality&flow=xtls-rprx-vision&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&sni=q88k7v7gi0pg.img-assets.world&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%2092.246.138.161%3A443%20%234
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&security=reality&sni=q88k7v7gi0pg.img-assets.world&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20Montreal%20vless%20raw%2Freality%2092.246.138.161%3A443%20%235

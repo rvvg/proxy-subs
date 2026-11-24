@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 09:33 UTC, 1 proxies, best first
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@160.5.217.235:18571?security=reality&flow=xtls-rprx-vision&pbk=MuM-561LS982i10yHWrEFgsKZiackG-saxV_6VKYRgA&sid=4623bc9c878dcd5b&sni=il.chick-chirik.com&fp=ios#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Petah%20Tikva%20vless%20raw%2Freality%20160.5.217.235%3A18571
+# updated 2026-11-24 15:33 UTC, 5 proxies, best first
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@13.141.37.245:443?encryption=none&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20grpc%2Freality%2013.141.37.245%3A443
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@13.141.37.245:443?encryption=none&fp=firefox&path=/0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=xhttp#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20xhttp%2Freality%2013.141.37.245%3A443
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@160.5.217.235:18571?flow=xtls-rprx-vision&pbk=MuM-561LS982i10yHWrEFgsKZiackG-saxV_6VKYRgA&security=reality&sid=4623bc9c878dcd5b&sni=il.chick-chirik.com&type=tcp&fp=random#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Petah%20Tikva%20vless%20raw%2Freality%20160.5.217.235%3A18571
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@160.5.217.235:18571?flow=xtls-rprx-vision&pbk=MuM-561LS982i10yHWrEFgsKZiackG-saxV_6VKYRgA&security=reality&sid=4623bc9c878dcd5b&sni=il.chick-chirik.com&type=tcp&fp=ios#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Petah%20Tikva%20vless%20raw%2Freality%20160.5.217.235%3A18571%20%232
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@160.5.217.235:18571?flow=xtls-rprx-vision&pbk=MuM-561LS982i10yHWrEFgsKZiackG-saxV_6VKYRgA&security=reality&sid=4623bc9c878dcd5b&sni=il.chick-chirik.com&type=tcp&fp=safari#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Petah%20Tikva%20vless%20raw%2Freality%20160.5.217.235%3A18571%20%233

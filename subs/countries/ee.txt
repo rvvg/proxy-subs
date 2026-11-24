@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 09:33 UTC, 2 proxies, best first
-vless://391a32c6-084c-4d61-8e8d-472678021dac@ee.extremumnews.com:6443?type=grpc&security=reality&sni=download.amd.com&serviceName=%2Fapi%2Fv1%2Fupdate&authority=download.amd.com&fp=qq&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20ee.extremumnews.com%3A6443
-vless://7d31a423-4bb6-4c16-91b8-c08901a37780@13.143.239.90:443?flow=xtls-rprx-vision&fp=firefox&pbk=lI2vfdzBaAKrDxAdkAW8IHp9pkpQV6INmJrYriC_lyE&security=reality&sid=9ef8ebef9638b9c7&sni=e0ddd1x.ee2.h1clayd.click&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2013.143.239.90%3A443
+# updated 2026-11-24 15:33 UTC, 4 proxies, best first
+vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.230:6443?encryption=none&fp=firefox&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&security=reality&serviceName=%2Fapi%2Fv1%2Fupdate&sid=d7d3b7ffae8086ac&sni=download.amd.com&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%2085.234.86.230%3A6443
+vless://391a32c6-084c-4d61-8e8d-472678021dac@ee.extremumnews.com:6443?type=grpc&security=reality&sni=download.amd.com&serviceName=%2Fapi%2Fv1%2Fupdate&authority=download.amd.com&fp=qq&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac&encryption=none#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20ee.extremumnews.com%3A6443
+hysteria2://7cbd9bf9-a3b1-4257-8406-df6109cd882f@ee.chick-chirik.com:443?sni=nl.chick-chirik.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20hy2%20hysteria%2Ftls%20ee.chick-chirik.com%3A443
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@eecdn.fius.dev:443?type=xhttp&security=tls&fp=firefox&sni=eecdn.fius.dev&path=/api-test&host=eecdn.fius.dev&mode=packet-up&extra={"xPaddingObfsMode":true,"xPaddingKey":"dc","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","xPaddingPlacement":"queryInHeader","xPaddingBytes":"100-1000","scMaxEachPostBytes":16384,"scMinPostsIntervalMs":10,"uplinkDataPlacement":"header","uplinkChunkSize":4096,"uplinkHTTPMethod":"OPTIONS"}#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Ftls%20eecdn.fius.dev%3A443
