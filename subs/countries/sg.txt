@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0c=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,14 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 15:33 UTC, 5 proxies, best first
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
-vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?type=tcp&security=reality&fp=firefox&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28&sni=www.apple.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053
-vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053%20%232
+# updated 2026-11-24 21:31 UTC, 10 proxies, best first
+hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?type=tcp&security=reality&fp=chrome&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28&sni=www.apple.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&fp=firefox&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28&sni=www.apple.com&encryption=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053%20%232
+vless://7aa77858-f235-000b-9434-7ab060848b17@87.228.110.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=allah-ddos.whyfucked.sc&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%2087.228.110.60%3A443
+vless://7aa77858-f235-000b-9434-7ab060848b17@87.228.110.60:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=allah-ddos.whyfucked.sc#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%2087.228.110.60%3A443%20%232
 vless://51d16b84-aa13-4150-9763-b2f517b4d776@onhit.shalanax.com:17490?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.microsoft.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20onhit.shalanax.com%3A17490
+vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@94.228.167.18:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ruaesing656.gangplatform.com&pbk=90uNUU-i14MO0VEIipqtK_Pk3xMhtDDDWtfcv_Y1X2s&sid=b0f28b824c4f18f5&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%2094.228.167.18%3A443
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zzfxgcp.mateflora.com:39790?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=yXCR_3MmI7pv1eVBPkPxp2Qc1tmTSAPCjdNUTU64Sz0&sid=c899aef0cf7b&sni=www.lamer.com.sg#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20zzfxgcp.mateflora.com%3A39790
+vless://7aa77858-f235-000b-9434-7ab060848b17@188.130.139.194:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=beatyx.fun&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20188.130.139.194%3A8443

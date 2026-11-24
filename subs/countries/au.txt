@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 15:33 UTC, 2 proxies, best first
-hysteria2://linlin-2026@13.237.192.121:36712?sni=off&insecure=1#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20hy2%20hysteria%2Ftls%2013.237.192.121%3A36712
+# updated 2026-11-24 21:31 UTC, 1 proxies, best first
 hysteria2://b42d90fa667942aebc734d60@159.13.55.48:20000?sni=hy2-au2.whuiy.xyz&path=%2f&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%A6%F0%9F%87%BA%20AU%20Sydney%20hy2%20hysteria%2Ftls%2Bsalamander%20159.13.55.48%3A20000

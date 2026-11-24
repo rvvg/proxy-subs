@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVk4=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 15:33 UTC, 2 proxies, best first
-vless://f592a058-bfb6-447e-b849-fd169b65b301@kir4.crackerbinam.org:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&host=technolife.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20kir4.crackerbinam.org%3A25272
-vless://c74a51bc-0e10-43e5-b6a8-9395c40f3f54@52.199.42.25:46074?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zpe4RNze71UGv-T9y55k31k9BtY7gS7uvRV5aA7eiWQ&security=reality&sid=367e3031&sni=www.apple.com&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Da%20Nang%20vless%20raw%2Freality%2052.199.42.25%3A46074
+# updated 2026-11-24 21:31 UTC, 1 proxies, best first
+vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20103.162.14.250%3A25272

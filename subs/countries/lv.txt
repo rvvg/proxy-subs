@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE2LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,20 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 15:33 UTC, 16 proxies, best first
+# updated 2026-11-24 21:31 UTC, 2 proxies, best first
+vless://391a32c6-084c-4d61-8e8d-472678021dac@lv.extremumnews.com:6443?type=grpc&security=reality&fp=qq&pbk=WaTQD_4DkWa9XuxB_aJuRq5_UPXN3sfKdJNN_j6C3ws&sid=cde365e9dbcb9e5a&sni=plays.googleapis.com&serviceName=/api/v1/update&authority=plays.googleapis.com#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20grpc%2Freality%20lv.extremumnews.com%3A6443
 vless://391a32c6-084c-4d61-8e8d-472678021dac@80.240.97.34:6443?encryption=none&fp=firefox&pbk=WaTQD_4DkWa9XuxB_aJuRq5_UPXN3sfKdJNN_j6C3ws&security=reality&serviceName=/api/v1/update&sid=cde365e9dbcb9e5a&sni=plays.googleapis.com&type=grpc#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20grpc%2Freality%2080.240.97.34%3A6443
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@87.239.111.174:443?flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=fi.chick-chirik.com&fp=ios#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2087.239.111.174%3A443
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@87.239.111.174:443?flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=fi.chick-chirik.com&fp=edge#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2087.239.111.174%3A443%20%232
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@87.239.111.174:443?flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=fi.chick-chirik.com&fp=random#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2087.239.111.174%3A443%20%233
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@87.239.111.174:443?flow=xtls-rprx-vision&security=reality&sni=fi.chick-chirik.com&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&sid=25f11b01338a8963&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2087.239.111.174%3A443%20%234
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@lt.3apes.pro:443?type=raw&security=reality&sni=lt.3apes.pro&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lt.3apes.pro%3A443
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.162:443?flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lt.3apes.pro&type=raw#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.81.129.162%3A443
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@87.239.111.174:443?flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=fi.chick-chirik.com&fp=safari#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2087.239.111.174%3A443%20%235
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.161:443?type=raw&security=reality&sni=lite.3apes.pro&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.81.129.161%3A443
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.162:443?flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lt.3apes.pro&type=raw&fp=safari#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.81.129.162%3A443%20%232
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.162:443?flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lt.3apes.pro&type=raw&fp=edge#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.81.129.162%3A443%20%233
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.197:443?type=raw&security=reality&sni=lites.3apes.pro&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20185.81.129.197%3A443
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@lites.3apes.pro:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=lites.3apes.pro&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lites.3apes.pro%3A443
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.54.115:443?flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=lv.chick-chirik.com&fp=random#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2084.23.54.115%3A443
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.54.115:443?security=reality&flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&sid=25f11b01338a8963&sni=lv.chick-chirik.com&fp=edge#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%2084.23.54.115%3A443%20%232
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@lites.3apes.pro:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=lites.3apes.pro&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=firefox&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20raw%2Freality%20lites.3apes.pro%3A443%20%232
