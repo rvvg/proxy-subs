@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMDQ6MDcgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMDk6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 04:07 UTC, 5 proxies, best first
-vless://391a32c6-084c-4d61-8e8d-472678021dac@ee.extremumnews.com:6443?type=grpc&security=reality&sni=download.amd.com&serviceName=%2Fapi%2Fv1%2Fupdate&authority=download.amd.com&fp=qq&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac&encryption=none#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20ee.extremumnews.com%3A6443
-vless://391a32c6-084c-4d61-8e8d-472678021dac@ee.extremumnews.com:6443?security=reality&type=grpc&sni=download.amd.com&fp=qq&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac&serviceName=%2Fapi%2Fv1%2Fupdate#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20ee.extremumnews.com%3A6443%20%232
-vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.125:8443?security=tls&flow=xtls-rprx-vision&fp=safari&sni=api-6b04608f.adhil.uk#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.125%3A8443
-vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.125:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6b04608f.adhil.uk&type=tcp&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.125%3A8443%20%232
-vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.125:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6b04608f.adhil.uk&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.125%3A8443%20%233
+# updated 2026-11-24 09:33 UTC, 2 proxies, best first
+vless://391a32c6-084c-4d61-8e8d-472678021dac@ee.extremumnews.com:6443?type=grpc&security=reality&sni=download.amd.com&serviceName=%2Fapi%2Fv1%2Fupdate&authority=download.amd.com&fp=qq&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20ee.extremumnews.com%3A6443
+vless://7d31a423-4bb6-4c16-91b8-c08901a37780@13.143.239.90:443?flow=xtls-rprx-vision&fp=firefox&pbk=lI2vfdzBaAKrDxAdkAW8IHp9pkpQV6INmJrYriC_lyE&security=reality&sid=9ef8ebef9638b9c7&sni=e0ddd1x.ee2.h1clayd.click&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2013.143.239.90%3A443
