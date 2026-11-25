@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDkuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,13 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 09:32 UTC, 7 proxies, best first
-hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?sni=off&insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20hy2%20hysteria%2Ftls%20150-230-252-217.liao.kdns.fr%3A50160
-hysteria2://maintell@152.70.237.123:2053?sni=off&insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.comsocks5%3A%2F%2F152.70.237.238%3A3128#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232
-hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%233
-trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?encryption=chacha20#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20ikr200.zxom.eu.org%3A20045
-trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20168.107.51.32%3A20045
-trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?sni=ikr200.zxom.eu.org&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20ikr200.zxom.eu.org%3A20045%20%232
+# updated 2026-11-25 15:33 UTC, 9 proxies, best first
+hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.comsocks5%3A%2F%2F152.70.237.238%3A3128#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
+hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053%20%232
+ss://YWVzLTI1Ni1nY206ZFhQMHJJaTRUUHJicXhSOTM4b1FEdz09@119.28.150.131:4434#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20ss%20119.28.150.131%3A4434
+trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?sni=ikr200.zxom.eu.org&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20ikr200.zxom.eu.org%3A20045
+trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&fp=chrome&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20168.107.51.32%3A20045
+trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20168.107.51.32%3A20045%20%232
+trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?encryption=chacha20#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20ikr200.zxom.eu.org%3A20045%20%232
+vless://9a600801-e889-4705-9adb-bf9aeb366fc7@ifdmbpb.kdns.fr:443?security=tls&fp=chrome&sni=ifdmbpb.kdns.fr&type=tcp&headerType=none&host=ifdmbpb.kdns.fr&path=%2F&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20raw%2Ftls%20ifdmbpb.kdns.fr%3A443
+vless://9a600801-e889-4705-9adb-bf9aeb366fc7@43.155.175.232:443?security=tls&fp=firefox&sni=ifdmbpb.kdns.fr&encryption=none&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20raw%2Ftls%2043.155.175.232%3A443

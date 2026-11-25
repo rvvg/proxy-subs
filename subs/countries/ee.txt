@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDExLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,15 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 09:32 UTC, 11 proxies, best first
-vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.230:6443?type=grpc&security=reality&fp=firefox&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac&sni=download.amd.com&serviceName=/api/v1/update#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%2085.234.86.230%3A6443
-vless://391a32c6-084c-4d61-8e8d-472678021dac@ee.extremumnews.com:6443?type=grpc&security=reality&fp=qq&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac&sni=download.amd.com&serviceName=/api/v1/update&authority=download.amd.com#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%20ee.extremumnews.com%3A6443
-vless://f8cb3c89-32af-4255-bebc-d90aad175069@94.126.224.41:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=eea.899themes.pro&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20grpc%2Freality%2094.126.224.41%3A443
-vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.140:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6b04608f.adhil.uk&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.140%3A8443
-vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.154:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6b04608f.adhil.uk&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.154%3A8443
+# updated 2026-11-25 15:33 UTC, 7 proxies, best first
+vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=api-6b04608f.adhil.uk#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.126%3A8443
+vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.154:8443?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6b04608f.adhil.uk&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.154%3A8443
+vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?flow=xtls-rprx-vision&security=tls&sni=api-6b04608f.adhil.uk&alpn=h2&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.126%3A8443%20%232
+vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@079b6et.ee5.h1clayd.shop:443?type=tcp&security=reality&fp=firefox&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&sid=35a329a23bb50d2b&sni=079b6et.ee5.h1clayd.shop#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20079b6et.ee5.h1clayd.shop%3A443
 vless://7d31a423-4bb6-4c16-91b8-c08901a37780@143.246.41.232:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lI2vfdzBaAKrDxAdkAW8IHp9pkpQV6INmJrYriC_lyE&security=reality&sid=9ef8ebef9638b9c7&sni=e0ddd1x.ee2.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20143.246.41.232%3A443
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@vexlum.klyck.online:443?type=raw&security=reality&sni=vexlum.klyck.online&fp=firefox&flow=xtls-rprx-vision&pbk=ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw&sid=a503308602b56095#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20vexlum.klyck.online%3A443
-vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6b04608f.adhil.uk&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.126%3A8443
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@vexlum.klyck.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vexlum.klyck.online&pbk=ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw&sid=a503308602b56095&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%20vexlum.klyck.online%3A443%20%232
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@13.143.239.243:443?flow=xtls-rprx-vision&security=reality&sni=vexlum.klyck.online&fp=firefox&pbk=ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw&sid=a503308602b56095#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Freality%2013.143.239.243%3A443
-vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@89.124.251.182:443?encryption=none&fp=firefox&path=%2Fea1ae61a3ced&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&security=reality&sid=25e886ad1ab98159&sni=e54b10x.ee5.h1clayd.shop&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20xhttp%2Freality%2089.124.251.182%3A443
+vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.140:8443?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6b04608f.adhil.uk&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20165.231.157.140%3A8443
+vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6b04608f.adhil.uk&alpn=h2&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20EE%20Tallinn%20vless%20raw%2Ftls%20one.alpheratzz.org%3A8443

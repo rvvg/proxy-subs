@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gR0I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,11 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 09:32 UTC, 7 proxies, best first
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aFJmaDBnb3phWFRvSHZaVFczc3Q2SmtrbHExMUxGQjBDQlpGbVJUaGhQdz0@129.151.80.254:61312#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Newport%20ss%20129.151.80.254%3A61312
+# updated 2026-11-25 15:33 UTC, 8 proxies, best first
 ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Dunfermline%20ss%20185.176.206.9%3A19999
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@188.114.98.0:443?host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&sni=sinavm2.soft10.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20188.114.98.0%3A443
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:8443?alpn=http%2F1.1%2Ch2%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&mode=auto&path=%2F&security=tls&sni=sinavm2.soft10.ir&type=xhttp&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Ftls%20chatgpt.com%3A8443
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@104.18.32.47:443?security=tls&sni=sinavm2.soft10.ir&type=ws&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&fp=chrome&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20104.18.32.47%3A443
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@188.114.98.0:443?alpn=http%2F1.1&encryption=none&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&sni=sinavm2.soft10.ir&type=ws&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20188.114.98.0%3A443%20%232
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?headerType=none&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&sni=sinavm2.soft10.ir&type=ws&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20172.64.155.209%3A443
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20uk1.connectsuite.org%3A443
+vless://e58384f2-76ba-400b-ae0a-8271b4c9c310@188.114.98.0:443?alpn=h2%2Chttp%2F1.1&host=crm.dpdns.org&mode=auto&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=crm.dpdns.org&type=xhttp&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20xhttp%2Ftls%20188.114.98.0%3A443
+vless://e58384f2-76ba-400b-ae0a-8271b4c9c310@188.114.98.0:443?alpn=h2%2Chttp%2F1.1&host=crm.dpdns.org&mode=auto&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=crm.dpdns.org&type=xhttp&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20xhttp%2Ftls%20188.114.98.0%3A443%20%232
+vless://e58384f2-76ba-400b-ae0a-8271b4c9c310@188.114.98.0:443?alpn=h2%2Chttp%2F1.1&host=crm.dpdns.org&mode=auto&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=crm.dpdns.org&type=xhttp&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20xhttp%2Ftls%20188.114.98.0%3A443%20%233
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:8443?alpn=http%2F1.1%2Ch2%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&mode=auto&path=%2F&security=tls&sni=sinavm2.soft10.ir&type=xhttp&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Ftls%20172.64.155.209%3A8443
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%2051.38.71.147%3A443
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?host=uk1.connectsuite.org&path=%2Fcdn-cgi%2Fws&security=tls&sni=uk1.connectsuite.org&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%2051.38.71.147%3A443%20%232

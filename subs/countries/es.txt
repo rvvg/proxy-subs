@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRVM=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 09:32 UTC, 5 proxies, best first
-vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?security=reality&sni=node43.lmdscdn.ru&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=c5548af15927b698&type=grpc&serviceName=livestreamcontent#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443
+# updated 2026-11-25 15:33 UTC, 5 proxies, best first
+vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?security=reality&sni=node43.lmdscdn.ru&fp=chrome&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=c5548af15927b698&type=grpc&serviceName=livestreamcontent&mode=gun#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443
+vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?security=reality&sni=node43.lmdscdn.ru&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=c5548af15927b698&type=grpc&serviceName=livestreamcontent#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443%20%232
 vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?encryption=none&extra={"noGRPCHeader":false,"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":30,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":"1-2"}}&fp=firefox&path=/api/v2/7d94497a&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&security=reality&sid=0bf13fb706784403&sni=es1.green-tg.com&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20xhttp%2Freality%20185.200.244.37%3A443
-vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?type=xhttp&security=reality&fp=firefox&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&sid=0bf13fb706784403&sni=es1.green-tg.com&path=%2Fapi%2Fv2%2F7d94497a#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20xhttp%2Freality%20185.200.244.37%3A443%20%232
-vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?type=xhttp&security=reality&fp=firefox&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&sid=0bf13fb706784403&sni=es1.green-tg.com&path=/api/v2/7d94497a&mode=stream-one#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20xhttp%2Freality%20185.200.244.37%3A443%20%233
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@188.72.112.1:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=keno-nl-cdn-cello.keno.su&fp=edge&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2FuploadFile%2F&host=keno-nl-cdn-cello.keno.su&mode=packet-up&extra=%7B%22xmux%22%3A%20%7B%22cMaxLifetimeMs%22%3A%20300000%2C%20%22cMaxReuseTimes%22%3A%20100%2C%20%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22hKeepAlivePeriod%22%3A%2030%7D%2C%20%22uplinkDataKey%22%3A%20%22X-Payload%22%2C%20%22uplinkHTTPMethod%22%3A%20%22GET%22%2C%20%22scMaxEachPostBytes%22%3A%204096%2C%20%22uplinkDataPlacement%22%3A%20%22header%22%7D#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20xhttp%2Ftls%20188.72.112.1%3A443
+vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?type=xhttp&security=reality&fp=firefox&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&sid=0bf13fb706784403&sni=es1.green-tg.com&path=/api/v2/7d94497a&host=185.200.244.37#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20xhttp%2Freality%20185.200.244.37%3A443%20%232
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?type=xhttp&security=tls&fp=chrome&sni=7d1a74fd.ferrin.uk&path=/es/?@MARAMBASHIMARAMBASHIMARAMBASHIMARAMBASHI?ed=2048&mode=stream-one#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20xhttp%2Ftls%20api.ferrin.uk%3A443
