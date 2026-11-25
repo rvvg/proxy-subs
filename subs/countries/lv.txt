@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gTFY=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 21:31 UTC, 2 proxies, best first
+# updated 2026-11-25 03:29 UTC, 4 proxies, best first
 vless://391a32c6-084c-4d61-8e8d-472678021dac@lv.extremumnews.com:6443?type=grpc&security=reality&fp=qq&pbk=WaTQD_4DkWa9XuxB_aJuRq5_UPXN3sfKdJNN_j6C3ws&sid=cde365e9dbcb9e5a&sni=plays.googleapis.com&serviceName=/api/v1/update&authority=plays.googleapis.com#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20grpc%2Freality%20lv.extremumnews.com%3A6443
-vless://391a32c6-084c-4d61-8e8d-472678021dac@80.240.97.34:6443?encryption=none&fp=firefox&pbk=WaTQD_4DkWa9XuxB_aJuRq5_UPXN3sfKdJNN_j6C3ws&security=reality&serviceName=/api/v1/update&sid=cde365e9dbcb9e5a&sni=plays.googleapis.com&type=grpc#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20grpc%2Freality%2080.240.97.34%3A6443
+vless://391a32c6-084c-4d61-8e8d-472678021dac@80.240.97.34:6443?fp=firefox&pbk=WaTQD_4DkWa9XuxB_aJuRq5_UPXN3sfKdJNN_j6C3ws&security=reality&serviceName=%2Fapi%2Fv1%2Fupdate&sid=cde365e9dbcb9e5a&sni=plays.googleapis.com&type=grpc#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20grpc%2Freality%2080.240.97.34%3A6443
+vless://87a53d4e-ee0b-489f-abf6-b651436f3232@217.114.15.231:443?encryption=none&fp=firefox&pbk=JTNWyu_3qzHj7NH1ZFWqd_8QCJRlEwrDtZZv_5zlcVc&security=reality&serviceName=Gun&sid=23fa2e0a89585908&sni=orbitanl.ru&type=grpc#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20grpc%2Freality%20217.114.15.231%3A443
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8450?encryption=none&fp=firefox&path=/ws&security=tls&sni=fonts.plumstatic.com&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20LV%20Riga%20vless%20ws%2Ftls%20213.183.45.23%3A8450

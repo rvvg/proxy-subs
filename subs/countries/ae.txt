@@ -1,0 +1,13 @@
+#profile-title: base64:RnJlZSBWUE4gQUU=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-25 03:29 UTC, 3 proxies, best first
+vless://a9d963bc-81a1-42b5-b62d-104af19a0f5c@135.136.182.175:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1h_quEcn8-33TXVqNwePJbl5f4xBQF8-b1jV4WUz73c&sid=ff133c583853246f&sni=dubai-cdn-reverse-prsxv.keno.su#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20raw%2Freality%20135.136.182.175%3A443
+vless://a9d963bc-81a1-42b5-b62d-104af19a0f5c@dubai-cdn-reverse-prsxv.keno.su:443?security=reality&encryption=none&pbk=1h_quEcn8-33TXVqNwePJbl5f4xBQF8-b1jV4WUz73c&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-reverse-prsxv.keno.su&sid=ff133c583853246f#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20raw%2Freality%20dubai-cdn-reverse-prsxv.keno.su%3A443
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8459?encryption=none&fp=firefox&path=/ws&security=tls&sni=photos.plumstatic.com&type=ws#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20ws%2Ftls%20213.183.41.31%3A8459

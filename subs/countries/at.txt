@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 21:31 UTC, 1 proxies, best first
-vless://76da0924-e579-4a20-bfce-2918a90109be@189.74.115.3:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediaroshcha.cc#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20189.74.115.3%3A443
+# updated 2026-11-25 03:29 UTC, 4 proxies, best first
+vless://11d14aed-3d44-4bb2-b9c0-24e661589e5a@edge07.tunnely.space:443?mode=packet-up&path=%2Fxhttp%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=atd2.tunnely.space#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Wien%20vless%20xhttp%2Ftls%20edge07.tunnely.space%3A443
+vless://2c15650f-8cb6-4b68-9501-0de4ec432082@189.74.115.3:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediaroshcha.cc#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20189.74.115.3%3A443
+vless://b2b6d9ba-355a-4a9e-8d97-10fe8910b3ab@189.74.115.3:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediaroshcha.cc#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20189.74.115.3%3A443%20%232
+vless://84b40247-870d-465e-8608-2e61c9c8cdb3@189.74.115.3:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediaroshcha.cc#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20189.74.115.3%3A443%20%233

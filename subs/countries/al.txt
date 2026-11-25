@@ -1,0 +1,13 @@
+#profile-title: base64:RnJlZSBWUE4gQUw=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-25 03:29 UTC, 3 proxies, best first
+vless://11d14aed-3d44-4bb2-b9c0-24e661589e5a@93.93.207.222:443?encryption=none&extra={"noGRPCHeader":false,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"16-32","maxConnections":0}}&fp=firefox&path=/xhttp/&security=tls&sni=ald1.tunnely.space&type=xhttp#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20xhttp%2Ftls%2093.93.207.222%3A443
+vless://11d14aed-3d44-4bb2-b9c0-24e661589e5a@194.53.175.27:443?flow=xtls-rprx-vision&security=reality&sni=ald1.tunnely.space&fp=firefox&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20raw%2Freality%20194.53.175.27%3A443
+vless://11d14aed-3d44-4bb2-b9c0-24e661589e5a@93.93.207.222:443?encryption=none&fp=firefox&path=/xhttp/&security=tls&sni=ald1.tunnely.space&type=xhttp#%F0%9F%87%A6%F0%9F%87%B1%20AL%20Tirana%20vless%20xhttp%2Ftls%2093.93.207.222%3A443%20%232

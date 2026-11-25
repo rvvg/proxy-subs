@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gR0I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjQgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-24 21:31 UTC, 3 proxies, best first
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Dunfermline%20ss%20185.176.206.9%3A19999
-vless://76da0924-e579-4a20-bfce-2918a90109be@50.7.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20raw%2Freality%2050.7.154.78%3A443
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@109.71.247.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VYXI4MWqWEFY_qU247otuCPPK7mMxmjFDdrKT6D1a1o&security=reality&sid=1a895886399244a0&sni=rulonmicro2.gangplatform.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Manchester%20vless%20raw%2Freality%20109.71.247.170%3A443
+# updated 2026-11-25 03:29 UTC, 3 proxies, best first
+ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Dunfermline%20ss%20185.176.206.9%3A19999
+vless://2c15650f-8cb6-4b68-9501-0de4ec432082@50.7.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20raw%2Freality%2050.7.154.78%3A443
+vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@109.71.247.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rulonmicro2.gangplatform.com&pbk=VYXI4MWqWEFY_qU247otuCPPK7mMxmjFDdrKT6D1a1o&sid=1a895886399244a0&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Manchester%20vless%20raw%2Freality%20109.71.247.170%3A443
