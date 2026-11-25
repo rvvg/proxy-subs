@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRVM=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,9 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 15:33 UTC, 5 proxies, best first
+# updated 2026-11-25 21:31 UTC, 3 proxies, best first
 vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?security=reality&sni=node43.lmdscdn.ru&fp=chrome&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=c5548af15927b698&type=grpc&serviceName=livestreamcontent&mode=gun#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443
 vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?security=reality&sni=node43.lmdscdn.ru&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=c5548af15927b698&type=grpc&serviceName=livestreamcontent#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443%20%232
-vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?encryption=none&extra={"noGRPCHeader":false,"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":30,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":"1-2"}}&fp=firefox&path=/api/v2/7d94497a&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&security=reality&sid=0bf13fb706784403&sni=es1.green-tg.com&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20xhttp%2Freality%20185.200.244.37%3A443
-vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?type=xhttp&security=reality&fp=firefox&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&sid=0bf13fb706784403&sni=es1.green-tg.com&path=/api/v2/7d94497a&host=185.200.244.37#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20xhttp%2Freality%20185.200.244.37%3A443%20%232
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?type=xhttp&security=tls&fp=chrome&sni=7d1a74fd.ferrin.uk&path=/es/?@MARAMBASHIMARAMBASHIMARAMBASHIMARAMBASHI?ed=2048&mode=stream-one#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20xhttp%2Ftls%20api.ferrin.uk%3A443
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@178.236.254.81:8443?encryption=none&fp=firefox&path=%2Fxhttp&pbk=dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638&security=reality&sid=01f0a0809d05552b&sni=cdn-es.cahmes.space&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20xhttp%2Freality%20178.236.254.81%3A8443

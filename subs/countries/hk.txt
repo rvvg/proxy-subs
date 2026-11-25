@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMTU6MzMgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 15:33 UTC, 4 proxies, best first
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ajREZGRmVmgzek9OMXMzV2ZibWRuMldXaExDV0FhT0p5S3FkZUt2eGg0QT0@27.124.5.86:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%2027.124.5.86%3A8388
-vless://366449c5-ac1e-4314-8142-27a6b1c8c0fb@cfyx.mtf.llc:443?encryption=none&security=tls&sni=hk3-cdn.nomtf.com&fp=chrome&type=ws&host=hk3-cdn.nomtf.com&path=%2Fyn-c51a4c0aa4c1&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20ws%2Ftls%20cfyx.mtf.llc%3A443
+# updated 2026-11-25 21:31 UTC, 4 proxies, best first
 vless://2377a148-5e9b-431f-93f4-a1bbaa3dabe9@38.55.193.106:8443?encryption=none&security=tls&sni=hk1.1am.cc.cd&fp=chrome&type=ws&path=%2F69258b95124b5273&host=hk1.1am.cc.cd#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20ws%2Ftls%2038.55.193.106%3A8443
-vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@138.249.210.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&security=reality&sid=4e3f59&sni=travel.yandex.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20138.249.210.11%3A443
+vless://08a37d1f-7bf1-4b5d-a2ec-5ced6a633d7f@116.213.43.43:11107?security=reality&type=tcp&sni=www.apple.com&path=%2F&host=www.apple.com&flow=xtls-rprx-vision&fp=random&pbk=6GRzkPbs12fKBdBBFzs5dmtmbSHCXMngUCBKLrXYm3U&sid=e2ccd8eedcbee2ce#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20116.213.43.43%3A11107
+vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=da12e31124830d42&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20116.213.43.43%3A11106
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL3RscyBzcGVha3Mtb3VyLXVuaS10d2lzdC50cnljbG91ZGZsYXJlLmNvbTo0NDMiLCAiYWRkIjogInNwZWFrcy1vdXItdW5pLXR3aXN0LnRyeWNsb3VkZmxhcmUuY29tIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjJhNGQyNGJmLTM2N2EtNDk1MS1iZmU2LTUwYzdhMGJkYjVlYSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAic3BlYWtzLW91ci11bmktdHdpc3QudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICIvMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhLXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogInNwZWFrcy1vdXItdW5pLXR3aXN0LnRyeWNsb3VkZmxhcmUuY29tIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
