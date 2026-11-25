@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUw=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 03:29 UTC, 6 proxies, best first
-vless://a07c4d71-cc76-4a1f-bba2-269c5e768617@6b878dx.nl24.h1clayd.shop:443?type=xhttp&security=reality&fp=firefox&pbk=_nAced6S7uyPz0sjigvwEmN7CsYvJMOsumtBnqldEC8&sid=eaf16e75feabc584&sni=6b878dx.nl24.h1clayd.shop&path=%2Fc2ebbdd6f634&mode=auto#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20xhttp%2Freality%206b878dx.nl24.h1clayd.shop%3A443
-vless://a07c4d71-cc76-4a1f-bba2-269c5e768617@83.141.86.249:443?type=xhttp&security=reality&fp=firefox&pbk=_nAced6S7uyPz0sjigvwEmN7CsYvJMOsumtBnqldEC8&sid=eaf16e75feabc584&sni=6b878dx.nl24.h1clayd.shop&path=/c2ebbdd6f634&mode=auto#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20xhttp%2Freality%2083.141.86.249%3A443
-vless://a07c4d71-cc76-4a1f-bba2-269c5e768617@8ba6c3t.nl24.h1clayd.shop:443?type=raw&security=reality&fp=firefox&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&sid=16b6715de8577aaa&sni=8ba6c3t.nl24.h1clayd.shop#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20raw%2Freality%208ba6c3t.nl24.h1clayd.shop%3A443
-vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@6b878dx.nl24.h1clayd.shop:443?security=reality&type=xhttp&path=%2Fc2ebbdd6f634&packetEncoding=xudp&sni=6b878dx.nl24.h1clayd.shop&fp=chrome&sid=eaf16e75feabc584&pbk=_nAced6S7uyPz0sjigvwEmN7CsYvJMOsumtBnqldEC8&mode=auto&encryption=none#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20xhttp%2Freality%206b878dx.nl24.h1clayd.shop%3A443%20%232
-vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@83.141.86.249:443?type=xhttp&security=reality&fp=firefox&pbk=_nAced6S7uyPz0sjigvwEmN7CsYvJMOsumtBnqldEC8&sid=eaf16e75feabc584&sni=6b878dx.nl24.h1clayd.shop&path=/c2ebbdd6f634&mode=auto#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20xhttp%2Freality%2083.141.86.249%3A443%20%232
-vless://a07c4d71-cc76-4a1f-bba2-269c5e768617@153.56.231.156:443?encryption=none&fp=firefox&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&security=reality&sid=16b6715de8577aaa&sni=8ba6c3t.nl24.h1clayd.shop&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20raw%2Freality%20153.56.231.156%3A443
+# updated 2026-11-25 09:32 UTC, 2 proxies, best first
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.86.158.235:443?encryption=none&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20grpc%2Freality%2045.86.158.235%3A443
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.86.158.235:443?type=xhttp&security=reality&fp=firefox&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&path=/0616f2d729aa&mode=auto#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Tel-Aviv%20vless%20xhttp%2Freality%2045.86.158.235%3A443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEwLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,14 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 03:29 UTC, 10 proxies, best first
+# updated 2026-11-25 09:32 UTC, 4 proxies, best first
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.45%3A19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.99%3A19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20ss%20202.50.253.63%3A19999
-vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.190.88:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&security=reality&sid=065861068f65e954&sni=travel.yandex.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Erba%20vless%20raw%2Freality%20179.255.190.88%3A443
-vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.190.88:443?security=reality&encryption=none&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&headerType=&fp=firefox&spx=%2Ff7c013fcb5d01da&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=065861068f65e954#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Erba%20vless%20raw%2Freality%20179.255.190.88%3A443%20%232
-vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.190.88:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&security=reality&sid=065861068f65e954&sni=travel.yandex.ru&spx=%2Ff7c013fcb5d01da&type=tcp&fp=safari#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Erba%20vless%20raw%2Freality%20179.255.190.88%3A443%20%233
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@193.160.208.21:443/?encryption=none&flow=xtls-rprx-vision&pbk=W7AD8d4R4-7TQW3-m5wJ0aJHzBcjPVdJF22jr2rP03A&security=reality&sid=8f88b244f4fa8a69&sni=ruitaliamicro2.gangplatform.com&type=tcp&fp=safari#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Freality%20193.160.208.21%3A443
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@193.160.208.21:443/?encryption=none&flow=xtls-rprx-vision&pbk=W7AD8d4R4-7TQW3-m5wJ0aJHzBcjPVdJF22jr2rP03A&security=reality&sid=8f88b244f4fa8a69&sni=ruitaliamicro2.gangplatform.com&type=tcp&fp=random#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Freality%20193.160.208.21%3A443%20%232
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@193.160.208.21:443/?encryption=none&flow=xtls-rprx-vision&pbk=W7AD8d4R4-7TQW3-m5wJ0aJHzBcjPVdJF22jr2rP03A&security=reality&sid=8f88b244f4fa8a69&sni=ruitaliamicro2.gangplatform.com&type=tcp&fp=ios#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Freality%20193.160.208.21%3A443%20%233
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@193.160.208.21:443/?encryption=none&flow=xtls-rprx-vision&pbk=W7AD8d4R4-7TQW3-m5wJ0aJHzBcjPVdJF22jr2rP03A&security=reality&sid=8f88b244f4fa8a69&sni=ruitaliamicro2.gangplatform.com&type=tcp&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Freality%20193.160.208.21%3A443%20%234
+vless://73287568-abd1-46d5-bf66-8203af317379@172.235.237.9:58887?security=reality&type=tcp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=1f2519bb96e5589c&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU#%F0%9F%87%AE%F0%9F%87%B9%20IT%20Milan%20vless%20raw%2Freality%20172.235.237.9%3A58887

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQlk=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 03:29 UTC, 3 proxies, best first
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=raw&packetEncoding=xudp&sni=ads.x5.ru&fp=ios&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.228%3A10444
+# updated 2026-11-25 09:32 UTC, 3 proxies, best first
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=tcp&sni=ads.x5.ru&host=ads.x5.ru&flow=xtls-rprx-vision&fp=random&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.228%3A10444
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?security=reality&type=tcp&sni=ads.x5.ru&path=%2F&host=ads.x5.ru&flow=xtls-rprx-vision&fp=random&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.124%3A10444
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=tcp&sni=ads.x5.ru&host=ads.x5.ru&flow=xtls-rprx-vision&fp=random&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.228%3A10444%20%232
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=raw&packetEncoding=xudp&sni=ads.x5.ru&fp=ios&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#%F0%9F%87%A7%F0%9F%87%BE%20BY%20Minsk%20vless%20raw%2Freality%20178.172.227.228%3A10444%20%232

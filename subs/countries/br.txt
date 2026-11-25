@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQlI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,6 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 03:29 UTC, 1 proxies, best first
+# updated 2026-11-25 09:32 UTC, 2 proxies, best first
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aElXVkR0YlczTktibW9YcU1INDFiR3J5dlhHbU5QVmlyMC80VFRHTFlNTT0@147.15.80.3:59319#%F0%9F%87%A7%F0%9F%87%B7%20BR%20Sao%20Paulo%20ss%20147.15.80.3%3A59319
 vmess://eyJhZGQiOiAiMTAzLjg4LjIzMi41NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJjcCI6ICIiLCAiY3MiOiAiIiwgImRpYWxNb2RlIjogIiIsICJlc3IiOiAiIiwgImZwIjogInVuc2FmZSIsICJob3N0IjogIiIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIyYmU3MzNmYWNjZjZlODkwZDIwYzQwNTY0NDNkOGFhZmY4NWMyZDQ0NmI1MDFmOTQxZDc5ZGE4MzkwZWJhMzJjIiwgInBvcnQiOiAiMTI3MCIsICJwcyI6ICLwn4en8J+HtyBCUiBTYW8gUGF1bG8gdm1lc3MgcmF3L3RscyAxMDMuODguMjMyLjU1OjEyNzAiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHV0IjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
