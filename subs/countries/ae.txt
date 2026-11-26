@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQUU=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-26 03:29 UTC, 1 proxies, best first
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8459?&security=tls&fp=firefox&sni=photos.plumstatic.com&type=ws&headerType=none&path=%2Fws#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20ws%2Ftls%20213.183.41.31%3A8459
+# updated 2026-11-26 09:31 UTC, 5 proxies, best first
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.10:8460?security=tls&sni=archive.plumstatic.com&type=ws&path=%2Fws&fp=firefox#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20ws%2Ftls%20213.183.41.10%3A8460
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8459?security=tls&type=ws&path=%2Fws&sni=photos.plumstatic.com&fp=firefox#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20ws%2Ftls%20213.183.41.31%3A8459
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.10:8460?security=tls&sni=archive.plumstatic.com&type=ws&path=%2Fws&fp=qq#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20ws%2Ftls%20213.183.41.10%3A8460%20%232
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.10:8460?security=tls&sni=archive.plumstatic.com&type=ws&path=%2Fws&fp=safari#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20ws%2Ftls%20213.183.41.10%3A8460%20%233
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.10:8460?security=tls&sni=archive.plumstatic.com&type=ws&path=%2Fws&fp=edge#%F0%9F%87%A6%F0%9F%87%AA%20AE%20Fujairah%20vless%20ws%2Ftls%20213.183.41.10%3A8460%20%234

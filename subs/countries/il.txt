@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gSUw=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-26 09:31 UTC, 1 proxies, best first
+vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@170.168.12.51:443?flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=firefox&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&sid=4e3f59&encryption=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20IL%20Jerusalem%20vless%20raw%2Freality%20170.168.12.51%3A443

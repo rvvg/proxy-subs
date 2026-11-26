@@ -1,0 +1,12 @@
+#profile-title: base64:RnJlZSBWUE4gTFQ=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-26 09:31 UTC, 2 proxies, best first
+hysteria2://c0742f77-5495-43bf-b007-88d368774d7c@88.119.176.49:443?sni=litual3.harcho.shop#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20hy2%20hysteria%2Ftls%2088.119.176.49%3A443
+vless://c0742f77-5495-43bf-b007-88d368774d7c@88.119.176.64:443?flow=xtls-rprx-vision&security=reality&sni=wwrtq.lerogrenta.shop&fp=firefox&pbk=I_-Mb_q3_4-ZdzrzB6SKh-Zla1kKI4M_0OMjWDYXVxg&sid=13d8fbd7fd9e1ce8&encryption=none&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20LT%20Vilnius%20vless%20raw%2Freality%2088.119.176.64%3A443

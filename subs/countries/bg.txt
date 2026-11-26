@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-26 03:29 UTC, 1 proxies, best first
-vless://963A4918-A630-29DA-A873-093CDF8AD784@delicate-tree-9749.vpnetwork3567.workers.dev:443?encryption=none&security=tls&sni=delicate-tree-9749.vpnetwork3567.workers.dev&alpn=http/1.1&type=ws&host=delicate-tree-9749.vpnetwork3567.workers.dev&path=/#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20ws%2Ftls%20delicate-tree-9749.vpnetwork3567.workers.dev%3A443
+# updated 2026-11-26 09:31 UTC, 3 proxies, best first
+vless://0629a723-e9fd-460e-80fe-67e3149d9f64@187.54.4.37:443?flow=xtls-rprx-vision&security=reality&sni=bg-adapt.static-s3.org&fp=firefox&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&sid=486a1a9c7288b70e&encryption=none&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20raw%2Freality%20187.54.4.37%3A443
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.248:8443?encryption=none&extra=null&fp=firefox&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2046.243.234.248%3A8443
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.248:8443?encryption=none&extra=null&fp=chrome&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20xhttp%2Ftls%2046.243.234.248%3A8443%20%232
