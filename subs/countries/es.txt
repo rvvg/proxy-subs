@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRVM=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMTU6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-26 09:31 UTC, 4 proxies, best first
+# updated 2026-11-26 15:31 UTC, 4 proxies, best first
 vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?security=reality&sni=node43.lmdscdn.ru&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=c5548af15927b698&type=grpc&serviceName=livestreamcontent#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443
 vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?security=reality&sni=node43.lmdscdn.ru&fp=chrome&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=c5548af15927b698&type=grpc&serviceName=livestreamcontent&mode=gun#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443%20%232
-hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@145.249.109.133:25175?sni=03e488t.es9.h1clayd.click&pinSHA256=a485db68fa1e0d3a712e1fcdb48fe57c5107666159be520f9ce8c77f727b0d88#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20hy2%20hysteria%2Ftls%20145.249.109.133%3A25175
-vless://5dd4822d-b8dc-49dd-84b6-c3ea44ef42f7@145.249.109.248:443?flow=xtls-rprx-vision&security=reality&sni=mcsp.67resserv67.info&fp=firefox&pbk=gM_rANbedeIHB3Y1ltLG60xS1i2TuYt0PKgAgC1TzR4&sid=29455a3a790acbd0&encryption=none&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%20145.249.109.248%3A443
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@188.114.98.0:443?path=%2Fes%2F%3F%40MARAMBASHI&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=api.ferrin.uk&host=api.ferrin.uk&fp=unsafe&cs=TLS_AES_128_GCM_SHA256%3ATLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3AECDHE-ECDSA-AES128-GCM-SHA256%3AECDHE-RSA-AES128-GCM-SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%2210-20%22%2C%22delay%22%3A%2210-20%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%221-3%22%2C%22delay%22%3A%225%22%7D%7D%5D%7D#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20xhttp%2Ftls%20188.114.98.0%3A443
+vless://5dd4822d-b8dc-49dd-84b6-c3ea44ef42f7@145.249.109.248:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gM_rANbedeIHB3Y1ltLG60xS1i2TuYt0PKgAgC1TzR4&sid=29455a3a790acbd0&sni=mcsp.67resserv67.info#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20raw%2Freality%20145.249.109.248%3A443
