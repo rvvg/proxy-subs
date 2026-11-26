@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gQkc=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-26 03:29 UTC, 1 proxies, best first
+vless://963A4918-A630-29DA-A873-093CDF8AD784@delicate-tree-9749.vpnetwork3567.workers.dev:443?encryption=none&security=tls&sni=delicate-tree-9749.vpnetwork3567.workers.dev&alpn=http/1.1&type=ws&host=delicate-tree-9749.vpnetwork3567.workers.dev&path=/#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20ws%2Ftls%20delicate-tree-9749.vpnetwork3567.workers.dev%3A443

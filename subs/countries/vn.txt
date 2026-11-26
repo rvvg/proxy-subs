@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVk4=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjUgMjE6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMDM6MjkgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-25 21:31 UTC, 2 proxies, best first
-vless://43a7c35b-dfa4-4195-989b-b632af00ad69@160.191.52.145:6838?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sjPpGfG9yvgwG7cXdc4xruMml5A2jvLkhGDuaAn1hn8&sni=vietteltelecom.vn#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Hanoi%20vless%20raw%2Freality%20160.191.52.145%3A6838
+# updated 2026-11-26 03:29 UTC, 1 proxies, best first
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#%F0%9F%87%BB%F0%9F%87%B3%20VN%20Ho%20Chi%20Minh%20City%20vless%20raw%2Freality%20103.162.14.250%3A25272
