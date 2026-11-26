@@ -1,0 +1,12 @@
+#profile-title: base64:RnJlZSBWUE4gVFI=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-26 21:30 UTC, 2 proxies, best first
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMTk5TUNub2daQktpMFFKZGNTZ1Vub0wzVTl3bDd0MQ@107.181.155.27:2089#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20ss%20107.181.155.27%3A2089
+vless://56665684-5ac0-4ba9-9d49-8b258fb57974@leviko-tr3795.shopingggg.ir:50738?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=turkey-ip1.mmdaqaorg.xyz#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Ftls%20leviko-tr3795.shopingggg.ir%3A50738

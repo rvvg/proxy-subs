@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMTU6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-26 15:31 UTC, 6 proxies, best first
+# updated 2026-11-26 21:30 UTC, 6 proxies, best first
 hy2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20hy2%20hysteria%2Ftls%20152.70.237.123%3A2053
 trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?sni=ikr200.zxom.eu.org&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20ikr200.zxom.eu.org%3A20045
 trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&fp=chrome&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20168.107.51.32%3A20045
 trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?encryption=chacha20#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20ikr200.zxom.eu.org%3A20045%20%232
 trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Chuncheon%20trojan%20raw%2Ftls%20168.107.51.32%3A20045%20%232
-vless://db906786-8c49-4b17-9182-cea680ef954d@104.25.128.15:443?&security=tls&fp=chrome&sni=krc.80782636.xyz&type=ws&headerType=none&host=krc.80782636.xyz&path=/kw7x2mq9#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20104.25.128.15%3A443
+vless://db906786-8c49-4b17-9182-cea680ef954d@188.114.98.0:443?security=tls&fp=unsafe&sni=krd.80782636.xyz&type=ws&headerType=none&host=krd.80782636.xyz&path=%2Fkw7x2mq9&encryption=none&insecure=1&allowInsecure=1&cs=TLS_AES_128_GCM_SHA256%3ATLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3AECDHE-ECDSA-AES128-GCM-SHA256%3AECDHE-RSA-AES128-GCM-SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%2210-20%22%2C%22delay%22%3A%2210-20%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%221-3%22%2C%22delay%22%3A%225%22%7D%7D%5D%7D#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Seoul%20vless%20ws%2Ftls%20188.114.98.0%3A443
