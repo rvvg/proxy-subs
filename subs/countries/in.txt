@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSU4=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,10 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-26 21:30 UTC, 4 proxies, best first
-vless://c0742f77-5495-43bf-b007-88d368774d7c@34.93.76.68:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=wt2561az.thewalkingded.life&pbk=yRiALDdYl3RIWzkAktpXyjEubuJOGSHQmGWNOSFvTh4&sid=91d82754d06c5d38&fp=firefox&spx=%2F#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%2034.93.76.68%3A443
-vless://c0742f77-5495-43bf-b007-88d368774d7c@wt2561az.thewalkingded.life:443?security=reality&encryption=none&pbk=yRiALDdYl3RIWzkAktpXyjEubuJOGSHQmGWNOSFvTh4&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=wt2561az.thewalkingded.life&sid=91d82754d06c5d38#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20wt2561az.thewalkingded.life%3A443
+# updated 2026-11-27 03:28 UTC, 6 proxies, best first
+vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@147.93.171.8:8443?encryption=none&fp=firefox&host=147-93-171-8.sslip.io&path=%2Fvpn-live&security=tls&sni=147-93-171-8.sslip.io&type=ws#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20ws%2Ftls%20147.93.171.8%3A8443
+vless://c0742f77-5495-43bf-b007-88d368774d7c@wt2561az.thewalkingded.life:443?security=reality&pbk=yRiALDdYl3RIWzkAktpXyjEubuJOGSHQmGWNOSFvTh4&fp=firefox&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=wt2561az.thewalkingded.life&sid=91d82754d06c5d38#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20wt2561az.thewalkingded.life%3A443
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?fp=random&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20in.smrtai.top%3A443
+vless://c0742f77-5495-43bf-b007-88d368774d7c@34.93.76.68:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=wt2561az.thewalkingded.life&pbk=yRiALDdYl3RIWzkAktpXyjEubuJOGSHQmGWNOSFvTh4&sid=91d82754d06c5d38&fp=firefox&spx=/#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%2034.93.76.68%3A443
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20178.212.35.198%3A443
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=6bdc8320&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20Mumbai%20vless%20raw%2Freality%20in.smrtai.top%3A443%20%232

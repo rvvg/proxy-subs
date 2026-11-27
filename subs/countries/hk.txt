@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-26 21:30 UTC, 2 proxies, best first
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE@waic.pro.main.sys-metric-report.com:28014#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%20waic.pro.main.sys-metric-report.com%3A28014
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL3RscyBiYXNlZC13aWtpLWxvY2F0ZWQtaW5kaXZpZHVhbC50cnljbG91ZGZsYXJlLmNvbTo0NDMiLCAiYWRkIjogImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjJhNGQyNGJmLTM2N2EtNDk1MS1iZmU2LTUwYzdhMGJkYjVlYSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYmFzZWQtd2lraS1sb2NhdGVkLWluZGl2aWR1YWwudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICIvMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhLXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
+# updated 2026-11-27 03:28 UTC, 3 proxies, best first
+vless://6631915a-14eb-48d5-884d-bf4e3e30b071@45.133.73.155:2087?encryption=none&fp=firefox&pbk=oxdpwF7pHTpNG_R2y_Og0vOd2AAsCZ9dhCADuFH90AU&security=reality&serviceName=grpc-tunnel&sni=main.vpsvdsclouds.net&type=grpc#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20grpc%2Freality%2045.133.73.155%3A2087
+vless://0629a723-e9fd-460e-80fe-67e3149d9f64@204.115.18.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l2LZUHHMVVbZwaIhBlMr-Vdpfo7I6_oFyOQdgZywOjI&security=reality&sid=2fa9b0474b689aff&sni=hk01.static-s3.org&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20204.115.18.142%3A443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE=@waic.pro.main.sys-metric-report.com:28014#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%20waic.pro.main.sys-metric-report.com%3A28014

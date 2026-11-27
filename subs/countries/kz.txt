@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjYgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-26 21:30 UTC, 4 proxies, best first
-vless://fa906181-5d9b-4ff6-8a81-e6148ce4ece7@5.180.27.134:443?security=reality&encryption=none&pbk=qljbddkyGqBkkOnPdvgw4s6HX_iyEUB2qesNM1qiFg0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kz.koteika3528.dev&sid=36f3c7#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%205.180.27.134%3A443
-hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf%3Anp2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@194.87.224.137:15443?sni=n9.neproxy.net#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20hy2%20hysteria%2Ftls%20194.87.224.137%3A15443
-vless://fa906181-5d9b-4ff6-8a81-e6148ce4ece7@5.180.27.134:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qljbddkyGqBkkOnPdvgw4s6HX_iyEUB2qesNM1qiFg0&fp=firefox&type=tcp&sni=kz.koteika3528.dev&sid=36f3c7#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%205.180.27.134%3A443%20%232
+# updated 2026-11-27 03:28 UTC, 4 proxies, best first
 hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@n42.neproxy.net:15443?sni=n9.neproxy.net&security=tls#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20hy2%20hysteria%2Ftls%20n42.neproxy.net%3A15443
+hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf%3Anp2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@194.87.224.137:15443?sni=n9.neproxy.net#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20hy2%20hysteria%2Ftls%20194.87.224.137%3A15443
+vless://fa906181-5d9b-4ff6-8a81-e6148ce4ece7@5.180.27.134:443?security=reality&encryption=none&pbk=qljbddkyGqBkkOnPdvgw4s6HX_iyEUB2qesNM1qiFg0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kz.koteika3528.dev&sid=36f3c7#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%205.180.27.134%3A443
+vless://fa906181-5d9b-4ff6-8a81-e6148ce4ece7@5.180.27.134:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qljbddkyGqBkkOnPdvgw4s6HX_iyEUB2qesNM1qiFg0&fp=firefox&type=tcp&sni=kz.koteika3528.dev&sid=36f3c7#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%205.180.27.134%3A443%20%232
