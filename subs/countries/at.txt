@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMTU6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 09:32 UTC, 1 proxies, best first
-vless://50414e45-4c5f-5a45-5553-eefd05ea62b0@45.151.183.22:443?path=%2Fstream%2FPANEL_ZEUS%2Feefd05ea62b0&security=tls&host=etzgote4ubxs.ulzzygequ8es.workers.dev&fp=unsafe&type=ws&sni=etzgote4ubxs.ulzzygequ8es.workers.dev#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruckneudorf%20vless%20ws%2Ftls%2045.151.183.22%3A443
+# updated 2026-11-27 15:32 UTC, 4 proxies, best first
+vless://b3ab1262-e2ef-46ef-927b-f35c4cce15a4@189.74.115.8:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20189.74.115.8%3A443
+vless://b3ab1262-e2ef-46ef-927b-f35c4cce15a4@189.74.115.8:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20189.74.115.8%3A443%20%232
+vless://b3ab1262-e2ef-46ef-927b-f35c4cce15a4@189.74.115.8:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=safari#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20189.74.115.8%3A443%20%233
+vless://b3ab1262-e2ef-46ef-927b-f35c4cce15a4@189.74.115.8:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20vless%20raw%2Freality%20189.74.115.8%3A443%20%234

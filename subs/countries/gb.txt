@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gR0I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEyLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMTU6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDcuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,16 +7,11 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 09:32 UTC, 12 proxies, best first
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:2090?security=reality&sni=dl.google.com&pbk=giubNIdBLmyRQbHduwxYuIeTWMKHeTUtqk8q_CsDoE0&sid=2b9593e6&type=grpc&serviceName=cas-gb&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Wolverhampton%20vless%20grpc%2Freality%2094.231.221.49%3A2090
+# updated 2026-11-27 15:32 UTC, 7 proxies, best first
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:2090?security=reality&sni=dl.google.com&pbk=giubNIdBLmyRQbHduwxYuIeTWMKHeTUtqk8q_CsDoE0&sid=2b9593e6&type=grpc&serviceName=cas-gb&mode=multi&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Wolverhampton%20vless%20grpc%2Freality%2094.231.221.49%3A2090
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:2090?security=reality&sni=dl.google.com&pbk=giubNIdBLmyRQbHduwxYuIeTWMKHeTUtqk8q_CsDoE0&sid=2b9593e6&type=grpc&serviceName=cas-gb&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Wolverhampton%20vless%20grpc%2Freality%2094.231.221.49%3A2090%20%232
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Dunfermline%20ss%20185.176.206.9%3A19999
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:2090?security=reality&sni=dl.google.com&pbk=giubNIdBLmyRQbHduwxYuIeTWMKHeTUtqk8q_CsDoE0&sid=2b9593e6&type=grpc&serviceName=cas-gb&mode=multi&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Wolverhampton%20vless%20grpc%2Freality%2094.231.221.49%3A2090%20%232
+vless://b3ab1262-e2ef-46ef-927b-f35c4cce15a4@50.7.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20raw%2Freality%2050.7.154.74%3A443
 vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:2090?security=reality&sni=dl.google.com&pbk=giubNIdBLmyRQbHduwxYuIeTWMKHeTUtqk8q_CsDoE0&sid=2b9593e6&type=grpc&serviceName=cas-gb&mode=multi&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Wolverhampton%20vless%20grpc%2Freality%2094.231.221.49%3A2090%20%233
-vless://a55c7536-980a-4d82-abd0-f14909f2489e@187.7.205.47:443?encryption=none&fp=firefox&host=static-uk.song69.fun&path=/api/v2/assets&pbk=yhMfSjVFqXJGarYnXw8pTZWcvfqFcc-MwxoCfRPqZwg&security=reality&sni=static-uk.song69.fun&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Freality%20187.7.205.47%3A443
-vless://a55c7536-980a-4d82-abd0-f14909f2489e@187.7.205.47:443?encryption=none&type=xhttp&security=reality&sni=static-uk.song69.fun&pbk=yhMfSjVFqXJGarYnXw8pTZWcvfqFcc-MwxoCfRPqZwg&fp=chrome&path=%2Fapi%2Fv2%2Fassets&host=static-uk.song69.fun&mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Freality%20187.7.205.47%3A443%20%232
-vless://e58384f2-76ba-400b-ae0a-8271b4c9c310@188.114.98.0:443?mode=auto&path=%2Fapi%2Fv1%2Fstream&security=tls&encryption=none&insecure=0&host=crm.dpdns.org&type=xhttp&allowInsecure=0&sni=crm.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20xhttp%2Ftls%20188.114.98.0%3A443
-vless://e58384f2-76ba-400b-ae0a-8271b4c9c310@188.114.98.0:443?alpn=h2%2Chttp%2F1.1&host=crm.dpdns.org&mode=auto&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=crm.dpdns.org&type=xhttp&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20xhttp%2Ftls%20188.114.98.0%3A443%20%232
-vless://e58384f2-76ba-400b-ae0a-8271b4c9c310@188.114.97.6:443?security=tls&type=xhttp&path=%2Fapi%2Fv1%2Fstream&host=crm.dpdns.org&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=crm.dpdns.org&fp=unsafe&mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20xhttp%2Ftls%20188.114.97.6%3A443
-vless://e58384f2-76ba-400b-ae0a-8271b4c9c310@188.114.98.0:443?alpn=h2%2Chttp%2F1.1&host=crm.dpdns.org&mode=auto&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=crm.dpdns.org&type=xhttp&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20xhttp%2Ftls%20188.114.98.0%3A443%20%233
-vless://e58384f2-76ba-400b-ae0a-8271b4c9c310@188.114.98.0:443?alpn=h2%2Chttp%2F1.1&host=crm.dpdns.org&mode=auto&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=crm.dpdns.org&type=xhttp&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20xhttp%2Ftls%20188.114.98.0%3A443%20%234
-vless://e58384f2-76ba-400b-ae0a-8271b4c9c310@188.114.98.0:443?alpn=h2%2Chttp%2F1.1&host=crm.dpdns.org&mode=auto&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=crm.dpdns.org&type=xhttp&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Slough%20vless%20xhttp%2Ftls%20188.114.98.0%3A443%20%235
+ss://YWVzLTEyOC1nY206YlpuZG83MTZlc0lyNGpRMVF2QlBqRlNQSmhTbWpaL3Y@82.145.63.22:18667#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Maidenhead%20ss%2082.145.63.22%3A18667
+ss://YWVzLTEyOC1nY206OGJjOENaSEpVdU5jRDZwSTY2d2NTeFhoWVdCNGlPUlE@51.195.248.85:14114#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20ss%2051.195.248.85%3A14114
