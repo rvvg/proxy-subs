@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 03:28 UTC, 4 proxies, best first
-vless://c0742f77-5495-43bf-b007-88d368774d7c@turag.vvzzkontaktezzvv.garden:443?security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&fp=firefox&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=turag.vvzzkontaktezzvv.garden&sid=ff776ff77be48b88#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Freality%20turag.vvzzkontaktezzvv.garden%3A443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMTk5TUNub2daQktpMFFKZGNTZ1Vub0wzVTl3bDd0MQ@107.181.155.27:2089#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20ss%20107.181.155.27%3A2089
-vless://7c768ae5-33eb-4460-b901-cffa40948c5f@147.45.66.200:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zulcb28Wi9kHAih8E9JVfLTdyhvWvUYQorNCiNZK5ic&security=reality&sid=8a2f3f87b6f5cb54&sni=tr.luna-nodes.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Ankara%20vless%20raw%2Freality%20147.45.66.200%3A443
-vless://56665684-5ac0-4ba9-9d49-8b258fb57974@leviko-tr3795.shopingggg.ir:50738?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=turkey-ip1.mmdaqaorg.xyz#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Ftls%20leviko-tr3795.shopingggg.ir%3A50738
+# updated 2026-11-27 09:32 UTC, 4 proxies, best first
+vless://6aeabeb9-00e9-4bc4-9fd6-42ab5b0b5a13@tr.subscriptionservice.ir:8443?encryption=mlkem768x25519plus.native.0rtt.i-mCIgozdUXjdnvwa_1h7C1tM-A4lq45e1XfJTCQawk&security=none&type=tcp&headerType=http&path=/&host=play.googleapis.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Fnone%2Benc%20tr.subscriptionservice.ir%3A8443
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:12443?security=reality&sni=dl.google.com&pbk=X5ER83wRVaCU1NqBuVcWyIITurTyCbmnz5JNq61Oni8&sid=bbe8fea0&type=grpc&serviceName=cas-tr&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2094.231.221.49%3A12443
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:12443?security=reality&sni=dl.google.com&pbk=X5ER83wRVaCU1NqBuVcWyIITurTyCbmnz5JNq61Oni8&sid=bbe8fea0&type=grpc&serviceName=cas-tr&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2094.231.221.49%3A12443%20%232
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:12443?security=reality&sni=dl.google.com&pbk=X5ER83wRVaCU1NqBuVcWyIITurTyCbmnz5JNq61Oni8&sid=bbe8fea0&type=grpc&serviceName=cas-tr&mode=multi&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2094.231.221.49%3A12443%20%233

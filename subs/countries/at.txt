@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQVQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 03:28 UTC, 3 proxies, best first
-vless://61f9e62f-dac8-4e1a-a903-3a1795b4c076@45.151.136.35:443?encryption=none&extra=%7B%22noGRPCHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%7D&fp=firefox&path=%2Fxhttp%2F&security=tls&sni=atd-7ebhlv.tunnely.space&type=xhttp#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Wien%20vless%20xhttp%2Ftls%2045.151.136.35%3A443
-hysteria2://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.241:8453?sni=eu71.cdn77.icu#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Vienna%20hy2%20hysteria%2Ftls%2094.183.195.241%3A8453
+# updated 2026-11-27 09:32 UTC, 1 proxies, best first
 vless://50414e45-4c5f-5a45-5553-eefd05ea62b0@45.151.183.22:443?path=%2Fstream%2FPANEL_ZEUS%2Feefd05ea62b0&security=tls&host=etzgote4ubxs.ulzzygequ8es.workers.dev&fp=unsafe&type=ws&sni=etzgote4ubxs.ulzzygequ8es.workers.dev#%F0%9F%87%A6%F0%9F%87%B9%20AT%20Bruckneudorf%20vless%20ws%2Ftls%2045.151.183.22%3A443

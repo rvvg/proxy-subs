@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4g0JDRhNGA0LjQutCw
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMDk6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 03:28 UTC, 1 proxies, best first
-vless://41bcd5ea-f90c-4227-ab6f-23de50b0a226@nig.electrowizard.ir:5563?mode=auto&path=%2F&security=reality&encryption=none&pbk=gC8ByeCLwGzTYzhzFf0U8amObF2hcNTR2rmGo3QX2B0&host=aparat.com&fp=chrome&type=xhttp&sni=aparat.com&sid=bce7bff2adeefc87#%F0%9F%87%B3%F0%9F%87%AC%20NG%20Lagos%20vless%20xhttp%2Freality%20nig.electrowizard.ir%3A5563
+# updated 2026-11-27 09:32 UTC, 4 proxies, best first
+vless://2098ca45-e61c-000f-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=se-sto1.connect.accessboy.com#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20Johannesburg%20vless%20raw%2Freality%2088.216.72.171%3A443
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:13443?security=reality&sni=archive.saltmarsh-photo.de&pbk=xHFKo76jn7L0vwj1s54CaqHUYRVBaSiXeL77G60KPDY&sid=37fb3547&type=grpc&serviceName=cas-za&fp=firefox#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20Cape%20Town%20vless%20grpc%2Freality%20185.12.127.227%3A13443
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:13443?security=reality&sni=archive.saltmarsh-photo.de&pbk=xHFKo76jn7L0vwj1s54CaqHUYRVBaSiXeL77G60KPDY&sid=37fb3547&type=grpc&serviceName=cas-za&mode=multi&fp=qq#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20Cape%20Town%20vless%20grpc%2Freality%20185.12.127.227%3A13443%20%232
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:13443?security=reality&sni=archive.saltmarsh-photo.de&pbk=xHFKo76jn7L0vwj1s54CaqHUYRVBaSiXeL77G60KPDY&sid=37fb3547&type=grpc&serviceName=cas-za&mode=multi&fp=firefox#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20Cape%20Town%20vless%20grpc%2Freality%20185.12.127.227%3A13443%20%233
