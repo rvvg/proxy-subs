@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMTU6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 15:32 UTC, 4 proxies, best first
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:12443?security=reality&sni=dl.google.com&pbk=X5ER83wRVaCU1NqBuVcWyIITurTyCbmnz5JNq61Oni8&sid=bbe8fea0&type=grpc&serviceName=cas-tr&mode=multi&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2094.231.221.49%3A12443
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:12443?security=reality&sni=dl.google.com&pbk=X5ER83wRVaCU1NqBuVcWyIITurTyCbmnz5JNq61Oni8&sid=bbe8fea0&type=grpc&serviceName=cas-tr&mode=multi&fp=safari#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2094.231.221.49%3A12443%20%232
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:12443?security=reality&sni=dl.google.com&pbk=X5ER83wRVaCU1NqBuVcWyIITurTyCbmnz5JNq61Oni8&sid=bbe8fea0&type=grpc&serviceName=cas-tr&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2094.231.221.49%3A12443%20%233
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:12443?security=reality&sni=dl.google.com&pbk=X5ER83wRVaCU1NqBuVcWyIITurTyCbmnz5JNq61Oni8&sid=bbe8fea0&type=grpc&serviceName=cas-tr&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20grpc%2Freality%2094.231.221.49%3A12443%20%234
+# updated 2026-11-27 21:30 UTC, 1 proxies, best first
+vless://6aeabeb9-00e9-4bc4-9fd6-42ab5b0b5a13@tr.subscriptionservice.ir:8443?encryption=mlkem768x25519plus.native.0rtt.i-mCIgozdUXjdnvwa_1h7C1tM-A4lq45e1XfJTCQawk&security=none&type=tcp&headerType=http&path=%2F&host=play.googleapis.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Fnone%2Benc%20tr.subscriptionservice.ir%3A8443

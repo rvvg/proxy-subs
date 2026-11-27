@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMTU6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,8 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 15:32 UTC, 2 proxies, best first
+# updated 2026-11-27 21:30 UTC, 4 proxies, best first
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE=@143.20.71.68:28014#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%20143.20.71.68%3A28014
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE=@waic.pro.main.sys-metric-report.com:28014#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%20waic.pro.main.sys-metric-report.com%3A28014
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE@waic.pro.main.sys-metric-report.com:28014#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%20waic.pro.main.sys-metric-report.com%3A28014
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL3RscyBiaWxsLWRlZmVuZGFudC1wdXJzZS1yZWZsZWN0LnRyeWNsb3VkZmxhcmUuY29tOjQ0MyIsICJhZGQiOiAiYmlsbC1kZWZlbmRhbnQtcHVyc2UtcmVmbGVjdC50cnljbG91ZGZsYXJlLmNvbSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIyYTRkMjRiZi0zNjdhLTQ5NTEtYmZlNi01MGM3YTBiZGI1ZWEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJpbGwtZGVmZW5kYW50LXB1cnNlLXJlZmxlY3QudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICIvMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhLXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogImJpbGwtZGVmZW5kYW50LXB1cnNlLXJlZmxlY3QudHJ5Y2xvdWRmbGFyZS5jb20ifQ==
+vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&type=tcp&sni=www.apple.com&path=%2F&host=www.apple.com&flow=xtls-rprx-vision&fp=random&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns&sid=da12e31124830d42#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20116.213.43.43%3A11106

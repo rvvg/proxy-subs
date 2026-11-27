@@ -1,0 +1,11 @@
+#profile-title: base64:RnJlZSBWUE4gQ1o=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#profile-update-interval: 6
+#subscription-autoconnect: true
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: true
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://www.gstatic.com/generate_204
+# updated 2026-11-27 21:30 UTC, 1 proxies, best first
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@195.123.245.210:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=coppermoss.xyz&mode=gun&serviceName=neurex&encryption=none#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20Prague%20vless%20grpc%2Freality%20195.123.245.210%3A443

@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gU0c=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMTU6MzIgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE1LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEzLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,19 +7,17 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 15:32 UTC, 15 proxies, best first
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
-vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053
-vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&fp=firefox&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053%20%232
-hysteria2://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:8443?insecure=1&sni=43.156.36.253#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%2043.156.36.253%3A8443
-trojan://963A4918-A630-29DA-A873-093CDF8AD784@lingering-fire-1fe9.vpnetwork3567.workers.dev:443?type=ws&security=tls&sni=lingering-fire-1fe9.vpnetwork3567.workers.dev&alpn=http%2F1.1&host=lingering-fire-1fe9.vpnetwork3567.workers.dev&path=%2F&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20trojan%20ws%2Ftls%20lingering-fire-1fe9.vpnetwork3567.workers.dev%3A443
-vless://e084837e-c738-4ce5-b691-cf4637356cd6@172.236.145.200:119?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=whatsapp.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20172.236.145.200%3A119
+# updated 2026-11-27 21:30 UTC, 13 proxies, best first
+hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20hy2%20hysteria%2Ftls%20138.2.73.238%3A50160%20%232
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&security=reality&sid=07a66150eac3db28&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%20194.233.67.103%3A2053%20%232
+vless://e084837e-c738-4ce5-b691-cf4637356cd6@172.236.145.200:119?allowInsecure=1&alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=whatsapp.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Ftls%20172.236.145.200%3A119
 vless://1acec266-04ee-4769-b96b-402358531dcb@172.66.40.229:8443?encryption=none&fp=firefox&host=highspeed.sahanwickramasinghe.com&security=tls&sni=highspeed.sahanwickramasinghe.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20172.66.40.229%3A8443
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&fp=firefox&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20141.193.213.20%3A8443
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?security=tls&type=ws&path=%2F&host=matrix.learnpodedu.com&packetEncoding=xudp&alpn=h2&sni=matrix.learnpodedu.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20141.193.213.21%3A8443
-vless://2098ca45-e61c-001d-ad7d-8badb6b154f4@84.32.108.50:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=nl-ams1.connect.accessboy.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20raw%2Freality%2084.32.108.50%3A443
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?encryption=none&type=ws&host=matrix.learnpodedu.com&path=%2F&security=tls&alpn=h2&fp=chrome&sni=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20news.zoom.us%3A8443
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20141.193.213.21%3A8443%20%232
 vless://1acec266-04ee-4769-b96b-402358531dcb@104.17.70.206:8443?encryption=none&fp=firefox&host=highspeed.sahanwickramasinghe.com&security=tls&sni=highspeed.sahanwickramasinghe.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20104.17.70.206%3A8443
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&fp=chrome&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20141.193.213.20%3A8443%20%232
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20141.193.213.20%3A8443
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=edge&type=ws&host=matrix.learnpodedu.com&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20news.zoom.us%3A8443
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20141.193.213.21%3A8443
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?security=tls&type=ws&path=%2F&host=matrix.learnpodedu.com&packetEncoding=xudp&alpn=h2&sni=matrix.learnpodedu.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20141.193.213.21%3A8443%20%232
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?security=tls&type=ws&path=%2F&host=matrix.learnpodedu.com&packetEncoding=xudp&alpn=h2&sni=matrix.learnpodedu.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20vless%20ws%2Ftls%20news.zoom.us%3A8443%20%232
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AbGV2aWtvLXNnMzA2My5zaG9waW5nZ2dnLmlyOjE5OTk5#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Singapore%20ss%20leviko-sg3063.shopingggg.ir%3A19999
