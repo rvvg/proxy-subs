@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gR0I=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDE0LiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMTU6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEzLiDQn9GA0L7QstC10YDQtdC90L4g0LjQtyDQoNC+0YHRgdC40Lgu
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,18 +7,17 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-28 09:31 UTC, 14 proxies, best first
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Dunfermline%20ss%20185.176.206.9%3A19999
-vless://5a9af404-4b34-4f21-a6b3-5cf506579722@89.125.124.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=o0hqQ8O0X_D6A49gBgmBPFMAce7Lnh5cte85Lym_fRk&security=reality&sid=98618e4f919fa9e5&sni=uk-prsv-forum-revers-go.opik.net&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%2089.125.124.85%3A443
-vless://a61ce788-6cfe-4bbe-9f81-155ea8fa8e16@82.152.18.32:443?&security=tls&sni=diyichongdi.us.ci&type=tcp&headerType=none&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Ftls%2082.152.18.32%3A443
-vless://ec7237a3-cbb1-30b8-b695-f049f95da3f9@185.124.175.241:11137?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=muk.hyperlinkbt.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Ftls%20185.124.175.241%3A11137
-vless://ec7237a3-cbb1-30b8-b695-f049f95da3f9@muk.hyperlinkbt.com:11137?alpn=h3,h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=muk.hyperlinkbt.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Ftls%20muk.hyperlinkbt.com%3A11137
-vless://5a9af404-4b34-4f21-a6b3-5cf506579722@uk-prsv-forum-revers-go.opik.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk-prsv-forum-revers-go.opik.net&fp=firefox&pbk=o0hqQ8O0X_D6A49gBgmBPFMAce7Lnh5cte85Lym_fRk&sid=98618e4f919fa9e5&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20uk-prsv-forum-revers-go.opik.net%3A443
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:8443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&fp=edge&type=xhttp&allowInsecure=0&sni=sinavm2.soft10.ir#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Ftls%20172.64.155.209%3A8443
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:8443?mode=auto&path=%2F&security=tls&alpn=http%2F1.1%2Ch2%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=edge&type=xhttp&allowInsecure=0&sni=sinavm2.soft10.ir#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Ftls%20chatgpt.com%3A8443
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M3V3U2YrUjBTd2h2MFBBT3dYcndKTUU4Rlp4ZGdsK3RBN1FDYmdubkNVQT0@134.65.56.97:61312#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Newport%20ss%20134.65.56.97%3A61312
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:8443?encryption=none&type=xhttp&mode=auto&path=%2F&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&fp=chrome&sni=sinavm2.soft10.ir&alpn=http%2F1.1%2Ch2%2Ch3#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Ftls%20chatgpt.com%3A8443%20%232
+# updated 2026-11-28 15:31 UTC, 13 proxies, best first
+ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Dunfermline%20ss%20185.176.206.9%3A19999
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuODdjTTBMdjdZM1Q@66.163.117.245:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20ss%2066.163.117.245%3A443
+vless://a61ce788-6cfe-4bbe-9f81-155ea8fa8e16@82.152.18.32:443?encryption=none&security=tls&sni=diyichongdi.us.ci&insecure=0&allowInsecure=0&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Ftls%2082.152.18.32%3A443
+vless://a7810e85-0ce5-41b8-9868-c9435618b85e@91.185.83.24:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=mws.gamma-kvn.com&alpn=h2&packetEncoding=xudp&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Ftls%2091.185.83.24%3A443
+vless://a7810e85-0ce5-41b8-9868-c9435618b85e@91.185.83.24:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=mws.gamma-kvn.com&alpn=h2&packetEncoding=xudp&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Ftls%2091.185.83.24%3A443%20%232
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:8443?encryption=none&type=xhttp&mode=auto&path=%2F&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&fp=chrome&sni=sinavm2.soft10.ir&alpn=http%2F1.1%2Ch2%2Ch3#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Ftls%20chatgpt.com%3A8443
 vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.219.3:8444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kIT3aVeRCeqX48gmfHV8t-VTT8KE_O8g0-nZm_RH4EY&security=reality&sid=ae8011590fe847fa&sni=www.bt.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Freality%20143.246.219.3%3A8444
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:443?security=tls&type=ws&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&host=sinavm2.soft10.ir&packetEncoding=xudp&alpn=http%2F1.1%2Ch2%2Ch3&sni=sinavm2.soft10.ir&fp=chrome&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20chatgpt.com%3A443
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?encryption=none&type=ws&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&fp=chrome&sni=sinavm2.soft10.ir&alpn=http%2F1.1%2Ch2%2Ch3#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20172.64.155.209%3A443
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M3V3U2YrUjBTd2h2MFBBT3dYcndKTUU4Rlp4ZGdsK3RBN1FDYmdubkNVQT0@134.65.56.97:61312#%F0%9F%87%AC%F0%9F%87%A7%20GB%20Newport%20ss%20134.65.56.97%3A61312
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:8443?alpn=http%2F1.1%2Ch2%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&mode=auto&path=%2F&security=tls&sni=sinavm2.soft10.ir&type=xhttp&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Ftls%20chatgpt.com%3A8443%20%232
+vless://a7810e85-0ce5-41b8-9868-c9435618b85e@46.182.24.208:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=selec-bs2.gamma-kvn.com&alpn=h2&packetEncoding=xudp&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20raw%2Ftls%2046.182.24.208%3A443
 vless://55b3fd10-3658-40a2-8951-ec90932d1d30@188.114.98.0:443?security=tls&type=ws&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&host=sinavm2.soft10.ir&packetEncoding=xudp&alpn=http%2F1.1&sni=sinavm2.soft10.ir&fp=unsafe&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20ws%2Ftls%20188.114.98.0%3A443
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:8443?mode=auto&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sinavm2.soft10.ir#%F0%9F%87%AC%F0%9F%87%A7%20GB%20London%20vless%20xhttp%2Ftls%20chatgpt.com%3A8443%20%233
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:8443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=edge&type=xhttp&allowInsecure=0&sni=sinavm2.soft10.ir#%F0%9F%87%AC%F0%9F%87%A7%20GB%20vless%20xhttp%2Ftls%20172.64.155.209%3A8443

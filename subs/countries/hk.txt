@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSEs=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDYuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMTU6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,10 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-28 09:31 UTC, 6 proxies, best first
-vless://bb836d81-d0c5-4f01-a584-806cdf65e36a@116.213.43.43:11103?security=reality&encryption=none&pbk=5NNdXPMTBLP-xeDKFwcG-j6u-c4DhXIfnlHMqMJZ4n4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=9564e1a7a1cf8b3a#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%20116.213.43.43%3A11103
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE=@143.20.71.68:28014#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%20143.20.71.68%3A28014
+# updated 2026-11-28 15:31 UTC, 8 proxies, best first
+vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzNTA0MyIsICJwcyI6ICLwn4et8J+HsCBISyBIb25nIEtvbmcgdm1lc3Mgd3Mvbm9uZSAxNTYuMjQ1LjIzMi4yMzk6MzUwNDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 hysteria2://5ec96249-b753-317a-b065-b67ad66b8185@14.137.237.98:60001?sni=hk01.kfc-520.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%2014.137.237.98%3A60001
-vless://e15d36a7-18eb-4760-a62c-396e6c85286d@45.9.88.249:443?security=reality&encryption=none&pbk=PEaIN8cPwqeNAPRI1tR0t-0AD4JJwhxHSoAh0SoVDB8&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3.yandex.net&sid=fde291#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2045.9.88.249%3A443
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTYyLjE5LjE5Mi44OToxNjYyMiIsICJhZGQiOiAiMTYyLjE5LjE5Mi44OSIsICJwb3J0IjogIjE2NjIyIiwgImlkIjogImI0OWFmOGM5LTBjZjEtNDIxMi04ZWQ4LTM1YjcwZDlmMmNmNCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiYWxwbiI6ICIiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiMzQxNmNiZTU3YjdjNTI3MzM3MjE4NTlkNGUyM2JlMzkubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJzbmkiOiAiIiwgImZwIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgSEsgSG9uZyBLb25nIHZtZXNzIHdzL25vbmUgMTU2LjI0NS4yMzIuMjM5OjM1MDQzICMyIiwgImFkZCI6ICIxNTYuMjQ1LjIzMi4yMzkiLCAicG9ydCI6ICIzNTA0MyIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjE1Ni4yNDUuMjMyLjIzOSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogInd3dy5wdWJnbW9iaWxlLmNvbSIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAzNTA0MywgInBzIjogIvCfh63wn4ewIEhLIEhvbmcgS29uZyB2bWVzcyB3cy9ub25lIDE1Ni4yNDUuMjMyLjIzOTozNTA0MyAjMyIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIjRLaWFuLTRkMmY1MmJjZDYifQ==
+hysteria2://ePPsH1bMFD@23.141.172.229:50541?insecure=1&sni=is1-ssl.mzstatic.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20hy2%20hysteria%2Ftls%2023.141.172.229%3A50541
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE=@waic.pro.main.sys-metric-report.com:28014#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20ss%20waic.pro.main.sys-metric-report.com%3A28014
-vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogIjE1Ni4yNDUuMjMyLjIzOSIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAzNTA0MywgInBzIjogIvCfh63wn4ewIEhLIEhvbmcgS29uZyB2bWVzcyB3cy9ub25lIDE1Ni4yNDUuMjMyLjIzOTozNTA0MyIsICJzbmkiOiAiMTU2LjI0NS4yMzIuMjM5IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIjRLaWFuLTNmMGMzMDRjMWQifQ==
+vless://e15d36a7-18eb-4760-a62c-396e6c85286d@45.9.88.249:443?security=reality&encryption=none&pbk=PEaIN8cPwqeNAPRI1tR0t-0AD4JJwhxHSoAh0SoVDB8&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3.yandex.net&sid=fde291#%F0%9F%87%AD%F0%9F%87%B0%20HK%20Hong%20Kong%20vless%20raw%2Freality%2045.9.88.249%3A443

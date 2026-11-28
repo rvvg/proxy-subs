@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gSUQ=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMDk6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMTU6MzEgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-28 09:31 UTC, 1 proxies, best first
+# updated 2026-11-28 15:31 UTC, 1 proxies, best first
 vless://c3d91e48-6d7c-406d-aea3-b99c575dcd80@id1vpn.jagoanip.my.id:443?path=/vless&security=tls&encryption=none&insecure=0&host=id1vpn.jagoanip.my.id&type=ws&allowInsecure=0&sni=id1vpn.jagoanip.my.id#%F0%9F%87%AE%F0%9F%87%A9%20ID%20Medan%20vless%20ws%2Ftls%20id1vpn.jagoanip.my.id%3A443
