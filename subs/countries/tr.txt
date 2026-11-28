@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gVFI=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,5 +7,7 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 21:30 UTC, 1 proxies, best first
-vless://6aeabeb9-00e9-4bc4-9fd6-42ab5b0b5a13@tr.subscriptionservice.ir:8443?encryption=mlkem768x25519plus.native.0rtt.i-mCIgozdUXjdnvwa_1h7C1tM-A4lq45e1XfJTCQawk&security=none&type=tcp&headerType=http&path=%2F&host=play.googleapis.com#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20vless%20raw%2Fnone%2Benc%20tr.subscriptionservice.ir%3A8443
+# updated 2026-11-28 03:28 UTC, 3 proxies, best first
+vmess://eyJhZGQiOiAiSXIud2J6by5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjdlM2U4YWYtZDFjYS00NWRhLWE5NWYtOGI5YWQ3NzM5OGIxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjA3MCIsICJwcyI6ICLwn4e58J+HtyBUUiBJc3RhbmJ1bCB2bWVzcyByYXcvbm9uZSBJci53YnpvLmlyOjIwNzAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+vless://50414e45-4c5f-5a45-5553-647c99716a54@104.21.26.207:443?fp=firefox&host=1pzep5e9up1s.b7zk1gewun8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F647c99716a54%2Floc-0&security=tls&sni=1pzep5e9up1s.b7zk1gewun8s.workers.dev&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Cinarcik%20vless%20ws%2Ftls%20104.21.26.207%3A443
+vless://50414e45-4c5f-5a45-5553-647c99716a54@172.67.168.139:443?fp=firefox&host=1pzep5e9up1s.b7zk1gewun8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F647c99716a54%2Floc-0&security=tls&sni=1pzep5e9up1s.b7zk1gewun8s.workers.dev&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Cinarcik%20vless%20ws%2Ftls%20172.67.168.139%3A443

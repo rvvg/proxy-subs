@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gRVM=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDQuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDguINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,8 +7,12 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 21:30 UTC, 4 proxies, best first
+# updated 2026-11-28 03:28 UTC, 8 proxies, best first
 vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?mode=gun&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=c5548af15927b698&sni=node43.lmdscdn.ru&type=grpc&fp=safari#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443
 vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?security=reality&sni=node43.lmdscdn.ru&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=c5548af15927b698&type=grpc&serviceName=livestreamcontent&mode=gun#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443%20%232
 vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=c5548af15927b698&sni=node43.lmdscdn.ru&type=grpc&fp=edge#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443%20%233
 vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?mode=gun&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=c5548af15927b698&sni=node43.lmdscdn.ru&type=grpc&fp=ios#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20grpc%2Freality%20194.58.60.228%3A443%20%234
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@es-04.avroraservice.online:8443?encryption=none&type=xhttp&security=reality&sni=cdn-es.cahmes.space&pbk=dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638&sid=01f0a0809d05552b&fp=firefox&path=%2Fxhttp&host=es-04.avroraservice.online#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20xhttp%2Freality%20es-04.avroraservice.online%3A8443
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@[2a06:98c1:3120::7]:443?encryption=none&security=tls&type=xhttp&host=api.ferrin.uk&path=%2Fes%2F%3F%40MARAMBASHI&sni=api.ferrin.uk&fp=hellochrome_120&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22merge%22%2C%20%22settings%22%3A%20%7B%22times%22%3A%20100%2C%20%22delayMs%22%3A%2030%2C%20%22maxBytes%22%3A%2016384%7D%7D%5D%7D&dialMode=oob.0#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Valencia%20vless%20xhttp%2Ftls%20%5B2a06%3A98c1%3A3120%3A%3A7%5D%3A443
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@178.236.254.81:8443?encryption=none&fp=firefox&host=es-04.avroraservice.online&path=%2Fxhttp&pbk=dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638&security=reality&sid=01f0a0809d05552b&sni=cdn-es.cahmes.space&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Barcelona%20vless%20xhttp%2Freality%20178.236.254.81%3A8443
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es9.h1clayd.click:443?type=grpc&security=reality&fp=safari&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&sni=b3cd32g.es9.h1clayd.click&mode=gun&spx=/#%F0%9F%87%AA%F0%9F%87%B8%20ES%20Madrid%20vless%20grpc%2Freality%20b3cd32g.es9.h1clayd.click%3A443

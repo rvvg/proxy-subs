@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gQkc=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDIuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDEuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,6 +7,5 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 21:30 UTC, 2 proxies, best first
-vless://eee8ae65-bc48-438f-a606-a96f10bfb3b8@188.114.98.0:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&alpn=http%2F1.1&sni=x.m-90.xyz&fp=unsafe&encryption=none#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20ws%2Ftls%20188.114.98.0%3A443
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@131.123.38.29:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=cindermoss.xyz&mode=gun&serviceName=neurex#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20grpc%2Freality%20131.123.38.29%3A443
+# updated 2026-11-28 03:28 UTC, 1 proxies, best first
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@131.123.38.29:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=cindermoss.xyz&serviceName=neurex#%F0%9F%87%A7%F0%9F%87%AC%20BG%20Sofia%20vless%20grpc%2Freality%20131.123.38.29%3A443

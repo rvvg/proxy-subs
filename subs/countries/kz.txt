@@ -1,5 +1,5 @@
 #profile-title: base64:RnJlZSBWUE4gS1o=
-#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjcgMjE6MzAgVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDMuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
+#announce: base64:0J7QsdC90L7QstC70LXQvdC+IDIwMjYtMTEtMjggMDM6MjggVVRDLCDRgNCw0LHQvtGH0LjRhSDQv9GA0L7QutGB0Lg6IDUuINCf0YDQvtCy0LXRgNC10L3QviDQuNC3INCg0L7RgdGB0LjQuC4=
 #profile-update-interval: 6
 #subscription-autoconnect: true
 #subscription-autoconnect-type: lowestdelay
@@ -7,7 +7,9 @@
 #subscriptions-sort-type: ping
 #ping-type: proxy
 #check-url-via-proxy: https://www.gstatic.com/generate_204
-# updated 2026-11-27 21:30 UTC, 3 proxies, best first
+# updated 2026-11-28 03:28 UTC, 5 proxies, best first
+vless://3bfaf855-a05a-482a-93d3-d66388c5506c@170.168.100.73:443?type=xhttp&security=reality&fp=firefox&pbk=Er7EdUtUFdQpp8DKeHLdvAVpXTDK332AYily0nddLwA&sid=99bc3af8f6d50ecf&sni=kz.global-cdn.org&path=%2Fac4ac189775f4f8720141dcd&mode=packet-up&extra=%7B%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A30%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A1%7D%7D&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20xhttp%2Freality%20170.168.100.73%3A443
+hy2://f4b08bf1-d9bd-4755-aa88-ba922282c608@timewhite655.thebestqas.am:443/?hop_interval=10&sni=timewhite655.thebestqas.am#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20hy2%20hysteria%2Ftls%20timewhite655.thebestqas.am%3A443
 vless://fa906181-5d9b-4ff6-8a81-e6148ce4ece7@5.180.27.134:443?security=reality&encryption=none&pbk=qljbddkyGqBkkOnPdvgw4s6HX_iyEUB2qesNM1qiFg0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kz.koteika3528.dev&sid=36f3c7#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%205.180.27.134%3A443
 vless://fa906181-5d9b-4ff6-8a81-e6148ce4ece7@5.180.27.134:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=qljbddkyGqBkkOnPdvgw4s6HX_iyEUB2qesNM1qiFg0&fp=firefox&type=tcp&sni=kz.koteika3528.dev&sid=36f3c7#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Astana%20vless%20raw%2Freality%205.180.27.134%3A443%20%232
 vless://a80acd3a-3df5-40b5-a54a-29bb18056115@38.180.206.44:48982?security=reality&encryption=none&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&type=xhttp&sni=cdn3-88.yahoo.com#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20Almaty%20vless%20xhttp%2Freality%2038.180.206.44%3A48982
